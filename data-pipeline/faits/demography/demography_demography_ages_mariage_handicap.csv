@@ -1,0 +1,100 @@
+﻿theme,indicateur,sous_categorie,type_sous_categorie,milieu,zone,sexe,valeur,fk_territoire,territoire_id
+ages_mariage_handicap,Population de 15 ans et plus,,,Urbain,Région TTA,Masculin,965010.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Population de 15 ans et plus,,,Urbain,Région TTA,Féminin,977826.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Population de 15 ans et plus,,,Urbain,Région TTA,Ensemble,1942836.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Population de 15 ans et plus,,,Rural,Région TTA,Masculin,508124.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Population de 15 ans et plus,,,Rural,Région TTA,Féminin,469727.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Population de 15 ans et plus,,,Rural,Région TTA,Ensemble,977851.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Population de 15 ans et plus,,,Ensemble,Région TTA,Masculin,1473134.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Population de 15 ans et plus,,,Ensemble,Région TTA,Féminin,1447553.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Population de 15 ans et plus,,,Ensemble,Région TTA,Ensemble,2920687.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Célibataire,etat_matrimonial,Urbain,Région TTA,Masculin,41.8,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Célibataire,etat_matrimonial,Urbain,Région TTA,Féminin,30.3,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Célibataire,etat_matrimonial,Urbain,Région TTA,Ensemble,36.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Marié.e,etat_matrimonial,Urbain,Région TTA,Masculin,55.4,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Marié.e,etat_matrimonial,Urbain,Région TTA,Féminin,57.2,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Marié.e,etat_matrimonial,Urbain,Région TTA,Ensemble,56.3,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Divorcé.e,etat_matrimonial,Urbain,Région TTA,Masculin,2.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Divorcé.e,etat_matrimonial,Urbain,Région TTA,Féminin,4.7,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Divorcé.e,etat_matrimonial,Urbain,Région TTA,Ensemble,3.4,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Veuf.ve,etat_matrimonial,Urbain,Région TTA,Masculin,0.8,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Veuf.ve,etat_matrimonial,Urbain,Région TTA,Féminin,7.8,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Veuf.ve,etat_matrimonial,Urbain,Région TTA,Ensemble,4.3,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Célibataire,etat_matrimonial,Rural,Région TTA,Masculin,42.2,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Célibataire,etat_matrimonial,Rural,Région TTA,Féminin,27.8,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Célibataire,etat_matrimonial,Rural,Région TTA,Ensemble,35.3,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Marié.e,etat_matrimonial,Rural,Région TTA,Masculin,55.7,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Marié.e,etat_matrimonial,Rural,Région TTA,Féminin,62.1,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Marié.e,etat_matrimonial,Rural,Région TTA,Ensemble,58.8,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Divorcé.e,etat_matrimonial,Rural,Région TTA,Masculin,1.1,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Divorcé.e,etat_matrimonial,Rural,Région TTA,Féminin,2.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Divorcé.e,etat_matrimonial,Rural,Région TTA,Ensemble,1.5,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Veuf.ve,etat_matrimonial,Rural,Région TTA,Masculin,0.9,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Veuf.ve,etat_matrimonial,Rural,Région TTA,Féminin,8.2,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Veuf.ve,etat_matrimonial,Rural,Région TTA,Ensemble,4.4,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Célibataire,etat_matrimonial,Ensemble,Région TTA,Masculin,41.9,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Célibataire,etat_matrimonial,Ensemble,Région TTA,Féminin,29.5,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Célibataire,etat_matrimonial,Ensemble,Région TTA,Ensemble,35.7,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Marié.e,etat_matrimonial,Ensemble,Région TTA,Masculin,55.5,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Marié.e,etat_matrimonial,Ensemble,Région TTA,Féminin,58.8,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Marié.e,etat_matrimonial,Ensemble,Région TTA,Ensemble,57.1,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Divorcé.e,etat_matrimonial,Ensemble,Région TTA,Masculin,1.7,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Divorcé.e,etat_matrimonial,Ensemble,Région TTA,Féminin,3.8,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Divorcé.e,etat_matrimonial,Ensemble,Région TTA,Ensemble,2.7,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Veuf.ve,etat_matrimonial,Ensemble,Région TTA,Masculin,0.9,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Veuf.ve,etat_matrimonial,Ensemble,Région TTA,Féminin,7.9,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,État matrimonial des 15 ans et plus (%),Veuf.ve,etat_matrimonial,Ensemble,Région TTA,Ensemble,4.4,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Âge moyen au premier mariage,,,Urbain,Région TTA,Masculin,32.4,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Âge moyen au premier mariage,,,Urbain,Région TTA,Féminin,25.7,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Âge moyen au premier mariage,,,Urbain,Région TTA,Ensemble,29.1,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Âge moyen au premier mariage,,,Rural,Région TTA,Masculin,32.9,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Âge moyen au premier mariage,,,Rural,Région TTA,Féminin,24.6,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Âge moyen au premier mariage,,,Rural,Région TTA,Ensemble,29.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Âge moyen au premier mariage,,,Ensemble,Région TTA,Masculin,32.6,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Âge moyen au premier mariage,,,Ensemble,Région TTA,Féminin,25.3,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Âge moyen au premier mariage,,,Ensemble,Région TTA,Ensemble,29.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Indice Synthétique de fécondité,,,Urbain,Région TTA,Masculin,0.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Indice Synthétique de fécondité,,,Urbain,Région TTA,Féminin,1.84,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Indice Synthétique de fécondité,,,Urbain,Région TTA,Ensemble,1.84,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Indice Synthétique de fécondité,,,Rural,Région TTA,Masculin,0.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Indice Synthétique de fécondité,,,Rural,Région TTA,Féminin,2.41,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Indice Synthétique de fécondité,,,Rural,Région TTA,Ensemble,2.41,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Indice Synthétique de fécondité,,,Ensemble,Région TTA,Masculin,0.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Indice Synthétique de fécondité,,,Ensemble,Région TTA,Féminin,2.01,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Indice Synthétique de fécondité,,,Ensemble,Région TTA,Ensemble,2.01,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Descendance finale des femmes,,,Urbain,Région TTA,Masculin,0.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Descendance finale des femmes,,,Urbain,Région TTA,Féminin,2.7,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Descendance finale des femmes,,,Urbain,Région TTA,Ensemble,2.7,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Descendance finale des femmes,,,Rural,Région TTA,Masculin,0.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Descendance finale des femmes,,,Rural,Région TTA,Féminin,3.6,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Descendance finale des femmes,,,Rural,Région TTA,Ensemble,3.6,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Descendance finale des femmes,,,Ensemble,Région TTA,Masculin,0.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Descendance finale des femmes,,,Ensemble,Région TTA,Féminin,2.9,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Descendance finale des femmes,,,Ensemble,Région TTA,Ensemble,2.9,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap (%),,,Urbain,Région TTA,Masculin,4.1,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap (%),,,Urbain,Région TTA,Féminin,4.1,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap (%),,,Urbain,Région TTA,Ensemble,4.1,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap (%),,,Rural,Région TTA,Masculin,6.4,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap (%),,,Rural,Région TTA,Féminin,6.3,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap (%),,,Rural,Région TTA,Ensemble,6.4,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap (%),,,Ensemble,Région TTA,Masculin,4.9,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap (%),,,Ensemble,Région TTA,Féminin,4.9,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap (%),,,Ensemble,Région TTA,Ensemble,4.9,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap par groupes d'âges (%),Moins de 15 ans,groupe_age,,Région TTA,Masculin,2.4,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap par groupes d'âges (%),Moins de 15 ans,groupe_age,,Région TTA,Féminin,2.0,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap par groupes d'âges (%),Moins de 15 ans,groupe_age,,Région TTA,Ensemble,2.2,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap par groupes d'âges (%),15-59 ans,groupe_age,,Région TTA,Masculin,3.4,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap par groupes d'âges (%),15-59 ans,groupe_age,,Région TTA,Féminin,2.7,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap par groupes d'âges (%),15-59 ans,groupe_age,,Région TTA,Ensemble,3.1,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap par groupes d'âges (%),60 ans ou plus,groupe_age,,Région TTA,Masculin,19.2,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap par groupes d'âges (%),60 ans ou plus,groupe_age,,Région TTA,Féminin,21.9,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de prévalence du handicap par groupes d'âges (%),60 ans ou plus,groupe_age,,Région TTA,Ensemble,20.6,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de couverture médicale (%),,,Urbain,Région TTA,Masculin,61.9,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de couverture médicale (%),,,Urbain,Région TTA,Féminin,63.4,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de couverture médicale (%),,,Urbain,Région TTA,Ensemble,62.7,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de couverture médicale (%),,,Rural,Région TTA,Masculin,59.8,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de couverture médicale (%),,,Rural,Région TTA,Féminin,62.9,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de couverture médicale (%),,,Rural,Région TTA,Ensemble,61.3,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de couverture médicale (%),,,Ensemble,Région TTA,Masculin,61.2,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de couverture médicale (%),,,Ensemble,Région TTA,Féminin,63.3,tanger tetouan al hoceima,1.0
+ages_mariage_handicap,Taux de couverture médicale (%),,,Ensemble,Région TTA,Ensemble,62.2,tanger tetouan al hoceima,1.0

@@ -1,0 +1,25 @@
+﻿territoire,milieu,indicateur,valeur,fk_territoire,territoire_id
+Larache,Urbain,ordinateur_personnel_pct_5ansplus,7.5,larache,6
+Larache,Rural,ordinateur_personnel_pct_5ansplus,1.0,larache,6
+Larache,Ensemble,ordinateur_personnel_pct_5ansplus,4.6,larache,6
+Larache,Urbain,internet_utilisation_pct_5ansplus,56.0,larache,6
+Larache,Rural,internet_utilisation_pct_5ansplus,31.1,larache,6
+Larache,Ensemble,internet_utilisation_pct_5ansplus,44.7,larache,6
+Larache,Urbain,telephone_mobile_pct_5ansplus,72.4,larache,6
+Larache,Rural,telephone_mobile_pct_5ansplus,54.0,larache,6
+Larache,Ensemble,telephone_mobile_pct_5ansplus,64.1,larache,6
+Ouezzane,Urbain,ordinateur_personnel_pct_5ansplus,7.9,ouezzane,9
+Ouezzane,Rural,ordinateur_personnel_pct_5ansplus,1.1,ouezzane,9
+Ouezzane,Ensemble,ordinateur_personnel_pct_5ansplus,3.0,ouezzane,9
+Ouezzane,Urbain,internet_utilisation_pct_5ansplus,54.0,ouezzane,9
+Ouezzane,Rural,internet_utilisation_pct_5ansplus,24.8,ouezzane,9
+Ouezzane,Ensemble,internet_utilisation_pct_5ansplus,32.7,ouezzane,9
+Ouezzane,Urbain,telephone_mobile_pct_5ansplus,75.0,ouezzane,9
+Ouezzane,Rural,telephone_mobile_pct_5ansplus,59.1,ouezzane,9
+Ouezzane,Ensemble,telephone_mobile_pct_5ansplus,63.4,ouezzane,9
+Tétouan,Urbain,ordinateur_personnel_pct_5ansplus,10.2,tetouan,4
+Tétouan,Rural,ordinateur_personnel_pct_5ansplus,1.0,tetouan,4
+Tétouan,Ensemble,ordinateur_personnel_pct_5ansplus,7.6,tetouan,4
+M'diq-Fnideq,Urbain,ordinateur_personnel_pct_5ansplus,6.8,m'diq fnideq,3
+M'diq-Fnideq,Rural,ordinateur_personnel_pct_5ansplus,1.2,m'diq fnideq,3
+M'diq-Fnideq,Ensemble,ordinateur_personnel_pct_5ansplus,6.5,m'diq fnideq,3

@@ -1,0 +1,10 @@
+﻿aeroport,fk_territoire,indicateur,valeur,theme,territoire_id
+TANGER,tanger assilah,total_general,23018,avions_mouvements,2
+TANGER,tanger assilah,trafic_non_commercial,1294,avions_mouvements,2
+TANGER,tanger assilah,trafic_commercial,21724,avions_mouvements,2
+TETOUAN,tetouan,total_general,3657,avions_mouvements,4
+TETOUAN,tetouan,trafic_non_commercial,659,avions_mouvements,4
+TETOUAN,tetouan,trafic_commercial,2998,avions_mouvements,4
+ALHOCEIMA,al hoceima,total_general,1298,avions_mouvements,7
+ALHOCEIMA,al hoceima,trafic_non_commercial,32,avions_mouvements,7
+ALHOCEIMA,al hoceima,trafic_commercial,1266,avions_mouvements,7

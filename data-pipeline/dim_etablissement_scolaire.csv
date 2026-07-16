@@ -1,0 +1,1274 @@
+﻿etablissement_id,nom_etablissement,adresse,commune,province,region,type_etablissement,fk_territoire,commune_norm,territoire_id_commune
+1,ecole SAIDA SOUKAINA  BENT HOUSSEINE,RUE CHRICHARE N10 TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+2,ecole THAMI EL OUAZZANI,av  AHMED AGZOUL HAY ZIANA ,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+3,ecole MOULAY AL HASSAN,AV ABOU BAKR RAZI HAY moulay AL HASSAN  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+4,ecole AL IMAM ABOU LHASSAN CHADLI,AV BADR CHAKIR SIAB HAY MOULAY HASSAN TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+5,ecole LISSAN EDDINE IBN AL KHATIB,AV TAHRANE HAY MOULAY HASSAN  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+6,ecole IBNOU ZAYDOUNE,RUE TINDOUF TOUABEL 2  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+7,ecole KHALID IBNOU OUALID,AV DES FAR  rond point AL MATAR  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+8,ecole MOHAMMED VI,RUE MOHAMED HAJJAJ TOUABEL HOULIA  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+9,ecole IBN AL ATIR,RUE HAJ MOHAMED BENOUNA TOUILA,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+10,ecole FATIMA ZAHRA,HAY BOUJARRAH BP641  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+11,ecole OUM AL BANINE,HAY MSALA RUE KENITRA  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+12,ecole MY ABDESLAM BEN MCHICHE,MHANECHE II  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+13,ecole FKIH TANGI ,HAY COELMA  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+14,ecole IBN TOUFAIL,HAY TAFALINE  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+15,ECOLE 18 NOVEMBRE,HAY BOUJARRAH   TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+16,ecole IBN ROCHD,AV D ALGER TETOUAN AL AZHAR,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+17,ecole IBN KHALDOUN,place iben khaldoun,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+18,ecole SIDI SAIDI,AV MOHAMED EL KHATIB N 6  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+19,ecole LALLA MARYEME,RUE OUAD AL MAKHAZINE  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+20,ecole ASSAYIDA AMINA,RUE ALLAL IBN ABDELLAH  ,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+21,ecole SIDI AHMED BAKAL,AV ABOU BAKR ESSEDDIQ JBEL DERSA TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+22,Ecole SIDI ALI BARAKA ,AV ABDELKARIM KHATABI N4  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+23,ecole ASSAYIDA  ZAINAB,AV MOHAMED ABDELKARIM AL KHATABI N4  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+24,ECOLE MAGHREB ARABI  ,DIOR AL MAKHZEN JBEL DERSSA  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+25,ECOLE OUED AL MAKHAZINE,AV BILAL BNOU RABAH SIDI TALHA  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+26,ECOLE SIDI AHMED ZEOUAK,AV MOUSSA IBN NOUSSAIR  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+27,ECOLE IMAM MALIK,AVENUE ABOU TAMMAM HAOUMAT AL HASSANI  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+28,ECOLE SIDI DRISS,AV MOULAY EL ABASS QUARTIER SCOLAIRE  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+29,ECOLE MOHAMED ABDELKARIM AL KHATABI ,RUE AL MAMOUNE JAMAA MEZOUAK  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+30,ECOLE ACHARIF AMEZIANE,HAY JAMAA MEZOUAK TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+31,ECOLE ABNAA CHOUHADA,QUARTIER TABOULA ROUTE DE TANGER  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+32,ECOLE 9 AVRIL,AV ALI IBN ABI TALEB ZANQUAT ALBALSAM  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+33,ECOLE IBN HAZM,AV AHMED  EL BAKAL CARTIER EL BARBOURINE  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+34,ECOLE SIDI AHMED RHOUNI,RUE ALMOUKAWAMA  MARTIL,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,martil,48
+35,ECOLE MOUSSA IBNOU NOUSSAIR,AVENUE  MOUSSA BNOU NOUSSAIR SAKIA DFEL MARTIL,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,martil,48
+36,ECOLE YOUSSEF IBN TACHAFINE,HAY KATALAN  MARTIL ,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,martil,48
+37,ECOLE MOUHTAMID IBN ABBAD,QUARTIER AHRIK  MARTIL,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,martil,48
+38,ecole 23 MAI,RUE 23 MAI HAY ISTIQLAL,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,m'diq,46
+39,ECOLE KACEM AMINE,AV MOUISSA IBN NOUSSAIR N 1  MDIQTETOUAN,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,m'diq,46
+40,ECOLE OMAR IBN KHATAB,RUE OUAD AL MAKHAZINE 93200  MDIQ,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,m'diq,46
+41,ECOLE 11 JANVIER,HAY SALAM  MDIQ,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,m'diq,46
+42,ECOLE SIDI AHMED IBN AJJIBA,AVMOHAMED ZARKTOUNI  FNIDEQ,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,fnideq,47
+43,ECOLE IBN ANNAFISS,AVENUE TRIPOLI QUARTIER MOULAY RACHID FNIDEQ,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,fnideq,47
+44,ECOLE ALLAL BEN ABDELLAH,HAY KONDISSA FNIDEQ,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,fnideq,47
+45,ECOLE TARIK IBN ZIAD,FRONTIER DE BAB SEBTA FNIDEQ,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,fnideq,47
+46,ECOLE OKBA IBN NAAFIH,HAY KONDISSA  FNIDEQ  ,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,fnideq,47
+47,ECOLE ABDERAHMANE DAKHIL,KODIATE SBAA  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+48,ECOLE MOHAMED ABOU iNANE,AV TARIF IBN MALIK BOUANAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+49,ECOLE TAMOUDA,av abderrahman dakhil al azhar,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+50,ss EL MANFALOUTi,DAR ZKIEK C DE TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+51,ECOLE KHADIJA OUM AL MOUMININE,HAY RAS  LOUTA  FNIDQ TETOUAN,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,fnideq,47
+52,ss HAYDRA,hayra commune urbaine fnideq,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,fnideq,47
+53,SS BNI MZALA,DOUAR BNI MZALA haut,Belyounech,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,belyounech,50
+54,ecole AL MOUKHTAR ASSOUSSI,OUAD LAOUTETOUAN,Oued Laou,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,oued laou,52
+55,ss EREKADEN,QUARTIER EREKADEN  OUEDLAOU,Oued Laou,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,oued laou,52
+56,ss DCHAR LAHMAR,quartier AGHNOURI  OUAD LAOU TETOUAN,Oued Laou,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,oued laou,52
+57,ss AIN LAHSSEN,AYEN JDIDA COMMUNE AYEN LAHSSEN  TETOUAN,Ain Lahsan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,ain lahsan,53
+58, ss BOURIYANE, BOURIANE CAYEN LAHSSENFENDAK,Ain Lahsan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,ain lahsan,53
+59,ss AAZIB AIN LAALAK,DOUAR AZIB AIN LAALAK  COMMUNE AIN LAHSSEN  TETOUA,Ain Lahsan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,ain lahsan,53
+60,SS JOUAMAA,commune jouamaa province fahs anjra,Jouamaa,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,jouamaa,76
+61,SS LAMKHALED,DOUAR LAMKHALED CJOUAMAA ,Jouamaa,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,jouamaa,76
+62,SS AYDADA,DOUAR AYDADA CJOUAMAA ,Jouamaa,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,jouamaa,76
+63,SS BNI HLOU SOUFLA,DOUAR BNI AHLOU CKHMIS ANJRA ,Anjra,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,anjra,77
+64,SS TAFAZA,DOUAR TAFAZA CKHMIS ANJRA,Anjra,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,anjra,77
+65,SS LAHLATETE,DOUAR LHLATETE KHMIS ANJRA ,Anjra,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,anjra,77
+66,SS ABOU BAKR SEDDIK,DOUAR BOULAICHICHE,Anjra,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,anjra,77
+67,SS DAR KACHANA,DOUAR DAR KACHANA CKHMIS ANJRA ,Anjra,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,anjra,77
+68,SS LAKDIOUA,DOUAR LAKDIOUa khemis Anjra ,Anjra,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,anjra,77
+69,SS JOUANEBE,DOUAR JOUNEBE kheMIS ANJRA ,Anjra,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,anjra,77
+70,SS BOUNAZAL,DOUAR BOUNAZAL SOUK KDIM,Souk Kdim,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,souk kdim,54
+71,DAR DMANA AL HRRA,DOUAR AL HRRA CSOUK KDIM  TETOUAN,Souk Kdim,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,souk kdim,54
+72,SS AL MOURED,DOUAR AL MOURED C SOUK KDIM,Souk Kdim,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,souk kdim,54
+73,SS AMERSSAN,DOUAR AMERSSAN CSOUK KDIM  TETOUAN,Souk Kdim,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,souk kdim,54
+74,SS JBEL LAHBIBE,CENTRE COMMUNE JBEL LAHBIBE  ,Jbel Lahbib,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,jbel lahbib,55
+75,SS HABATA,DOUAR HABATA CJBEL LAHBIBE,Jbel Lahbib,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,jbel lahbib,55
+76,SS BNI HARCHEN,COMMUNE BNI HARCHENE CBNI HARCHENE  TETOUAN,Bni Harchen,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni harchen,56
+77,SS AAIN MOULATHOUM,DOUAR AYEN MOULAThouM CBNI HARCHENE,Bni Harchen,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni harchen,56
+78,SS AL HOLIK,DOUAR AL HOLIK COMMUNE BNI HARCHENE  TETOUAN,Bni Harchen,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni harchen,56
+79,SS AYEN SNAD,MADCHAR AYN SNAD C BNI HARCHEN  TETOUAN,Bni Harchen,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni harchen,56
+80,SS YACOUBECHE,YAACOUBCH COMMUNE BNI HARCHAN,Bni Harchen,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni harchen,56
+81,SS IBN BATOUTA,CENTRE COMMUNE MALALIYENE  TETOUAN,Mallalienne,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,mallalienne,58
+82,SS AHMED BEN JELLOUN,ROUTE DE SEBTA CMALALYENE  TETOUAN,Mallalienne,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,mallalienne,58
+83,SS OUAD ALIL,DOUAR OUAD ALIL C AL MALALYENE  TETOUAN,Mallalienne,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,mallalienne,58
+84,AL ELLIYENNE,CENTRE COMMUNE ELLIYENE M dieq TETOUAN,Allyene,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,allyene,49
+85,SS AL KOUF,DOUAR AL KOUF AL FOUKI CALLYENE  TETOUAN,Allyene,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,allyene,49
+86,SS BOULOUAZEN,DOUAR BOULOUZEN  CALLYENE,Allyene,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,allyene,49
+87,SS KEDDANA,DOUAR KEDDANA C ILLIYINE ,Allyene,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,allyene,49
+88,SADDINA,DOUAR SEDINA CSADDINA  TETOUAN,Saddina,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,saddina,59
+89,ss IDRISS 2,HAY LAOUZEYENE  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+90,SS DACHRYENNE,DOUAR DACHRYENNE CSADDINA  TETOUAN,Saddina,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,saddina,59
+91,SS AL HAOUMA,DOUAR AL HAOUMA CKSAR AL MAJAZ ,Ksar El Majaz,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,ksar el majaz,79
+92,SS KETAMA,DOUAR KETAMA CKSAR AL MAJAZE,Ksar El Majaz,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,ksar el majaz,79
+93,SS DOUKCHIR,DOUAR DOUKCHIR C KaSR AL MAJAZE,Ksar El Majaz,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,ksar el majaz,79
+94,SS DHAR LKHARROUBE,DOUAR DHAR lkharroube C kasr lmajaz,Ksar El Majaz,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,ksar el majaz,79
+95,SS KASR AL MAJAZ,CENTRE KSAR SGHIR KSAR AL MAJAZE ,Ksar El Majaz,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,ksar el majaz,79
+96,SS DCHICHA,DOUAR DCHICHA CTAGHRAMT ,Taghramt,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,taghramt,78
+97,SS OUAD AL MARSA,DOUAR OUAD AL MARSSA CTAGHRAMT ,Taghramt,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,taghramt,78
+98,SS TAGHRAMT ,DOUAR TAGHRAMT COMMUNE TAGHRAMT ,Taghramt,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,taghramt,78
+99,SS BIN AL OUIDANNE,DOUAR BIN AL OUIDANNE Commune TAGHRAMT,Taghramt,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,taghramt,78
+100,SS MRAH DEBANE,DOUAR MRAH DEBANE COMMUNE TAGHRAMT  FAHS ANJRA,Taghramt,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,taghramt,78
+101,SS Daher,DOUAR Daher CoMMUne TAGHRAMT  FAHS ANJRA,Taghramt,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,taghramt,78
+102,SS AIN BOUKHALFA,DOUAR AiN BOUKhaLFA Commune TAGHRAMT,Taghramt,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,taghramt,78
+103,SS BNI LAYTTE TIMIZAR,DOUAR TIMIZAR Commune BNI LEIT  TETOUAN,Bni Leit,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni leit,63
+104,SS OURAGHENE,DOUAR OURAGHENE C.BNI LEIT  TETOUAN,Bni Leit,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni leit,63
+105,SS EFARTANE,DOUAR EFARTANE CBNI LEIT  TETOUAN,Bni Leit,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni leit,63
+106,SS JAMAA LAKBIR,DOUAR JAMAA LAKBIR C BNI LEIT  TETOUAN ,Bni Leit,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni leit,63
+107,ECOLE HAMRA RENFI,CENTRE  ALHAMERA- bni hassan ,Al Hamra,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,al hamra,64
+108,SS BETARA,DOUAR BETARA CR. HAMRA  TETOUAN,Al Hamra,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,al hamra,64
+109,SS BNI MOUSSA,DOUAR bni MOUSSA HAMRA  TETOUAN,Al Hamra,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,al hamra,64
+110,SS KHAZANE LAOU,DOUAR KHAZANE LAOU C ALOUAD BNI HASSANE,Al Oued,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,al oued,65
+111,SS IHLAL,DOUAR ihlal,Al Oued,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,al oued,65
+112,SS AL GHABA,DOUAR TAGHBALOUT CAL OUED TETOUAN,Al Oued,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,al oued,65
+113,SS ASSALAM,DOUAR CHROUTA CAL OUADbeni hassan,Al Oued,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,al oued,65
+114,SS ADAYOUGH,DOUAR ADAYOUGH CAL OUAD  TETOUAN,Al Oued,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,al oued,65
+115,SS TAGHZOUTE,DOUAR TAGHZOUTE COMMUNE EL OUED BNI HASSAN TETOUAN,Al Oued,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,al oued,65
+116,SS AOULAD ALI AL MANSOUR,CENTRE COMMUNE AOULADALI MANSOUR  TETOUAN,Oulad Ali Mansour,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,oulad ali mansour,66
+117,ECOLE ABDELLAH CHEFCHAOUNI,DOUAR MENKAL CSAHTRYINE  TETOUAN,Sahtryine,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,sahtryine,60
+118,SS BNI OUSSIM 1,DOUAR BNI OUSSIM SAHTRYINE  TETOUAN,Sahtryine,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,sahtryine,60
+119,SS TOULATA BNI YEDDER,TOULATA BNI YEDDER CBNI YEDDER  TETOUAN,Bni Idder,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni idder,61
+120,SS ESSBABE,DOUAR ESSBABE CBNI YEDDER TETOUAN,Bni Idder,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni idder,61
+121,ss BGHAGHZA,COMMUNE AL BGHAGHZA  TETOUAN,Bghaghza,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bghaghza,62
+122,SS FAJ RIH,DOUAR FAJ RIH CBGHAGHZA  TETOUAN,Bghaghza,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bghaghza,62
+123,ss TAZROUTE,DOUAR TAZROUTE CBGHAGHZA  TETOUAN,Bghaghza,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bghaghza,62
+124,ss LHRARZA,DOUAR LHRARZA COMUNE BGHAGHZA  TETOUAN,Bghaghza,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bghaghza,62
+125,ss BNI HMAYED,DOUAR LTNINE C ALKHARROUB  TETOUAN,AL Kharroub,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,al kharroub,57
+126,ss ZAOUIA,DOUAR ZAOUIA  COMMUNE RURAL  ALKHARROUB  TETOUAN,AL Kharroub,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,al kharroub,57
+127,ECOLE AHRIK,DOUAR AHRIK CZAYTOUNE  TETOUAN,Zaitoune,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,zaitoune,70
+128,SS KITANE,DOUAR KITANE CZAYTOUNE  AZLA,Zaitoune,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,zaitoune,70
+129,SS DAR AL GHAZI,DOUAR DAR AL GHAZI C ZAYTOUNE  CERCLE TETOUAN,Zaitoune,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,zaitoune,70
+130,SS KNIKRA, route azla DOUAR KNIKRA AZLA TETOUAN  ,Azla,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,azla,69
+131,SS DAR ALALOU,DOUAR DAR ALALOU ROUTE AZLA  TETOUAN,Azla,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,azla,69
+132,ECOLE ABDALLAH IBRAHIM          ,QUATIER DIZA   MARTIL,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,martil,48
+133,SS AZLA,CENTRE DE AZLA COMMUNE AZLA  TETOUAN,Azla,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,azla,69
+134,ss ZINATE,Commune Rurale de ZinatProvince de Tétouan,Zinat,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,zinat,68
+135,ss SALAH EDDINE AL AYOUBI,DOUAR MHARZA Commune ZINATE  ,Zinat,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,zinat,68
+136,SS BEN KARICHE,COMMUNE DAR BEN KARICH ,Dar Bni Karrich,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,dar bni karrich,67
+137,SS DAR AL KHAYATE,DOUAR DAR AL KHAYATE C DAR BEN KARRICH  TETOUAN,Dar Bni Karrich,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,dar bni karrich,67
+138,ECOLE IBN ARROUMI,SOUK SEBTE CBNI SAID  TETOUAN,Bni Said,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni said,71
+139,SS TIZEGHARENE,EL KALIE  CBNI SAID,Bni Said,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni said,71
+140,SS HASSAN IBN TABIT,TASSIFT  CBNI SAID,Bni Said,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni said,71
+141,SS AFRANE ALI,DOUAR AFRANE ALI CBNI SAID  TETOUAN,Bni Said,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni said,71
+142,SS CHROUDA,DOUAR CHROUDA CBNI SAID  TETOUAN,Bni Said,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni said,71
+143,SS AMSA,DOUAR AMSA ZAOUIAT SIDI KACEM  TETOUAN,Zaouiat Sidi Kacem,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,zaouiat sidi kacem,72
+144,SS TAMRABETE,DOUAR TAMRABETE CZAOUIAT SIDI KACEM  TETOUAN,Zaouiat Sidi Kacem,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,zaouiat sidi kacem,72
+145,SS LECHIAKH,DOUAR LECHIAKH CZAOUIATE SIDI KACEM  TETOUAN,Zaouiat Sidi Kacem,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,zaouiat sidi kacem,72
+146,SS CHOUIBEN  IHKAM,DOUAR CHOUIBIN C OMMUNE ZAOUIAT SIDI KACEM  TETOUA,Zaouiat Sidi Kacem,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,zaouiat sidi kacem,72
+147,SS AOUCHTAM,DOUAR AOUCHTAM C ZAOUIATE SIDI KACEM  ,Zaouiat Sidi Kacem,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,zaouiat sidi kacem,72
+148,ss IBARAKEN,DOUAR IBARAKEN CZAOUIATE SIDI KACEM  TETOUAN,Zaouiat Sidi Kacem,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,zaouiat sidi kacem,72
+149,ECOLE ATTAOUHID,ROUTE DE TATOUFT COMMUNE EL KSAR KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+150,ECOLE YOUSSEF BNOU TACHAFINE,HAY ANDALOUSS COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+151,ECOLE FATIMA ANDALOUSSIA,AVENUE ENNASR COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+152,ECOLE SIDI BOUAHMED,AVENUE SIDI BOUAHMED COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+153,ECOLE ABDELKADER ESSADRAOUI,ROUTE DE RABAT hay sidi el kamel  KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+154,ECOLE SIDI ALI LAKHMI,HAY MENAKEB  KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+155,ECOLE BIR  ANZARAN,HAY ESSALAM COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+156,ECOLE ELMANZAH,HAY MOASKAR COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+157,ECOLE IBN KHALDOUN  KSAR ELKEBIR,AVENUE BALADIA COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+158,ECOLE AAD  ELJADID,HAY MOASKAR COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+159,ECOLE PRINCE MOULAY RACHID,HAY EL ANDALOUSSe  COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+160,ECOLE MOULAY ALI BOUGHALEB,HAY MOASKAR  KADIM COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+161,ECOLE SIDI BELABBASS,HAY SIDI BELABBASS COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+162,ECOLE ALLAL BEN ABDELLAH,HAY AL MASSIRA KHDRA COMMUNE KSAR EL KBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+163,ECOLE ECHAHID MOHAMED ZERKTOUNI,HAY DAR DOUKHANE COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+164,ECOLE CHAHID MOHAMED ELHAYANI,HAY ESSALAM GROUPE A COMMUNE KSAR EL KRBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+165,ECOLE OUED EDDAHAB,HAY essalam COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+166,ECOLE ELMASSIRA ELKHADRA  KSARELKEBIR,HAY ANDALOUS ROUTE LARACHE COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+167,ECOLE TAREK IBN ZIAD,AVENUE hassan 2  rue luxus OMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+168,ECOLE MEHDI BEN TOUMARTE,AVENUe  MEHDI IBN TOUMARTE COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+169,ECOLE MOATAMID BEN ABBAD,HAY EL JADID COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+170,ECOLE ABDELMALEK ESSAADI,HAY MHASSHASS COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+171,ECOLE IBNOU  KHALDOUN LARACHE,AVENUe  MOHAMED BEN ABDALLAH COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+172,ECOLE IBNOU  ZAIDOUN,AVENUe  MY DRISS EL AZHAR COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+173,ECOLE ECHCHARIF EL IDRISSI,AVENUE  ABDELMOUMEN IBN ALI COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+174,ECOLE LALLA MENNANA,RUE ZALAKA COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+175,ECOLE  MOHAMED V,AVENUe  IBN KHATIB COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+176,ECOLE IBNOU HAZEM,AVENUe  MY ABDESSLAM COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+177,ECOLE MOULAY ABESSLAM,AVENU 2MARS N1 COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+178,ECOLE OUKBA IBNOU  NAFAE,AVENUe  OKBA BEN NAFIE COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+179,ECOLE IMAM GHAZALI,BD CAIR LOT ESSMARA COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+180,ECOLE MOHAMED V MIXTE,AVENUE DES FAR COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+181,ECOLE MOHAMED BEN  RADI SLAOUI,LOT WAFAE COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+182,ECOLE LISSANE EDDINE IBNOU EL KHATIB,AVENUe IBN KHATIB COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+183,ECOLE MOAAD BNOU JABAL,LOT CHAABANE1 COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+184,ECOLE ABDELKHALAK TORRES,LOT CDG  LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+185,ECOLE EDDAKHLA,LAOUAMRA CENTRE COMMUNE LAOUAMRA,Laouamra,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,laouamra,82
+186,ECOLE IMAM BOUKHARI,SAHEL CENTRE COMMUNE SAHEL,Sahel,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,sahel,93
+187,ECOLE TABARI,Ecole tabari,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+188, ECOLE BEGGARA  ,DOUAR BEGGARA COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+189,ECOLE REKKADA,DOUAR REKADA COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+190,ECOLE EL GHDIRA   ,DOUAR LAGHDIRA COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+191,MOULAY ISMAIL CENTRE,DOUAR AIN LAABID COMMUNE ZOUADA,Zouada,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,zouada,83
+192,SS FRIHIYINE CENTRE ,DOUAR FRIHYINE COMMUNE ZOUADA,Zouada,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,zouada,83
+193,HOUMAN EL FETOUAKI OULED RAFAA CENTRE ,DOUAR OULED RAFAE COMMUNE ZOUADA,Zouada,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,zouada,83
+194,CHLIHATE EL MJAHDINE CENTRE,DOUAR CHLIHAT COMMUNE ZOUADA,Zouada,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,zouada,83
+195,OULED BOURBIAA   CENTRE,DOUAR OULED BOURBIAA COMMUNE ZOUADA,Zouada,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,zouada,83
+196, SS SALAH  EDDINE  EL AYOUBI  ,DOUAR OULED HAMMOU EL GHABA COMMUNE LAOUAMRA,Laouamra,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,laouamra,82
+197,MOUSSA  BNOU  NOSSAIR CENTRE ,DOUAR BOUCHAREN COMMUNE LAOUAMRA,Laouamra,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,laouamra,82
+198,IBNOU  BATOUTA  ZLAOULA  CENTRE ,DOUAR ZLAOULA COMMUNE LAOUAMRA,Laouamra,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,laouamra,82
+199,SATTELITE LAGHWAZI,DOUAR LAGHWAZI COMMUNE LAOUAMRA,Laouamra,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,laouamra,82
+200,OULED  LAGHMARI CENTRE ,DOUAR OULED LAGHMARI COMMUNE LAOUAMRA,Laouamra,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,laouamra,82
+201,ECOLE OULED SKHAR,DOUAR OULED SKHAR COMMUNE LAOUAMRA,Laouamra,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,laouamra,82
+202,RHAMNA CENTRE,DOUAR RHAMNA COMMUNE LAOUAMRA,Laouamra,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,laouamra,82
+203,ECOLE EL HYAYDA,DOUAR HYAYDA COMMUNE LAOUAMRA,Laouamra,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,laouamra,82
+204,ELMOUARAA RMEL CENTRE,DOUAR MOUARAA RMEL COMMUNE LAOUAMRA,Laouamra,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,laouamra,82
+205,HASSAN II CENTRE AMGADI,DOUAR MGADI COMMUNE BOU JEDYANE,Bou Jedyane,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,boujedyane,85
+206,IMAM MALEK CENTRE ZAHJOUKA,DOUAR ZAHJOUKA COMMUNE BOU JEDYANE CDT TATOFT,Bou Jedyane,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,boujedyane,85
+207,LAAZIB SEFLI CENTRE,DOUAR LAAZIB SEFLI COMMUNE BOU JEDYANE,Bou Jedyane,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,boujedyane,85
+208,BIR DOUAR CENTRE,DOUAR BIR DOUAR COMMUNE BOUJEDIANE,Bou Jedyane,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,boujedyane,85
+209,SIDI BOUSSEFRA CENTRE,DOUAR SIDI BOUSSEFRA COMMUNE BOUJEDYANE,Bou Jedyane,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,boujedyane,85
+210,ELKOURTOBI CENTRE,KOLLA CENTRE COMMUNE SOUK L QOLLA,Souk L'Qolla,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souk l'qolla,87
+211,TAZROUT EL KOLLA CENTRE,MADCHAR TAZROUTE BNI ZEKKAR COMMUNE SOUK L QOLLA,Souk L'Qolla,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souk l'qolla,87
+212,SAFOHAR CENTRE ,DOUAR SAFOHAR COMMUNE L QOLLA,Souk L'Qolla,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souk l'qolla,87
+213,AMGADI BNI YASSEF CENTRE,DOUAR AMGADI BNI YESSEF COMMUNE SOUK LQOLLA,Souk L'Qolla,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souk l'qolla,87
+214,OUNSSAR BNI ABDALLAH CENTRE,DOUAR OUNSSAR BNI ABDALLAH COMMUNE L QOLLA,Souk L'Qolla,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souk l'qolla,87
+215,AMEZOIK CENTRE ,DOUAR AMEZOUAK COMMUNE L QOLLA,Souk L'Qolla,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souk l'qolla,87
+216,OUNSSAR EL HAJ  CENTRE ,DOUAR OUNSSAR EL HAJ COMMUNE L QOLLA,Souk L'Qolla,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souk l'qolla,87
+217,ESSAF  CENTRE ,DOUAR ESSAF COMMUNE L QOLLA,Souk L'Qolla,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souk l'qolla,87
+218,11 JANVIER MELIANA  CENTRE ,DOUAR MELIANA COMMUNE TATOFT,Tatoft,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,tatoft,86
+219,DAR  LOUZARI  CENTRE,DOUAR DAR LOUZARI COMMUNE TATOFT,Tatoft,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,tatoft,86
+220,SAF TRAOULA CENTRE,DOUAR SAF TRAOULA COMMUNE TATOFT,Tatoft,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,tatoft,86
+221,OMAR IBN ELKHATTAB  OULED AMRANE CENTRE ,DOUAR OULED OMRANE COMMUNE OULED OUCHIH,Oulad Ouchih,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,oulad ouchih,96
+222,CHLIHATE CENTRE,DOUAR CHLIHATE COMMUNE OULED OUCHIH,Oulad Ouchih,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,oulad ouchih,96
+223,BOICHTA CENTRE ,DOUAR BOICHTA COMMUNE OULED OUCHIH,Oulad Ouchih,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,oulad ouchih,96
+224, ECOLE EL MASSIRA EL KHADRA  GCHACHRA,DOUAR KCHACHRA COMMUNE KSAR BJIR,Ksar Bjir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar bjir,84
+225, SS ELKHYAITA ,DOUAR KHYAYTA COMMUNE KSAR BJIR,Ksar Bjir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar bjir,84
+226,AIN MOASKAR CENTRE,DOUAR AIN MOASKAR COMMUNE KSAR BJIR,Ksar Bjir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar bjir,84
+227,EL  SRIMA CENTRE,DOUAR SRIMA COMMUNE KSAR BJIR,Ksar Bjir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar bjir,84
+228,EL BNANDA  CENTRE ,DOUAR LEBNANDA COMMUNE KSAR BJIR,Ksar Bjir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar bjir,84
+229,AHMED ELMANSOUR EDDAHBI SOUAKEN CENTRE ,DOUAR SOUKEN COMMUNE SOUAKEN,Souaken,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souaken,97
+230,ECOLE OULED JMIL,DOUAR OULED JMIL COMMUNE SOUAKEN,Souaken,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souaken,97
+231,AMAIER TLIK CENTRE,DOUAR AMAIER TLIK COMMUNE SOUAKEN,Souaken,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souaken,97
+232,OUED EL MAKHAZINE  CENTRE ,DOUAR OULED SOULTAN COMMUNE SOUK TOLBA,Souk Tolba,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souk tolba,98
+233, SS LAHYATTA ,DOUAR LAHYATTA COMMUNE SOUK TOLBA,Souk Tolba,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souk tolba,98
+234,ELMOULOUK  TALATA  CENTRE,DOUAR BOUAACHAT COMMUNE SOUK TOLBA,Souk Tolba,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souk tolba,98
+235,OULED ALI MEDENNA CENTRE,DOUAR OULAD ALI MDENNA COMMUNE SOUK TOLBA,Souk Tolba,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souk tolba,98
+236,EL MAGHREB EL ARABI  AYACHA CENTRE ,DOUAR AYACHA CENTRE COMMUNE AYACHA,Ayacha,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ayacha,90
+237,AMZOURA CENTRE,DOUAR AMZORA COMMUNE AYACHA,Ayacha,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ayacha,90
+238,TAZEMART CENTRE,DOUAR TAZEMART COMMUNE AYACHA,Ayacha,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ayacha,90
+239, HAMZA IBNOU  ABDELMOTTALEB CENTRE,DOUAR AIN MAABAD COMMUNE AYACHA,Ayacha,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ayacha,90
+240,MGAZLIYNE CENTRE,DOUAR MGAZLIYiNE COMMUNE AYACHA,Ayacha,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ayacha,90
+241,AIN HDID CENTRE,DOUAR AIN HDID COMMUNE BNI AROUSS,Bni Arouss,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,bni arouss,88
+242,TAGUEZARTE  CENTRE,DOUAR TAJEZART COMMUNE BNI AROUSS,Bni Arouss,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,bni arouss,88
+243,TARDANE CENTRE,DOUAR TARDANE COMMUNE BNI AROUSS,Bni Arouss,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,bni arouss,88
+244,MOULAY ABDESSLAM  SOUKANE CENTRE ,DOUAR SOUKAN COMMUNE TAZROUTE,Tazroute,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,tazroute,89
+245,TAZROUT CENTRE,DOUAR TAZROUT COMMUNE TAZROUTE,Tazroute,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,tazroute,89
+246,DRISS PREMIER CENTRE,DOUAR SEBT COMMUNE BNI GARFETT,Bni Garfett,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,bni garfett,91
+247,EL QODS  BOUHANI CENTRE ,DOUAR BOUHANI COMMUNE BNI GARFETT,Bni Garfett,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,bni garfett,91
+248,SEFSSAF CENTRE,DOUAR SEFSSAF COMMUNE BNI GARFETT,Bni Garfett,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,bni garfett,91
+249,AIN MANSSOUR CENTRE,DOUAR AIN MANSOUR COMMUNE BNI GARFETT,Bni Garfett,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,bni garfett,91
+250,SAADANA CENTRE,DOUAR SAADANA COMMUNE BNI Guerfet,Bni Garfett,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,bni garfett,91
+251,SIDI MEZOUAR  TAOULA CENTRE ,DOUAR TAOULA COMMUNE ZAAROURA,Zaaroura,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,zaaroura,92
+252,AGHLIMINE CENTRE,DOUAR AGHLIMINE COMMUNE ZAAROURA,Zaaroura,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,zaaroura,92
+253,AOURMOUT CENTRE,DOUAR AOURMOUT COMMUNE ZAAROURA,Zaaroura,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,zaaroura,92
+254,KHARBAT ELHARAKINE ,medchar khriba COMMUNE ZAAROURA,Zaaroura,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,zaaroura,92
+255,CHEFRAOUCHE  CENTRE,DOUAR CHEFRAOUCH COMMUNE ZAAROURA,Zaaroura,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,zaaroura,92
+256,ELKADI AYAD NGARJA  CENTRE,DOUAR NGARJA COMMUNE SAHEL,Sahel,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,sahel,93
+257,RIHIYNNE CENTRE,DOUAR RIHIYNE COMMUNE SAHEL,Sahel,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,sahel,93
+258,IBNOU SINAE CENTRE KRIMDA,DOUAR KRIMDA COMMUNE SAHEL,Sahel,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,sahel,93
+259,AIN KATTAAE CENTRE,DOUAR AIN KATTAAE COMMUNE SAHEL,Sahel,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,sahel,93
+260,ALLAL EL FASSI RAISSANA CENTRE   ,TLATA RISSANA CENTRE COMMUNE RISSANA CHAMALIA,Rissana Chamalia,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,rissana chamalia,94
+261,OULED SOULTANE CENTRE,DOUAR OULED SOULTANE COMMUNE RISSANA CHAMALIA,Rissana Chamalia,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,rissana chamalia,94
+262,KHRACHFA CENTRE,DOUAR KHRACHFA COMMUNE RISSANA CHAMALIA,Rissana Chamalia,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,rissana chamalia,94
+263,ELKHRACHFA 2 AMER AIN HENNA CENTRE,DOUAR AMER AIN HENNA COMMUNE RISSANA CHAMALIA,Rissana Chamalia,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,rissana chamalia,94
+264,IBNOU  TOFAIL  DOSSI  CENTRE ,DOUAR DOSSI COMMUNE RISSANA JANOUBIA,Rissana Janoubia,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,rissana janoubia,95
+265,ECOLE OULED MESSBAH,DOUAR OULED MESSBAH COMMUNE RISSANA JANOUBIA,Rissana Janoubia,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,rissana janoubia,95
+266,ELMOUARAA CENTRE,DOUAR MOUARAA KANTRA COMMUNE RISSANA JANOUBIA,Rissana Janoubia,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,rissana janoubia,95
+267,OULED BEN SAYD CENTRE,DOUAR OULED BEN SAYD COMMUNE RISSANA JANOUBIA,Rissana Janoubia,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,rissana janoubia,95
+268,SATTELITE   ELKHANNA,DOUAR KHANNA COMMUNE RISSANA JANOUBIA,Rissana Janoubia,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,rissana janoubia,95
+269,TOUAJNA CENTRE,DOUAR TOUAJNA COMMUNE RISSANA JANOUBIA,Rissana Janoubia,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,rissana janoubia,95
+270,ECOLE AL QODS,AVENUE SIDI ABDELHAMID CHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,chefchaouen,135
+271,ECOLE LALLA FATIMA,AVENUE HASSAN 2 CHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,chefchaouen,135
+272,ECOLE MOULAY ALI BEN RACHID,RUE MOULAY DRISS CHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,chefchaouen,135
+273,ECOLE AL HASSAN ABI JOUMOAA,RUE ZERKTOUNICHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,chefchaouen,135
+274,ECOLE SOULAYMAN ALHAWAT,QUARTIER SEBBANINECHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,chefchaouen,135
+275,ECOLE ABDELKHALEK TORRES,QUARTIER ADMINISTRATIF    CHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,chefchaouen,135
+276,ECOLE MOULAY ALI NOUAZLI,RUE MOULLAY DRISSCHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,chefchaouen,135
+277,ECOLE ESSAIDA EL HORRA,AVENUE ALMAGHRIB ALARABICHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,chefchaouen,135
+278,ECOLE CHAIKH MOHAMED BEN AYAD,RUE SIDI BEN ALI  HAY EL ANSER  BAB MAHROUK CHEFCH,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,chefchaouen,135
+279,ECOLE EL KADI SADEK BEN RAISSOUN,avenu maliliaCHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,chefchaouen,135
+280,ECOLE YOUSSEF BEN TACHFINE,BAB BERRED CHEFCHAOUEN,Bab Berred,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab berred,136
+281,Ecole ANWAL,ZOUMI par ouizzane,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zoumi,179
+282,SS 11 JANVIER BOUROH,DOUAR BOUROH COMMUNE BAB BERRET  CHEFCHAOUEN,Bab Berred,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab berred,136
+283,SS OKBA BEN NAFIA ECOLE LAMDINA,DOUAR LAMDINACBAB BERRED CHEFCHAOUEN,Bab Berred,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab berred,136
+284,SS 20 AOUT  LAANASSER,ECOLE LAANASSER Centre et commune de BAB BERREd pr,Bab Berred,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab berred,136
+285,SS IZELJAME,DOUAR IZELJAMECBAB BERRET CHEFCHAOUEN,Bab Berred,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab berred,136
+286,SS NAHDA BNI CHIA,ECOLE BNI CHIA BAB BERREd CHEFCHAOUEN,Bab Berred,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab berred,136
+287,SS AHMED ERRACHIDI MACHAT,ECOLE MECHET C BAB BERREd CHEFCHAOUEN,Bab Berred,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab berred,136
+288,SS FKIH EL MOUDEN  ALOUI,ECOLE ALOUI commune ounane ,Iounane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,iounane,137
+289,SS AHMED CHARKAOUI TASMILT,Douar tasmilt commune iounane,Iounane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,iounane,137
+290,SS MASSOUD EL MEZIANI BOUKAMEL,DOUAR iounane Commune IOUNANE CHEFCHAOUEN,Iounane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,iounane,137
+291,SS BNI IMRANE ICHOUKANE,DOUAR ICHOUKANE COMMUNE AOUNANE CHEFCHAOUEN,Iounane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,iounane,137
+292,SS AOULLASSEN,DOUAR AOULLASSEN C IOUNANE CHEFCHAOUEN,Iounane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,iounane,137
+293,SS IMOUKANE,DOUAR IMOUKANE COMMUNE IOUNANE ,Iounane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,iounane,137
+294,SS CHARIF IDRISSI BOUSSIAF,ECOLE BOUSSIAFC   IOUNANE      CHEFCHAOUEN,Iounane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,iounane,137
+295,SS EL MOUJAHIDINE TAMOROT,DOUAR TAMOROTCTAMOROT CHEFCHAOUEN,Tamorot,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tamorot,138
+296,SS ABDELLAH IBRAHIM AMEZRA,DOUAR AMEZRA C TAMOROT. CHEFCHAOUEN,Tamorot,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tamorot,138
+297,SS SIDI MHAMED JAMOUN DAR OUTAN,DOUAr  DarOUTANE Commune TAMOROT CHEFCHAOUEN,Tamorot,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tamorot,138
+298,SS OUED AMEZGANE ZAZOU,DOUAR ZAZOU C BAB BARRED CHEFCHAOUEN,Bab Berred,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab berred,136
+299,SS TALARIHAN,DOUAR TALARIHANE CR TAMOROUT CHEFCHAOUEN,Tamorot,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tamorot,138
+300,SS BNI NBAT MAHLI,DOUAR MAHLICTAMOROTCHEFCHAOUEN,Tamorot,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tamorot,138
+301,SS SIDI BOUHAJA LEMOUASSIF,DOUAR LEMOUASSIFCTAMOROTCHEFCHAOUEN,Tamorot,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tamorot,138
+302,SS ISSEFAREN,DOUAR ISSEFAREN Commune TAMOROT CHEFCHAOUEN,Tamorot,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tamorot,138
+303,SS LEMAASRA,DOUAR LEMAASRACBNI AHMED CHERQIACHEFCHAOUEN,Bni Ahmed Cherqia,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni ahmed cherqia,144
+304,SS TALANDAOUD,DOUAR TALANDAOUD CBNI AHMED cherquia,Bni Ahmed Cherqia,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni ahmed cherqia,144
+305,SS ABDELALI BEN CHAKROUN AL MANSOURA,DOUAR AL MANSOURA C MANSOURA CHEFCHAOUEN,Mansoura,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,mansoura,147
+306,SS TISKALA,DOUAR TISKALA C MANSOURA CHEFCHAOUEN,Mansoura,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,mansoura,147
+307,SS ZAOUIYAT LHORRACH,DOUAR ZAOUIYAT LHORRACHCMANSOURACHEFCHAOUEN,Mansoura,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,mansoura,147
+308,SS ABDERRAHMAN SAHRAOUI TALIOUANE,DOUAR TALIOUANE bni ahmed cherqia CHEFCHAOUEN,Bni Ahmed Cherqia,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni ahmed cherqia,144
+309,SS TIMART,DOUAR TIMART C MANSOURA CHEFCHAOUEN,Mansoura,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,mansoura,147
+310,SS OULAD SLIMANE,DOUAR OULAD SLIMANE CBNI AHMED GHARBIA CHEFCHAOUE,Bni Ahmed Gharbia,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni ahmed gharbia,145
+311,SS BNI MIZAR,DOUAR BNI MIZAR C BNI AHMED GHARBIA CHEFCHAOUEN,Bni Ahmed Gharbia,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni ahmed gharbia,145
+312,SS TAFZA,DOUAR TAFZACBNI AHMED GHARBIACHEFCHAOUEN,Bni Ahmed Gharbia,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni ahmed gharbia,145
+313,SS ABDELAZIZ BEN DRISS MALHA,CENTRE OUADE   MALHA  COMMUNE OUED MALHA CHEFCHAOU,Oued Malha,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,oued malha,146
+314,SS MOHAMED EL BARAKA ANKOUD,DOUAR AANKOUDCOUED MALHACHEFCHAOUEN,Oued Malha,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,oued malha,146
+315,SS MOUASS,DOUAR MOUASSCOUED MALHACHEFCHAOUEN,Oued Malha,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,oued malha,146
+316,SS HASSAN EL OUAZZANE AMTAR,DOUAR AMTARCAMTARCHEFCHAOUEN,Amtar,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,amtar,139
+317,SS AZGHAR MOUSSA,DOUAR AZGHAR MOUSSACAMTARCHEFCHAOUEN,Amtar,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,amtar,139
+318,SS ABOU INANE EL MARINI ATAZA,DOUAR ATAZA C AMTAR CHEFCHAOUEN,Amtar,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,amtar,139
+319,SS TIGHSSOUANE,DOUAR TIGHESSOUANECAMTARCHEFCHAOUEN,Amtar,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,amtar,139
+320,S/S ENNALIYINE,DOUAR ENNALIYINECAMTARCHEFCHAOUEN,Amtar,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,amtar,139
+321,SS MY ALI CHARIF LMDIAK,CENTRE BNI REZINE COMMUNE BNI RZINE CHEFCHAOUEN,Bni Rzine,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni rzine,142
+322,SS TAMRIGHT,DOUAR TAMRIGHTe BNI RZINE CHEFCHAOUEN,Bni Rzine,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni rzine,142
+323,SS IHMEDACHEN,DOUAR IHMEDACHEN BNI RZIN CHEFCHAOUEN,Bni Rzine,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni rzine,142
+324,SS DRISS 1ER AOUFASS,DOUAR AOUFASS C BNI RZINE CHEFCHAOUEN,Bni Rzine,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni rzine,142
+325,SS IHEJJAMEN,DOUAR IHEJJAMEN C BNI RZINE CHEFCHAOUEN,Bni Rzine,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni rzine,142
+326,SS ASSAKI,DOUAR ASSAKI BNI RZINE CHEFCHAOUEN,Bni Rzine,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni rzine,142
+327,SS OUED EDDAHAB AZAGHAR,DOUAR AZAGHARCBNI RZINECHEFCHAOUEN,Bni Rzine,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni rzine,142
+328,SS AHMED BENHANI BNI SMIH,SOUK SEBTCBNI SMIHCHEFCHAOUEN,Bni Smih,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni smih,143
+329,SS BNI SEDRAT,DOUAR BNI SEDRATCBNI SMIHCHEFCHAOUEN,Bni Smih,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni smih,143
+330,SS HASSAN AHAYZOUNE TAZROUT,DOUAR TAZROUTCBNI SMIHCHEFCHAOUEN,Bni Smih,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni smih,143
+331,SS AMLAOUK,DOUAR AMLAOUK C.BNI SMIH CHEFCHAOUEN,Bni Smih,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni smih,143
+332,SS IKOURRANE,DOUAR IKOURRANE CR/BNI SMIH CHEFCHAOUEN,Bni Smih,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni smih,143
+333,ECOLE ALI MTIOUI AL JEBHA,AL JEBHACMTIOUACHEFCHAOUEN,M'tioua,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,m'tioua,140
+334,SS AL KAWARINE,DOUAR AL KAWARINECMTIOUACHEFCHAOUEN,M'tioua,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,m'tioua,140
+335,SS HADI AMAGHOUS TAGMOUT,DOUAR TAGMOUT C M TIOUA CHEFCHAOUEN,M'tioua,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,m'tioua,140
+336,SS  IBNRAHIM ROUDANI BOUHNIN,DOUAR BOUHNINCMTIOUACHEFCHAOUEN,M'tioua,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,m'tioua,140
+337,SS DRISS ELMOHAMMADI AGUERCIF,DOUAR AKERSSIFCOUAOUZGANECHEFCHAOUEN,Ouaouzgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,ouaouzgane,141
+338,SS IMENKOUREN,DOUAR IMENKOUREN C OUAOUZGANE CHEFCHAOUEN,Ouaouzgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,ouaouzgane,141
+339,S/S TALAMZALA,DOUAR TALAMZALA COU AOUZGANE CHEFCHAOUEN,Ouaouzgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,ouaouzgane,141
+340,SS AOUEZGANE,DOUAR AOUZGANE COU AOUZGANE CHEFCHAOUEN,Ouaouzgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,ouaouzgane,141
+341,SS AGHBAL,DOUAR AGHBAL AOUZGANE CHEFCHAOUEN,Ouaouzgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,ouaouzgane,141
+342,SS NOUIDRAT,DOUAR NOUDARET C OUAOUZGANE CHEFCHAOUEN,Ouaouzgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,ouaouzgane,141
+343,SS AHMED BA HNINI IJOUAOUEN,DOUAR IJOUAOUENCAOUZGANECHEFCHAOUEN,Ouaouzgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,ouaouzgane,141
+344,SS ALLAL BEN ABDELLAH BAB TAZA,centre babtaza,Bab Taza,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab taza,148
+345,SS BNI ZID,DOUAR BNI ZID BAB TAZACHEFCHAOUEN,Bab Taza,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab taza,148
+346,SS SIDI MOUSSA MAGOU,DOUAR MAGOU BAB TAZA CHEFCHAOUEN,Bab Taza,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab taza,148
+347,SS IMAM ALI GHAROUZIM,DOUAR GHAROUZIMCBAB TAZACHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,chefchaouen,135
+348,SS LAACHAICH,DOUAR LAACHAICHC  dardara  CHEFCHAOUEN,Derdara,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,derdara,153
+349,SS DAR AKOUBAA,DOUAR DAR AKOUBAA  comune  dardara  CHEFCHAOUEN,Derdara,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,derdara,153
+350,SS AMEGRI,DOUAR AMEGRI C BAB TAZA CHEFCHAOUEN,Bab Taza,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab taza,148
+351,SS SIDI YALSOU LAGHZANA,DOUAR LAKHZANACBAB TAZACHEFCHAOUEN,Bab Taza,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab taza,148
+352,SS HAJ AHMED ASLANI BOUZTAT,DOUAR BOUZTATCBAB TAZACHEFCHAOUEN,Bab Taza,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab taza,148
+353,SS TINGHAYA EL GHARBIA,DOUAR TINGHAYA C BAB TAZA CHEFCHAOUEN,Bab Taza,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bab taza,148
+354,SS ESSALAM ALBARKOUK,DOUAR ALBARKOUK CBNI SALAH  CHEFCHAOUEN,Bni Salah,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni salah,149
+355,SS EL FATH BOUNTAIR,DOUAR BOUNTAYER C BNI SALAH CHEFCHAOUEN,Bni Salah,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni salah,149
+356,SS OMAR BEN KHATTAB AL MAOUDEN,DOUAR AL MAOUDEN BNI SALAH CHEFCHAOUEN,Bni Salah,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni salah,149
+357,SS MOUSSA BEN NOUSSAIR BANI DARKOUL,BNI DARKOULCBNI DARKOULCHEFCHAOUEN,Bni Darkoul,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni darkoul,150
+358,SS AL KOB,DOUAR AL KOB C BNI DARKOUL CHEFCHAOUEN,Bni Darkoul,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni darkoul,150
+359,SS CHRAFAT,DOUAR CHRAFATCBNI DARKOULCHEFCHAOUEN,Bni Darkoul,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni darkoul,150
+360,SS AHMRD EL AALEM EL MATEN,DOUAR AL MATEN BNI DARKOUL CHEFCHAOUEN,Bni Darkoul,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni darkoul,150
+361,SS DRISS EL HARIRI TOURARINE,DOUAR TOURARINE C BNI FAGHLOUM CHEFCHAOUEN,Bni Faghloum,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni faghloum,151
+362,SS DOUKKALA,DOUAR DOUKKALA C BNI FAGHLOUM CHEFCHAOUEN,Bni Faghloum,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni faghloum,151
+363,SS BNI YEJJEL,DOUAR BNI YEJJELCBNI FAGHLOUMCHEFCHAOUEN,Bni Faghloum,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni faghloum,151
+364,SS SIDI ALAL EL HAJ FIFI, Cr FIFI CHEFCHAOUEN,Fifi,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,fifi,152
+365,SS SIDI GHANEM,DOUAR SIDI GHANEM Cr FIFI CHEFCHAOUEN,Fifi,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,fifi,152
+366,SS SIDI AHMED CHERIF BNI YARZINE,DOUAR BNI YARZINECFIFICHEFCHAOUEN,Fifi,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,fifi,152
+367,SS HASSAN YALSOUTI TARIA,DOUAR TARIACDERDARACHEFCHAOUEN,Derdara,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,derdara,153
+368,SS KERDAD,DOUAR KERDAD Commune DERDARA CHEFCHAOUEN,Derdara,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,derdara,153
+369,SS MAGHRIB AL ARABI DARDARA,DARDARA CDERDARACHEFCHAOUEN,Derdara,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,derdara,153
+370,SS BNI ACHIR,DOUAR BNI ACHIR C  DERDARA  CHEFCHAOUEN,Derdara,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,derdara,153
+371,SS YOUSSEF TLIDI TANAKOUB,TANAKOUBCTANAKOUBCHEFCHAOUEN,Tanaqoub,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tanaqoub,154
+372,SS IMAM MALEK ZAOUIA,ZAOUIA TANAKOUB CHEFCHAOUEN,Tanaqoub,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tanaqoub,154
+373,SS AZAGHR BNI TLID AZEGHAR,DOUAR AZAGHAR TANAQOUB CHEFCHAOUEN,Tanaqoub,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tanaqoub,154
+374,SS IBN KHALDOUN SOUK ALHAD,SOUK ALHAD C LAGHDIR CHEFCHAOUEN,Laghdir,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,laghdir,155
+375,SS TOUARRICHT,DOUAR TOUARICHTC LAGHDIR CHEFCHAOUEN,Laghdir,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,laghdir,155
+376,SS GHRANKADI,DOUAR GHRANKADI C LAGHDIR CHEFCHAOUEN,Laghdir,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,laghdir,155
+377,SS IBN EL KHATIB BNI BOUHLOU,DOUAR BNI BOUHLOUCBNI SELMANECHEFCHAOUEN,Bni Selmane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni selmane,156
+378,SS MATAA,DOUAR MATAACBNI SELMANCHEFCHAOUEN,Bni Selmane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni selmane,156
+379,SS SIDI REGURAGUI AMETRAS,DOUAR AMETRAS  C  BNi darkoul CHEFCHAOUEN,Bni Darkoul,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni darkoul,150
+380,SS ALWADIYINE,DOUAR AL WADIYINE C BNI SALMANE CHEFCHAOUEN,Bni Selmane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni selmane,156
+381,SS SALAH DIN AYOUBI SEBT ASSIFAN,SEBT ASSIFAnCbNI SELMANECHEFCHAOUEN,Bni Selmane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni selmane,156
+382,SS ABI ALA EL MAARI AMTIL,DOUAR AMTIL C BNI SALMANE CHEFCHAOUEn,Bni Selmane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni selmane,156
+383,SS TALATFRAT,DOUAR TALATFRATCBNI SALMANECHEFCHAOUEN,Bni Selmane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni selmane,156
+384,SS NAIMA,DOUAR NAIMA  C BNI SALMANE CHEFCHAOUEN,Bni Selmane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni selmane,156
+385,SS IMOULA,DOUAR IMOULA C BNI SALMANE  ,Bni Selmane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni selmane,156
+386,SS IBN HAZM ACHRIBEN,DOUAR ACHRIBENCBNI MANSOURCHEFCHAOUEN,Bni Mansour,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni mansour,157
+387,SS AZEGHAR,DOUAR AZEGHAR BNI MANSOURCHEFCHAOUEN,Bni Mansour,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni mansour,157
+388,SS TAREZAT,DOUAR TAREZATCBNI MANSOURCHEFCHAOUEN,Bni Mansour,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni mansour,157
+389,SS BNI BECHAR,DOUAR BNI BECHARCBNI MANSOURCHEFCHAOUEN,Bni Mansour,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni mansour,157
+390,SS ISSOUKA,DOUAR ISSOUKA C BNI MANSOUR CHEFCHAOUEN,Bni Mansour,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni mansour,157
+391,SS IBN TOUFAIL BNI WAKTA,DOUAR BNI WAKTA CR BNI MANSOUR CHEFCHAOUEN,Bni Mansour,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni mansour,157
+392,SS TAGHZOUT ENNOUAR,DOUAR TAGHZOUT ENNOUAR BNI MANSOUR CHEFCHAOUEN,Bni Mansour,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni mansour,157
+393,SS ALI BEN MAIMOUN BOU AHMED,bou ahmed bni bouzra chehchaoun,Bni Bouzra,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni bouzra,158
+394,SS ICHERHANE,DOUAR ICHERHANE C BNI BOUZRA CHEFCHAOUEN,Bni Bouzra,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni bouzra,158
+395,SS ANARI,DOUAR ANARICBNI BOUZRACHEFCHAOUEN,Bni Bouzra,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni bouzra,158
+396,SS JNAN ENNICH,DOUAR JNAN ENNICHC BNI BOUZRA CHEFCHAOUEN,Bni Bouzra,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni bouzra,158
+397,SS AARKOUB,DOUAR AARKOUBCBNI BOUZRACHEFCHAOUEN,Bni Bouzra,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni bouzra,158
+398,E AHMED EL BOUZIDI STEHA,DOUAR STEHA C STEHA CHEFCHAOUEN,Steha,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,steha,159
+399,SS IJJAFEN,DOUAR IJJAFENCSTEHACHEFCHAOUEN,Steha,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,steha,159
+400,SS BNI HLIL,DOUAR BNI HLIL STEHA CHEFCHAOUEN,Steha,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,steha,159
+401,SS AGHIL ASNOUS,DOUAR AGHILCSTEHACHEFCHAOUEN,Steha,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,steha,159
+402,SS TARGHA,TARGHA CR  TIZGANE CHEFCHAOUEN,Tizgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tizgane,160
+403,SS KAA ASRAS,KAA ASRASCTIZGANECHEFCHAOUEN,Tizgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tizgane,160
+404,SS TASSIFT,DOUAR TASSIFTCTASSIFTCHEFCHAOUEN,Tassift,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tassift,161
+405,SS TIRINISS,DOUAR TIRINISSCTASSIFTCHEFCHAOUEN,Tassift,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tassift,161
+406,SS MOKHTAR,DOUAR MOKHTAR C TASSIFT CHEFCHAOUEN ,Tassift,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tassift,161
+407,SS IBN ARDOUN TALAMBOTE,TALAMBOT Commune TALAMBOT CHEFCHAOUEN,Talambote,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,talambote,162
+408,SS ALKALAA,DOUAR AL KALAA C TALAMBOT CHEFCHAOUEN,Talambote,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,talambote,162
+409,SS Zerktouni,BRIKCHA  COMUNEBRIKCHA OUEZZANE,Brikcha,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,brikcha,174
+410,SS Al Akkad,DOUAR BNI MHAMED BRIKCHA OUEZZANE,Brikcha,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,brikcha,174
+411,SS Pasteur,DOUAR AL FARHABRIKCHAouezzane,Brikcha,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,brikcha,174
+412,SS Abou Tayeb  al-Mutanabbi,DOUAR AL JABRIYINE C BRIKCHA OUEZZANE,Brikcha,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,brikcha,174
+413,SS LOUKOUS,DOUAR ZAYEDOR CB BRIKCHA,Brikcha,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,brikcha,174
+414,SS Abdellah Guennoun,DOUAR BOUALLOUN C ASJENOUEZZANE,Asjen,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,asjen,175
+415,SS MOHAMED IBN BATOUTA,DOUAR ZAITOUNA ASJEN OUEZZANE,Asjen,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,asjen,175
+416,SS AMEZZOU, AMEZZOU  ASJEN ouazzane ,Asjen,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,asjen,175
+417,SS TALA,DOUAR TALA COMMUNE ASJEN OUEZZANE,Asjen,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,asjen,175
+418, Ecole Abdelhadi Boutaleb,ASJENCASJENOUEZZANE,Asjen,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,asjen,175
+419,SS Zaynab Nefzaouia,DOUAR LAGHOUIBA COMMUNE ASJEN   ouezzane,Asjen,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,asjen,175
+420,SS HAMANE AL FETEOUAKI 2,DOUAR ASSERDOUN CoMmune de moQRISSAT ,Moqrisset,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,moqrissat,176
+421,SS Touria Sekkat,DOUAR CHERRATINECMOQRISSAT,Moqrisset,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,moqrissat,176
+422,SS Abderrahim Bouabid,CENTRE MOKRISSET OUEZZANE,Moqrisset,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,moqrissat,176
+423,SS IBN AL HASSANE AL OUZANI,DOUAR AIN KOB Commune de MOQRISSAT ouezzane,Moqrisset,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,moqrissat,176
+424,SS AHMAD AMINE,DOUAR AIN BAIDA COMM AIN BEIDA,Ain Beida,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ain beida,177
+425,SS Ahmed Chawki,DOUAR KALAAT BNI ROTENCAIN BEIDACHEFCHAOUEN,Ain Beida,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ain beida,177
+426,SS El Mariniyine,DOUAR harrara ain beida   OUEZZANE,Ain Beida,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ain beida,177
+427,SS  BANI YITENA,DR   KALAAT  SABBANA Com AIN BEIDA  ,Ain Beida,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ain beida,177
+428,SS FAKIH ALQORI,BOUKORRA ouezzane,Kalaat Bouqorra,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,kalaat bouqorra,178
+429,SS CHORAFA,DOUAR CHAHBIACBOUQORRA OUEZZANE,Kalaat Bouqorra,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,kalaat bouqorra,178
+430,SS Abdelkrim el-Khattabi,DOUAR ZAOUIA kalaat BOUKORRA ouezzane,Kalaat Bouqorra,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,kalaat bouqorra,178
+431,SS Ma El Aïnin,DOUAR DOUALEH BOUQORRA ouezzane,Kalaat Bouqorra,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,kalaat bouqorra,178
+432,SS Qadi Iyad,DOUAR BNI KAOULECHCBOUKORRA  ouezzane,Kalaat Bouqorra,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,kalaat bouqorra,178
+433,SS MOHAMED IBN ABDALLAHE,DOUAR ALHABBAJINE COMMUNE ZOUMI,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zoumi,179
+434,SS ABDELLAH ALHABTI,DOUAR NEFZI COMMUNE ZOUMI PROVINCE OUEZZANE,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zoumi,179
+435,SS GRAINOU,DOUAR GRAINOUCZOUMI OUAZZANE,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zoumi,179
+436,SS BIRE ANEZARANE,LHAD ALJOHRA C ZOUMI OUEZZANE,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zoumi,179
+437,SS TEMLA,DOUAR TEMLACZOUMI ouezzane,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zoumi,179
+438,SS ABDALLAH ELCHEFECHAOUENI,DOUAR AASSARA C ZOUMI ouazzanE,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zoumi,179
+439,SS MOULAY ISSMAIL,DOUAR AL ANSSAR COMMUNE ZOUMI OUEZZane,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zoumi,179
+440,SS ALOUAHDA,DOUAR TAGHNIT C ZOUMI OUEZZANE,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zoumi,179
+441,SS Mohammed Larbi Messari,DOUAR LKCHACHDA ZOUMI,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zoumi,179
+442,SS LALA MEREYEME,DOUAR HARRAKA COMMUNE ZOUMI ,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zoumi,179
+443,SS SIDI MOHAMED AL AREBI,DOUAR AIN KBIR C ZOUMI ouezzane,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zoumi,179
+444,MOHAMED V,32rue mohamed hassan el ouazzani,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+445,ALI BEN HASSOUN,AV 9JUILLET AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+446,ABDELAZIZ EL OUARIAGHLI,RUE DAKHLA AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+447,FATIMA ZOHRA,AV ESSAOUIRA AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+448,AL HAY EL JADID,AV HASSAN II AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+449,TIGHANIMINE, TIGHANIMINE AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+450,MASSIRAT FATH,AV ABBAS SAADI AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+451,ABDELLAH BEN YASSINE, rue ouhrane HAY MARMOUCHA ,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+452,MOULAY RACHID,AV ALMAHBES AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+453,ALLAL BEN ABDELLAH,PLACE MELILIA AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+454,CHATIE EL JAMIL,HAY CHATAIE ALJAMIL AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+455,IBNOU EL KHATIB,HAY SIDI ABED AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+456,HOMMAN EL FATOUAKI,HAY MIRADOR BAS  AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+457,BNI BOUAYACH,QUARTIER 2  BENI BOUAYACH,Bni Bouayach,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni bouayach,100
+458,IBNOU KHALDOUN,B.P 119 BENIBOUAYACH .32050,Bni Bouayach,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni bouayach,100
+459,NEKKOUR,HAY BOUGHARMAN BNI BOUAYACH,Bni Bouayach,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni bouayach,100
+460,IBOULAY, rue moulay ismail QUARTIER2,Bni Bouayach,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni bouayach,100
+461,ABI TALEB, SECTEUR  abi taleb imzouren,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,imzouren,101
+462,IMZOUREN II,QARTIER II IMZOUREN,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,imzouren,101
+463,IBNOU ROCHD,QARTIER MILITAIRE IMZOUREN,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,imzouren,101
+464, MOHAMED ZERKTOUNI,QUARTIER IBOUJANE,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,imzouren,101
+465,OUED EDDAHAB,HAY lycée,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,imzouren,101
+466,TARGUIST II,BD WALI ALAAHD TARGUIST,Targuist,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,targuist,102
+467,ABD LAKRIM KHATABI,rue  DES FAR     TARGUIST,Targuist,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,targuist,102
+468,DAR SALLOUM,DOUAR DHAR SALLOUM municipale D ajdir,Ajdir,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ajdir,103
+469,LAAZIB,HAY LAAZIB IMZOUREN,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,imzouren,101
+470,TORRES,DOUAR TORRES COMMUNE BNI BOUFRAH,Bni Boufrah,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni boufrah,104
+471,AIT TAYEB, AIT TAYEB COMMUNE BNI BOUFRAH,Bni Boufrah,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni boufrah,104
+472,AGNI,DOUAR AGNI COMMUNE BNI BOUFRAH,Bni Boufrah,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni boufrah,104
+473,ICHATOUANEN,DOUAR ICHATOUANEN CoMMUNE SENADA,Senada,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,senada,105
+474,BNI CHBOUN,DOUAR BNI CHBOUN COMMUNE BNI GMIL MAKSOULINE,Bni Gmil Maksouline,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni gmil maksouline,106
+475,GALLATE,DOUAR GALLATE COMMUNE BNI GMIL MAKSOLINE,Bni Gmil Maksouline,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni gmil maksouline,106
+476,SS BENI GMIL,DOUAR BNI GMIL COMMUNE BNI GMIL,Bni Gmil,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni gmil,107
+477,IACHIREN,DOUAR IACHIREN COMMUNE BNI GMIL CERCLE BNI BOUFRAH,Bni Gmil,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni gmil,107
+478,IMACHHOUDEN,DOUAR IMACHHOUDEN COMMUNE BNI GMIL,Bni Gmil,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni gmil,107
+479,CHAKRANE,DOUAR CHAKRANE COMMUNE CHAKRANE,Chakrane,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,chakrane,108
+480,TAFSASTE,DOUAR TAFSASTE COMMUNE CHAKRANE,Chakrane,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,chakrane,108
+481,ASSAMAR HAUT,DOUAR ASSAMAR HAUT COMMUNE CHAKRANE,Chakrane,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,chakrane,108
+482,SS ARBIAE TAOURIRT,DOUAR TAOURIRT COMMUNE ARBAA TAOURIRT,Arbaa Taourirt,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,arbaa taourirt,109
+483,BAYENTI,DOUAR BEINTI COMMUNE ARBAA TAOURIRT,Arbaa Taourirt,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,arbaa taourirt,109
+484,OUAADIA,DOUAR OUAADIA COMMUNE ARBAA TAOURIRT,Arbaa Taourirt,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,arbaa taourirt,109
+485,ISSOUFYENE,DOUAR ISSOUFIANE COMMUNE TIFAROUINE,Tifarouine,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,tifarouine,110
+486,AIT TAA,DOUAR AIT TAA COMMUNE TIFAROUINE,Tifarouine,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,tifarouine,110
+487,IRYANEN,DOUAR IRYANEN COMMUNE TIFAROUINE,Tifarouine,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,tifarouine,110
+488,AMNOUD,DOUAR AMNOUD COMMUNE NEKKOUR,Nekkour,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,nekkour,111
+489,BNI BOUKHLAF,DOUAR BNI BOUKHLAF COMMUNE NEKKOUR,Nekkour,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,nekkour,111
+490,S/S TAZOURAKHT,DOUAR TAZOURAKHT COMMUNE NEKKOUR,Nekkour,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,nekkour,111
+491,TAZOURAKHT HAUT,DOUAR TAZOURAKHT HAUT COMMUNE NEKKOUR,Nekkour,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,nekkour,111
+492,SS BNI ABDELLAH,centre COMMUNE BNI ABDELLAH,Bni Abdallah,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni abdellah,117
+493,BOUJNANE,DOUAR BOUJNANE COMMUNE BNI ABDELLAH,Bni Abdallah,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni abdellah,117
+494,AL ABOUAB,DOUAR boukhlifa COMMUNE BNI ABDELLAH,Bni Abdallah,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni abdellah,117
+495,BOUSSALAH,DOUAR BOUSSALAH COMMUNE BNI ABDELLAH,Bni Abdallah,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni abdellah,117
+496,SS ZAOUIA,DOUAR ZAOUIA COMMUNE ZAOUIT SIDI ABDELKADER,Zaouiat Sidi Abdelkader,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,zaouiat sidi abdelkader,115
+497,AGHZAR AISSA,DOUAR AGHZAR AISSA COMMUNE ZAOUIT SIDI ABDELKADER,Zaouiat Sidi Abdelkader,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,zaouiat sidi abdelkader,115
+498,TAMCHAT,DOUAR TAMCHAT COMMUNE ZAOUIT SIDI ABDELKADER,Zaouiat Sidi Abdelkader,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,zaouiat sidi abdelkader,115
+499,SS BNI HADIFA,ROUTE PRINCIPALE N9 COMMUNE BNI HADIFA,Bni Hadifa,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni hadifa,116
+500,TAMARKALTE,DOUAR TAMARKALATE COMMUNE BNI HADIFA,Bni Hadifa,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni hadifa,116
+501,IHAROUNEN 1,DOUAR IHAROUNEN  COMMUNE BANI HADIFA,Bni Hadifa,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni hadifa,116
+502,AJDIR,COMMUNE URBAINE   AJDIR,Ajdir,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ajdir,103
+503,AIT HICHAM,DOUAR AIT HICHAM COMMUNE AIT YOUSSEF OU ALI,Ait Youssef Ou Ali,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ait youssef ou ali,112
+504,AJDIR MIXTE,Quartier Al Mazamma Ajdir,Ajdir,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ajdir,103
+505,SOUANI,DOUAR SOUANI COMMUNE AIT YOUSSEF OU ALI,Ait Youssef Ou Ali,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ait youssef ou ali,112
+506,SIDI BOUAFIF, centre SIDI BOUAFIF COMMUNE AIT YOUSSEF OU ALI AL,Ait Youssef Ou Ali,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ait youssef ou ali,112
+507,TAMASSINT I,DOUAR TAMASSINT COMMUNE IMRABTEN,Imrabten,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,imrabten,114
+508,TAMASSINT II,CENTRE TAMASSINT COMMUNE IMRABTEN,Imrabten,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,imrabten,114
+509,AIT ALKADI,DOUAR AIT ALKADI COMMUNE IMRABTEN,Imrabten,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,imrabten,114
+510,IMRABTEN,DOUAR AIT BRAHIM COMMUNE LOUTA,Louta,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,louta,113
+511,IAKIYNE,DOUAR IAKIYNE COMMUNE LOUTA,Louta,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,louta,113
+512,IZAMMOUREN,DOUAR IZAMMOUREN COMMUNE IZAMMOUREN,Izemmouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,izemmouren,118
+513,SS ROUADI I,DOUAR ROUADI COMMUNE ROUADI,Rouadi,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,rouadi,120
+514,BOUGHAMBOU,DOUAR BOUGHAMBOU COMMUNE ROUADI,Rouadi,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,rouadi,120
+515, SS ROUADI II,ROUADI CENTRE COMMUNE ROUADI,Rouadi,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,rouadi,120
+516,ASKRAM,DOUAR ASKRAM COMMUNE ROUADI,Rouadi,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,rouadi,120
+517,SS AIT KAMRA PRIMAIRE,DOUAR AIT KAMRA COMMUNE AIT KAMRA,Ait Kamra,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ait kamra,119
+518,S/S AL AAHD ALJADID,DOUAR IZAFZAFEN COMMUNE AIT KAMRA,Ait Kamra,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ait kamra,119
+519,TAZAGHINE,DOUAR TAZAGHINE COMMUNE AIT KAMRA,Ait Kamra,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ait kamra,119
+520,OULED AHMED,DOUAR OULED AHMED COMMUNE SIDI BOUZINEB,Sidi Bouzineb,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,sidi bouzineb,121
+521,TAZROUT,DOUAR TAZROUT COMMUNE SIDI BOUZINEB,Sidi Bouzineb,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,sidi bouzineb,121
+522,BNI AMMART, BNI AMMART COMMUNE BNI AMMART,Bni Ammart,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni ammart,122
+523,AGHIL AHMED,DOUAR AGHIL AHMED COMMUNE BNI AMMART,Bni Ammart,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni ammart,122
+524,ISKIMEN,DOUAR ISKIMEN COMMUNE BNI AMMART,Bni Ammart,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni ammart,122
+525,ASSAMAR,DOUAR ASSAMAR COMMUNE BNI AMMART,Bni Ammart,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni ammart,122
+526,DALIA,DOUAR DALIA COMMUNE BNI AMMART,Bni Ammart,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni ammart,122
+527,SOUAHEL,DOUAR SOUAHEL COMMUNE ABDELGHAYA SOUAHEL,Abdelghaya Souahel,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,abdelghaya souahel,134
+528,BNI AHMED,DOUAR BNI AHMED COMMUNE ABDELGHAYA SOUAHEL,Abdelghaya Souahel,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,abdelghaya souahel,134
+529,TALGHOUNT,DOUAR TALGHOUNT COMMUNE ABDELGHAYA SOUAHEL,Abdelghaya Souahel,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,abdelghaya souahel,134
+530,IKAWEN,DOUAR IKAWEN COMMUNE ABDELGHAYA SOUAHEL,Abdelghaya Souahel,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,abdelghaya souahel,134
+531,BNI HASSAN,DOUAR BNI HASSAN COMMUNE ABDELGHAYA SOUAHEL,Abdelghaya Souahel,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,abdelghaya souahel,134
+532,AL MANSAF,DOUAR AL MANSAF COMMUNE ABDELGHAYA SOUAHEL,Abdelghaya Souahel,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,abdelghaya souahel,134
+533,SS TIZITCHINE,DOUAR TIZITCHINE COMMUNE MOULAY AHMED CHRIF,Moulay Ahmed Cherif,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,moulay ahmed cherif,130
+534,WARG,DOUAR WARG COMMUNE MOULAY AHMED CHRIF,Moulay Ahmed Cherif,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,moulay ahmed cherif,130
+535,BNI TIMAN,DOUAR BNI TIMAN COMMUNE MOULAY AHMED CHRIF,Moulay Ahmed Cherif,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,moulay ahmed cherif,130
+536,SS ISSAGUEN,CENTRE ISSAGUEN COMMUNE ISSAGUEN,Issaguen,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,issaguen,131
+537,TALAROUAK,DOUAR TALAROUAK COMMUNE ISSAGUEN,Issaguen,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,issaguen,131
+538,AZILA,DOUAR AZILA COMMUNE ISSAGUEN,Issaguen,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,issaguen,131
+539,SS TAMSAOUT,DOUAR TAMSAOUT COMMUNE TAMSAOUT,Tamsaout,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,tamsaout,128
+540,ASSOUL,DOUAR ASSOUL COMMUNE TAMSAOUT,Tamsaout,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,tamsaout,128
+541,BARNASS,DOUAR BARNASS COMMUNE TAMSAOUT,Tamsaout,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,tamsaout,128
+542,ARGUIOUEN,DOUAR ARGUIOUEN COMMUNE TAMSAOUT,Tamsaout,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,tamsaout,128
+543,SS KETAMA,DOUAR KETAMA COMMUNE KETAMA,Ketama,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ketama,129
+544,MOUYA,DOUAR MOUYA COMMUNE KETAMA,Ketama,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ketama,129
+545,ATOUT,DOUAR ATOUT COMMUNE KETAMA,Ketama,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ketama,129
+546,SS TABARANT,DOUAR TABARANTE COMMUNE BNI BOUCHIBET,Bni Bouchibet,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni bouchibet,132
+547,BNI AYACH,DOUAR BNI AYACH COMMUNE BNI BOUCHIBET,Bni Bouchibet,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni bouchibet,132
+548,IMOUGZEN,DOUAR IMOUGZENNE commune bni ahmed amougzenne targ,Bni Ahmed Imoukzan,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni ahmed imoukzan,127
+549,MAZOUZ,DOUAR MAZOUZ COMMUNE BNI AHMED IMOUGZEN,Bni Ahmed Imoukzan,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni ahmed imoukzan,127
+550,SS TAGHZOUT,DOUAR TAGHZOUT COMMUNE TAGHZOUT,Taghzout,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,taghzout,133
+551,BNI YAKHLEF,DOUAR BNI YAKHLEF COMMUNE TAGHZOUT,Taghzout,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,taghzout,133
+552,AIN BENAABOU,DOUAR AIN BENABOU COMMUNE SIDI BOUTMIM,Sidi Boutmim,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,sidi boutmim,123
+553,LHAJ ALI,DOUAR TAOURIRTCOMMUNE SIDI BOUTMIM,Sidi Boutmim,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,sidi boutmim,123
+554,TCHAYEF,DOUAR TCHAYF COMMUNE SIDI BOUTMIM,Sidi Boutmim,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,sidi boutmim,123
+555,OUARSAN,DOUAR OUARSAN COMMUNE ZARKAT,Zarkt,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,zarkt,124
+556,MOULAY MEFTAH,DOUAR MOULAY MEFTAH COMMUNE ZARKAT,Zarkt,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,zarkt,124
+557,ZAOUIAT AL KANATER,DOUAR ZAOUIAT AL KANATER COMMUNE BNI BOUNSAR,Bni Bounsar,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni bounsar,126
+558,TIZI KHATTAB,DOUAR TIZI KHATTAB COMMUNE BNI BOUNSAR,Bni Bounsar,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni bounsar,126
+559,SS BNI BOUNSAR,DOUAR amaktan COMMUNE BNI BOUNSAR,Bni Bounsar,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni bounsar,126
+560,ECOLE ABI HYANETAOUHIDI,HAY AL ADIR AVENUE IBN ROCHD COMMUNE OUEZZANE,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouezzane,163
+561,ECOLE ABI MOUSSA AL ACHAARI,TARIK SIDI AHMED BOUHDAN HAY ALKACHRIYINE OUEZZANE,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouezzane,163
+562,ECOLE IBN HANIE,Qu Agadir Route de rabat n 274,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouezzane,163
+563,ECOLE AL MOSSALLA,q haddadine COMMUNE OUEZZANE,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouezzane,163
+564,ECOLE AL IMAM ALI BNOU ABI TALIB,Quartier Laadir Lot.Ikrame Avenue Abdelkhalek Torr,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouezzane,163
+565,ECOLE MOULAY AL MAHDI AL WAZZANI,AVENUE HOMMANE AL FATOUAKI COMMUNE OUEZZANE,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouezzane,163
+566,ECOLE AL FAKIH RHOUNI,HAY AGADIR AVENUE MOHAMMED V  COMMUNE OUEZZANE,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouezzane,163
+567,ECOLE AL HASSANIA ,OUEZZANE ,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouezzane,163
+568,ECOLE MOHAMED BEN AL HASAN AL OUAZZANI,quartier agadir,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouezzane,163
+569,ECOLE SALAH EDINE ELAYOUBI,HAY PALESTINE  COMMUNE OUEZZANE,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouezzane,163
+570,ECOLE AL MASSIRA 1,quartier al hadadine,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouezzane,163
+571,SS Touria Chaouui,DOUAR LHAMMARA COMMUNE MZEFROUNE,Mzefroune,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,mzefroune,164
+572,SS 6 NOVEMBRE,DOUAR DCHAR ALIA COMMUNE MZEFROUNE,Mzefroune,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,mzefroune,164
+573,SS Mohamed Meziane Belfkih,CENTRE  SOUK ASSABT,Masmouda,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,masmouda,165
+574,SS BNI MALEK,DOUAR BNI MALEK COMMUNE MASMOUDA,Masmouda,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,masmouda,165
+575,SS HOMMANE AL FATOUAKI1,COMMUNE MASMOUDA,Masmouda,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,masmouda,165
+576,SS Mohamed Abed Al-Jabri,DOUAR RMEL  COMMUNE MASMOUDA,Masmouda,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,masmouda,165
+577,SS AL MANFALOUTI,KHANDAK AL BIR  COMMUNE MASMOUDA,Masmouda,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,masmouda,165
+578,SS ABDELLAH BEN MASAOUD,DOUAR LAMNASRA COMMUNE BNI QUOLLA,Bni Quolla,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,bni quolla,167
+579,SS ABDELKRIM AL KHATTABI,DOUAR RMILA  COMMUNE BNI QUOLLA OUEZZANE,Bni Quolla,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,bni quolla,167
+580,SS DRISS II,DOUAR DCHIRA COMMUNE BNI QUOLLA,Bni Quolla,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,bni quolla,167
+581,SS OUED ADDAHAB,DOUAR RMIEL COMMUNE BNI QUOLLA,Bni Quolla,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,bni quolla,167
+582,SS TABARI,DOUAR DAR CHEIKH COMMUNE BNI QUOLLA,Bni Quolla,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,bni quolla,167
+583,SS ALLAL BEN ABDELLAH,douare zowakine   COMMUNE SIDI REDOUANE,Sidi Redouane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,sidi redouane,166
+584,SS IBN TOUFAIL,DOUAR TAKSERT COMMUNE SIDI REDOUANE,Sidi Redouane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,sidi redouane,166
+585,SS ABOU ALKASSEM ALZAHRAOUI,DOUAR TAMALOUS COMMUNE SIDI REDOUANE,Sidi Redouane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,sidi redouane,166
+586,SS AZZAITOUNE,DOUAR AL KAITOUNE COMMUNE SIDI REDOUANE,Sidi Redouane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,sidi redouane,166
+587,S S MOHAMED ABDOU,DOUAR LABGHALE COMMUNE OUENNANA,Ounnana,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouannana,170
+588,SS Abdelmalek Essaâdi ,DOUAR LHERRICHA COMMUNE OUNNANA,Ounnana,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouannana,170
+589,SS MAEROUF ALROUSAFI,DOUAR  LAKTOT  COMMUNE OUNNANA OUAZZANE,Ounnana,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouannana,170
+590,SS  Ibn Baja,DOUAR FRAWA COMMUNE OUNNANA,Ounnana,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouannana,170
+591,SS JAAFAR BNOU ATIA,LAMJAARA CENTRE COMMUNE LAMJAARA,Lamjaara,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,lamjaara,171
+592,SS SED LOUAHDA,SED LOUAHDA  COMMUNE LAMJAARA,Lamjaara,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,lamjaara,171
+593,SS Abou el Kacem Chebbi,AIN DORRIJ CENTRE COMMUNE LAMJAARA,Lamjaara,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,lamjaara,171
+594,SS MOSSAB IBN OMAIR,DOUAR TARFANIA COMMUNE LAMJAARA,Lamjaara,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,lamjaara,171
+595, SS AL IMAM AL JAZOULI,DOUAR TEROUAL CENTRE  COMMUNE TEROUAL,Teroual,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,teroual,168
+596,SS IBN MANDOUR,DOUAR BAKKALA COMMUNE TEROUAL,Teroual,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,teroual,168
+597,SS OKBA IBNOU NAFII ,DOUAR HNATTA COMMUNE ZGHIRA,Zghira,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zghira,169
+598,SS Mohamed Choukri,DOUAR AZZABA COMMUNE ZGHIRA,Zghira,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zghira,169
+599,SS ABD RAHMAN ALDAKHIL,DOUAR MASTITEF COMMUNE ZGHIRA,Zghira,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zghira,169
+600,SS SIDI ALLAL ZGHARI,DOUAR SIDI ALLAL ZGHARI COMMUNE TEROUAL,Teroual,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,teroual,168
+601,SS IBN ZAYDOUNE,DOUAR KHIR BENNAINE COMMUNE SIDI AHMED CHERIF,Sidi Ahmed Cherif,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,sidi ahmed cherif,172
+602,SS TAHA HOUSEINE,DOUAR SEDERYENE  COMMUNE SIDI AHMED CHERIF,Sidi Ahmed Cherif,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,sidi ahmed cherif,172
+603,SS SIDI BOUZITOUNE,DOUAR SIDI BOUZITOUNE COMMUNE SIDI AHMED CHERIF,Sidi Ahmed Cherif,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,sidi ahmed cherif,172
+604,SS Al-Khwarizmi,CENTRE  SIDI BOUSBER,Sidi Bousber,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,sidi bousber,173
+605,SS Tariq ibn Ziyad,DOUAR MAHLIL COMMUNE SIDI BOUSBER,Sidi Bousber,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,sidi bousber,173
+606,SS SIDI SOUFI,DOUAR SIDI SOUFI COMMUNE SIDI BOUSBER,Sidi Bousber,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,sidi bousber,173
+607,ECOLE PRIMAIRE HAFSA OUM  ALMOUMININE,HAY MARCHAN RUE EL KORTOBI COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+608,ECOLE PRIMAIRE KHANSAA,HAY MARCHAN AVMOHAMED HAJ TAZI COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+609,ECOLE PRIMAIRE ABDELLAH GUENNOUN,45 RUE KACEM GUENOUN COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+610,ECOLE PRIMAIRE FATIMA FIHRIA,RUE BEN ABOU N18 KASBAH COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+611,ECOLE PRIMAIRE OKBA IBN NAFIE,AVENUE MABARRA N54 COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+612,ECOLE PRIMAIRE HASSAN PREMIER,AVENUE HASSAN PREMIER nO 50 COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+613,ECOLE PRIMAIRE HASSAN HOSSARI,48 AVENUE SALAH EDINE AYOUBI COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+614,ECOLE PRIMAIRE IBN ZAIDOUN,RUE DES AMOUREUX COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+615,ECOLE PRIMAIRE KADI AYAD,TARIK EL JABAL DRADEB COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+616,ECOLE PRIMAIRE SOUKAINA,TARIK EL JABAL DRADEB COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+617,ECOLE PRIMAIRE 9 AVRIL,RUE BANAFSAJ COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+618,ECOLE PRIMAIRE IBNOU ACHIR,RUE JAMAA MEKRAA COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+619,ECOLE PRIMAIRE ABDERRAHMAN ANEGAY,AVSIDI MOHAMED BEN ABDELLAH COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+620,ECOLE PRIMAIRE AHMED CHAOUKI,AV LA RESISTANCE PLACE AFRIQUE ,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+621,ECOLE PRIMAIRE MOUJAHIDIN,RUE MOUJAHIDIN COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+622,ECOLE PRIMAIRE MOUAD IBN JABAL,quartier MESNANA ROUTE ZIATEN COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+623,ECOLE PRIMAIRE MOUSSA BEN NOUSSAIR,HAY ANDALOUS COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+624,ECOLE PRIMAIRE BADRIOUINE ,DOUAR BADRIOUINE COMMUNE gzenaya,Gueznaia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,gueznaia,36
+625,ECOLE PRIMAIRE OUM AYMAN,RUE RKAINA N6 COMMUNE CHARF,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,souani,181
+626,ECOLE PRIMAIRE MOHAMED HASSAN EL OUAZANI,RUE OUED ZIZ CASTILLA COMMUNE CHARF,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,souani,181
+627,ECOLE PRIMAIRE JOULANE,NOUVEAU QUARTIER COMMUNE CHARF,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,souani,181
+628,ECOLE PRIMAIRE RABIA EL ADAOUIA,NOUVEAU QUARTIER COMMUNE CHARF,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,souani,181
+629,ECOLE PRIMAIRE YOUSSEF IBN TACHFINE,NOUVEAU QUARTIER COMMUNE CHARF Souani,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,souani,181
+630,ECOLE PRIMAIRE MOULAY ABDESSALAM,IBN BATOTA AV FAYSAL IBN ABDELAZIZ COMMUNE CHARF S,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,souani,181
+631,ECOLE PRIMAIRE AL KODS ,19 avenue Ibn ardoune hay jadid COMMUNE SOUANI,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,souani,181
+632,ECOLE PRIMAIRE KHADIJA OUM MOUMININE,AVENUE MOULAY SLIMAN COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+633,ECOLE PRIMAIRE OUELADA,PLACE TAFILALT R OUIDA COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+634,ECOLE PRIMAIRE EL BOUGHAZ,AVABDELAZIZ BENCHEKROUN BOUGHAZ COMMUNE CHARF,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,souani,181
+635,ECOLE PRIMAIRE SIJILMASSA,AVENUE MOULAY SLIMAN HAY RODA COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+636,ECOLE PRIMAIRE IBNOU HAZM,HAY BOUHOUT COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+637,ECOLE PRIMAIRE AL ADARISSA,BOUHOUT rue masoudi  COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+638,ECOLE PRIMAIRE KACEM BEN IDRISS,QUARTIER IDRISSIA 2 COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+639,ECOLE PRIMAIRE IMAM EL GHAZALI, BELLE VUE RUE SAIDENA HAMZA COMMUNE MGHOGHA TANGE,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+640,ECOLE PRIMAIRE IDRISS PREMIER,HAY TANJAH BALIA COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+641,ECOLE PRIMAIRE CHAHID MOHAMED ZERKTOUNI,PLACA DE TORRO COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+642,ECOLE PRIMAIRE SIDI AHMED BEN AJIBA,GRANDE MGHOUGHA COMMUNE CHARF mghougha,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+643,ECOLE PRIMAIRE CHRIF MOHAMED AMEZIANE,SANIA JADIDA COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+644,ECOLE PRIMAIRE MEHDI IBN TOUMERT,avenue abou chama LOTISSEMENT DAOULA Beni makada,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+645,ECOLE PRIMAIRE SALAH EDDINE AYOUBI,HAY BENKIRANE COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+646,ECOLE PRIMAIRE EL WAHA,M GHOUGHA SGHIRA COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+647,ECOLE PRIMAIRE AL IRCHAD,RUE FEKIH KERDOUDI HAY BENKIRANE COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+648,ECOLE PRIMAIRE FATIMA ZAHRA,QUARTIER BRANES 1 COMMUNE CHARF SOUANI RUE IBN LFA,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,souani,181
+649,ECOLE PRIMAIRE OMAR IBN AL KHATTAB,QUARTIER BEN DIBANE COMMUNE BNI MAKADA,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,souani,181
+650,ECOLE PRIMAIRE ABI HAYYAN ATTAWHIDI,QUARTIER OUARDA BEN DIBANE COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+651,ECOLE PRIMAIRE DAKHLA,QUARTIER BEN DIBANE COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+652,ECOLE PRIMAIRE ANNASR,Lotissement oumnia  BEN DIBANE  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+653,ECOLE PRIMAIRE MALIK IBN ANASS,QUARTIER JIRARI RUE 1 COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+654,ECOLE PRIMAIRE 6 NOVEMBRE,QUARTIER JIRARI 2 COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+655,ECOLE PRIMAIRE 20 AOUT,QUARTIER  BIR CHIFA  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+656,ECOLE PRIMAIRE ATTABARANI,QUARTIER BIR CHIFA COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+657,ECOLE PRIMAIRE IBN ZOHR,QUARTIER Rgayaa  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+658,ECOLE PRIMAIRE CHARIF EL IDRISSI,QUARTIER SALAM JIRARI 3  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+659,ECOLE PRIMAIRE ABOU BAKR LAMTOUNI,QURTIER ACHENNAD   COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+660,ECOLE PRIMAIRE IMAM EL BOUKHARI,ARRONDISSEMENT BEN DIBANE  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+661,ECOLE PRIMAIRE MABROUKA,ROUTE SIDI DRISS   BENDIBANE  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+662,ECOLE PRIMAIRE IBN SAID EL MAGHRIBI,QUARTIER ESSALAM 1  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+663,ECOLE PRIMAIRE IBN HANBAL,QUARTIER BIR AHARCHOUN COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+664,ECOLE PRIMAIRE 18 NOVEMBRE,QUARTIER BENI OURIAGHEL COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+665,ECOLE PRIMAIRE MOKHTAR SOUSSI,QUARTIER BEN DIBANE  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+666,ECOLE PRIMAIRE HASSAN BEN SADDEK,QUARTIER BIR CHIFA  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+667,ECOLE PRIMAIRE SIDI BOUARAKIA,QUARTIER ZAHRA AOUAMA COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+668,ECOLE PRIMAIRE MOHAMED EL IDRISSI,AVENUE PRINCE HERITIER MUNICIPALITE ASSILAH BP 224,Assilah,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,assilah,35
+669,ECOLE PRIMAIRE MOKHTAR EL BAKKALI,QUARTIER ZERKTOUNI MUNICIPALITE ASSILAH,Assilah,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,assilah,35
+670,ECOLE PRIMAIRE IBN KHALDOUN,PLACE IBN KHALDOUN MUNICIPALITE ASSILAH,Assilah,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,assilah,35
+671,ECOLE PRIMAIRE MOHAMED ALI MARZOUK,PLACE IBN KHALDOUN MUNICIPALITE ASSILAH,Assilah,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,assilah,35
+672,ECOLE PRIMAIRE IMAM MALEK,RUE ANOUAL N63 MUNICIPALITE ASSILAH,Assilah,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,assilah,35
+673,ECOLE PRIMAIRE ALLAL IBN ABDELLAH,avenue al yarmouk MUNICIPALITE ASSILAH,Assilah,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,assilah,35
+674,ECOLE PRIMAIRE DEGHALEYINE,QUARTIER DEGHALEYINE MUNICIPALITE ASSILAH,Assilah,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,assilah,35
+675,ECOLE PRIMAIRE HAD GHARBIA,HAD GHARBIA ,Had Al Gharbia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,had al gharbia,43
+676,ECOLE PRIMAIRE OULED ANTAR,DOUAR OULED ANTAR COMMUNE HAD GHARBIA,Had Al Gharbia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,had al gharbia,43
+677,ECOLE PRIMAIRE SIDI EL YAMANI,CENTRE SIDI LYAMANI COMMUNE SIDI LYAMANI bp 15,Sidi Lyamani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,sidi lyamani,45
+678,ECOLE PRIMAIRE HALIMA SAADIA,AZIB HADJ KADOUR RTE DE RABAT COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+679,SECTEUR SCOLAIRE JBILA,QUARTIER JBILA COMMUNE TANGER MEDINA,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+680,ECOLE PRIMAIRE ABI HORAYRA,quartier RAHRAH boubana,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+681,GROUPE SCOLAIRE ABDELHAMID HSSAIN,ROUTE DE RABAT KM 12 COMMUNE GZANAIA,Gueznaia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,gueznaia,36
+682,ECOLE PRIMAIRE AIN EL ASSEL,DOUAR AIN EL ASSEL COMMUNE gzenaya,Gueznaia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,gueznaia,36
+683,SECTEUR SCOLAIRE HAJRAT NHAL,DOUAR Hjar nhal commune hjar nhal,HJAR ENNHAL,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,hjar ennhal,37
+684,ECOLE PRIMAIRE AL FARAHIDI,DOUAR ZIATEN COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+685,ECOLE PRIMAIRE IBN TAYMIYYA,MEDCHAR BOUKHALEF COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+686,SECTEUR SCOLAIRE DAIDAT,DOUAR DAIDAT COMMUNE BOUKHALEF,HJAR ENNHAL,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,hjar ennhal,37
+687,ECOLE PRIMAIRE TAHA ABDERRAHMANE,QUart BENI SAID bahrayen COMMUNE BNI MAKADA TANGER,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+688,ECOLE PRIMAIRE MOHAMMED CHOUKRI,ROUTE SIDI DRISS QUATIER AHARARINe DJ BANI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+689,SECTEUR SCOLAIRE RAMLA,DOUAR RAMLA COMMMUNE DAR CHAOUI,Dar Chaoui,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,dar chaoui,38
+690,SECTEUR SCOLAIRE KHANDAK SNAN,DOUAR KHANDAK ASNAN COMMUNE DAR CHAOUI,Dar Chaoui,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,dar chaoui,38
+691,SECTEUR SCOLAIRE ZOUA,DOUAR ZOUA COMMUNE AL MANZLA,Al Manzla,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,al manzla,39
+692,SECTEUR SCOLAIRE AZZINATE,DOUAR AZZINATE COMMUNE AZZINATE,Sebt Azzinate,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,sebt azzinate,41
+693,SECTEUR SCOLAIRE ROUIYEF,DOUAR ROUIYEF COMMUNE AZZINATE,Sebt Azzinate,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,sebt azzinate,41
+694,SECTEUR SCOLAIRE BRIECHE,DOUAR BRIECH COMMUNE AQUOUASS BRIECH,Aquouass Briech,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,aquouass briech,42
+695,SECTEUR SCOLAIRE EL HAD LAKDIM,DOUAR DAIDAA COMMUNE  had gharbia,Had Al Gharbia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,had al gharbia,43
+696,SECTEUR SCOLAIRE BRIDYA,DOUAR BRIDYA COMMUNE had elgharbia,Had Al Gharbia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,had al gharbia,43
+697,SECTEUR SCOLAIRE RFAYEF,DOUAR RFAIF COMMUNE had gharbia,Had Al Gharbia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,had al gharbia,43
+698,SECTEUR SCOLAIRE OULED ABBOU,DOUAR OULED ABBOU COMMUNE HAD GHARBIA,Had Al Gharbia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,had al gharbia,43
+699,SECTEUR SCOLAIRE AHMED ELBAKKALI,MDR GHANEM COMMUNE SAHEL CHAMALI,Sahel Chamali,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,sahel chamali,44
+700,SECTEUR SCOLAIRE OULED RIAHI,DOUAR OULAD RIAHI COMMUNE SIDI LYAMANI,Sidi Lyamani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,sidi lyamani,45
+701,SECTEUR SCOLAIRE GOUARET,aouama,Laaouama,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,laaouama,40
+702,SECTEUR SCOLAIRE DAIMOUSSE,daymous,Laaouama,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,laaouama,40
+703,ECOLE PRIMAIRE MOHAMED MEKKI NACIRI ,DOUAR AOUAMA chrkia COMMUNE AOUAMA ,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+704,ECOLE PRIMAIRE KHALID MECHBAL,DOUAR AZIB ABAKKIOU  COMMUNE charf mghougha,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+705,ECOLE PRIMAIRE ABDELHADI BOUTALEB,DOUAR GUENBOURIA  COMMUNE BNI MAKADA  TANGER,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+706,ECOLE PRIMAIRE ABDELLAH BENSEDDIK,DOUAR LAHJAR LASFAR  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+707,SS NOUINOUICH,VILLAGE NOUINOUICH  COMMUNE EL BAHRAOUIYINE,Al Bahraoyine,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,al bahraoyine,74
+708,Ecole Primaire ALMANAR,VILLAGE LEMNAR  COMMUNE BAHRAOUIYINE ,Al Bahraoyine,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,al bahraoyine,74
+709,SS FEDAN CHAPOU,VILLAGE FEDDAN CHAPOU  COMMUNE BAHRAOUIYINE ,Al Bahraoyine,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,al bahraoyine,74
+710,SS KSAR SGHIR,KSAR SEGHIR COMMUNE KSAR SGHIR  ,Ksar Sghir,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,ksar sghir,75
+711,SS HASSANA,VILLAGE HASSANA  COMMUNE KSAR SGHIR ,Ksar Sghir,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,ksar sghir,75
+712,SS LCHEHBA,DOUAR LECHBACOMMUNE KSAR SGHIR ,Ksar Sghir,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,ksar sghir,75
+713,SS AMLIECH,VILLAGE AMLIECH  COMMUNE KSAR SGHIR ,Ksar Sghir,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,ksar sghir,75
+714,SS KHANDAK ZRARAE,DOUAR KHANDAK ZRARAe COMMUNE KSAR SGHIR ,Ksar Sghir,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,ksar sghir,75
+715,SS AGUENOUANE,DOUAR AGuENOUANE COMMUNE KSAR SGHIR,Ksar Sghir,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,ksar sghir,75
+716,SS MELOUSSA,KIADAT MELLOUSSA  COMMUNE MELLOUSSA ,Malloussa,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,malloussa,73
+717,SS ERROUMAN,DOUAR ERROUMAN COMMUNE MELLOUSSA ,Malloussa,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,malloussa,73
+718,SS ZEMMIJ,DOUAR ZEMMIJ  COMMUNE MELLOUSSA ,Malloussa,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,malloussa,73
+719,SS AL HAMOUMI,DOUAR AL HAMOUMI COMMUNE MELLOUSSA  ,Malloussa,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,malloussa,73
+720,ECOLE PRIMAIRE EL BOSSAIRI,QUARTIER rgayae 2 rue 4  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+721,ECOLE BOUGHALEB EL HOUSSIN  SOUSSI,HAY nahda  COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+722,ECOLE SIDI ISSA BEN KACEM,HAY assalammahfar hazan  COMMUNE KSSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+723,ECOLE ABDALLAH GUENOUNE,lotissement kodia COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+724,ECOLE MOHAMED BELHASSAN EL OUAZZANI,LOTISSEMENT MAGHREB JADID COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+725,ECOLE ABDALLAH CHEFCHAOUNI,LOTISSEMENT LAMZOURI  COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+726,ECOLE DRISS EL HRIZI,HAY ESSALAM  COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+727,LAHSAN,DOUAR LAHSAN COMMUNE SIDI BOUTMIM,Sidi Boutmim,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,sidi boutmim,123
+728,OUED MAHKEM,DOUAR OUED MAHKEM COMMUNE BNI BCHIR,Bni Bchir,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni bchir,125
+729,TATAYACHT,DOUAR TATAYECHT  COMMUNE BNI BCHIR,Bni Bchir,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni bchir,125
+730,AZGHAR,DOUAR AZGHAR COMMUNE KETAMA,Ketama,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ketama,129
+731,BEL HAK,DOUAR BEL HAK COMMUNE BNI GMIL MAKSOULINE,Bni Gmil Maksouline,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni gmil maksouline,106
+732,IZARIAHEN,DOUAR IZARIAHEN COMMUNE SENADA CERCLE BNI BOUFRAH,Senada,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,senada,105
+733,HASSAN 1 ER,QUARTIER DU SOUK IMZOUREN CENTRE,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,imzouren,101
+734,IHAROUNEN 2,DOUAR IGZANAYEN COMMUNE BNI BOUFRAH,Bni Boufrah,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni boufrah,104
+735,LAAZIB CHEKKARA,DOUAR LAAZIB CHEKKARA COMMUNE ABDELGHAYA SOUAHEL,Abdelghaya Souahel,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,abdelghaya souahel,134
+736,ECOLE AL KHAOUARIZMI,RUE ALI IBN ABI TALEB HAY AL ISTIQLAL,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,m'diq,46
+737,ECOLE OUYOUNE SAKIA AL HAMRA,ROUTE DE KSAR SGHIR HAY MARJA  FNIDEQ,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,fnideq,47
+738,SS OUELMSA,DOUAR OUELMSACMTIOUACHEFCHAOUEN,M'tioua,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,m'tioua,140
+739,²,DOUAR LAHRA MANSOURA sofla commune mansoura,Mansoura,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,mansoura,147
+740,SS ZDEMTE,DOUAR ZDEMTE C BNI SMIH CHEFCHAOUEN,Bni Smih,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni smih,143
+741,SS DAR MNATE,DOUAR DARMNATE C BNI SALMANE CHEFCHAOUEN,Bni Selmane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni selmane,156
+742,SS TAZAKHTE,DOUAR TAZAKHTECBNI SELMANECHEFCHAOUEN,Bni Selmane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,bni selmane,156
+743,SS BOURD,DOUAR BOURDCSTEHACHEFCHAOUEN,Steha,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,steha,159
+744,BOURMANE,DOUAR BOURMANE  C TIZGANE CHEFCHAOUEN,Tizgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tizgane,160
+745,SS BNI M HAMED,DOUAR BNI MHAMEDCTALAMBOTCHEFCHAOUEN,Talambote,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,talambote,162
+746,SS OMAR IBNOU ABDELAZIZ,DOUAR OULED SAID LGHABA COMMUNE ZOUADA,Zouada,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,zouada,83
+747,ecole ABDELAZIZ BEN CHAKROUN,QUARTIER TUIBLA   TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+748,SS AIN LIN, DOUAR AIN LINE COMMUNE rURALE  AL ILLYENE,Allyene,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,allyene,49
+749,SS DAYA,DOUAR DAYA CJOUAMAA,Jouamaa,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,jouamaa,76
+750,TAMIANAST,DOUAR TAMIANAST COMMUNE BNI AHMED IMOUGZEN,Bni Ahmed Imoukzan,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni ahmed imoukzan,127
+751,SS IDAMAMEN SOUFLA,DOUAR IDMAMEN SOUFLA Commune  OUED beni hassan,Al Oued,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,al oued,65
+752,ECOLE PRIMAIRE EL ANDALOUSS,AVENUE ALKODS LOTISSEMENT AL ANDALOUSS AOUAMA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+753,SS BOUABAD SOUFLI,DOUAR BOUaBAD C KSAR EL MAJAZ,Ksar El Majaz,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,ksar el majaz,79
+754,SS TAKAT AMER,DOUAR TAKAT AMER C BNI IDDER TETOUAN,Bni Idder,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,bni idder,61
+755,SS BNI OUASSIM,DOUAR BNI MTAA C SAHTRYINE ,Sahtryine,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,sahtryine,60
+756,ecole MHAMED AZZIMANE,AVALI YAATA  N8    AIN  MALLOULE,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+757,ecole TARIK AL WAHDA,hay koelma rue bni hdifa    ,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+758,ecole MOHAMMED AL HALOUI,AL ICHARA JBEL DERSA COMMUNE TETOUA AL AZHAR,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+759,ECOLE BADRE,HAY AL QODS COMMUNE MARTIL TETOUAN ,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,martil,48
+760,ECOLE PRIMAIRE LAAYOUNE,HAY BENKIRANE COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+761,ECOLE PRIMAIRE 11 JANVIER,ROUTE ZIATEN MESNANA COMMUNE TANGER ,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+762,ECOLE PRIMAIRE OHOUD,QUARTIER AL BOUCHAZ COMMUNE CHARF,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,souani,181
+763,ECOLE PRIMAIRE BADR,ROUTE EL AOUAMA COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+764,ECOLE PRIMAIRE ZALAKA,LOTISSEMENT NAHDA COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+765,ECOLE PRIMAIRE EL MOSTAKBAL,LOTISSEMENT ALKHAIR  BIR CHIFA COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+766,LA NOUVELLE ECOLE PRIMAIRE,LOTISSEMENT AL MAJD COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+767,ECOLE PRIMAIRE EL BADIA,QUARTIER ACHENNAD lmars COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+768,ECOLE PRIMAIRE ABDELLAH IBRAHIM,QUARTIER BIR CHIFA COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+769,ECOLE PRIMAIRE EL FATH,QUARTIER BIR CHIFA COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+770,ecole FKIH LARBI LOUH,MOKLATA TETOUAN KOUELMA,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+771,ECOLE IBN BAJA,QUARTIER LABRAREK FNIDEQ,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,fnideq,47
+772,ECOLE PRIMAIRE HASSAN DAKHIL,QUARTIER bel air SOUANI COMMUNE CHARF,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,souani,181
+773,ECOLE PRIMAIRE CHAKIB ARSALANE,COLLINE CHARF COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+774, ECOLE HASSAN EL ARAICHI,cartier chorfa  centre khmis  sahel,Sahel,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,sahel,93
+775, ANASSEL HADDADINE CENTRE,DOUAR ANASSEL HADDADINE COMMUNE SOUK L QOLLA,Souk L'Qolla,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,souk l'qolla,87
+776,S/S Abdellah Guennoun,DOUAR ALBAAGINE COMMUNE ASJEN OUEZZANE,Asjen,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,asjen,175
+777,SS ELMSALLA,DOUAR ELMASALLA COMMUNE tanakoub,Tanaqoub,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tanaqoub,154
+778,ECOLE PRIMAIRE AHMED BALAFRIJ,HAY BNI OUERYAGHIL COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+779,ECOLE PRIMAIRE EL MAJD,rue force royale km 7 route de rabat harariene,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+780,ECOLE PRIMAIRE ABDERRAHIM BOUABID,HAY JIRARI III COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+781,ECOLE PRIMAIRE AHMED BOUKMAKH,DOUAR AOUAMA COMMUNE LAAOUAMA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+782,OMAR BNOU ABDELLAZIZ,TARGUIST CENTRE,Targuist,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,targuist,102
+783,IBNOU BATOUTA,HAY AGADIR BNI BOUAYACH,Bni Bouayach,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni bouayach,100
+784,SS KALAA TANAKOUB,DOUAR EL KALAA COMMUNE TANAQOUB,Tanaqoub,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tanaqoub,154
+785,ECOLE PRIMAIRE IMAM ALI, M GHOUGHA ljadida COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+786,ECOLE PRIMAIRE AL AMAL,quartier MESNANA ROUTE ZIATEN COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+787,sS RMILATE,DOUDR RMILAT CUMARTIL,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,martil,48
+788,ECOLE ANOUAL ,DOUAR BOUZAGHLAL CUMDIQ,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,m'diq,46
+789,SS IKHADDACHEN,DOUAR IKHADDACHEN CSAHTRYINE,Sahtryine,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,sahtryine,60
+790,SS AL HADDADINE,DOUAR AL HADDADINE CSAHTRYINE,Sahtryine,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,sahtryine,60
+791,SS LAHZOMRIECH,DOUAR LAHZOMRIECH   COMMUNE SAHTRYINE,Sahtryine,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,sahtryine,60
+792,ECOLE PRIMAIRE ABDEL KARIM EL KHATIB,QUARTIER EL HADDAD  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+793,ECOLE PRIMAIRE EL KHAIR,QUARTIER ELKHAIR1BNI MAKADA TANGER,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+794,Ecole Primaire BNI OUASSINE,DOUAR BNI OUASSINE CBAHRAOYINE,Al Bahraoyine,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,al bahraoyine,74
+795,SS AGHERMALEK,DOUAR AGHERMALEK  CRMTIOUA,M'tioua,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,m'tioua,140
+796,ECOLE PRIMAIRE THOURIA SEKKAT,ecole primaire thouria sekkat route achakar COMMUN,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+797,ss ABOU AL KACIM ACHABI,CU OUED LAOU,Oued Laou,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,oued laou,52
+798,ECOLE AL FKIH ASSARRAJE,Hay SALAM AV NASR MDIQ,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,m'diq,46
+799,ECOLE PRIMAIRE JAHID,HAY TANJAH BALIA COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+800,Ecole Dar Dmana,LOT NAHDA,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,ouezzane,163
+801,MEDERSATCOM MNOUD, Douar Mnoud  COMMUNE NEKOR,Nekkour,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,nekkour,111
+802,ECOLE AOULAD BEN ALLAL,DOUAR aOULAD BEN ALLAL TANAQOUB,Tanaqoub,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,tanaqoub,154
+803,ECOLE EL MESKA ,DOUAR EL MESKA C MOKRISSAT,Moqrisset,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,moqrissat,176
+804,ECOLE PRIMAIRE OULAD ATTIA,dOUAR OULad ATTIA COMMUNE SIDI YAMANI,Sidi Lyamani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,sidi lyamani,45
+805,ECOLE PRIMAIRE BOUGDOUR,madchar bougdour commune hajrat nhal,HJAR ENNHAL,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,hjar ennhal,37
+806,ecole MOHAMMED SEBBAGH,LOTISSEMENT AL OUIKAYA TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+807,ECOLE AL AHD AL JADID,QUARTIER AHRIK av el makbara MARTIL,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,martil,48
+808,ecole AHMED BOUKMAKH,QUARTIER ANNAKATA ,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+809,ECOLE BAB SOUK,BAB SOUK CHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,chefchaouen,135
+810,ECOLE PRIMAIRE HASSAN 2,AZIB L HAJ KADDOURROUTE DE RABATTANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+811,SECTEUR SCOLAIRE CHRAKA SOUFLA,DOUAR CHRAKA COMMUNE hjar ennahl,HJAR ENNHAL,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,hjar ennhal,37
+812,ECOLE ETTABARI  2,OULAD HMAID KSAR ELKEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+813,MADRASSATCOM bni hadifa,centre bni hdifa,Bni Hadifa,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni hadifa,116
+814,SS SANIAT TORRES,HAY SANIAT TORRES ROUTE DE SEBTA  MDIQ,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,m'diq,46
+815,SS TAMALOUT,douar tamatout c ouled ali mansour,Oulad Ali Mansour,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,oulad ali mansour,66
+816,SS IFARTEN  TOUGHNATEN,douar ifarten oulad ali mansour,Oulad Ali Mansour,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,oulad ali mansour,66
+817,ECOLE IBNOU ZOHR,ibnou zohr hay assalam ksar el kebir,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+818,ECOLE JABER IBNOU HAYANE,lottissement ZEKANE BLAD EL HAWARI,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+819,ECOLE PRIMAIRE ASSALAM,ZONE INDUSTIELLE GZENNAYA,Gueznaia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,gueznaia,36
+820,ECOLE ABDELLAH CHEFCHAOUNI      ,HAY SALAM,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,m'diq,46
+821,ECOLE AL KHAOUARIZMI,lot maghreb el jadid,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+822,GROUPE SCOLAIRE AL IMAM ACHATIBI,HAY KHREB COM CHARFMGHOGHA,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+823,ECOLE 18 NOVEMBRE,hay al aghrasse martil,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,martil,48
+824,ECOLE ABDESSAMAD ELKANFAOUI,LOTISSEMENT ALMAGHREB ELJADID,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+825,MEDRASET COM,quartier al manar 1 ,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+826,ecole IDRISS PREMIER,hay koelma,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+827,ECOLE IBN TAWIT,LOT MIXTA,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,martil,48
+828,ECOLE ABI BAKR SADIK,BOUZGHLAL,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,m'diq,46
+829,ECOLE PRIMAIRE AL MOUHITE,Lot al mouhite boukhalef,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+830,ECOLE PRIMAIRE AL IRFANE,lot al irfane 1  tanger,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+831,ECOLE PRIMAIRE AL IKHLASSE, lot al ikhlasse route de tetouan MGHOUGHA,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+832,ECOLE PRIMAIRE ABOU BAKR ASSADIK,lot kanouni mghogha,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+833,ÉCOLE AMAL,manar2,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+834,ECOLE AGHETASSE,hay aghETASSE,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,fnideq,47
+835,ecole FATIMA AL FIHRIA,quartier taboula,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+836,ECOLE PRIMAIRE MOHAMMED ELHADDAD,Aouma Al Gharbia,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+837,ECOLE AIN CHOUFOU,HAY AIN CHOUFOU MDIQ,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,m'diq,46
+838,ECOLE OUM KALTOUM ,LOTISSEMENT OUM KALTOUM,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,martil,48
+839,ECOLE PRIMAIRE EL WAHDA,Mers 2 benimakada ,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+840,ECOLE PRIMAIRE MOULAY YOUSSEF,bir chifa,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+841,SS ELYASSAMINE,chrafate jouAmaa FAHS ANJRA,Jouamaa,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,primaire,fahs anjra,jouamaa,76
+842,AHMED BOUKMAKH,cartier ait amhand,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,imzouren,101
+843,OUM ALBANINE,IMZOUREN ,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,imzouren,101
+844,ECOLE PRIMAIRE EL BARAKA,Lotissement Baraka,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+845,ECOLE PRIMAIRE OTTMANE IBN AFFANE,Quartier Zaidiyine,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+846,ECOLE PRIMAIRE AL KORTOBI,mesnana,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+847,ECOLE PRIMAIRE EL MOTANABI,hay almizane bani makada tanger,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+848,ECOLE PRIMAIRE ARRABIE,COMPLEXE AL HASSANI,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+849,ECOLE PRIMAIRE ANNAMAE,COMPLEXE BARAKA1. LMERS,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+850,ECOLE PRIMAIRE BENI SAID ,bni said  commune  agzenaya,Gueznaia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,gueznaia,36
+851,ECOLE PRIMAIRE AL KINDI,MESNANA,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+852,SS AL MOWAHIDINE,DOUAR AL JOHRA ZOUMI,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,zoumi,179
+853,ECOLE RIYAD JAMIAA,LOTISSEMENT RIYAD SOFYA COMMUNE MARTIL,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,primaire,m'diq fnideq,martil,48
+854,ECOLE PRIMAIRE IMAM CHADILI,tanja balia sania wikaya,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+855,ECOLE PRIMAIRE MALIKA ELFASSI,AOUAMA CHARKIA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+856,ECOLE PRIMAIRE NAKHIL,BENI SAID,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+857,ECOLE PRIMAIRE AL MANAR,HAY MRABET,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+858,ECOLE PRIMAIRE TAHA HOUSSEIN,lotissement lotinord ,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+859,ECOLE PRIMAIRE SIDI KACEM,ROUTE SIDI KACEM GZENAYA,Gueznaia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,gueznaia,36
+860,ECOLE PRIMAIRE ESSMARA,AOUAMA CHARKIA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+861,ECOLE PRIMAIRE ABI DAR AL GHIFARI,MESNANA,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+862,ECOLE PRIMAIRE TAKADDOUM,TANJAH BALIA,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+863,ECOLE PRIMAIRE MAARIFA,MGHOGHA KEBIRA,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,mghogha,180
+864,ECOLE PRIMAIRE DHAR OUBARANE,hay boughrman bni bouayach ,Bni Bouayach,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,bni bouayach,100
+865,ECOLE PRIMAIRE MADAR AL BAHRAYN,lotissement bab al andalouss 3 BNI MAKADA T,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+866,ECOLE PRIMAIRE ABOU CHOUAIB DOUKKALI,TABOULA RUE OMAR EL MOKHTAR QUARTIER ALBORJ,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+867,ECOLE EGURE AZOUGAR,ALHOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+868,ECOLE AL MANAR,hay al manar 3 ,Larache,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,larache,81
+869,ECOLE ZAYNAB NEFZAOUIA,AV Boussafou,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+870,ECOLE LALLA AICHA,COMMUNE ZAITOUNE,Zaitoune,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,zaitoune,70
+871,ECOLE PRIMAIRE ERRAHMA,achennad sidi idriss,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+872,ECOLE PRIMAIRE LAFRIHIENNE,lafriyienne gueznaia,Gueznaia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,gueznaia,36
+873,ECOLE AZIZA ALAZRAK,LOTISSEMENT SAADA KSAR KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,primaire,larache,ksar el kebir,80
+874,ECOLE PRIMAIRE AMTAR,CENTRE DE LA COMMUNE AMTAR,Amtar,Chefchaouen,Tanger-Tetouan-Al Hoceima,primaire,chefchaouen,amtar,139
+875,ECOLE SIDI ABID,C/ MINADOUR HUAT ,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,al hoceima,99
+876,ECOLE ABDELAZIZ MEZIANE BELFKIH,QUARTIER SOUANI,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+877,ECOLE PRIMAIRE MOHAMMED SABILA,ALIRFANE2 BOUKHALEF   TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+878,ECOLE PRIMAIRE DEGHALEYINE 2,DEGHALEYINE - ASSILAH,Assilah,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,assilah,35
+879,KETAMA.COM,Douar arira Ktema,Ketama,Al Hoceima,Tanger-Tetouan-Al Hoceima,primaire,al hoceima,ketama,129
+880,ECOLE MOHAMED ERRAMI,TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,primaire,tetouan,tetouan,51
+881,ECOLE PRIMAIRE AL HIKMA,BIR GHAZI,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+882,ECOLE PRIMAIRE ATTAHADI,RAHRAH,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,medina,183
+883,JABIR IBN HAYYAN,Commune Masmouda Centre,Masmouda,Ouezzane,Tanger-Tetouan-Al Hoceima,primaire,ouezzane,masmouda,165
+884,ECOLE PRIMAIRE BNI TOUZINE,BNI TOUZINE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,primaire,tanger assilah,bni makada,182
+885,SIDI ABID COLLEGE,AVENUE RHAMNA 45 AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,al hoceima,99
+886,NOUVEAU COLLEGE,AVENUE BIR ANZARAN AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,al hoceima,99
+887,OMAR IBN ALKHATTAB (COLLEGE),AVENUE DAKHLA hay almadariss AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,al hoceima,99
+888,COLLÈGE ANOUAL,hay mirador haut,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,al hoceima,99
+889,LYCEE COLLEGIAL TIGHANIMINE,tighanimine quartier ,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,al hoceima,99
+890,COLLEGE IGRE AZGUAGH,MUNICIPALE ALHOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,al hoceima,99
+891,OQBA BNOU NAFIE (COLLEGE), QUARTIER ALHORIA BNI BOUAYACH,Bni Bouayach,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,bni bouayach,100
+892,COLLÈGE MOHAMED VI,RUE AFGHANISTANE IMZOUREN,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,imzouren,101
+893,AL QODS COLLEGE,avenue albahrain HAY AL QODS IMZOUREN,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,imzouren,101
+894,COLLÈGE ANNASR,imzouren,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,imzouren,101
+895,COLLEGE HAY ARRABIE,HAY ARRABIE IMZOUREN,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,imzouren,101
+896,LYCEE COLLEGIAL MALIKA EL FASSI,MUNICIPALE TARGUIST ALHOCEIMA,Targuist,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,targuist,102
+897,HASSAN II (COLLEGE),AVENUE WALI AL AAHD TARGUIST,Targuist,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,targuist,102
+898,LYCÉE COLLEGEALE AIT YOUSSEF OUALI,municipalité ajdir,Ajdir,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,ajdir,103
+899,BNI BOUFRAH COLLEGE,CENTRE BNI BOUFRAH  COMMUNE BNI BOUFRAH,Bni Boufrah,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,bni boufrah,104
+900,COLLEGE BNI GMIL ,Commune Bni Gmil ,Bni Gmil,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,bni gmil,107
+901,LYCEE COLLEGIAL ES-SAYIDA EL HORA,COMMUNE BNI GMIL MAKSSOULINE,Bni Gmil Maksouline,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,bni gmil maksouline,106
+902,COLLEGE SENADA,Commune SENADA ,Senada,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,senada,105
+903,COLLEGE AIT KAMRA,CENTRE AIT KAMRA,Ait Kamra,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,ait kamra,119
+904,COLLÈGE SIDI BOUAFIF,POSTE D  ait youssef ouali   BP 112,Ait Youssef Ou Ali,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,ait youssef ou ali,112
+905,COLLEGE ARBIAA TAOURIRT ,CENTRE ARBIAA TAOURIRT COM ARBIAA TAOURIRT,Arbaa Taourirt,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,arbaa taourirt,109
+906,COLLEGE BNI ABDELLAH ,CENTRE BNI ABDELLAH,Bni Abdallah,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,bni abdellah,117
+907, COLLEGE BNI HADIFA,CENTRE BNI HADIFA  COMMUNE BNI HADIFA,Bni Hadifa,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,bni hadifa,116
+908,LYCEE COLLEGIAL 20 AOUT,CHAKRANE,Chakrane,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,chakrane,108
+909,LYCEE COLLEGIAL HADOU-BEN-HAMMOU,COMMUNE IZMMOUREN,Izemmouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,izemmouren,118
+910,LYCEE COLLEGIAL LOUTA,COMMUNE LOUTA CENTRE,Louta,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,louta,113
+911,MOHAMED ETTARHOUCHI(COLLEGE),commune de nekor,Nekkour,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,nekkour,111
+912,COLLEGE ROUADI ,DOUAR ROUADI COMMUNE ROUADI,Rouadi,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,rouadi,120
+913,LYCEE COLLEGIAL MOHAMMED AHMED EL AZZOUZI,commune tifrouine alhociema,Tifarouine,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,tifarouine,110
+914,COLLEGE EZZAOUIA,COMMUNE ZAOUIAT SIDI ABD EL KADER,Zaouiat Sidi Abdelkader,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,zaouiat sidi abdelkader,115
+915,LYCEE COLLEGIAL SANHAJA,جماعة بني أحمد إموكزن,Bni Ahmed Imoukzan,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,bni ahmed imoukzan,127
+916,LYCEE COLLEGIAL EL MEKI ESSEDAHI,BNI BCHIR,Bni Bchir,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,bni bchir,125
+917,COLLEGE CHAHID ABD AL SALAM BEN EL HAJ MOHAMMED ,SIDI BOUZINEB CENTRE,Sidi Bouzineb,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,sidi bouzineb,121
+918,COLLEGE ZARKT,COMMUNE ZARKT,Zarkt,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,zarkt,124
+919,IKKAWEN (COLLEGE),CENTRE ABDELGHAYA SOUAHEL COM ABDELGHAYA SOUAHEL,Abdelghaya Souahel,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,abdelghaya souahel,134
+920,COLLEGE ISSAGUEN ,CENTRE ISSAGUEN  COMMUNE ISSAGUEN,Issaguen,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,issaguen,131
+921,COLLEGE TAGHZOUT,COMMUNE TAGHZOUT,Taghzout,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,taghzout,133
+922,COLLEGE TAMSAOUT ,commune rural tamsaoute,Tamsaout,Al Hoceima,Tanger-Tetouan-Al Hoceima,collegial,al hoceima,tamsaout,128
+923,LYCEE COLLEGIAL ADRAR,AIN HAWZI,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,chefchaouen,135
+924,LYCEE COLLEGIAL GRANSSIF,QUART GRANSSIF CHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,chefchaouen,135
+925,LYCEE COLLEGIAL LOUBAR,loubar chefchaouen,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,chefchaouen,135
+926,LYCEE COLLEGIAL EL MACHICHI,AVENUE EL MACHICHICHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,chefchaouen,135
+927,LYCEE COLLEGIAL MOULAY EL HASSAN I,AVENUE ALLAL BEN ABDELLAHCHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,chefchaouen,135
+928,LYCÉE COLLÈGIALE IBN SINA,bab berred,Bab Berred,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,bab berred,136
+929,LYCEE COLLEGIAL AOUNANE,COMMUNE AOUNANE CENTRE,Iounane,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,iounane,137
+930,LYCEE COLLEGIAL MEHDI BEN BARKA,TAMOROT CENTRE COMMUNE TAMOROT,Tamorot,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,tamorot,138
+931,LYCEE COLLEGIAL YOUSSEF BNOU TACHFINE,CENTRE DE BAB TAZA COMMUNE BAB TAZA,Bab Taza,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,bab taza,148
+932,LYCEE COLLEGIAL TARIK BNOU ZIYAD,Commune Beni Derkoul,Bni Darkoul,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,bni darkoul,150
+933,LYCEE COLLEGIAL BNI SALEH,commune bni salah chefchaouen,Bni Salah,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,bni salah,149
+934,LYCEE COLLEGIAL DERDARA,commune derdara,Derdara,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,derdara,153
+935,LYCEE COLLEGIAL MOHAMED EL BAQALI,FIFI CENTRE,Fifi,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,fifi,152
+936,LYCEE COLLEGIAL BNI AHMED GHARBIA,CENTRE DE LA COMMUNE BNI AHMED GHARBIA,Bni Ahmed Gharbia,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,bni ahmed gharbia,145
+937,LYCEE COLLEGIAL SIJLMASA,college sijilmasa commune el mansoura chefchaouen,Mansoura,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,mansoura,147
+938,LYCEE COLLEGIAL BOUHMED,CENTRE BOUHMED COMMUNE BNI BOUZRA,Bni Bouzra,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,bni bouzra,158
+939,LYCEE COLLGIALE BNI MANSOUR,CENTRE DE LA COMMUNE BNI MANSOUR,Bni Mansour,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,bni mansour,157
+940,LYCEE COLLEGIAL BNI SELMANE,CENTRE DE LA COMMUNE BNI SELMANE,Bni Selmane,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,bni selmane,156
+941,LYCEE COLLEGIAL OMAR EL JAYDI,COMMUNE RURALE STEHAT CHEFCHAOUEN,Steha,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,steha,159
+942,LYCEE COLLEGIAL TASSIFT,CENTRE DE LA COMMUNE TASSIFT,Tassift,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,tassift,161
+943,LYCEE COLLEGIAL KAA ASSRASS,KAA ASSRASS COMMUNE TIZGANE,Tizgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,tizgane,160
+944,LYCEE COLLEGIAL AMTAR,COMMUNE AMTAR,Amtar,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,amtar,139
+945,LYCEE COLLEGIAL BNI SMIH,commune bni smih chefchaouen,Bni Smih,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,bni smih,143
+946,LYCEE COLLEGIAL EL JEBHA,JEBHA CENTRE CHEFCHAOUEN,M'tioua,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,m'tioua,140
+947,LYCEE COLLEGIAL AHMED ZERKTOUNI,CENTRE DE LA COMMUNE OUAOUZGANE,Ouaouzgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,collegial,chefchaouen,ouaouzgane,141
+948,LYCEE COLLEGIAL YOUSSEF IBN TACHAFIN,bni hlou anjra,Anjra,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,collegial,fahs anjra,anjra,77
+949,Lycée Collégial Abdelkarim  EL KHETTABI,commune kasr lmajaz DHAR ELKHAROUB,Ksar El Majaz,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,collegial,fahs anjra,ksar el majaz,79
+950,LYCEE COLLEGIAL MOULAY ABDELLAH,feddane chapo sofla  commune bahraouyne,Al Bahraoyine,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,collegial,fahs anjra,al bahraoyine,74
+951,LYCEE COLLEGIAL SIDI AHMED BEN AJIBA,MELLOUSSA CENTRE  COMMUNE MELLOUSSA,Malloussa,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,collegial,fahs anjra,malloussa,73
+952,LYCEE COLLEGIAL ABDELKADER ESSAHELI,hay essalam ,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,ksar el kebir,80
+953,COLLEGE SECONDAIRE TARIK IBN ZIAD,QUARTIER SELLALINE,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,ksar el kebir,80
+954,COLLEGE SECONDAIRE EL MEHDI BEN BARKA,lotissement attaa allah,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,ksar el kebir,80
+955,COLLEGE SECONDAIRE ABI EL MAHASSINE,ROUTE DE LARACHE COMMUNE KSAR KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,ksar el kebir,80
+956,COLLEGE SECONDAIRE IMAM MOUSSLIM,ROUTE DE RABAT COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,ksar el kebir,80
+957,COLLEGE SECONDAIRE ALLAL BEN ABDALLAH ,AVENUE MANSOUR EDDAHBI COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,ksar el kebir,80
+958,COLLEGE SECONDAIRE ALLAL LOUDIYI,QUARTIER ESSALAM ,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,ksar el kebir,80
+959,COLLEGE SECONDAIRE TABARI,BLAD ELHAOUARI,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,ksar el kebir,80
+960,COLLEGE SECONDAIRE AL WAFAE,hay chaabane 2,Larache,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,larache,81
+961,COLLEGE SECONDAIRE HASSAN II ,HAY EL JADID AVENUE LEQAIR COMMUNE LARACHE  ,Larache,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,larache,81
+962,COLLEGE SECONDAIRE IMAM MALEK,AVENUe  MYISMAIL COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,larache,81
+963,COLLEGE SECONDAIRE OUED EL MAKHAZINE ,AVENUe  IBN ZAIDOUNE COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,larache,81
+964,COLLEGE SECONDAIRE ABDELKRIM ELKHATTABI,LOT SALAM  COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,larache,81
+965,LYCEE COLLEGIAL IBNOU SINAA,LOTISSEMENT AL MAGHIRIB ALJADID,Larache,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,larache,81
+966,COLLEGE SECONDAIRE KSAR BJIR,KSAR BJIR CENTRE,Ksar Bjir,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,ksar bjir,84
+967,LYCEE COLLEGIAL ZAINEB NAFZAOUIA,DOUAR OULADSAKHAR,Laouamra,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,laouamra,82
+968,COLLEGE SECONDAIRE LAAOUAMRA ,LAOUAMRA CENTRE COMMUNE LAOUAMRA,Laouamra,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,laouamra,82
+969,COLLEGE SECONDAIRE ALKOLLA,commune kolla,Souk L'Qolla,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,souk l'qolla,87
+970,COLLEGE SECONDAIRE MOULAY ABDESSLAM BEN MCHICH,TATOFT CENTRE COMMUNE TATOFT,Tatoft,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,tatoft,86
+971,LYCEE COLLEGIAL FATIMA ALFEHRIA ALKIRAOUANIA,COMMUNE ZOUADA,Zouada,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,zouada,83
+972,COLLEGE SECONDAIRE AYACHA,CENTRE COMMUNAL AYACHA,Ayacha,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,ayacha,90
+973,COLLEGE SECONDAIRE AZIZ BILAL,commune bni arous,Bni Arouss,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,bni arouss,88
+974,COLLEGE SECONDAIRE  BNI GARFETT,COMMUNE BNI GORFET,Bni Garfett,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,bni garfett,91
+975,LYCEE COLLEGIAL ZAAROURA,CENTRE COMMUNE ZAAROURA,Zaaroura,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,zaaroura,92
+976,LYCEE COLLEGIAL AL MAJD,TLAT RISSANA COMMUNE RISSANA DU NORD,Rissana Chamalia,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,rissana chamalia,94
+977,LYCEE COLLEGIAL ABDESSAMAD EL KENFAOUI,COMMUNE SAHEL,Sahel,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,sahel,93
+978,COLLEGE SECONDAIRE SOUAKEN,SOUAKEN CENTRE ,Souaken,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,souaken,97
+979,Lycée collégial youssef ibnou tachefine,Souk tolba,Souk Tolba,Larache,Tanger-Tetouan-Al Hoceima,collegial,larache,souk tolba,98
+980,LYCEE COLLEGIAL IMAM MALEK,ROUTE DE CHEFCHAOUEN  COMMUNE OUEZZANE,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,ouezzane,163
+981,LYCEE COLLEGIAL MOULAY TOUHAMI,route d assjen quartier kechryene  ouezzane,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,ouezzane,163
+982,Lycée collégial Imam al-Ghazali,centre commune Beni Quolla,Bni Quolla,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,bni quolla,167
+983,LYCEE COLLEGIAL ABI BAKR ARRAZI,AIN DORRIJ CENTRE COMMUNE LAMJAARA,Lamjaara,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,lamjaara,171
+984,LYCEE COLLEGIAL ABDELKHLEK TORRESS,CENTRE MASSMOUDA,Masmouda,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,masmouda,165
+985,LYCEE COLLEGIAL AL AMAL,COMMUNE MZEFROUNE,Mzefroune,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,mzefroune,164
+986,LYCEE COLLEGIAL OUANNANA,ouannana,Ounnana,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,ouannana,170
+987,LYCEE COLLEGIAL 11 JANVIER,SIDI BOUSBER CENTRE  COMMUNE SIDI BOUSBER,Sidi Bousber,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,sidi bousber,173
+988,LYCEE COLLEGIAL KHALID IBN ALWALID,SIDI REDOUANE CENTRE  COMMUNE SIDI REDOUANE,Sidi Redouane,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,sidi redouane,166
+989,LYCEE COLLEGIAL QUADI TAYEB ZEWAQUI,ZOUAKINE COMMUNE SIDI REDOUANE,Sidi Redouane,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,sidi redouane,166
+990,LYCEE COLLEGIAL OMAR IBN ABDELAZIZ,TEROUAL CENTRE   COMMUNE TEROUAL,Teroual,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,teroual,168
+991,LYCEE COLLEGIAL MOULAY BOUCHTA ZGHIRA,C ZGHIRA,Zghira,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,zghira,169
+992, LYCEE COLLEGIAL OMAR BEN JELLOUN,COMMUNE AIN BAIDA CENTRE,Ain Beida,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,ain beida,177
+993,LYCEE COLLEGIAL MOHAMED VI,MOQRISSAT CoMmune mOQRISSAT,Moqrisset,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,moqrissat,176
+994,LYCEE COLLEGIAL MOHA OUHAMOU EZZAYANI,BOUKORRA CENTRE C KALAAT BOUKORRA,Kalaat Bouqorra,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,kalaat bouqorra,178
+995,LYCEE COLLEGIAL HASSAN II,ZOUMICZOUMIouezzane,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,zoumi,179
+996,LYCEE COLLEGIAL EL HABBAJINE,DOUAR EL HABBAJINE COMMUNE ZOUMI,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,collegial,ouezzane,zoumi,179
+997,LYCEE COLLEGIAL IMAM  ASSILY,AVENUE CEbTA N1 MUNICIPALITE ASSILAH,Assilah,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,assilah,35
+998,LYCEE COLLEGIAL MAGHREB ARAB,college almaghreb alarabi avenue alyarmouk ASILAH,Assilah,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,assilah,35
+999,LYCEE COLLEGIAL OUM EL BANINE,Ahlan,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1000,LYCEE COLLEGIAL ASSIA EL WADIE,bendibane,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1001,LYCEE COLLEGIAL EL HASSANI,Complexe Al Hassani,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1002,LYCEE COLLEGIAL ABDALLAH IBN YASSINE,Mers 1,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1003,LYCEE COLLEGIAL YAACOUB EL MANSOUR,hay laksibate bani makada,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1004,LYCEE COLLEGIAL EL INBIAAT,ROUTE AOUAMA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1005,LYCEE COLLEGIAL IBN NAFIS,AOUAMA CHARKIA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1006,LYCEE COLLEGIAL ABDELAZIZ MEZIAN BELFKIH,LOTISSEMENT BAB AL ANDALOUS 3 GUEZNAYA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1007,LYCEE COLLEGIAL MOULAY ABDERRAHMAN,hay florancia  bendibane  COMMUNE BNI MAKADa,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1008,LYCEE COLLEGIAL EL MASSIRA,QUARTIER SAADA COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1009,LYCEE COLLEGIAL AZZAHRAE,QUARTIER ZAHARA RUE AMANE COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1010,LYCEE COLLEGIAL HASSAN BNOU TABIT,QUARTIER BIR CHIFA  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1011,LYCEE COLLEGIAL IBN EL HAYTAM,hay zemmori1 rue rabAT,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1012,LYCEE COLLEGIAL IBNOU SINA,AV royaume d ARABIE SAOUDITE Beni Makada,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1013,LYCEE COLLEGIAL EL FARABI,JIRARI2 COMMUNE BNI MAKADA TANGER,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1014,LYCEE COLLEGIAL HASSAN II,QUARTIER SIDI DRISS  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1015,LYCEE COLLEGIAL ABDELLAH GUENOUN,rue el kods quartier guenbouria,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,bni makada,182
+1016,LYCEE COLLEGIAL IBN TOUMART,GRANDE MGHOUAGHA COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,mghogha,180
+1017,LYCEE COLLEGIAL SAKIA LHAMRA,HAY TANJAH BALIA rue 50 COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,mghogha,180
+1018,LYCEE COLLEGIAL ATLAS ,ROUTE EL AOUAMA COMMUNE CHARF mroura,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,mghogha,180
+1019,LYCEE COLLEGIAL EL AKKAD,ROUTE EL AOUAMA COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,mghogha,180
+1020,LYCEE COLLEGIAL KHALIJ TANJAH,RUE SANTANDER HAY ALI BAY BP706 COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,mghogha,180
+1021,LYCEE COLLEGIAL ZAMAKHCHARI,RUE ABDELKHALEK TORRES BOUHOUT COMMUNE CHARF MGHOU,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,mghogha,180
+1022,LYCEE COLLEGIAL IDRISS II,QUARTIER BELLE VUE RTE DE TETOUAN COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,mghogha,180
+1023,LYCEE COLLEGIAL OMAR ELKHAYYAM,mghogha sghira,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,mghogha,180
+1024,LYCEE COLLEGIAL ABOU KACEM AL CHABBI,TANJAH BALIA,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,mghogha,180
+1025,LYCCE COLLEGIAL MALEK FAHD IBN ABDELAZIZ,COLLINE CHARF COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,mghogha,180
+1026,LYCEE COLLEGIAL LALLA KHADIJA,lot al ikhlasse route de tetouan,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,mghogha,180
+1027,LYCEE COLLEGIAL ABDERRAHMANE ELYOUSFI,mghogha Kebira route de tetouan tanger,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,mghogha,180
+1028,LYCEE COLLEGIAL ASSANIA,Quartier Assania,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,mghogha,180
+1029,LYCEE COLLEGIAL IBN KHALDOUN,QUARTIER IBN KHALDOUN SOUANI COMMUNE CHARF,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,souani,181
+1030,LYCEE COLLEGIAL MOHAMED VI,AVENUE IFNI SOUANI COMMUNE CHARF,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,souani,181
+1031,LYCEE COLLEGIAL MOULAY ISMAEL,AVENUE CHALLA COMMUNE CHARF,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,souani,181
+1032,LYCEE COLLEGIAL MOHAMED HASSAN OUAZANI,RUE DOCTEUR FARAJ COMMUNE CHARF,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,souani,181
+1033,LYCEE COLLEGIAL IBN TOUFAIL,rue zahraoui mohamed quartier gibraltar branes2,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,souani,181
+1034,LYCEE COLLEGIAL AL KASBA,AVENUE KASBAH N21 BP 933 COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1035,LYCEE COLLEGIAL IBN EL ABBAR,RUE IBN AL ABBAR COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1036,LYCEE COLLEGIAL AICHA OUM AL MOUMININE,15 RUE HASNOUNA BP 1585 COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1037,LYCEE COLLEGIAL MAA AL AININ,AVENUE HASSAN ii ROUTE BOUARAKIA COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1038,LYCEE COLLEGIAL MOHAMED V,RUE D ANGLETERRE N40 COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1039,LYCEE COLLEGIAL OMAR IBN ABDELAZIZ,AVENUE IMAM MOUSLIM DRADEB COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1040,LYCEE COLLEGIAL IBN ROCHD,HAY EL FARAH COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1041,LYCEE COLLEGIAL TARIK IBN ZIAD,3 RUE DE LA RESISTANCE COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1042,LYCEE COLLEGIAL JABIR BNOU HAYYANE,groupe résidentiel Al Irfane 1 Boukhalef- Tanger,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1043,LYCEE COLLEGIAL ANOUAL,alirfane2 boukhalafe,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1044,LYCEE COLLEGIAL BADR,QUARTIER MESNANA,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1045,LYCEE COLLEGIAL IBN BAJA,SORINORD MARJANE,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1046,LYCEE COLLEGIAL IBN ALBAYTAR,RAHRAH,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1047,LYCEE COLLEGIAL TOURIA ECHAOUI,Avenue Ligue Arabe Route Achakar Tanger,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,medina,183
+1048,LYCEE COLLEGIAL AL BOUHTOURI,BADRIOUNE GZENAYA,Gueznaia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,gueznaia,36
+1049,LYCEE COLLEGIAL AL ATLASSI,GUEZNAIA,Gueznaia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,gueznaia,36
+1050,LYCEE COLLEGIAL FATIMA LAMRABET,ROUTE DE RABAT KM 12 COMMUNE GZENAYA,Gueznaia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,gueznaia,36
+1051,LYCEE COLLEGIAL EZZINATE,centre commune ezzinate,Sebt Azzinate,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,sebt azzinate,41
+1052,LYCEE COLLEGIAL DAR CHAOUI,DAR CHAOUI CENTRE COMMUNE DAR CHAOUI,Dar Chaoui,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,dar chaoui,38
+1053,LYCEE COLLEGIAL ASSAHIL ACHAMALI,COMMUNE ASSAHIL ACHAMALI,Sahel Chamali,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,sahel chamali,44
+1054,LYCEE COLLEGIAL SIDI EL YAMANI,CENTRE SIDI LYAMANI COMMUNE SIDI LYAMANI,Sidi Lyamani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,sidi lyamani,45
+1055,LYCEE COLLEGIAL ENNAHDA,HAD GHARBIA COMMUNE HAD GHARBIA,Had Al Gharbia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,had al gharbia,43
+1056,LYCEE COLLEGIAL ELGUERGARAT,GOUARETTE  AOUAMA,Laaouama,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,laaouama,40
+1057,LYCEE COLLEGIAL HAJRAT ENNHAL,CHRAKA COMMUNE HAJRAT ENNHAL,HJAR ENNHAL,Tanger-Assila,Tanger-Tetouan-Al Hoceima,collegial,tanger assilah,hjar ennhal,37
+1058,college 3 MARS,AVENUE MOLAY ABDELLAH OUAD LAOU TETOUAN,Oued Laou,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,oued laou,52
+1059,College SIDI TALHA,RUE OKBA IBNOU NAFIH HAY SIDI TALHA  TEOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1060,college MOHAMED ZARKTOUNI,avenue kenitra  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1061,college OMAR IBN ABDELAZIZ,RUE KABUL  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1062,college ALLAL IBN ABDELLAH,AV LES FAR TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1063,college MOULAY AL HASSAN,HAY MOULAY HASSAN SANIATE RMEL  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1064,COLLEGE AHMED RADI SLAOUI,RUE AHMED AGZOUL,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1065,COLLEGE AL QODS,Rue Taza Mhanech  II    TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1066,COLLEGE 20 AOUT,HAY COELMA ROUTE DE OUAD LAOU  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1067,COLLEGE FKHIH AL MOURIR,TOUILA HAOUMAT BOUJARAH  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1068,COLLEGE 6 NOVEMBRE,rue moulay al hassan ben al mahdi touibla tetouan,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1069,COLLEGE AL FAKIH AHMED AL HADDAD,oued daraa college al fakih ahmed al haddad,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1070,COLLEGE ANOUAL,Rue maoulaye el abasse  CARTIER SCOLAIRE  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1071,COLLEGE IBN SINA,SIDI IDRISS AV HASSAN II,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1072,COLLEGE ABI BAKR RAZI,HOPITAL ESPAGNOL  TETOUAN ,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1073,COLLEGE FAKIH AHMED IBN TAOUIT,HAY SLAOUI  COMMUNE AL AZHAR  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1074,COLLEGE AL ANDALOUSS,HAY EL BAHROURI SIDI TALHA C AL AZHAR,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1075,COLLEGE AHMED RACHIDI,AV JEBEL TIDHghIN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1076,COLLEGE ZOBAIR IBNO LAOUAM,QUARTIER NAKATA,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1077,college IBN LBAITAR,QUARTIER AIN MELLOUL,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1078,COLLEGE MOHAMED ABID AL JABIRI,HAY TWIBLA,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1079,COLLEGE SAAD IBN ABI OUAKASS,HAY KOELMA,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1080,COLLEGE EL FARAHIDI,AV RAYHAN.............. JBEL DERSSA ,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1081,COLLEGE AHMED CHAOUQUI,BOUSSEMLAL TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,tetouan,51
+1082,COLLEGE IBN HAMZA,COMMUNE AIN LAHSAN,Ain Lahsan,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,ain lahsan,53
+1083,COLLEGE ALLAL LFASSI,COMMUNE AL KHARROUB,AL Kharroub,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,al kharroub,57
+1084,Lycée collégial Ibn al Banna,commune bghaghza,Bghaghza,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,bghaghza,62
+1085,COLLEGE ABDELLAH IBRAHIM,CR BNI HARCHEN,Bni Harchen,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,bni harchen,56
+1086,COLLEGE MOUAAD BNOU JABAL,commun jbel lehbib,Jbel Lahbib,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,jbel lahbib,55
+1087,Lycée collégial Moussa Ibn Noçaïr,commune bni idder,Bni Idder,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,bni idder,61
+1088,COLLEGE ABDERRAHIM BOUABID,COMMUNE MALLLYINE,Mallalienne,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,mallalienne,58
+1089,COLLEGE ABOU OUBAIDA BNOU AL JARRAH,COMMUN SEDINA,Saddina,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,saddina,59
+1090,COLLEGE IBN LYASSAMINE,CR SOUK KDIM,Souk Kdim,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,souk kdim,54
+1091,COLLEGE ABDELLAH GUENNOUN,COMMUN SAHTRYINE,Sahtryine,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,sahtryine,60
+1092,COLLEGE ABOU AL ALAE AL MAARRI,RENFE C AL HAMRA,Al Hamra,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,al hamra,64
+1093,COLLEGE ALMOKAOUAMA,CR AL OUAD KHAZANE LOW,Al Oued,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,al oued,65
+1094,COLLEGE ALI IBN ABI TALIB,COMMUNE AZLA AZLA,Azla,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,azla,69
+1095,COLLEGE ABBAS MESSAADI,commune bni leit,Bni Leit,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,bni leit,63
+1096,COLLEGE IBN MAJA,DOKAR CRBNI SAID,Bni Said,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,bni said,71
+1097,COLLEGE ASSAYIDA AL HORRA,CENTRE COMMUNE BEN KARRICH,Dar Bni Karrich,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,dar bni karrich,67
+1098,COLLEGE AMHAMED BENABOUD,COMMUNE OULAD ALI MANSOUR,Oulad Ali Mansour,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,oulad ali mansour,66
+1099,COLLEGE MOULAY AHMED AL MENJRA,bouanan,Zaitoune,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,zaitoune,70
+1100,college AZIZ BILAL,CR ZAOUIT SIDI KACEM,Zaouiat Sidi Kacem,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,zaouiat sidi kacem,72
+1101,college ABOU BAKR ALKADIRI,CR ZINAT,Zinat,Tétouan,Tanger-Tetouan-Al Hoceima,collegial,tetouan,zinat,68
+1102,LYCEE COLLEGIAL ALMOKHTAR SOUSSI,HAY ELBRARAK,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,fnideq,47
+1103,LYCEE COLLEGIAL IBN ZAIDOUN,EL KHANDAQ IBRANE,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,fnideq,47
+1104,LYCEE COLLEGIAL IMAM MALIK,hay haydra fnideq,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,fnideq,47
+1105,LYCEE COLLEGIAL ABDELKRIM EL KHATTABI,HOUMAT LABRARK MUNICIPALITE FNIDEQ,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,fnideq,47
+1106,LYCEE COLLEGIAL MOHAMED ZERKTOUNI ,AVENUE MOHAMMED 6  ROUTE RAS LOUTA FNIDQ,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,fnideq,47
+1107,LYCEE COLLEGIAL IMAM AL AZAFI,COLLEGE IMAM ABI KACEM AZAFI BP 90  FNIDQ,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,fnideq,47
+1108,LYCEE COLLEGIAL IBN AL HAYTAM,AV TETOUAN MARTIL,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,martil,48
+1109,LYCEE COLLEGIAL MOULAY RACHID,martil,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,martil,48
+1110,LYCÉE COLLÉGIAL RIAD MARTIL,Lot Riad Sofia,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,martil,48
+1111,LYCEE COLLEGIAL IBN ROCHD,HAY AHRAIK,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,martil,48
+1112,LYCEE COLLEGIAL IBN SINA,dv al massira al khadra N 147 ,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,martil,48
+1113,LYCEE COLLEGIAL TAHA HOUSSINE,HAY AL QODS BP409,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,martil,48
+1114,LYCEE COLLEGIAL AL JABAL,avenue ibno annafisse Commune MDIQ,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,m'diq,46
+1115,LYCEE COLLEGIAL HOUMMANE EL FETOUAKI  ,HAY AIN CHOUFOU,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,m'diq,46
+1116,LYCEE COLLEGIAL AL MASSIRA AL KHADRA,HAY BOUZAGHLAL,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,m'diq,46
+1117,LYCEE COLLEGIAL IBN BATTOUTA,HAY RABAT  MDIQ,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,m'diq,46
+1118,LYCEE COLLEGIAL ABDELKHALEK TORRES,Douar Frasou,Allyene,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,allyene,49
+1119,LYCEE COLLEGIAL IBN TOUMERT,commune belyounech,Belyounech,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,collegial,m'diq fnideq,belyounech,50
+1120,LYCEE AL KHOUZAMA,AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,al hoceima,99
+1121,LYCEE MOULAY ALI CHRIF ,HAY MARMOUCHA AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,al hoceima,99
+1122,LYCEE AL BADISSI ,AVENUE ANOUAL AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,al hoceima,99
+1123,LYCEE IMAM MALIK ,AVENUE TAREK BNOU ZIYAD AL HOCEIMA,Al Hoceima,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,al hoceima,99
+1124,LYCEE AL KHAWARIZMI ,2EME QARTIER BNI BOUAYACH,Bni Bouayach,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,bni bouayach,100
+1125,LYCEE IBNOU ROCHD ,AL HAY ALJADID BNI BOUAYACH,Bni Bouayach,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,bni bouayach,100
+1126,LYCEE QUALIFIANT IBN HAZM,HAY ARRABIE IMZOUREN,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,imzouren,101
+1127,LYCEE IMZOUREN ,RUE AFGHANISTANE IMZOUREN,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,imzouren,101
+1128,LYCEE QUALIFIANT MOULAY ISMAIL,HAY ALMATAR ALKADIM IMZOUREN,Imzouren,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,imzouren,101
+1129,LYCEE TARGUIST QUALIFIANT,BD WALI AL AAHD BP156 TARGUIST,Targuist,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,targuist,102
+1130,LYCEE ERRAZI ,MUNICIPALITE TARGUIST,Targuist,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,targuist,102
+1131,LYCEE QUALIFIANT RIF,COMMUNE AJDIR,Ajdir,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,ajdir,103
+1132,LYCEE BNI BOUFRAH,COMMUNE BNI BOUFRAH,Bni Boufrah,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,bni boufrah,104
+1133,LYCEE QUALIFIANT MOUHA OU HAMMOU ZAYANI,mstassa,Bni Gmil,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,bni gmil,107
+1134,LYCEE QUALIFIANT FATIMA AL FIHRIYA,commune Ait kamra,Ait Kamra,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,ait kamra,119
+1135,LYCEE QUALIFIANT AIT YOUSSEF OU ALI,COMMUNE AIT YOUSSEF OU ALI,Ait Youssef Ou Ali,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,ait youssef ou ali,112
+1136,LYCEE QUALIFIANT MOHAMMED AMEZIANE,CENTRE BeNI HADIFA,Bni Hadifa,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,bni hadifa,116
+1137,LYCEE IMRABTEN,CENTRE TAMASSINTE  COMMUNE IMRABTEN,Imrabten,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,imrabten,114
+1138,LYCEE QUALIFIANT ROUADI,COMMUNE ROUADI,Rouadi,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,rouadi,120
+1139,LYCEE ALHADI TEYEB HAMOU,BNI AMMART,Bni Ammart,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,bni ammart,122
+1140,LYCEE BNI BOUNSAR  ,CENTRE BNI BOUNSAR,Bni Bounsar,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,bni bounsar,126
+1141,LYCEE QUALIFIANT 16 NOVEMBRE,commune sidi boutmim,Sidi Boutmim,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,sidi boutmim,123
+1142,LYCEE QUALIFIANT TARIK AL WAHDA,ABDELGHAYA SOUAHAL,Abdelghaya Souahel,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,abdelghaya souahel,134
+1143,LYCEE QUALIFIANT TABARRANTE,COMMUNE BNI BOUCHIBT ketama,Bni Bouchibet,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,bni bouchibet,132
+1144,LYCEE AL FARABI,COMMUE ISSAGUEN,Issaguen,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,issaguen,131
+1145,LYCEE QUALIFIANT KETAMA,centre ketama commune ketama,Ketama,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,ketama,129
+1146,LYCEE QUALIFIANT TIZITCHINE,Commune My Ahmed Cherif Ketama,Moulay Ahmed Cherif,Al Hoceima,Tanger-Tetouan-Al Hoceima,qualifiant,al hoceima,moulay ahmed cherif,130
+1147,LYCEE QUALIFIANT DHAR BEN AYAD,avenue sidi boujemaa CHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,chefchaouen,135
+1148,LYCEE TECHNIQUE AL KHAOUARIZMI,AV Maghreb al arabi CHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,chefchaouen,135
+1149,LYCEE QUALIFIANT AHMED IDRISSI,Quartier administratif AIN HAOUZI ,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,chefchaouen,135
+1150,LYCEE QUALIFIANT PRINCE MOULAY RACHID,RUE MOHAMED ABDOU COMMUNE CHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,chefchaouen,135
+1151,LYCEE QUALIFIANT IMAM CHADLI,AVENUE HASSAN II COMMUNE CHEFCHAOUEN,Chefchaouen,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,chefchaouen,135
+1152,LYCEE QUALIFIANT ABDELKARIM AL KHATABI,Commune BAB BERRED CHEFCHAOUEN,Bab Berred,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,bab berred,136
+1153,LYCEE QUALIFIANT TAMOROT,CENTRE DE LA COMMUNE TAMOROT,Tamorot,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,tamorot,138
+1154,LYCEE QUALIFIANT AL WAHDA AL IFRIQUIA,BAB TAZA COMMUNE BAB TAZA CHEFCHAOUEN,Bab Taza,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,bab taza,148
+1155,LYCEE QUALIFIANT BNI FAGHLOUM,BNI FAGHLOUM CENTRE COMMUNE BNI FAGHLOUM,Bni Faghloum,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,bni faghloum,151
+1156,LYCEE QUALIFIANT FIFI,COMMUNE FIFI ,Fifi,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,fifi,152
+1157,LYCEE QUALIFIANT MOHAMED ABDERRAHMAN ZITANE,CENTRE LAGHDIR C LAGHDIR,Laghdir,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,laghdir,155
+1158,LYCEE QUALIFIANT CHEIKH MOHAMED ASSEBANE,COMMUNE TANAKOUB CENTRE,Tanaqoub,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,tanaqoub,154
+1159,LYCEE QUALIFIANT HAJ MOHAMED BEN HSAIN EL HADRI,BNI AHMEDCBNI AHMED CHERQIACHEFCHAOUEN,Bni Ahmed Cherqia,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,bni ahmed cherqia,144
+1160,LYCEE QUALIFIANT MANSOURA,CENTRE DE LA COMMUNE MANSOURA,Mansoura,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,mansoura,147
+1161,LYCEE QUALIFIANT BAHR ABIAD MOUTAOUASSET,COMMUNE MALHA CENTRE,Oued Malha,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,oued malha,146
+1162,LYCEE QUALIFIANT KHEMIS MDIAQ,CENTRE DE LA COMMUNE BNI SELMANE,Bni Selmane,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,bni selmane,156
+1163,LYCEE QUALIFIANT STEHA,COMMUNE STEHA,Steha,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,steha,159
+1164,LYCEE QUALIFIANT KAA ASRAS,COMMUNE tizgan CHEFCHAOUEN,Tizgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,tizgane,160
+1165,LYCEE QUALIFIANT AMTAR,CENTRE DE LA COMMUNE AMTAR,Amtar,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,amtar,139
+1166,LYCEE QUALIFIANT MOHAMED ZERKTOUNI,COMMUNE BNI RZINE PROVINCE CHEFCHAOUEN,Bni Rzine,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,bni rzine,142
+1167,Lycée qualifiant Bni Smih,centre de la commune,Bni Smih,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,bni smih,143
+1168,LYCEE QUALIFIANT MTIOUA,CENTRE DE LA COMMUNE  MTIOUA,M'tioua,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,m'tioua,140
+1169,LYCEE QUALIFIANT KADI AYAD, JEBHA C MTIOUA ,M'tioua,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,m'tioua,140
+1170,LYCEE QUALIFIANT OUAOUZGANE,CENTRE DE LA COMMUNE OUAOUZGANE,Ouaouzgane,Chefchaouen,Tanger-Tetouan-Al Hoceima,qualifiant,chefchaouen,ouaouzgane,141
+1171,LYCEE QUALIFIANT KHMISS ANJRA,CENTRE COMMUNE ANJRA,Anjra,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,qualifiant,fahs anjra,anjra,77
+1172,LYCEE QUALIFIANT JOUAMAA,Hakama commune jouamaa,Jouamaa,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,qualifiant,fahs anjra,jouamaa,76
+1173,LYCEE QUALIFIANT TAGHRAMT,c taghramt province fahs anjra,Taghramt,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,qualifiant,fahs anjra,taghramt,78
+1174,LYCEE QUALIFIANT IBN ROCHD,Commune AL BAHRAOYINE,Al Bahraoyine,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,qualifiant,fahs anjra,al bahraoyine,74
+1175,LYCEE TECHNIQUE KSAR SGHIR,commune ksar sghir,Ksar Sghir,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,qualifiant,fahs anjra,ksar sghir,75
+1176,LYCEE QUALIFIANT KSAR SGHIR,FERSIOUA KSAR SGHIR,Ksar Sghir,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,qualifiant,fahs anjra,ksar sghir,75
+1177,LYCEE QUALIFIANT DAR SALAM,CENTRE DE COMMUNE RURALE MELLOUSSA ,Malloussa,Fahs-Anjra,Tanger-Tetouan-Al Hoceima,qualifiant,fahs anjra,malloussa,73
+1178,LYCEE QUALIFIANT ELMANSSOUR EDDAHBI,AVENUE MANSOUR EDDAHBI COMMUNE KSAR KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,ksar el kebir,80
+1179,LYCEE QUALIFIANT AL MOHAMMADIA,AVENUE ROUTE DE TATOFT ,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,ksar el kebir,80
+1180,LYCEE QUALIFIANT OUED EL MAKHAZINE,ROUTE DE TATOFT COMMUNE KSAR EL KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,ksar el kebir,80
+1181,LYCEE QUALIFIANT AHMED ERRACHIDI,HAY ESSALAM ,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,ksar el kebir,80
+1182,LYCEE QUALIFIANT OMAR IBNOU ALKHATTAB,KSAR KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,ksar el kebir,80
+1183,LYCEE QUALIFIANT AHMED EJBARI,QUARTIER OULAD HMAID KSAR KEBIR,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,ksar el kebir,80
+1184,LYCEE QUALIFIANT ABDELKADER NAKHCHA,QUARTIER OROBA RUE 8,Ksar El Kebir,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,ksar el kebir,80
+1185,LYCEE QUALIFIANT TECHNIQUE,LOTISSEMENT ALMAGHREB ALJADID,Larache,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,larache,81
+1186,LYCEE QUALIFIANT IBNOU BATOUTA,LOTISSEMENT CHAABANE2  LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,larache,81
+1187,LYCEE QUALIFIANT ABDELALI BEN CHEKROUN,HAY EL JADID COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,larache,81
+1188,LYCEE QUALIFIANT MAA LAAYNINE,AVENUe OMAR IBN ABDELAZIZ COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,larache,81
+1189,LYCEE QUALIFIANT MOULAY MOHAMED BEN ABDALLAH,AVENUe omar bno abdraziz  COMMUNE LARACHE,Larache,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,larache,81
+1190,LYCEE QUALIFIANT ALLAL ELFASSI,LAAOUAMRA CENTRE COMMUNE LAAOUAMRA,Laouamra,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,laouamra,82
+1191,LYCEE QUALIFIANT ABDELMALEK ESSAADI,commune rurale oulad ouchih,Oulad Ouchih,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,oulad ouchih,96
+1192,LYCEE QUALIFIANT RAISSANA,CENTRE COMMUNAL RAISSANA CHAMALIA,Rissana Chamalia,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,rissana chamalia,94
+1193,LYCEE QUALIFIANT LIXUS,SAHEL CENTRE,Sahel,Larache,Tanger-Tetouan-Al Hoceima,qualifiant,larache,sahel,93
+1194,LYCEE QUALIFIANT IBN YASSINE,hay kachryine avenue mly ismail,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,ouezzane,163
+1195,LYCEE QUALIFIANT IBNZOHR,AV BIR ANZARANE QU HADDADINE COMMUNE  OUAZZANE,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,ouezzane,163
+1196, LYCEE QUALIFIANT MOULAY ABDELLAH CHRIF,AV MOHAMED V  COMMUNE OUEZZANE,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,ouezzane,163
+1197,LYCEE QUALIFIANT AL KORTOBI,ROUTE CHEFCHAOUEN COMMUNE OUEZZANE,Ouezzane,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,ouezzane,163
+1198,LYCEE QUALIFIANT MOUAD BNOU JABAL,AIN DORRIJ CENTRE  COMMUNE LAMJAARA,Lamjaara,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,lamjaara,171
+1199,LYCEE QUALIFIANT MASMOUDA,masmouda,Masmouda,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,masmouda,165
+1200,LYCEE QUALIFIANT IBN SINA,C SIDI AHMED CHERIF,Sidi Ahmed Cherif,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,sidi ahmed cherif,172
+1201,LYCEE QUALIFIANT SIDI BOUSBER,sidi bousber,Sidi Bousber,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,sidi bousber,173
+1202,LYCEE QUALIFIANT 3 MARS,CENTRE SIDI REDOUANE,Sidi Redouane,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,sidi redouane,166
+1203,LYCEE QUALIFIANT OMAR EL KHIYAM,CENTRE TAROUAL,Teroual,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,teroual,168
+1204,lycée qualifiant AL KHWARIZMI,COMMUNE ZGHIRA,Zghira,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,zghira,169
+1205,LYCEE QUALIFIANT AIN BEIDA,COMMUNE AIN BEIDA,Ain Beida,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,ain beida,177
+1206, LYCEE QUALIFIANT IBN ROUCHD,centre Asjen province ouezzane,Asjen,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,asjen,175
+1207,LYCEE QUALIFIANT ALLAL AL FASSI,BRIKCHA Cr BRIKCHA ouzzane,Brikcha,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,brikcha,174
+1208,Lycée qualifiant Driss Benzekri,moqurissat,Moqrisset,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,moqrissat,176
+1209,LYCEE QUALIFIANT KALAAT BOUQORRA,centre commune kalaat bouqorra,Kalaat Bouqorra,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,kalaat bouqorra,178
+1210, LYCEE QUALIFIANT MOHAMED V ,commune zoumi province ouazzane ,Zoumi,Ouezzane,Tanger-Tetouan-Al Hoceima,qualifiant,ouezzane,zoumi,179
+1211,LYCEE QUALIFIANT OUED EDDAHAB,AVENUE HASSAN II MUNICIPALITE ASSILAH,Assilah,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,assilah,35
+1212,LYCEE QUALIFIANT ALLAL EL FASSI,AVENUE MOULAY ALI CHERIF COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,bni makada,182
+1213,LYCEE QUALIFIANT ABDELLAH CHEFCHAOUNI,ROUTE AOUAMA  COMMUNE BNI MAKADA,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,bni makada,182
+1214,LYCEE QUALIFIANT SIDI IDRISS,Sidi Idriss bni touzin,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,bni makada,182
+1215,LYCEE QUALIFIANT IMAM EL GHAZALI,Route Aouama RUE ASSOUAN ,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,bni makada,182
+1216,LYCEE QUALIFIANT KHAOUARIZMI,Lotissement alkhayre 1 bendibane bir chifa bp 8027,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,bni makada,182
+1217,LYCEE QUALIFIANT MOHAMMED LAFKIH REGRAGUI,aouama charqia commune beni makada,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,bni makada,182
+1218,LYCEE QUALIFIANT ELBASSATINE,Harrarine  Commune bni Makada,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,bni makada,182
+1219,LYCEE QUALIFIANT BIR ANZARANE,ZEMMOURI 1,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,bni makada,182
+1220,LYCEE QUALIFIANT EL MORABITINE,DHAR KANFOUD,Bni Makada,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,bni makada,182
+1221,LYCEE QUALIFIANT IBN ZOHR,TANJAH BALIA,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,mghogha,180
+1222,LYCEE QUALIFIANT MOULAY ALI CHRIF,MGHOGHA KEBIRA,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,mghogha,180
+1223,LYCEE QUALIFIANT ABDELMOUMEN EL MOUAHIDI,Rue tetouan Hay amal3,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,mghogha,180
+1224,LYCEE QUALIFIANT ROI FAHD IBN ABDELLAZIZ,COLLINE CHARF COMMUNE CHARF,Charf-Mghogha,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,mghogha,180
+1225,LYCEE QUALIFIANT MOHAMED BEN ABDELKRIM KHATTABI,BD MOULAY ABDELAZIZ COMMUNE CHARF SOUANI,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,souani,181
+1226,LYCEE QUALIFIANT ABDELKHALEK TORRES,RUE ZOUBAIR IBN AOUAM BP609 COMMUNE CHARF,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,souani,181
+1227,LYCEE QUALIFIANT IBN EL KHATIB,RUE DOCTEUR FARAJ COMMUNE souani,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,souani,181
+1228,LYCEE QUALIFIANT ABI EL ABBAS SEBTI,CITE IBN BATOTA BP3119 COMMUNE CHARF,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,souani,181
+1229,LYCEE QUALIFIANT ABI BAKR ERRAZI,Avenue abderrahman el youssfi commune charf souani,Charf-Souani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,souani,181
+1230,LYCEE QUALIFIANT ORIGINEL MOULAY SLIMANE ,RUE EL MOUJAHIDINE COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,medina,183
+1231,Lycée Moulay Hassan,RUE DES AMOUREUX COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,medina,183
+1232,LYCEE QUALIFIANT ZAINAB NAFZAOUIYA,AV HASSAN PREMIER  COMMUNE TANGER MEDINA,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,medina,183
+1233,LYCEE QUALIFIANT TECHNIQUE MOULAY YOUSSEF,AVENUE IBN TAYMIA COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,medina,183
+1234,LYCEE QUALIFIANT MOULAY RACHID,RUE DES AMOUREUX COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,medina,183
+1235,LYCEE QUALIFIANT IBN BATTOUTA,52 RUE ALLAL BEN ABDELLAH BP 136 COMMUNE TANGER,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,medina,183
+1236,LYCEE QUALIFIANT EL JAMAI,BOUKHALEF,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,medina,183
+1237,LYCEE QUALIFIANT AL HANSALI,mesnana route de ziaten,Tanger-Médina,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,medina,183
+1238,LYCEE QUALIFIANT ELMEHDI ELMENJRA,gzenaya centre,Gueznaia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,gueznaia,36
+1239,LYCEE QUALIFIANT MOHAMMED ELOUAFA,Alliance Darna Forêt Diplomatique Gzenaia Tanger,Gueznaia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,gueznaia,36
+1240,LYCEE QUALIFIANT ASSAYIDA LHOURA,centre commune sidi lyamani,Sidi Lyamani,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,sidi lyamani,45
+1241,LYCEE QUALIFIANT ZILIL,Centre commune had al gharbia,Had Al Gharbia,Tanger-Assila,Tanger-Tetouan-Al Hoceima,qualifiant,tanger assilah,had al gharbia,43
+1242,lycee OMAR IBN AL KHATTAB,CU OUED LAOU,Oued Laou,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,oued laou,52
+1243,lycee CHAIKH MOHAMED EL MEKKI ENNASSIRI,AVENUE DJIBOUTI ain melloul tétouan,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1244,LYCEE KASSEM EZHIRI,HAY KWILMA RUE MIDAR ROUTE MOUKLATA,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1245,LYCEE AL KORTOBI,Dar Morcia,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1246,LYCEE KADI AYAD,AV KHALID IBN OUALID  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1247,LYCEE KHADIJA OUM AL MOUMININE,quARTIER SCOLAIRE AV MOHAMED V  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1248,lycee EL MEHDI BENNOUNA,AV ABDELKHALAK TORRES  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1249,LYCEE ABOU BAKR ASSEDDIQ,AVENU MOULAY ALHASSAN BEN EL MAHDI B P 1130,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1250,LYCEE KADI IBN AL ARABI,40 AV MOHAMED V  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1251,LYCEE ABDEL KHALEK TORRES,HAY ATLAS  mssala 2 rue el jadida TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1252,LYCEE IMAM AL GHAZALI,RUE TAHRANE  BP 5184  Qrt Mly ELHASSAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1253,LYCEE CHARIF AL IDRISSI,AV AL MASSIRA  TETOUAN,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1254,LYCEE JABER IBN HAYAN,AV HASSAN II  ,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1255,LYCEE HASSAN II,Avenue Hassan II Rue Oued Baht  BP 631 Tétouan,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1256,LYCEE FARABI,HJAR LEEROUSSA,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1257,LYCEE IDRISS BEN ZEKRI,TABOULA,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1258,Centre CPGE ,Ain Melloul,Tétouan,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,tetouan,51
+1259,LYCEE ABOU DAR AL GHIFARI,commune jbel lahbib,Jbel Lahbib,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,jbel lahbib,55
+1260,LYCEE MOHAMED AZIZ LAHBABI,COMMUNE SADDINA,Saddina,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,saddina,59
+1261,LYCEE ABDERRAHMANE EL YOUSSFI,COMMUNE SOUK KDIM,Souk Kdim,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,souk kdim,54
+1262,LYCEE TARIK BNOU ZIAD,COMMUNE AL HAMRA,Al Hamra,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,al hamra,64
+1263,LYCEE IBN ZOHR,sidi abdesslam Azla,Azla,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,azla,69
+1264,LYCEE ALI AL-MANDRI,commune bni karrich,Dar Bni Karrich,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,dar bni karrich,67
+1265,LYCEE OTMAN BNO AFFANE,COMMUNE ZAITOUNE,Zaitoune,Tétouan,Tanger-Tetouan-Al Hoceima,qualifiant,tetouan,zaitoune,70
+1266,LYCEE QUALIFIANT YACOUB EL MANSOUR,lot saramica ,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,qualifiant,m'diq fnideq,fnideq,47
+1267,LYCEE QUALIFIANT IBN KHALDOUN,QUARTIER AGHATTAS,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,qualifiant,m'diq fnideq,fnideq,47
+1268,LYCEE QUALIFIANT ABI RABIE SEBTI,AVENUE MOHAMMED VI ROUTE RAS LOUTA FNIDEQ,Fnideq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,qualifiant,m'diq fnideq,fnideq,47
+1269,LYCEE QUALIFIANT MOHAMMED VI,rue tetouan hay dfel martil,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,qualifiant,m'diq fnideq,martil,48
+1270,LYCEE QUALIFIANT IMAM AL GHAZALI,HAY EL QODS,Martil,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,qualifiant,m'diq fnideq,martil,48
+1271,LYCEE QUALIFIANT ABDERRAHIM BOUABID,HAY AIN CHOUFOU MUNICIPALITE MDIQ,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,qualifiant,m'diq fnideq,m'diq,46
+1272,LYCEE QUALIFIANT FKIH DAOUD,HAY RABAT MUNICIPALITE M DIQ,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,qualifiant,m'diq fnideq,m'diq,46
+1273,LYCEE QUALIFIANT EL MANSOUR EDDAHBI,Kodiate Essaraj hay salam,M'Diq,M'Diq-Fnideq,Tanger-Tetouan-Al Hoceima,qualifiant,m'diq fnideq,m'diq,46

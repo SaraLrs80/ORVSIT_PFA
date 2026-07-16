@@ -1,0 +1,118 @@
+﻿territoire_brut,fk_territoire,theme,indicateur,valeur,fichier_source,territoire_id
+Al Hoceima,al hoceima,sante,hopital_provincial,1,4_Repartition_des_hopitaux_par_region_2023.csv,7.0
+Chefchaouen,chefchaouen,sante,hopital_provincial,1,4_Repartition_des_hopitaux_par_region_2023.csv,8.0
+Fahs-Anjra,fahs anjra,sante,hopital_provincial,0,4_Repartition_des_hopitaux_par_region_2023.csv,5.0
+Larache,larache,sante,hopital_provincial,1,4_Repartition_des_hopitaux_par_region_2023.csv,6.0
+Ouezzane,ouezzane,sante,hopital_provincial,1,4_Repartition_des_hopitaux_par_region_2023.csv,9.0
+Tanger-Assilah,tanger assilah,sante,hopital_provincial,0,4_Repartition_des_hopitaux_par_region_2023.csv,2.0
+Tétouan,tetouan,sante,hopital_provincial,2,4_Repartition_des_hopitaux_par_region_2023.csv,4.0
+M'Diq-Fnideq,m'diq fnideq,sante,hopital_provincial,1,4_Repartition_des_hopitaux_par_region_2023.csv,3.0
+Tanger -Tétouan- Al Hoceima,tanger tetouan al hoceima,sante,hopital_provincial,7,4_Repartition_des_hopitaux_par_region_2023.csv,1.0
+Al Hoceima,al hoceima,sante,hopital_psy_provincial,0,4_Repartition_des_hopitaux_par_region_2023.csv,7.0
+Chefchaouen,chefchaouen,sante,hopital_psy_provincial,0,4_Repartition_des_hopitaux_par_region_2023.csv,8.0
+Fahs-Anjra,fahs anjra,sante,hopital_psy_provincial,0,4_Repartition_des_hopitaux_par_region_2023.csv,5.0
+Larache,larache,sante,hopital_psy_provincial,0,4_Repartition_des_hopitaux_par_region_2023.csv,6.0
+Ouezzane,ouezzane,sante,hopital_psy_provincial,0,4_Repartition_des_hopitaux_par_region_2023.csv,9.0
+Tanger-Assilah,tanger assilah,sante,hopital_psy_provincial,0,4_Repartition_des_hopitaux_par_region_2023.csv,2.0
+Tétouan,tetouan,sante,hopital_psy_provincial,1,4_Repartition_des_hopitaux_par_region_2023.csv,4.0
+M'Diq-Fnideq,m'diq fnideq,sante,hopital_psy_provincial,0,4_Repartition_des_hopitaux_par_region_2023.csv,3.0
+Tanger -Tétouan- Al Hoceima,tanger tetouan al hoceima,sante,hopital_psy_provincial,1,4_Repartition_des_hopitaux_par_region_2023.csv,1.0
+Al Hoceima,al hoceima,sante,hopital_regional_psy,0,4_Repartition_des_hopitaux_par_region_2023.csv,7.0
+Chefchaouen,chefchaouen,sante,hopital_regional_psy,0,4_Repartition_des_hopitaux_par_region_2023.csv,8.0
+Fahs-Anjra,fahs anjra,sante,hopital_regional_psy,0,4_Repartition_des_hopitaux_par_region_2023.csv,5.0
+Larache,larache,sante,hopital_regional_psy,0,4_Repartition_des_hopitaux_par_region_2023.csv,6.0
+Ouezzane,ouezzane,sante,hopital_regional_psy,0,4_Repartition_des_hopitaux_par_region_2023.csv,9.0
+Tanger-Assilah,tanger assilah,sante,hopital_regional_psy,1,4_Repartition_des_hopitaux_par_region_2023.csv,2.0
+Tétouan,tetouan,sante,hopital_regional_psy,0,4_Repartition_des_hopitaux_par_region_2023.csv,4.0
+M'Diq-Fnideq,m'diq fnideq,sante,hopital_regional_psy,0,4_Repartition_des_hopitaux_par_region_2023.csv,3.0
+Tanger -Tétouan- Al Hoceima,tanger tetouan al hoceima,sante,hopital_regional_psy,1,4_Repartition_des_hopitaux_par_region_2023.csv,1.0
+Al Hoceima,al hoceima,sante,hopital_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,7.0
+Chefchaouen,chefchaouen,sante,hopital_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,8.0
+Fahs-Anjra,fahs anjra,sante,hopital_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,5.0
+Larache,larache,sante,hopital_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,6.0
+Ouezzane,ouezzane,sante,hopital_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,9.0
+Tanger-Assilah,tanger assilah,sante,hopital_regional,3,4_Repartition_des_hopitaux_par_region_2023.csv,2.0
+Tétouan,tetouan,sante,hopital_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,4.0
+M'Diq-Fnideq,m'diq fnideq,sante,hopital_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,3.0
+Tanger -Tétouan- Al Hoceima,tanger tetouan al hoceima,sante,hopital_regional,3,4_Repartition_des_hopitaux_par_region_2023.csv,1.0
+Al Hoceima,al hoceima,sante,centre_oncologie,1,4_Repartition_des_hopitaux_par_region_2023.csv,7.0
+Chefchaouen,chefchaouen,sante,centre_oncologie,0,4_Repartition_des_hopitaux_par_region_2023.csv,8.0
+Fahs-Anjra,fahs anjra,sante,centre_oncologie,0,4_Repartition_des_hopitaux_par_region_2023.csv,5.0
+Larache,larache,sante,centre_oncologie,0,4_Repartition_des_hopitaux_par_region_2023.csv,6.0
+Ouezzane,ouezzane,sante,centre_oncologie,0,4_Repartition_des_hopitaux_par_region_2023.csv,9.0
+Tanger-Assilah,tanger assilah,sante,centre_oncologie,0,4_Repartition_des_hopitaux_par_region_2023.csv,2.0
+Tétouan,tetouan,sante,centre_oncologie,0,4_Repartition_des_hopitaux_par_region_2023.csv,4.0
+M'Diq-Fnideq,m'diq fnideq,sante,centre_oncologie,0,4_Repartition_des_hopitaux_par_region_2023.csv,3.0
+Tanger -Tétouan- Al Hoceima,tanger tetouan al hoceima,sante,centre_oncologie,1,4_Repartition_des_hopitaux_par_region_2023.csv,1.0
+Al Hoceima,al hoceima,sante,hopital_inter_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,7.0
+Chefchaouen,chefchaouen,sante,hopital_inter_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,8.0
+Fahs-Anjra,fahs anjra,sante,hopital_inter_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,5.0
+Larache,larache,sante,hopital_inter_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,6.0
+Ouezzane,ouezzane,sante,hopital_inter_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,9.0
+Tanger-Assilah,tanger assilah,sante,hopital_inter_regional,3,4_Repartition_des_hopitaux_par_region_2023.csv,2.0
+Tétouan,tetouan,sante,hopital_inter_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,4.0
+M'Diq-Fnideq,m'diq fnideq,sante,hopital_inter_regional,0,4_Repartition_des_hopitaux_par_region_2023.csv,3.0
+Tanger -Tétouan- Al Hoceima,tanger tetouan al hoceima,sante,hopital_inter_regional,3,4_Repartition_des_hopitaux_par_region_2023.csv,1.0
+Al Hoceima,al hoceima,sante,psy_universitaire,0,4_Repartition_des_hopitaux_par_region_2023.csv,7.0
+Chefchaouen,chefchaouen,sante,psy_universitaire,0,4_Repartition_des_hopitaux_par_region_2023.csv,8.0
+Fahs-Anjra,fahs anjra,sante,psy_universitaire,0,4_Repartition_des_hopitaux_par_region_2023.csv,5.0
+Larache,larache,sante,psy_universitaire,0,4_Repartition_des_hopitaux_par_region_2023.csv,6.0
+Ouezzane,ouezzane,sante,psy_universitaire,0,4_Repartition_des_hopitaux_par_region_2023.csv,9.0
+Tanger-Assilah,tanger assilah,sante,psy_universitaire,1,4_Repartition_des_hopitaux_par_region_2023.csv,2.0
+Tétouan,tetouan,sante,psy_universitaire,0,4_Repartition_des_hopitaux_par_region_2023.csv,4.0
+M'Diq-Fnideq,m'diq fnideq,sante,psy_universitaire,0,4_Repartition_des_hopitaux_par_region_2023.csv,3.0
+Tanger -Tétouan- Al Hoceima,tanger tetouan al hoceima,sante,psy_universitaire,1,4_Repartition_des_hopitaux_par_region_2023.csv,1.0
+Al Hoceima,al hoceima,sante,hopital_proximite,2,4_Repartition_des_hopitaux_par_region_2023.csv,7.0
+Chefchaouen,chefchaouen,sante,hopital_proximite,0,4_Repartition_des_hopitaux_par_region_2023.csv,8.0
+Fahs-Anjra,fahs anjra,sante,hopital_proximite,0,4_Repartition_des_hopitaux_par_region_2023.csv,5.0
+Larache,larache,sante,hopital_proximite,1,4_Repartition_des_hopitaux_par_region_2023.csv,6.0
+Ouezzane,ouezzane,sante,hopital_proximite,0,4_Repartition_des_hopitaux_par_region_2023.csv,9.0
+Tanger-Assilah,tanger assilah,sante,hopital_proximite,2,4_Repartition_des_hopitaux_par_region_2023.csv,2.0
+Tétouan,tetouan,sante,hopital_proximite,0,4_Repartition_des_hopitaux_par_region_2023.csv,4.0
+M'Diq-Fnideq,m'diq fnideq,sante,hopital_proximite,1,4_Repartition_des_hopitaux_par_region_2023.csv,3.0
+Tanger -Tétouan- Al Hoceima,tanger tetouan al hoceima,sante,hopital_proximite,6,4_Repartition_des_hopitaux_par_region_2023.csv,1.0
+Al Hoceima,al hoceima,sante,total_hospital,4,4_Repartition_des_hopitaux_par_region_2023.csv,7.0
+Chefchaouen,chefchaouen,sante,total_hospital,1,4_Repartition_des_hopitaux_par_region_2023.csv,8.0
+Fahs-Anjra,fahs anjra,sante,total_hospital,0,4_Repartition_des_hopitaux_par_region_2023.csv,5.0
+Larache,larache,sante,total_hospital,2,4_Repartition_des_hopitaux_par_region_2023.csv,6.0
+Ouezzane,ouezzane,sante,total_hospital,1,4_Repartition_des_hopitaux_par_region_2023.csv,9.0
+Tanger-Assilah,tanger assilah,sante,total_hospital,10,4_Repartition_des_hopitaux_par_region_2023.csv,2.0
+Tétouan,tetouan,sante,total_hospital,3,4_Repartition_des_hopitaux_par_region_2023.csv,4.0
+M'Diq-Fnideq,m'diq fnideq,sante,total_hospital,2,4_Repartition_des_hopitaux_par_region_2023.csv,3.0
+Tanger -Tétouan- Al Hoceima,tanger tetouan al hoceima,sante,total_hospital,23,4_Repartition_des_hopitaux_par_region_2023.csv,1.0
+Al Hoceima,al hoceima,sante,centre_hemodialyse,3,4_Repartition_des_hopitaux_par_region_2023.csv,7.0
+Chefchaouen,chefchaouen,sante,centre_hemodialyse,1,4_Repartition_des_hopitaux_par_region_2023.csv,8.0
+Fahs-Anjra,fahs anjra,sante,centre_hemodialyse,1,4_Repartition_des_hopitaux_par_region_2023.csv,5.0
+Larache,larache,sante,centre_hemodialyse,2,4_Repartition_des_hopitaux_par_region_2023.csv,6.0
+Ouezzane,ouezzane,sante,centre_hemodialyse,1,4_Repartition_des_hopitaux_par_region_2023.csv,9.0
+Tanger-Assilah,tanger assilah,sante,centre_hemodialyse,5,4_Repartition_des_hopitaux_par_region_2023.csv,2.0
+Tétouan,tetouan,sante,centre_hemodialyse,2,4_Repartition_des_hopitaux_par_region_2023.csv,4.0
+M'Diq-Fnideq,m'diq fnideq,sante,centre_hemodialyse,2,4_Repartition_des_hopitaux_par_region_2023.csv,3.0
+Tanger -Tétouan- Al Hoceima,tanger tetouan al hoceima,sante,centre_hemodialyse,17,4_Repartition_des_hopitaux_par_region_2023.csv,1.0
+Al Hoceima,al hoceima,sante,clinique_jour,0,4_Repartition_des_hopitaux_par_region_2023.csv,7.0
+Chefchaouen,chefchaouen,sante,clinique_jour,0,4_Repartition_des_hopitaux_par_region_2023.csv,8.0
+Fahs-Anjra,fahs anjra,sante,clinique_jour,0,4_Repartition_des_hopitaux_par_region_2023.csv,5.0
+Larache,larache,sante,clinique_jour,0,4_Repartition_des_hopitaux_par_region_2023.csv,6.0
+Ouezzane,ouezzane,sante,clinique_jour,0,4_Repartition_des_hopitaux_par_region_2023.csv,9.0
+Tanger-Assilah,tanger assilah,sante,clinique_jour,1,4_Repartition_des_hopitaux_par_region_2023.csv,2.0
+Tétouan,tetouan,sante,clinique_jour,0,4_Repartition_des_hopitaux_par_region_2023.csv,4.0
+M'Diq-Fnideq,m'diq fnideq,sante,clinique_jour,1,4_Repartition_des_hopitaux_par_region_2023.csv,3.0
+Tanger -Tétouan- Al Hoceima,tanger tetouan al hoceima,sante,clinique_jour,2,4_Repartition_des_hopitaux_par_region_2023.csv,1.0
+Al Hoceima,al hoceima,sante,centre_transfusion,1,4_Repartition_des_hopitaux_par_region_2023.csv,7.0
+Chefchaouen,chefchaouen,sante,centre_transfusion,0,4_Repartition_des_hopitaux_par_region_2023.csv,8.0
+Fahs-Anjra,fahs anjra,sante,centre_transfusion,0,4_Repartition_des_hopitaux_par_region_2023.csv,5.0
+Larache,larache,sante,centre_transfusion,0,4_Repartition_des_hopitaux_par_region_2023.csv,6.0
+Ouezzane,ouezzane,sante,centre_transfusion,0,4_Repartition_des_hopitaux_par_region_2023.csv,9.0
+Tanger-Assilah,tanger assilah,sante,centre_transfusion,1,4_Repartition_des_hopitaux_par_region_2023.csv,2.0
+Tétouan,tetouan,sante,centre_transfusion,1,4_Repartition_des_hopitaux_par_region_2023.csv,4.0
+M'Diq-Fnideq,m'diq fnideq,sante,centre_transfusion,0,4_Repartition_des_hopitaux_par_region_2023.csv,3.0
+Tanger -Tétouan- Al Hoceima,tanger tetouan al hoceima,sante,centre_transfusion,3,4_Repartition_des_hopitaux_par_region_2023.csv,1.0
+Al Hoceima,al hoceima,sante,total_general,8,4_Repartition_des_hopitaux_par_region_2023.csv,7.0
+Chefchaouen,chefchaouen,sante,total_general,2,4_Repartition_des_hopitaux_par_region_2023.csv,8.0
+Fahs-Anjra,fahs anjra,sante,total_general,1,4_Repartition_des_hopitaux_par_region_2023.csv,5.0
+Larache,larache,sante,total_general,4,4_Repartition_des_hopitaux_par_region_2023.csv,6.0
+Ouezzane,ouezzane,sante,total_general,2,4_Repartition_des_hopitaux_par_region_2023.csv,9.0
+Tanger-Assilah,tanger assilah,sante,total_general,17,4_Repartition_des_hopitaux_par_region_2023.csv,2.0
+Tétouan,tetouan,sante,total_general,6,4_Repartition_des_hopitaux_par_region_2023.csv,4.0
+M'Diq-Fnideq,m'diq fnideq,sante,total_general,5,4_Repartition_des_hopitaux_par_region_2023.csv,3.0
+Tanger -Tétouan- Al Hoceima,tanger tetouan al hoceima,sante,total_general,45,4_Repartition_des_hopitaux_par_region_2023.csv,1.0
