@@ -1,0 +1,10 @@
+﻿province_prefecture,indicateur,valeur,fk_territoire,theme,fichier_source,territoire_id
+Tanger - Tétouan - Al Hoceima,Cliniques privées par province (ou préfecture) : Privé,44,tanger tetouan al hoceima,sante,cleaned_sante_10__Cliniques_privées_par_province__ou_préfecture___Privé.csv,1
+Al Hoceima,Cliniques privées par province (ou préfecture) : Privé,2,al hoceima,sante,cleaned_sante_10__Cliniques_privées_par_province__ou_préfecture___Privé.csv,7
+Chefchaouen,Cliniques privées par province (ou préfecture) : Privé,0,chefchaouen,sante,cleaned_sante_10__Cliniques_privées_par_province__ou_préfecture___Privé.csv,8
+Fahs-Anjra,Cliniques privées par province (ou préfecture) : Privé,0,fahs anjra,sante,cleaned_sante_10__Cliniques_privées_par_province__ou_préfecture___Privé.csv,5
+Larache,Cliniques privées par province (ou préfecture) : Privé,6,larache,sante,cleaned_sante_10__Cliniques_privées_par_province__ou_préfecture___Privé.csv,6
+Mdiq-Fnideq,Cliniques privées par province (ou préfecture) : Privé,0,m'diq fnideq,sante,cleaned_sante_10__Cliniques_privées_par_province__ou_préfecture___Privé.csv,3
+Ouezzane,Cliniques privées par province (ou préfecture) : Privé,0,ouezzane,sante,cleaned_sante_10__Cliniques_privées_par_province__ou_préfecture___Privé.csv,9
+Tanger Assilah,Cliniques privées par province (ou préfecture) : Privé,29,tanger assilah,sante,cleaned_sante_10__Cliniques_privées_par_province__ou_préfecture___Privé.csv,2
+Tetouan,Cliniques privées par province (ou préfecture) : Privé,7,tetouan,sante,cleaned_sante_10__Cliniques_privées_par_province__ou_préfecture___Privé.csv,4

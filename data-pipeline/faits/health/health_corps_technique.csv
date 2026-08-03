@@ -1,0 +1,128 @@
+﻿Province,Etablissement,Specialité,Nombre,territoire_id
+Tanger Assilah,SAMU,Technicien ambulancier,7,2
+Tanger Assilah,SAMU,Technicien,1,2
+Al Hoceima,CRTS AlHoceima,Adjoint technique,1,7
+Al Hoceima,CRTS AlHoceima,Technicien,3,7
+Tanger Assilah,CRTS Tanger,Adjoint technique,1,2
+Tanger Assilah,CRTS Tanger,Technicien ambulancier,1,2
+Tanger Assilah,CRTS Tanger,Technicien,1,2
+Tetouan,CRTS Tétouan,Adjoint technique,2,4
+Tetouan,CRTS Tétouan,Ingénieur,3,4
+Al Hoceima,Bni Bouayach,Autres,1,7
+Al Hoceima,Imzouren    ,Autres,1,7
+Al Hoceima,Targuist    ,Adjoint technique,1,7
+Al Hoceima,Bni Boufrah,Adjoint technique,1,7
+Al Hoceima,Bni Ammart,Adjoint technique,1,7
+Al Hoceima,Mohamed V,Technicien,1,7
+Al Hoceima,Mohamed V,Adjoint technique,4,7
+Al Hoceima,C. d'oncologie d'Al Hoceima,Aide soignant,4,7
+Al Hoceima,Targuist,Adjoint technique,1,7
+Al Hoceima,Targuist,Technicien ambulancier,2,7
+Al Hoceima,Targuist,Technicien,1,7
+Al Hoceima,Al Hoceima-Hôp. Mohammed V,Aide soignant,4,7
+Al Hoceima,Targuist,Aide soignant,2,7
+Al Hoceima,Imzouren,Adjoint technique,1,7
+Al Hoceima,Imzouren,Technicien,1,7
+Chefchaouen,Bab Berred,Aide soignant,1,8
+Chefchaouen,Steha  ,Adjoint technique,1,8
+Chefchaouen,Mohamed V,Adjoint technique,19,8
+Chefchaouen,Mohamed V,Aide soignant,16,8
+Chefchaouen,Mohamed V,Technicien ambulancier,3,8
+Chefchaouen,Mohamed V,Technicien,12,8
+Chefchaouen,Chefchaouen-Hôp. Mohammed V,Aide soignant,2,8
+Fahs-Anjra,AL Amal,Aide soignant,2,5
+Larache,My Ali Boughaleb,Adjoint technique,1,6
+Larache,Khalkhali,Adjoint technique,1,6
+Larache,Bouchouika,Adjoint technique,1,6
+Larache,Alwafaa,Adjoint technique,1,6
+Larache,Tatoft,Adjoint technique,1,6
+Larache,Alwafaa,Adjoint technique,1,6
+Larache,Lalla Meriem,Adjoint technique,17,6
+Larache,Lalla Meriem,Aide soignant,14,6
+Larache,Lalla Meriem,Technicien ambulancier,4,6
+Larache,Lalla Meriem,Ingénieur,3,6
+Larache,Lalla Meriem,Technicien,14,6
+Larache,Ksar El Kebir,Adjoint technique,9,6
+Larache,Ksar El Kebir,Aide soignant,9,6
+Larache,Ksar El Kebir,Technicien ambulancier,4,6
+Larache,Ksar El Kebir,Ingénieur,1,6
+Larache,Ksar El Kebir,Technicien,10,6
+Larache,Cité universitaire Larache,Adjoint technique,17,6
+Larache,Cité universitaire Larache,Aide soignant,14,6
+Larache,Cité universitaire Larache,Technicien ambulancier,4,6
+Larache,Cité universitaire Larache,Ingénieur,3,6
+Larache,Cité universitaire Larache,Technicien,14,6
+Mdiq-Fnideq,Mohammed VI,Adjoint technique,5,3
+Mdiq-Fnideq,Mohammed VI,Aide soignant,13,3
+Mdiq-Fnideq,Mohammed VI,Technicien ambulancier,5,3
+Mdiq-Fnideq,Mohammed VI,Technicien,14,3
+Mdiq-Fnideq,Hassan II,Technicien,6,3
+Mdiq-Fnideq,Hassan II,Adjoint technique,2,3
+Mdiq-Fnideq,Hassan II,Aide soignant,11,3
+Mdiq-Fnideq,Hassan II,Technicien ambulancier,2,3
+Ouezzane,Abou Kacem Zahraoui,Adjoint technique,5,9
+Ouezzane,Abou Kacem Zahraoui,Aide soignant,17,9
+Ouezzane,Abou Kacem Zahraoui,Technicien ambulancier,6,9
+Ouezzane,Abou Kacem Zahraoui,Technicien,7,9
+Tanger Assilah,Roi Fahd,Technicien,1,2
+Tanger Assilah,Labo. Epidemiologique,Aide soignant,1,2
+Tanger Assilah,Labo. Epidemiologique,Ingénieur,1,2
+Tanger Assilah,C. Diagnostic Tuberculose,Adjoint technique,1,2
+Tanger Assilah,Mohamed V,Adjoint technique,12,2
+Tanger Assilah,Mohamed V,Aide soignant,37,2
+Tanger Assilah,Mohamed V,Technicien ambulancier,6,2
+Tanger Assilah,Mohamed V,Ingénieur,4,2
+Tanger Assilah,Mohamed V,Technicien,29,2
+Tanger Assilah,Al Kortobi,Adjoint technique,1,2
+Tanger Assilah,Al Kortobi,Aide soignant,8,2
+Tanger Assilah,Al Kortobi,Technicien,2,2
+Tanger Assilah,Duc De Tovar,Adjoint technique,3,2
+Tanger Assilah,Duc De Tovar,Aide soignant,13,2
+Tanger Assilah,Duc De Tovar,Technicien,4,2
+Tanger Assilah,Assilah,Adjoint technique,1,2
+Tanger Assilah,Assilah,Aide soignant,4,2
+Tanger Assilah,Assilah,Technicien ambulancier,2,2
+Tanger Assilah,Assilah,Technicien,4,2
+Tanger Assilah,Arrazi,Adjoint technique,1,2
+Tanger Assilah,Arrazi,Technicien,2,2
+Tanger Assilah,Mohammed Vi,Aide soignant,5,2
+Tanger Assilah,Mohammed Vi,Ingénieur,1,2
+Tanger Assilah,Mohammed Vi,Technicien,3,2
+Tanger Assilah,Tanger-Hôp. Mohammed V,Aide soignant,1,2
+Tanger Assilah,Centre d'oncologie,Technicien,1,2
+Tanger Assilah,Espace Santé Jeunes Said noussairi,Adjoint technique,1,2
+Tetouan,Sidi Talha,Adjoint technique,1,4
+Tetouan,Tetouan (Hôpital),Ingénieur,1,4
+Tetouan,Hôpital.Civil,Adjoint technique,18,4
+Tetouan,Hôpital.Civil,Aide soignant,23,4
+Tetouan,Hôpital.Civil,Technicien ambulancier,3,4
+Tetouan,Hôpital.Civil,Ingénieur,4,4
+Tetouan,Hôpital.Civil,Technicien,17,4
+Tetouan,Ben Karrich,Adjoint technique,5,4
+Tetouan,Ben Karrich,Aide soignant,7,4
+Tetouan,Ben Karrich,Technicien ambulancier,1,4
+Tetouan,Ben Karrich,Technicien,2,4
+Tetouan,Errazi,Adjoint technique,4,4
+Tetouan,Errazi,Aide soignant,1,4
+Tetouan,Errazi,Technicien ambulancier,1,4
+Tetouan,Errazi,Technicien,2,4
+Tetouan,Tetouan-Hôp. Civil,Aide soignant,2,4
+Tetouan,CIRAR (Hôpital Régional),Adjoint technique,1,4
+Tanger Assilah,Beni Makada (CMP),Technicien,4,2
+Tanger Assilah,Beni Makada (CMP),Aide soignant,12,2
+Tanger Assilah,Beni Makada (CMP),Adjoint technique,2,2
+Mdiq-Fnideq,Martil,Technicien ambulancier,3,3
+Mdiq-Fnideq,Martil,Technicien,1,3
+Mdiq-Fnideq,Martil,Aide soignant,8,3
+Mdiq-Fnideq,Martil,Adjoint technique,2,3
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Ingénieur,1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Technicien,15,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,Ingénieur,1,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,Technicien,2,2
+Tanger Assilah,Hôpital psychiatrique Mohamed VI,Technicien,1,2
+Al Hoceima,Mohammed VI,Adjoint technique,5,7
+Al Hoceima,Mohammed VI,Aide soignant,32,7
+Al Hoceima,Mohammed VI,Ingénieur,2,7
+Al Hoceima,Mohammed VI,Technicien ambulancier,7,7
+Al Hoceima,Mohammed VI,Technicien,12,7
+Al Hoceima,Mohammed VI,Autres,2,7

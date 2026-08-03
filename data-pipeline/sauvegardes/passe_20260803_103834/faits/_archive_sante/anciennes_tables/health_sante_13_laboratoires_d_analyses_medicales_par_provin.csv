@@ -1,0 +1,10 @@
+﻿province_prefecture,indicateur,valeur,fk_territoire,theme,fichier_source,territoire_id
+Tanger - Tétouan - Al Hoceima,Laboratoires d'analyses médicales par province (ou préfect,76,tanger tetouan al hoceima,sante,cleaned_sante_13__Laboratoires_d_analyses_médicales_par_province__ou_préfecture___Privé.csv,1
+Al Hoceima,Laboratoires d'analyses médicales par province (ou préfect,6,al hoceima,sante,cleaned_sante_13__Laboratoires_d_analyses_médicales_par_province__ou_préfecture___Privé.csv,7
+Chefchaouen,Laboratoires d'analyses médicales par province (ou préfect,1,chefchaouen,sante,cleaned_sante_13__Laboratoires_d_analyses_médicales_par_province__ou_préfecture___Privé.csv,8
+Fahs-Anjra,Laboratoires d'analyses médicales par province (ou préfect,0,fahs anjra,sante,cleaned_sante_13__Laboratoires_d_analyses_médicales_par_province__ou_préfecture___Privé.csv,5
+Larache,Laboratoires d'analyses médicales par province (ou préfect,5,larache,sante,cleaned_sante_13__Laboratoires_d_analyses_médicales_par_province__ou_préfecture___Privé.csv,6
+Mdiq-Fnideq,Laboratoires d'analyses médicales par province (ou préfect,3,m'diq fnideq,sante,cleaned_sante_13__Laboratoires_d_analyses_médicales_par_province__ou_préfecture___Privé.csv,3
+Ouezzane,Laboratoires d'analyses médicales par province (ou préfect,2,ouezzane,sante,cleaned_sante_13__Laboratoires_d_analyses_médicales_par_province__ou_préfecture___Privé.csv,9
+Tanger Assilah,Laboratoires d'analyses médicales par province (ou préfect,50,tanger assilah,sante,cleaned_sante_13__Laboratoires_d_analyses_médicales_par_province__ou_préfecture___Privé.csv,2
+Tetouan,Laboratoires d'analyses médicales par province (ou préfect,9,tetouan,sante,cleaned_sante_13__Laboratoires_d_analyses_médicales_par_province__ou_préfecture___Privé.csv,4

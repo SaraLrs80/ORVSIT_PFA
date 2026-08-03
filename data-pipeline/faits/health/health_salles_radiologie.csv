@@ -1,0 +1,25 @@
+﻿Province,Nom,Catégorie,Radiologie,Nombre,territoire_id
+Al Hoceima,C. d'oncologie d'Al Hoceima,CRO,Radiologie centrale,1,7
+Al Hoceima,Imzouren,HPr,Radiologie centrale,1,7
+Al Hoceima,Mohamed V,HP,Radiologie centrale,2,7
+Al Hoceima,Mohammed VI,HP,Radiologie centrale,3,7
+Al Hoceima,Targuist,HPr,Radiologie centrale,2,7
+Chefchaouen,Mohamed V,HP,Radiologie centrale,2,8
+Larache,Lalla Meriem,HP,Radiologie centrale,2,6
+Mdiq-Fnideq,Hassan II,HPr,Radiologie des urgences,1,3
+Mdiq-Fnideq,Hassan II,HPr,Radiologie centrale,1,3
+Mdiq-Fnideq,Mohammed VI,HP,Radiologie centrale,2,3
+Ouezzane,Abou Kacem Zahraoui,HP,Radiologie centrale,1,9
+Tanger Assilah,Al Kortobi,HR,Radiologie centrale,1,2
+Tanger Assilah,Assilah,HPr,Radiologie des urgences,1,2
+Tanger Assilah,Assilah,HPr,Radiologie centrale,1,2
+Tanger Assilah,Duc De Tovar,HR,Radiologie centrale,1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Radiologie des urgences,3,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Radiologie centrale,3,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,HIR,Radiologie des urgences,3,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,HIR,Radiologie centrale,4,2
+Tanger Assilah,Mohamed V,HR,Radiologie des urgences,1,2
+Tanger Assilah,Mohammed Vi,HPr,Radiologie des urgences,1,2
+Tanger Assilah,Mohammed Vi,HPr,Radiologie centrale,1,2
+Tetouan,Hôpital.Civil,HP,Radiologie des urgences,1,4
+Tetouan,Hôpital.Civil,HP,Radiologie centrale,2,4

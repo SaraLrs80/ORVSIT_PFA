@@ -1,21 +1,21 @@
-﻿indicateur,valeur,fk_territoire,theme,territoire_id
-Execellante Qaulité 2024,47.0,tanger tetouan al hoceima,plages_evolution_qualite,1
-Execellante Qaulité 2023,40.14,tanger tetouan al hoceima,plages_evolution_qualite,1
-Execellante Qaulité 2022,36.59,tanger tetouan al hoceima,plages_evolution_qualite,1
-Execellante Qaulité 2021,38.14,tanger tetouan al hoceima,plages_evolution_qualite,1
-Bonne Qualité 2024,32.0,tanger tetouan al hoceima,plages_evolution_qualite,1
-Bonne Qualité 2023,31.59,tanger tetouan al hoceima,plages_evolution_qualite,1
-Bonne Qualité 2022,30.98,tanger tetouan al hoceima,plages_evolution_qualite,1
-Bonne Qualité 2021,24.88,tanger tetouan al hoceima,plages_evolution_qualite,1
-Qualité Suffisante 2024,14.0,tanger tetouan al hoceima,plages_evolution_qualite,1
-Qualité Suffisante 2023,19.0,tanger tetouan al hoceima,plages_evolution_qualite,1
-Qualité Suffisante 2022,20.49,tanger tetouan al hoceima,plages_evolution_qualite,1
-Qualité Suffisante 2021,25.12,tanger tetouan al hoceima,plages_evolution_qualite,1
-Qualité insuffisante 2024,7.0,tanger tetouan al hoceima,plages_evolution_qualite,1
-Qualité insuffisante 2023,9.26,tanger tetouan al hoceima,plages_evolution_qualite,1
-Qualité insuffisante 2022,11.95,tanger tetouan al hoceima,plages_evolution_qualite,1
-Qualité insuffisante 2021,11.86,tanger tetouan al hoceima,plages_evolution_qualite,1
-Total 2024,100.0,tanger tetouan al hoceima,plages_evolution_qualite,1
-Total 2023,100.0,tanger tetouan al hoceima,plages_evolution_qualite,1
-Total 2022,100.0,tanger tetouan al hoceima,plages_evolution_qualite,1
-Total 2021,100.0,tanger tetouan al hoceima,plages_evolution_qualite,1
+﻿indicateur,valeur,fk_territoire,theme,territoire_id,indicateur_id
+Execellante Qaulité 2024,47.0,tanger tetouan al hoceima,plages_evolution_qualite,1,277
+Execellante Qaulité 2023,40.14,tanger tetouan al hoceima,plages_evolution_qualite,1,276
+Execellante Qaulité 2022,36.59,tanger tetouan al hoceima,plages_evolution_qualite,1,275
+Execellante Qaulité 2021,38.14,tanger tetouan al hoceima,plages_evolution_qualite,1,274
+Bonne Qualité 2024,32.0,tanger tetouan al hoceima,plages_evolution_qualite,1,273
+Bonne Qualité 2023,31.59,tanger tetouan al hoceima,plages_evolution_qualite,1,272
+Bonne Qualité 2022,30.98,tanger tetouan al hoceima,plages_evolution_qualite,1,271
+Bonne Qualité 2021,24.88,tanger tetouan al hoceima,plages_evolution_qualite,1,270
+Qualité Suffisante 2024,14.0,tanger tetouan al hoceima,plages_evolution_qualite,1,281
+Qualité Suffisante 2023,19.0,tanger tetouan al hoceima,plages_evolution_qualite,1,280
+Qualité Suffisante 2022,20.49,tanger tetouan al hoceima,plages_evolution_qualite,1,279
+Qualité Suffisante 2021,25.12,tanger tetouan al hoceima,plages_evolution_qualite,1,278
+Qualité insuffisante 2024,7.0,tanger tetouan al hoceima,plages_evolution_qualite,1,285
+Qualité insuffisante 2023,9.26,tanger tetouan al hoceima,plages_evolution_qualite,1,284
+Qualité insuffisante 2022,11.95,tanger tetouan al hoceima,plages_evolution_qualite,1,283
+Qualité insuffisante 2021,11.86,tanger tetouan al hoceima,plages_evolution_qualite,1,282
+Total 2024,100.0,tanger tetouan al hoceima,plages_evolution_qualite,1,289
+Total 2023,100.0,tanger tetouan al hoceima,plages_evolution_qualite,1,288
+Total 2022,100.0,tanger tetouan al hoceima,plages_evolution_qualite,1,287
+Total 2021,100.0,tanger tetouan al hoceima,plages_evolution_qualite,1,286

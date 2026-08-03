@@ -1,0 +1,569 @@
+﻿Province,Etablissement,Specialité,Nombre,territoire_id
+Tanger Assilah,SAMU,Médecine d'urgence et de catastrophe,1,2
+Tanger Assilah,SAMU,Médecine du travail,2,2
+Tanger Assilah,SAMU,Médecine du sport,1,2
+Al Hoceima,CRTS AlHoceima,Pharmacie,1,7
+Al Hoceima,CRTS AlHoceima,Médecine générale,2,7
+Al Hoceima,CRTS AlHoceima,Radiothérapie,7,7
+Al Hoceima,CRTS AlHoceima,Oncologie médicale,7,7
+Tanger Assilah,CRTS Tanger,Médecine générale,2,2
+Tanger Assilah,CRTS Tanger,Biologie médicale clinique (ou analyses biol.médicales),1,2
+Tanger Assilah,CRTS Tanger,Médecine du travail,2,2
+Tetouan,CRTS Tétouan,Médecine générale,4,4
+Al Hoceima,Bir Anzarane,Chirurgie dentaire,2,7
+Al Hoceima,Bir Anzarane,Médecine générale,3,7
+Al Hoceima,Bir Anzarane,Psychiatrie,2,7
+Al Hoceima,Bir Anzarane,"Médecine communautaire (méd prév,santé pub et hyg)",1,7
+Al Hoceima,Abdellah Hamou,Médecine générale,1,7
+Al Hoceima,Bni Bouayach,Médecine générale,1,7
+Al Hoceima,Imzouren    ,Médecine générale,1,7
+Al Hoceima,Targuist    ,Médecine générale,2,7
+Al Hoceima,Hommane El Fatouaki,Médecine générale,1,7
+Al Hoceima,Ajdir (Azghar),Médecine générale,1,7
+Al Hoceima,Ait youssef ou Ali(S.Bouafif),Médecine générale,1,7
+Al Hoceima,Bni Abdellah,Médecine générale,1,7
+Al Hoceima,Tamassint,Médecine générale,1,7
+Al Hoceima,Izemmouren,Médecine générale,1,7
+Al Hoceima,Tala Youssef,Médecine générale,1,7
+Al Hoceima,Nekkour,Médecine générale,1,7
+Al Hoceima,Bni Bchir (Bab Stot),Médecine générale,1,7
+Al Hoceima,Zarkat,Médecine générale,1,7
+Al Hoceima,Issaguen,Médecine générale,1,7
+Al Hoceima,Bir Anzarane,Chirurgie dentaire,2,7
+Al Hoceima,Bir Anzarane,Médecine générale,3,7
+Al Hoceima,Bir Anzarane,Psychiatrie,2,7
+Al Hoceima,Bir Anzarane,"Médecine communautaire (méd prév,santé pub et hyg)",1,7
+Al Hoceima,Bir Anzarane,Pneumo-phtisiologie,1,7
+Al Hoceima,Mohamed V,Pharmacie,1,7
+Al Hoceima,Mohamed V,Médecine générale,4,7
+Al Hoceima,Mohamed V,Psychiatrie,1,7
+Al Hoceima,C. d'oncologie d'Al Hoceima,Néphrologie,1,7
+Al Hoceima,C. d'oncologie d'Al Hoceima,Médecine générale,1,7
+Al Hoceima,Targuist,Gynécologie-obstétrique,1,7
+Al Hoceima,Targuist,Pharmacie,1,7
+Al Hoceima,Targuist,Médecine générale,3,7
+Al Hoceima,Targuist,Pédiatrie,2,7
+Al Hoceima,Targuist,Chirurgie générale,2,7
+Al Hoceima,Targuist,Anesthésie-réanimation,1,7
+Al Hoceima,Targuist,Hygiène hospitalière,1,7
+Al Hoceima,Al Hoceima-Hôp. Mohammed V,Néphrologie,1,7
+Al Hoceima,Al Hoceima-Hôp. Mohammed V,Médecine générale,1,7
+Al Hoceima,Targuist,Néphrologie,1,7
+Al Hoceima,Imzouren,Néphrologie,1,7
+Chefchaouen,El Haouta,Médecine générale,2,8
+Chefchaouen,Bab El Ain  ,Chirurgie dentaire,3,8
+Chefchaouen,Bab El Ain  ,Médecine générale,1,8
+Chefchaouen,Bab El Ain  ,"Médecine communautaire (méd prév,santé pub et hyg)",1,8
+Chefchaouen,Ain El Houzi,Médecine générale,2,8
+Chefchaouen,Bab Berred,Médecine générale,1,8
+Chefchaouen,Amtar       ,Médecine générale,1,8
+Chefchaouen,Jabha        ,Médecine générale,1,8
+Chefchaouen,Bab Taza,Médecine générale,2,8
+Chefchaouen,Gharouzime,Médecine générale,2,8
+Chefchaouen,Derdara,"Médecine communautaire (méd prév,santé pub et hyg)",1,8
+Chefchaouen,Tanaqoub    ,Médecine générale,1,8
+Chefchaouen,Ain Lahjar,Médecine générale,1,8
+Chefchaouen,Bou Ahmed     ,"Médecine communautaire (méd prév,santé pub et hyg)",1,8
+Chefchaouen,Steha  ,Médecine générale,2,8
+Chefchaouen,Kaa Assrass,Médecine générale,1,8
+Chefchaouen,Talambot,Médecine générale,1,8
+Chefchaouen,Tasift,Médecine générale,2,8
+Chefchaouen,Malha,Médecine générale,1,8
+Chefchaouen,Ain el houzi,Pneumo-phtisiologie,1,8
+Chefchaouen,Chafchaouen,Médecine générale,1,8
+Chefchaouen,Mohamed V,Oto-rhino-laryngologie,2,8
+Chefchaouen,Mohamed V,Gynécologie-obstétrique,1,8
+Chefchaouen,Mohamed V,Dermatologie,1,8
+Chefchaouen,Mohamed V,Pharmacie,1,8
+Chefchaouen,Mohamed V,Chirurgie pédiatrique,1,8
+Chefchaouen,Mohamed V,Néphrologie,1,8
+Chefchaouen,Mohamed V,Chirurgie dentaire,1,8
+Chefchaouen,Mohamed V,Médecine générale,12,8
+Chefchaouen,Mohamed V,Biologie médicale clinique (ou analyses biol.médicales),1,8
+Chefchaouen,Mohamed V,Rhumatologie,1,8
+Chefchaouen,Mohamed V,Cardiologie,1,8
+Chefchaouen,Mohamed V,Radiologie,3,8
+Chefchaouen,Mohamed V,Gastro-entérologie,3,8
+Chefchaouen,Mohamed V,Traumatologie-orthopédie,2,8
+Chefchaouen,Mohamed V,Urologie,1,8
+Chefchaouen,Mohamed V,Pédiatrie,2,8
+Chefchaouen,Mohamed V,Chirurgie générale,2,8
+Chefchaouen,Mohamed V,Anesthésie-réanimation,1,8
+Chefchaouen,Mohamed V,Psychiatrie,1,8
+Chefchaouen,Mohamed V,Ophtalmologie,2,8
+Chefchaouen,Chefchaouen-Hôp. Mohammed V,Médecine générale,2,8
+Fahs-Anjra,Nouinouich,Médecine générale,1,5
+Fahs-Anjra,Nouinouich,Médecine du sport,1,5
+Fahs-Anjra,Ksar Sghir,Chirurgie dentaire,2,5
+Fahs-Anjra,Ksar Sghir,Médecine générale,1,5
+Fahs-Anjra,Malloussa,Médecine du travail,1,5
+Fahs-Anjra,Khmiss Anjra,Chirurgie dentaire,1,5
+Fahs-Anjra,Khmiss Anjra,Médecine générale,1,5
+Fahs-Anjra,Khmiss Anjra,"Médecine communautaire (méd prév,santé pub et hyg)",1,5
+Fahs-Anjra,Hakkama,Médecine générale,1,5
+Fahs-Anjra,Ksar El Majaz,Médecine générale,1,5
+Fahs-Anjra,Taghramt,Médecine du travail,1,5
+Fahs-Anjra,AL Amal,Médecine générale,1,5
+Larache,My Ali Boughaleb,Médecine générale,1,6
+Larache,Khalkhali,Médecine générale,2,6
+Larache,Sidi Kamel,Médecine générale,1,6
+Larache,Bouchouika,Médecine générale,1,6
+Larache,Moaskar,Médecine générale,1,6
+Larache,Hay El Jadid,Médecine générale,1,6
+Larache,Kassaba,Médecine générale,2,6
+Larache,Kassaba,Médecine du travail,2,6
+Larache,Hay Nador,Médecine générale,1,6
+Larache,Hay Nador,Médecine du travail,1,6
+Larache,Alwafaa,Médecine générale,2,6
+Larache,Laouamra,Médecine générale,2,6
+Larache,L'qolla,Médecine générale,1,6
+Larache,Ksar Bjir,Médecine du travail,1,6
+Larache,Zouada,Médecine générale,1,6
+Larache,Tatoft,Médecine générale,1,6
+Larache,Tatoft,"Médecine communautaire (méd prév,santé pub et hyg)",1,6
+Larache,Ayacha,Médecine générale,1,6
+Larache,Bni Arouss,Chirurgie dentaire,1,6
+Larache,Tazroute,Médecine générale,1,6
+Larache,Bni Garfett,Médecine générale,1,6
+Larache,Zaaroura,Médecine générale,1,6
+Larache,Rissana Chamalia,Médecine générale,1,6
+Larache,Rissana Janoubia,Médecine générale,1,6
+Larache,Rissana Janoubia,Médecine du sport,1,6
+Larache,Oulad Ouchih,Médecine générale,1,6
+Larache,Souaken,Médecine générale,1,6
+Larache,Oulad Lharti,Médecine générale,1,6
+Larache,Alwafaa,Pneumo-phtisiologie,1,6
+Larache,Alwafaa,Médecine générale,1,6
+Larache,Ksar El Kbir,Médecine générale,1,6
+Larache,Larache,Médecine générale,1,6
+Larache,Lalla Meriem,Cardiologie,1,6
+Larache,Lalla Meriem,Radiologie,1,6
+Larache,Lalla Meriem,Gastro-entérologie,3,6
+Larache,Lalla Meriem,Traumatologie-orthopédie,3,6
+Larache,Lalla Meriem,Urologie,2,6
+Larache,Lalla Meriem,Médecine du travail,7,6
+Larache,Lalla Meriem,Pédiatrie,1,6
+Larache,Lalla Meriem,Endocrino. Et maladies métaboliques,1,6
+Larache,Lalla Meriem,Chirurgie générale,1,6
+Larache,Lalla Meriem,Anesthésie-réanimation,1,6
+Larache,Lalla Meriem,Oto-rhino-laryngologie,2,6
+Larache,Lalla Meriem,Gynécologie-obstétrique,1,6
+Larache,Lalla Meriem,Dermatologie,1,6
+Larache,Lalla Meriem,Néphrologie,1,6
+Larache,Lalla Meriem,Médecine du sport,2,6
+Larache,Lalla Meriem,"Médecine communautaire (méd prév,santé pub et hyg)",2,6
+Larache,Lalla Meriem,Pneumo-phtisiologie,1,6
+Larache,Lalla Meriem,Ophtalmologie,1,6
+Larache,Lalla Meriem,Chirurgie dentaire,3,6
+Larache,Lalla Meriem,Médecine générale,7,6
+Larache,Lalla Meriem,Biologie médicale clinique (ou analyses biol.médicales),1,6
+Larache,Lalla Meriem,Rhumatologie,1,6
+Larache,Ksar El Kebir,Gynécologie-obstétrique,2,6
+Larache,Ksar El Kebir,Chirurgie dentaire,2,6
+Larache,Ksar El Kebir,Médecine générale,11,6
+Larache,Ksar El Kebir,Biologie médicale clinique (ou analyses biol.médicales),1,6
+Larache,Ksar El Kebir,Médecine du travail,2,6
+Larache,Ksar El Kebir,Pédiatrie,1,6
+Larache,Ksar El Kebir,Chirurgie générale,3,6
+Larache,Ksar El Kebir,Anesthésie-réanimation,2,6
+Larache,Ksar El Kebir,Psychiatrie,1,6
+Larache,Ksar El Kebir,Médecine du sport,1,6
+Larache,Ksar El Kebir,Ophtalmologie,2,6
+Larache,Ksar El Kebir,Oto-rhino-laryngologie,1,6
+Larache,Ksar Lekbir -Hôp. Ksar Lekbir,Médecine générale,1,6
+Larache,Larache-Hôp. Lalla Meriem,Médecine générale,1,6
+Larache,Cité universitaire Larache,Oto-rhino-laryngologie,2,6
+Larache,Cité universitaire Larache,Gynécologie-obstétrique,1,6
+Larache,Cité universitaire Larache,Dermatologie,1,6
+Larache,Cité universitaire Larache,Néphrologie,1,6
+Larache,Cité universitaire Larache,Chirurgie dentaire,3,6
+Larache,Cité universitaire Larache,Médecine générale,13,6
+Larache,Cité universitaire Larache,Biologie médicale clinique (ou analyses biol.médicales),1,6
+Larache,Cité universitaire Larache,Rhumatologie,1,6
+Larache,Cité universitaire Larache,Cardiologie,1,6
+Larache,Cité universitaire Larache,Radiologie,1,6
+Larache,Cité universitaire Larache,Gastro-entérologie,3,6
+Larache,Cité universitaire Larache,Traumatologie-orthopédie,3,6
+Larache,Cité universitaire Larache,Urologie,2,6
+Larache,Cité universitaire Larache,Médecine du travail,7,6
+Larache,Cité universitaire Larache,Pédiatrie,1,6
+Larache,Cité universitaire Larache,Endocrino. Et maladies métaboliques,1,6
+Larache,Cité universitaire Larache,Chirurgie générale,1,6
+Larache,Cité universitaire Larache,Médecine du sport,9,6
+Larache,Cité universitaire Larache,"Médecine communautaire (méd prév,santé pub et hyg)",2,6
+Larache,Cité universitaire Larache,Pneumo-phtisiologie,1,6
+Larache,Cité universitaire Larache,Ophtalmologie,1,6
+Mdiq-Fnideq,Quartier Istiqlal,Médecine générale,2,3
+Mdiq-Fnideq,El kelaa,Médecine générale,2,3
+Mdiq-Fnideq,Fnideq,Chirurgie dentaire,2,3
+Mdiq-Fnideq,Fnideq,Médecine générale,2,3
+Mdiq-Fnideq,Martil,Médecine générale,1,3
+Mdiq-Fnideq,Al Massira (Condessa),Médecine générale,2,3
+Mdiq-Fnideq,Miramar,Médecine générale,3,3
+Mdiq-Fnideq,Ahrik,Médecine générale,3,3
+Mdiq-Fnideq,Allyine,Médecine générale,1,3
+Mdiq-Fnideq,Belyounech,Médecine générale,1,3
+Mdiq-Fnideq,Diza,Médecine générale,2,3
+Mdiq-Fnideq,Mohammed VI,Endocrino. Et maladies métaboliques,1,3
+Mdiq-Fnideq,Mohammed VI,Chirurgie générale,1,3
+Mdiq-Fnideq,Mohammed VI,Anesthésie-réanimation,1,3
+Mdiq-Fnideq,Mohammed VI,Psychiatrie,1,3
+Mdiq-Fnideq,Mohammed VI,Pneumo-phtisiologie,1,3
+Mdiq-Fnideq,Mohammed VI,Ophtalmologie,1,3
+Mdiq-Fnideq,Mohammed VI,Oto-rhino-laryngologie,1,3
+Mdiq-Fnideq,Mohammed VI,Dermatologie,1,3
+Mdiq-Fnideq,Mohammed VI,Pharmacie,2,3
+Mdiq-Fnideq,Mohammed VI,Néphrologie,1,3
+Mdiq-Fnideq,Mohammed VI,Chirurgie dentaire,2,3
+Mdiq-Fnideq,Mohammed VI,Médecine générale,11,3
+Mdiq-Fnideq,Mohammed VI,Biologie médicale clinique (ou analyses biol.médicales),1,3
+Mdiq-Fnideq,Mohammed VI,Cardiologie,1,3
+Mdiq-Fnideq,Mohammed VI,Radiologie,2,3
+Mdiq-Fnideq,Mohammed VI,Traumatologie-orthopédie,3,3
+Mdiq-Fnideq,Mohammed VI,Urologie,1,3
+Mdiq-Fnideq,Hassan II,Gynécologie-obstétrique,1,3
+Mdiq-Fnideq,Hassan II,Médecine générale,10,3
+Mdiq-Fnideq,Hassan II,Pédiatrie,1,3
+Mdiq-Fnideq,Hassan II,Chirurgie générale,1,3
+Mdiq-Fnideq,Hassan II,Anesthésie-réanimation,1,3
+Mdiq-Fnideq,Hassan II,Pneumo-phtisiologie,1,3
+Mdiq-Fnideq,Martil,Médecine générale,1,3
+Ouezzane,My Thami,Médecine générale,1,9
+Ouezzane,Masmouda,Médecine générale,1,9
+Ouezzane,Bni Quolla,Médecine générale,1,9
+Ouezzane,Sidi Redouane,Médecine générale,1,9
+Ouezzane,Teroual,Médecine générale,1,9
+Ouezzane,Zghira,Médecine générale,2,9
+Ouezzane,Asjen,Médecine générale,1,9
+Ouezzane,Bouqorra,Médecine générale,1,9
+Ouezzane,Moqrissat,Médecine générale,1,9
+Ouezzane,Abou Kacem Zahraoui,Oto-rhino-laryngologie,2,9
+Ouezzane,Abou Kacem Zahraoui,Gynécologie-obstétrique,2,9
+Ouezzane,Abou Kacem Zahraoui,Dermatologie,1,9
+Ouezzane,Abou Kacem Zahraoui,Pharmacie,2,9
+Ouezzane,Abou Kacem Zahraoui,Chirurgie pédiatrique,1,9
+Ouezzane,Abou Kacem Zahraoui,Chirurgie dentaire,1,9
+Ouezzane,Abou Kacem Zahraoui,Médecine générale,6,9
+Ouezzane,Abou Kacem Zahraoui,Cardiologie,1,9
+Ouezzane,Abou Kacem Zahraoui,Radiologie,2,9
+Ouezzane,Abou Kacem Zahraoui,Gastro-entérologie,1,9
+Ouezzane,Abou Kacem Zahraoui,Traumatologie-orthopédie,3,9
+Ouezzane,Abou Kacem Zahraoui,Urologie,1,9
+Ouezzane,Abou Kacem Zahraoui,Pédiatrie,1,9
+Ouezzane,Abou Kacem Zahraoui,Endocrino. Et maladies métaboliques,1,9
+Ouezzane,Abou Kacem Zahraoui,Chirurgie générale,1,9
+Ouezzane,Abou Kacem Zahraoui,Anesthésie-réanimation,2,9
+Ouezzane,Abou Kacem Zahraoui,Psychiatrie,1,9
+Ouezzane,Abou Kacem Zahraoui,Pneumo-phtisiologie,1,9
+Ouezzane,Abou Kacem Zahraoui,Ophtalmologie,1,9
+Ouezzane,Ouezzane-Hôp. Provincial,Médecine générale,1,9
+Ouezzane,Ouezzane-Hôp. Provincial,Néphrologie,2,9
+Tanger Assilah,Merj Boutayeb,Médecine générale,1,2
+Tanger Assilah,El Marsa,Médecine générale,2,2
+Tanger Assilah,Bni Ouriaghel,Médecine du sport,1,2
+Tanger Assilah,Bni Ouriaghel,Médecine générale,2,2
+Tanger Assilah,Jirari,Chirurgie dentaire,1,2
+Tanger Assilah,Jirari,Médecine du travail,2,2
+Tanger Assilah,Bir Chifa,Médecine du travail,3,2
+Tanger Assilah,Al Amal (2),Médecine du sport,1,2
+Tanger Assilah,Al Amal (2),Médecine générale,2,2
+Tanger Assilah,Mozart,Médecine générale,1,2
+Tanger Assilah,Mozart,Médecine du travail,1,2
+Tanger Assilah,Roi Fahd,Chirurgie dentaire,1,2
+Tanger Assilah,Roi Fahd,Médecine générale,3,2
+Tanger Assilah,Roi Fahd,Pédopsychiatrie,1,2
+Tanger Assilah,Place Des Arenes,Médecine générale,3,2
+Tanger Assilah,Bni Makada (Souani),Médecine générale,2,2
+Tanger Assilah,Bni Makada (Souani),Médecine du travail,1,2
+Tanger Assilah,Said Nouceiri (Bni Makada),Médecine du sport,1,2
+Tanger Assilah,Said Nouceiri (Bni Makada),Chirurgie dentaire,1,2
+Tanger Assilah,Said Nouceiri (Bni Makada),Médecine générale,1,2
+Tanger Assilah,Emsallah,Médecine générale,2,2
+Tanger Assilah,Emsallah,Médecine du travail,1,2
+Tanger Assilah,Hay Jadid,Médecine du travail,1,2
+Tanger Assilah,Ben Dibane,Médecine générale,3,2
+Tanger Assilah,Ben Dibane,Médecine du travail,1,2
+Tanger Assilah,Branes,Médecine du travail,1,2
+Tanger Assilah,Branes,Médecine générale,3,2
+Tanger Assilah,Jules Cot,Chirurgie dentaire,2,2
+Tanger Assilah,Jules Cot,Médecine générale,1,2
+Tanger Assilah,Jules Cot,Médecine du travail,1,2
+Tanger Assilah,Jules Cot,Médecine du sport,1,2
+Tanger Assilah,Dradeb,Chirurgie dentaire,3,2
+Tanger Assilah,Dradeb,Médecine générale,3,2
+Tanger Assilah,Val Fleury,Médecine générale,1,2
+Tanger Assilah,Val Fleury,Médecine du travail,2,2
+Tanger Assilah,Mesnana,Médecine générale,2,2
+Tanger Assilah,Mesnana,Médecine du travail,1,2
+Tanger Assilah,Mesnana,Médecine du sport,1,2
+Tanger Assilah,Gzenaya,Médecine générale,1,2
+Tanger Assilah,Gzenaya,Médecine du travail,2,2
+Tanger Assilah,El Menzla ( Barr. El Hachef),Médecine générale,1,2
+Tanger Assilah,Dar Chaoui,Médecine générale,1,2
+Tanger Assilah,Briech,Médecine générale,2,2
+Tanger Assilah,Had Gharbia,Médecine générale,2,2
+Tanger Assilah,Zinate,Médecine du travail,1,2
+Tanger Assilah,El mers Aouma,Médecine générale,1,2
+Tanger Assilah,Gouaret,"Médecine communautaire (méd prév,santé pub et hyg)",1,2
+Tanger Assilah,Mejlaou,Médecine générale,1,2
+Tanger Assilah,Sidi Lyamani,Médecine générale,1,2
+Tanger Assilah,Centre De Reference,Médecine générale,2,2
+Tanger Assilah,Centre De Reference,Médecine du sport,1,2
+Tanger Assilah,C. Diagnostic Tuberculose,Médecine générale,2,2
+Tanger Assilah,C. Diagnostic Tuberculose,Pneumo-phtisiologie,1,2
+Tanger Assilah,Hjar Nhal,Médecine générale,1,2
+Tanger Assilah,Bni Touzine,Médecine générale,2,2
+Tanger Assilah,Bni Touzine,Médecine du sport,1,2
+Tanger Assilah,Tanja Ballia,Médecine générale,2,2
+Tanger Assilah,Tanja Ballia,Médecine du travail,1,2
+Tanger Assilah,Dhar Kanfoud,Médecine du travail,1,2
+Tanger Assilah,Mghogha,Médecine générale,1,2
+Tanger Assilah,Mghogha,Médecine du travail,1,2
+Tanger Assilah,Aouama Gharbia,Médecine générale,2,2
+Tanger Assilah,Aouama Gharbia,Médecine du sport,2,2
+Tanger Assilah,Mohamed V,Traumatologie-orthopédie,5,2
+Tanger Assilah,Mohamed V,Urologie,4,2
+Tanger Assilah,Mohamed V,Médecine du travail,1,2
+Tanger Assilah,Mohamed V,Pédiatrie,2,2
+Tanger Assilah,Mohamed V,Chirurgie cardio-vasculaire,1,2
+Tanger Assilah,Mohamed V,Chirurgie générale,3,2
+Tanger Assilah,Mohamed V,Anesthésie-réanimation,5,2
+Tanger Assilah,Mohamed V,"Médecine communautaire (méd prév,santé pub et hyg)",1,2
+Tanger Assilah,Mohamed V,Neurochirurgie,3,2
+Tanger Assilah,Mohamed V,Gynécologie-obstétrique,9,2
+Tanger Assilah,Mohamed V,Chirurgie vasculaire périphérique,1,2
+Tanger Assilah,Mohamed V,Chirurgie thoracique,4,2
+Tanger Assilah,Mohamed V,Pharmacie,2,2
+Tanger Assilah,Mohamed V,Chirurgie pédiatrique,4,2
+Tanger Assilah,Mohamed V,Néphrologie,3,2
+Tanger Assilah,Mohamed V,Réanimation médicale,1,2
+Tanger Assilah,Mohamed V,Médecine générale,11,2
+Tanger Assilah,Mohamed V,Biologie médicale clinique (ou analyses biol.médicales),2,2
+Tanger Assilah,Mohamed V,Anatomie pathologique,1,2
+Tanger Assilah,Mohamed V,Radiologie,4,2
+Tanger Assilah,Mohamed V,Chirurgie cancérologique,1,2
+Tanger Assilah,Al Kortobi,Oto-rhino-laryngologie,2,2
+Tanger Assilah,Al Kortobi,Neurologie,2,2
+Tanger Assilah,Al Kortobi,Dermatologie,2,2
+Tanger Assilah,Al Kortobi,Pharmacie,2,2
+Tanger Assilah,Al Kortobi,Chirurgie dentaire,2,2
+Tanger Assilah,Al Kortobi,Rhumatologie,3,2
+Tanger Assilah,Al Kortobi,Stomatologie et chirurgie maxillo-faciale,1,2
+Tanger Assilah,Al Kortobi,Pharmacologie-pharmacodynamie,1,2
+Tanger Assilah,Al Kortobi,Anesthésie-réanimation,1,2
+Tanger Assilah,Al Kortobi,Ophtalmologie,1,2
+Tanger Assilah,Al Kortobi,Méd. Physique et réadap. Fonctionnelle,1,2
+Tanger Assilah,Duc De Tovar,Pharmacie,1,2
+Tanger Assilah,Duc De Tovar,Médecine interne,4,2
+Tanger Assilah,Duc De Tovar,Cardiologie,3,2
+Tanger Assilah,Duc De Tovar,Radiothérapie,2,2
+Tanger Assilah,Duc De Tovar,Oncologie médicale,4,2
+Tanger Assilah,Duc De Tovar,Gastro-entérologie,3,2
+Tanger Assilah,Duc De Tovar,Hématologie,1,2
+Tanger Assilah,Duc De Tovar,Endocrino. Et maladies métaboliques,1,2
+Tanger Assilah,Duc De Tovar,Maladies infectieuses,1,2
+Tanger Assilah,Duc De Tovar,"Médecine communautaire (méd prév,santé pub et hyg)",1,2
+Tanger Assilah,Duc De Tovar,Pneumo-phtisiologie,2,2
+Tanger Assilah,Duc De Tovar,Médecine nucléaire,2,2
+Tanger Assilah,Assilah,Pharmacie,1,2
+Tanger Assilah,Assilah,Chirurgie dentaire,1,2
+Tanger Assilah,Assilah,Médecine générale,5,2
+Tanger Assilah,Assilah,Chirurgie cancérologique,1,2
+Tanger Assilah,Assilah,Médecine du travail,2,2
+Tanger Assilah,Assilah,Chirurgie générale,1,2
+Tanger Assilah,Assilah,Anesthésie-réanimation,1,2
+Tanger Assilah,Arrazi,Pharmacie,1,2
+Tanger Assilah,Arrazi,Psychiatrie,3,2
+Tanger Assilah,Arrazi,Pédopsychiatrie,1,2
+Tanger Assilah,Mohammed Vi,Pharmacie,1,2
+Tanger Assilah,Mohammed Vi,Médecine générale,5,2
+Tanger Assilah,Mohammed Vi,Médecine du travail,1,2
+Tanger Assilah,Mohammed Vi,Pédiatrie,1,2
+Tanger Assilah,Mohammed Vi,Médecine du sport,1,2
+Tanger Assilah,Assilah-Hôp. Assilah,Médecine générale,1,2
+Tanger Assilah,Tanger-Centre Al Amal,Néphrologie,1,2
+Tanger Assilah,Tanger-Centre Al Amal,Médecine générale,3,2
+Tanger Assilah,Tanger-Centre Al Nour,Médecine générale,1,2
+Tanger Assilah,Tanger-Hôp. Mohammed V,Néphrologie,3,2
+Tanger Assilah,Centre d'oncologie,Médecine générale,1,2
+Tanger Assilah,Centre d'oncologie,Radiothérapie,17,2
+Tanger Assilah,Centre d'oncologie,Oncologie médicale,20,2
+Tanger Assilah,Espace Santé Jeunes Said noussairi,Médecine du sport,1,2
+Tanger Assilah,Espace Santé Jeunes Said noussairi,Pédopsychiatrie,1,2
+Tanger Assilah,"CIRAR, LALLA Khadija.",Méd. Physique et réadap. Fonctionnelle,1,2
+Tanger Assilah,Tanger,Médecine générale,1,2
+Tanger Assilah,Tanger,Psychiatrie,0,2
+Tanger Assilah,Tanger,Médecine du sport,1,2
+Tanger Assilah,Cité universitaire,Médecine générale,1,2
+Tetouan,Oued Laou,Chirurgie dentaire,2,4
+Tetouan,Oued Laou,Médecine générale,3,4
+Tetouan,Mallah,Chirurgie dentaire,1,4
+Tetouan,Mallah,Médecine générale,1,4
+Tetouan,Mhannech,Chirurgie dentaire,1,4
+Tetouan,Mhannech,Médecine générale,1,4
+Tetouan,My Hassan,Médecine générale,2,4
+Tetouan,Sidi Frij,Médecine générale,1,4
+Tetouan,Touilaa,Médecine générale,1,4
+Tetouan,Coelma,Médecine générale,2,4
+Tetouan,Boujara (Aviation),Médecine générale,1,4
+Tetouan,Boujara (Aviation),Médecine du sport,1,4
+Tetouan,Bab Tout,Médecine générale,1,4
+Tetouan,Cite Scolaire,Médecine générale,2,4
+Tetouan,Dersa,Médecine générale,1,4
+Tetouan,Samsa,Médecine générale,1,4
+Tetouan,Sidi Talha,Médecine du sport,1,4
+Tetouan,Sidi Talha,Chirurgie dentaire,1,4
+Tetouan,Kassabah (Dersa Ii),Médecine du sport,1,4
+Tetouan,Kassabah (Dersa Ii),Médecine générale,1,4
+Tetouan,Dersa Iii (Balinio),Médecine générale,2,4
+Tetouan,Nakkata,Médecine générale,2,4
+Tetouan,Koratt Sebat,Médecine générale,1,4
+Tetouan,Fondaq,Médecine générale,1,4
+Tetouan,Souk Kdim,Médecine générale,1,4
+Tetouan,Bni Harchen,Médecine générale,1,4
+Tetouan,Jbel Hbib,Médecine générale,1,4
+Tetouan,Mallalienne,Médecine générale,1,4
+Tetouan,Saddina,Médecine générale,1,4
+Tetouan,Zaitoun (Beni Salah),Médecine générale,1,4
+Tetouan,Beni Hassan,Médecine générale,1,4
+Tetouan,Khazzan Laou,Médecine générale,1,4
+Tetouan,Had Bghaghza,Médecine générale,1,4
+Tetouan,Bni Idder,Médecine générale,1,4
+Tetouan,Amzal,Médecine générale,1,4
+Tetouan,Ben Karrich,Médecine générale,1,4
+Tetouan,Zinate (Dar En-Nia),Médecine générale,1,4
+Tetouan,Bni Said (Chrouda),Médecine générale,1,4
+Tetouan,Tassift (Amsa),Médecine générale,1,4
+Tetouan,CDTMR,Médecine générale,1,4
+Tetouan,Tabola,Médecine générale,2,4
+Tetouan,Dar Morsya,Médecine générale,1,4
+Tetouan,Tetouan,Médecine générale,2,4
+Tetouan,Hôpital.Civil,Oto-rhino-laryngologie,2,4
+Tetouan,Hôpital.Civil,Neurologie,1,4
+Tetouan,Hôpital.Civil,Gynécologie-obstétrique,3,4
+Tetouan,Hôpital.Civil,Dermatologie,2,4
+Tetouan,Hôpital.Civil,Pharmacie,1,4
+Tetouan,Hôpital.Civil,Chirurgie pédiatrique,4,4
+Tetouan,Hôpital.Civil,Médecine d'urgence et de catastrophe,1,4
+Tetouan,Hôpital.Civil,Chirurgie dentaire,2,4
+Tetouan,Hôpital.Civil,Médecine générale,11,4
+Tetouan,Hôpital.Civil,Biologie médicale clinique (ou analyses biol.médicales),1,4
+Tetouan,Hôpital.Civil,Rhumatologie,2,4
+Tetouan,Hôpital.Civil,Anatomie pathologique,2,4
+Tetouan,Hôpital.Civil,Médecine interne,1,4
+Tetouan,Hôpital.Civil,Cardiologie,2,4
+Tetouan,Hôpital.Civil,Radiologie,2,4
+Tetouan,Hôpital.Civil,Stomatologie et chirurgie maxillo-faciale,1,4
+Tetouan,Hôpital.Civil,Oncologie médicale,2,4
+Tetouan,Hôpital.Civil,Gastro-entérologie,2,4
+Tetouan,Hôpital.Civil,Hématologie,1,4
+Tetouan,Hôpital.Civil,Traumatologie-orthopédie,5,4
+Tetouan,Hôpital.Civil,Urologie,1,4
+Tetouan,Hôpital.Civil,Pédiatrie,1,4
+Tetouan,Hôpital.Civil,Endocrino. Et maladies métaboliques,1,4
+Tetouan,Hôpital.Civil,Chirurgie générale,2,4
+Tetouan,Hôpital.Civil,Anesthésie-réanimation,4,4
+Tetouan,Hôpital.Civil,Ophtalmologie,2,4
+Tetouan,Hôpital.Civil,Neurochirurgie,3,4
+Tetouan,Ben Karrich,Pneumo-phtisiologie,2,4
+Tetouan,Errazi,Psychiatrie,2,4
+Tetouan,Tetouan-Hôp. Civil,Néphrologie,1,4
+Tetouan,Tetouan-Hôp. Civil,Médecine générale,1,4
+Tetouan,CIRAR (Hôpital Régional),Chirurgie pédiatrique,1,4
+Tetouan,Tétouan,Psychiatrie,1,4
+Tanger Assilah,Beni Makada (CMP),Radiologie,1,2
+Tanger Assilah,Beni Makada (CMP),Médecine générale,5,2
+Tanger Assilah,Beni Makada (CMP),Pharmacie,2,2
+Tanger Assilah,Beni Makada (CMP),Gynécologie-obstétrique,1,2
+Tanger Assilah,Beni Makada (CMP),Chirurgie dentaire,3,2
+Tanger Assilah,Beni Makada (CMP),Chirurgie pédiatrique,1,2
+Tanger Assilah,Bir Chifa,Médecine générale,1,2
+Tanger Assilah,Bir Chifa,Néphrologie,1,2
+Tanger Assilah,Bir Chifa,Psychiatrie,1,2
+Tanger Assilah,Hay Jadid,Médecine générale,1,2
+Tanger Assilah,Hay Jadid,Médecine du sport,1,2
+Larache,Oulad Hmid,Médecine générale,1,6
+Mdiq-Fnideq,Martil,Chirurgie dentaire,2,3
+Mdiq-Fnideq,Martil,Médecine générale,6,3
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Médecine interne,13,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Médecine nucléaire,2,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Dermatologie,27,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Gastro-entérologie,34,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Chirurgie cardio-vasculaire,6,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Chirurgie générale,20,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Médecine générale,103,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Hématologie clinique,10,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Néphrologie,14,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Génétique,4,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Chirurgie vasculaire périphérique,9,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Radiologie,32,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Pharmacologie-pharmacodynamie,1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Toxicologie,1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Rhumatologie,12,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Ophtalmologie,24,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Microbiologie,10,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,"Médecine communautaire (méd prév,santé pub et hyg)",6,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Anesthésie-réanimation,34,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Anatomie pathologique,5,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Neurologie,19,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Traumatologie-orthopédie,23,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Histologie-embryologie-cyto-génétique,1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Hématologie,5,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Neurochirurgie,8,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Biochimie,15,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Méd. Physique et réadap. Fonctionnelle,5,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Chirurgie thoracique,2,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Chirurgie réparatrice et plastique,15,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Endocrino. Et maladies métaboliques,11,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Médecine du travail,1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Cardiologie,46,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Oto-rhino-laryngologie,13,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Médecine légale,2,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Pneumo-phtisiologie,16,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Urologie,11,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,Pédiatrie,37,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,Gynécologie-obstétrique,36,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,Médecine générale,27,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,Chirurgie pédiatrique,19,2
+Tanger Assilah,Hôpital psychiatrique Mohamed VI,Médecine générale,6,2
+Tanger Assilah,Hôpital psychiatrique Mohamed VI,Psychiatrie,15,2
+Al Hoceima,CALABONITA,Médecine générale,1,7
+Tanger Assilah,ACHENAD,Médecine générale,2,2
+Al Hoceima,Sidi Abid,Médecine générale,1,7
+Al Hoceima,Targuist,Chirurgie dentaire,1,7
+Tetouan,Boussafou,Médecine générale,1,4
+Al Hoceima,Mohammed VI,Médecine interne,1,7
+Al Hoceima,Mohammed VI,Dermatologie,2,7
+Al Hoceima,Mohammed VI,Gastro-entérologie,3,7
+Al Hoceima,Mohammed VI,Pédiatrie,3,7
+Al Hoceima,Mohammed VI,Gynécologie-obstétrique,5,7
+Al Hoceima,Mohammed VI,Chirurgie cardio-vasculaire,1,7
+Al Hoceima,Mohammed VI,Chirurgie générale,5,7
+Al Hoceima,Mohammed VI,Médecine générale,9,7
+Al Hoceima,Mohammed VI,Biologie médicale clinique (ou analyses biol.médicales),1,7
+Al Hoceima,Mohammed VI,Chirurgie vasculaire périphérique,1,7
+Al Hoceima,Mohammed VI,Radiologie,1,7
+Al Hoceima,Mohammed VI,Rhumatologie,2,7
+Al Hoceima,Mohammed VI,Ophtalmologie,1,7
+Al Hoceima,Mohammed VI,Stomatologie et chirurgie maxillo-faciale,1,7
+Al Hoceima,Mohammed VI,Anesthésie-réanimation,4,7
+Al Hoceima,Mohammed VI,Pharmacie,2,7
+Al Hoceima,Mohammed VI,Anatomie pathologique,1,7
+Al Hoceima,Mohammed VI,Neurologie,1,7
+Al Hoceima,Mohammed VI,Traumatologie-orthopédie,4,7
+Al Hoceima,Mohammed VI,Hygiène hospitalière,2,7
+Al Hoceima,Mohammed VI,Hématologie,1,7
+Al Hoceima,Mohammed VI,Chirurgie pédiatrique,1,7
+Al Hoceima,Mohammed VI,Neurochirurgie,3,7
+Al Hoceima,Mohammed VI,Chirurgie réparatrice et plastique,1,7
+Al Hoceima,Mohammed VI,Endocrino. Et maladies métaboliques,1,7
+Al Hoceima,Mohammed VI,Médecine du travail,1,7
+Al Hoceima,Mohammed VI,Cardiologie,2,7
+Al Hoceima,Mohammed VI,Oto-rhino-laryngologie,1,7
+Al Hoceima,Mohammed VI,Pneumo-phtisiologie,3,7
+Al Hoceima,Mohammed VI,Urologie,1,7
+Tanger Assilah,Allal Al Fassi,Médecine générale,1,2
+Tanger Assilah,Allal Al Fassi,Médecine du sport,1,2
+Tanger Assilah,Allal Al Fassi,Chirurgie dentaire,1,2
+Tanger Assilah,Allal Al Fassi,Pharmacie,1,2
+Tanger Assilah,Allal Al Fassi,Pédopsychiatrie,1,2

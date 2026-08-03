@@ -1,0 +1,179 @@
+﻿Province,Etablissement,Catégorie,Equipement,Nombre,territoire_id
+Al Hoceima,Bir Anzarane,CRSR,Unité de mammographie,1,7
+Al Hoceima,Bir Anzarane,CDTMR,Installation radiologique pour examens standards,1,7
+Al Hoceima,Mohamed V,HP,Installation radiologique pour examens standards,2,7
+Al Hoceima,Mohamed V,HP,Automate d'analyses médicales haute cadence ,2,7
+Al Hoceima,Mohamed V,HP,Stérilisateur à vapeur d’eau de grande capacité,3,7
+Al Hoceima,Mohamed V,HP,Scanographe,1,7
+Al Hoceima,Mohamed V,HP,Arceau chirurgical mobile,3,7
+Al Hoceima,Mohamed V,HP,Unité de mammographie,1,7
+Al Hoceima,C. d'oncologie d'Al Hoceima,CRO,Simulateur ,1,7
+Al Hoceima,C. d'oncologie d'Al Hoceima,CRO,Installation radiologique pour examens standards,1,7
+Al Hoceima,C. d'oncologie d'Al Hoceima,CRO,Stérilisateur à vapeur d’eau de grande capacité,1,7
+Al Hoceima,C. d'oncologie d'Al Hoceima,CRO,Accélérateur linéaire de particules,1,7
+Al Hoceima,C. d'oncologie d'Al Hoceima,CRO,Projecteur de source à haut débit de dose (HDR),1,7
+Al Hoceima,C. d'oncologie d'Al Hoceima,CRO,TPS (Système de planification et de traitement),1,7
+Al Hoceima,C. d'oncologie d'Al Hoceima,CRO,Laveur-désinfecteur de grande capacité,1,7
+Al Hoceima,Targuist,HPr,Installation radiologique pour examens standards,2,7
+Al Hoceima,Targuist,HPr,Automate d'analyses médicales haute cadence ,1,7
+Al Hoceima,Targuist,HPr,Stérilisateur à vapeur d’eau de grande capacité,1,7
+Al Hoceima,Targuist,HPr,Scanographe,1,7
+Al Hoceima,Targuist,HPr,Unité de mammographie,1,7
+Al Hoceima,Targuist,HPr,Installation radiologique télécommandée,1,7
+Al Hoceima,Al Hoceima-Hôp. Mohammed V,CHD,Générateur d’hémodialyse,24,7
+Al Hoceima,Targuist,CHD,Générateur d’hémodialyse,19,7
+Al Hoceima,Imzouren,HPr,Automate d'analyses médicales haute cadence ,1,7
+Al Hoceima,Imzouren,HPr,Stérilisateur à vapeur d’eau de grande capacité,2,7
+Al Hoceima,Imzouren,HPr,Laveur-désinfecteur de grande capacité,1,7
+Al Hoceima,Imzouren,HPr,Arceau chirurgical mobile,1,7
+Al Hoceima,Imzouren,HPr,Scanographe,1,7
+Al Hoceima,Imzouren,HPr,Installation radiologique pour examens standards,1,7
+Al Hoceima,Imzouren,CHD,Générateur d’hémodialyse,21,7
+Chefchaouen,Ain el houzi,CDTMR,Installation radiologique pour examens standards,1,8
+Chefchaouen,Chafchaouen,CRSR,Installation radiologique pour examens standards,2,8
+Chefchaouen,Mohamed V,HP,Système d’angiographie,2,8
+Chefchaouen,Mohamed V,HP,Stérilisateur à vapeur d’eau de grande capacité,3,8
+Chefchaouen,Mohamed V,HP,Laveur-désinfecteur de grande capacité,2,8
+Chefchaouen,Mohamed V,HP,Échodoppler 4D,1,8
+Chefchaouen,Mohamed V,HP,Arceau chirurgical mobile,1,8
+Chefchaouen,Mohamed V,HP,Scanographe,1,8
+Chefchaouen,Mohamed V,HP,Générateur d’hémodialyse,30,8
+Chefchaouen,Mohamed V,HP,Unité de mammographie,2,8
+Chefchaouen,Mohamed V,HP,Installation radiologique pour examens standards,2,8
+Chefchaouen,Chefchaouen-Hôp. Mohammed V,CHD,Système d’angiographie,2,8
+Chefchaouen,Chefchaouen-Hôp. Mohammed V,CHD,Stérilisateur à vapeur d’eau de grande capacité,3,8
+Chefchaouen,Chefchaouen-Hôp. Mohammed V,CHD,Laveur-désinfecteur de grande capacité,1,8
+Chefchaouen,Chefchaouen-Hôp. Mohammed V,CHD,Échodoppler 4D,1,8
+Chefchaouen,Chefchaouen-Hôp. Mohammed V,CHD,Arceau chirurgical mobile,1,8
+Chefchaouen,Chefchaouen-Hôp. Mohammed V,CHD,Scanographe,1,8
+Chefchaouen,Chefchaouen-Hôp. Mohammed V,CHD,Générateur d’hémodialyse,30,8
+Chefchaouen,Chefchaouen-Hôp. Mohammed V,CHD,Unité de mammographie,1,8
+Chefchaouen,Chefchaouen-Hôp. Mohammed V,CHD,Installation radiologique pour examens standards,2,8
+Fahs-Anjra,AL Amal,CHD,Générateur d’hémodialyse,16,5
+Larache,Lalla Meriem,HP,Automate d'analyses médicales haute cadence ,5,6
+Larache,Lalla Meriem,HP,Stérilisateur à vapeur d’eau de grande capacité,3,6
+Larache,Lalla Meriem,HP,Laser,1,6
+Larache,Lalla Meriem,HP,Arceau chirurgical mobile,2,6
+Larache,Lalla Meriem,HP,Scanographe,1,6
+Larache,Lalla Meriem,HP,Générateur d’hémodialyse,30,6
+Larache,Lalla Meriem,HP,Installation radiologique pour examens standards,2,6
+Larache,Ksar El Kebir,HPr,Automate d'analyses médicales haute cadence ,6,6
+Larache,Ksar El Kebir,HPr,Stérilisateur à vapeur d’eau de grande capacité,2,6
+Larache,Ksar El Kebir,HPr,Scanographe,1,6
+Larache,Ksar El Kebir,HPr,Générateur d’hémodialyse,25,6
+Larache,Ksar El Kebir,HPr,Installation radiologique pour examens standards,2,6
+Larache,Ksar Lekbir -Hôp. Ksar Lekbir,CHD,Générateur d’hémodialyse,22,6
+Larache,Larache-Hôp. Lalla Meriem,CHD,Générateur d’hémodialyse,20,6
+Mdiq-Fnideq,Mdiq Fnideq (My Rachid),CRSR,Unité de mammographie,1,3
+Mdiq-Fnideq,Mdiq Fnideq (My Rachid),CDTMR,Installation radiologique pour examens standards,1,3
+Mdiq-Fnideq,Mohammed VI,HP,Unité médicale de traitement hyperbare ,1,3
+Mdiq-Fnideq,Mohammed VI,HP,IRM (Imagerie par résonance magnétique),1,3
+Mdiq-Fnideq,Mohammed VI,HP,Automate d'analyses médicales haute cadence ,2,3
+Mdiq-Fnideq,Mohammed VI,HP,Laveur-désinfecteur de grande capacité,1,3
+Mdiq-Fnideq,Mohammed VI,HP,Arceau chirurgical mobile,1,3
+Mdiq-Fnideq,Mohammed VI,HP,Scanographe,1,3
+Mdiq-Fnideq,Mohammed VI,HP,Installation radiologique pour examens standards,2,3
+Mdiq-Fnideq,Hassan II,HPr,Stérilisateur à vapeur d’eau de grande capacité,1,3
+Mdiq-Fnideq,Hassan II,HPr,Scanographe,1,3
+Mdiq-Fnideq,Hassan II,HPr,Installation radiologique pour examens standards,1,3
+Mdiq-Fnideq,Fnideq,CHD,Générateur d’hémodialyse,15,3
+Mdiq-Fnideq,Martil,CHD,Générateur d’hémodialyse,19,3
+Ouezzane,Abou Kacem Zahraoui,HP,Automate d'analyses médicales haute cadence ,1,9
+Ouezzane,Abou Kacem Zahraoui,HP,Stérilisateur à vapeur d’eau de grande capacité,3,9
+Ouezzane,Abou Kacem Zahraoui,HP,Laser,1,9
+Ouezzane,Abou Kacem Zahraoui,HP,Arceau chirurgical mobile,1,9
+Ouezzane,Abou Kacem Zahraoui,HP,Scanographe,1,9
+Ouezzane,Abou Kacem Zahraoui,HP,Installation radiologique télécommandée,1,9
+Ouezzane,Abou Kacem Zahraoui,HP,Installation radiologique pour examens standards,1,9
+Ouezzane,Ouezzane-Hôp. Provincial,CHD,Générateur d’hémodialyse,35,9
+Tanger Assilah,Centre De Reference,CRSR,Unité de mammographie,1,2
+Tanger Assilah,Mohamed V,HR,Automate d'analyses médicales haute cadence ,10,2
+Tanger Assilah,Mohamed V,HR,Stérilisateur à vapeur d’eau de grande capacité,2,2
+Tanger Assilah,Mohamed V,HR,Échodoppler 4D,1,2
+Tanger Assilah,Mohamed V,HR,Arceau chirurgical mobile,3,2
+Tanger Assilah,Mohamed V,HR,Scanographe,1,2
+Tanger Assilah,Mohamed V,HR,Unité de mammographie,2,2
+Tanger Assilah,Mohamed V,HR,Installation radiologique pour examens standards,2,2
+Tanger Assilah,Al Kortobi,HR,Stérilisateur à vapeur d’eau de grande capacité,1,2
+Tanger Assilah,Al Kortobi,HR,Unité de mammographie,1,2
+Tanger Assilah,Al Kortobi,HR,Installation radiologique pour examens standards,2,2
+Tanger Assilah,Duc De Tovar,HR,Échodoppler 4D,3,2
+Tanger Assilah,Duc De Tovar,HR,Installation radiologique pour examens standards,1,2
+Tanger Assilah,Assilah,HPr,Automate d'analyses médicales haute cadence ,2,2
+Tanger Assilah,Assilah,HPr,Stérilisateur à vapeur d’eau de grande capacité,1,2
+Tanger Assilah,Assilah,HPr,Installation radiologique pour examens standards,2,2
+Tanger Assilah,Mohammed Vi,HPr,Automate d'analyses médicales haute cadence ,5,2
+Tanger Assilah,Mohammed Vi,HPr,Stérilisateur à vapeur d’eau de grande capacité,1,2
+Tanger Assilah,Mohammed Vi,HPr,Arceau chirurgical mobile,1,2
+Tanger Assilah,Mohammed Vi,HPr,Scanographe,1,2
+Tanger Assilah,Mohammed Vi,HPr,Unité de mammographie,1,2
+Tanger Assilah,Mohammed Vi,HPr,Installation radiologique pour examens standards,2,2
+Tanger Assilah,Mohammed Vi,HPr,Salle de cathétérisme,1,2
+Tanger Assilah,Assilah-Hôp. Assilah,CHD,Générateur d’hémodialyse,11,2
+Tanger Assilah,Tanger-Centre Al Amal,CHD,Générateur d’hémodialyse,30,2
+Tanger Assilah,Tanger-Centre Al Nour,CHD,Générateur d’hémodialyse,12,2
+Tanger Assilah,Tanger-Hôp. Mohammed V,CHD,Générateur d’hémodialyse,12,2
+Tanger Assilah,Centre d'oncologie,HIR,Accélérateur linéaire de particules,1,2
+Tanger Assilah,Centre d'oncologie,HIR,Projecteur de source à haut débit de dose (HDR),1,2
+Tanger Assilah,Centre d'oncologie,HIR,TPS (Système de planification et de traitement),2,2
+Tanger Assilah,Centre d'oncologie,HIR,Stérilisateur à vapeur d’eau de grande capacité,2,2
+Tanger Assilah,Centre d'oncologie,HIR,Laveur-désinfecteur de grande capacité,1,2
+Tanger Assilah,Centre d'oncologie,HIR,Scanographe,1,2
+Tetouan,CDTMR,CDTMR,Installation radiologique pour examens standards,1,4
+Tetouan,Tetouan,CRSR,Unité de mammographie,1,4
+Tetouan,Hôpital.Civil,HP,IRM (Imagerie par résonance magnétique),1,4
+Tetouan,Hôpital.Civil,HP,Automate d'analyses médicales haute cadence ,2,4
+Tetouan,Hôpital.Civil,HP,ostéodensitométrie,1,4
+Tetouan,Hôpital.Civil,HP,Stérilisateur à vapeur d’eau de grande capacité,3,4
+Tetouan,Hôpital.Civil,HP,Laser,1,4
+Tetouan,Hôpital.Civil,HP,Arceau chirurgical mobile,2,4
+Tetouan,Hôpital.Civil,HP,Unité de radiologie panoramique,1,4
+Tetouan,Hôpital.Civil,HP,Installation radiologique pour examens standards,2,4
+Tetouan,Tetouan-Hôp. Civil,CHD,Générateur d’hémodialyse,12,4
+Tanger Assilah,Beni Makada (CMP),CJ,Automate d'analyses médicales haute cadence ,2,2
+Tanger Assilah,Beni Makada (CMP),CJ,Échodoppler 4D,1,2
+Tanger Assilah,Beni Makada (CMP),CJ,Unité de mammographie,1,2
+Tanger Assilah,Beni Makada (CMP),CJ,Installation radiologique pour examens standards,1,2
+Tanger Assilah,Bir Chifa,CHD,Générateur d’hémodialyse,23,2
+Mdiq-Fnideq,Martil,CJ,Automate d'analyses médicales haute cadence ,1,3
+Mdiq-Fnideq,Martil,CJ,Stérilisateur à vapeur d’eau de grande capacité,1,3
+Mdiq-Fnideq,Martil,CJ,Laveur-désinfecteur de grande capacité,1,3
+Mdiq-Fnideq,Martil,CJ,Unité de mammographie,1,3
+Mdiq-Fnideq,Martil,CJ,Unité de radiologie panoramique,1,3
+Mdiq-Fnideq,Martil,CJ,Installation radiologique pour examens standards,1,3
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Gamma-caméra TEMP-TDM (Tomographie à émission Mono-Photonique couplé au scanner) [SPECT-CT],1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,TEP-Scan (Tomographie à émission de positron couplé à un scanner),1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Salle de cathétérisme,2,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Laveur-désinfecteur de chariots (cabine de lavage),1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,IRM (Imagerie par résonance magnétique),1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Système d’angiographie,3,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Automate d'analyses médicales haute cadence ,13,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,ostéodensitométrie,1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Stérilisateur au peroxyde d’hydrogène vaporisé (stérilisateur à basse température) grande capacité,1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Stérilisateur à vapeur d’eau de grande capacité,3,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Laser,6,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Appareil de circulation sanguine extracorporelle,3,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Lithotripteur extracorporel ,1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Laveur-désinfecteur de grande capacité,3,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Échodoppler 4D,12,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Arceau chirurgical mobile,11,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Scanographe,3,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Générateur d’hémodialyse,18,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Unité de mammographie,2,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Installation radiologique télécommandée,1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Installation radiologique pour examens standards,7,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,HIR,Échodoppler 4D,2,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,HIR,Arceau chirurgical mobile,2,2
+Tetouan,Boussafou,CHD,Générateur d’hémodialyse,32,4
+Al Hoceima,Mohammed VI,HP,IRM (Imagerie par résonance magnétique),1,7
+Al Hoceima,Mohammed VI,HP,Automate d'analyses médicales haute cadence ,2,7
+Al Hoceima,Mohammed VI,HP,ostéodensitométrie,1,7
+Al Hoceima,Mohammed VI,HP,Stérilisateur à vapeur d’eau de grande capacité,3,7
+Al Hoceima,Mohammed VI,HP,Laser,1,7
+Al Hoceima,Mohammed VI,HP,Laveur-désinfecteur de grande capacité,1,7
+Al Hoceima,Mohammed VI,HP,Arceau chirurgical mobile,3,7
+Al Hoceima,Mohammed VI,HP,Scanographe,1,7
+Al Hoceima,Mohammed VI,HP,Générateur d’hémodialyse,2,7
+Al Hoceima,Mohammed VI,HP,Unité de mammographie,1,7
+Al Hoceima,Mohammed VI,HP,Unité de radiologie panoramique,1,7
+Al Hoceima,Mohammed VI,HP,Installation radiologique pour examens standards,3,7

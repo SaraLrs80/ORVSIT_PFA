@@ -1,0 +1,36 @@
+﻿Province,Nom,Catégorie,Bloc opératoire,Nombre,territoire_id
+Al Hoceima,Mohamed V,HP,Urgences,2,7
+Al Hoceima,Mohamed V,HP,Maternité,1,7
+Al Hoceima,Mohamed V,HP,Central,4,7
+Al Hoceima,Mohammed VI,HP,Urgences,2,7
+Al Hoceima,Mohammed VI,HP,Maternité,2,7
+Al Hoceima,Mohammed VI,HP,Central,3,7
+Al Hoceima,Targuist,HPr,Central,2,7
+Chefchaouen,Mohamed V,HP,Ophtalmo,2,8
+Chefchaouen,Mohamed V,HP,Maternité,2,8
+Chefchaouen,Mohamed V,HP,Central,3,8
+Larache,Ksar El Kebir,HPr,Central,3,6
+Larache,Lalla Meriem,HP,Central,4,6
+Mdiq-Fnideq,Hassan II,HPr,Central,2,3
+Mdiq-Fnideq,Mohammed VI,HP,Central,3,3
+Ouezzane,Abou Kacem Zahraoui,HP,Ophtalmo,1,9
+Ouezzane,Abou Kacem Zahraoui,HP,Maternité,2,9
+Ouezzane,Abou Kacem Zahraoui,HP,Central,2,9
+Tanger Assilah,Al Kortobi,HR,Ophtalmo,2,2
+Tanger Assilah,Al Kortobi,HR,ORL,1,2
+Tanger Assilah,Assilah,HPr,Central,2,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Urgences,3,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Ophtalmo,1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,ORL,1,2
+Tanger Assilah,Hôpital des spécialité Mohamed VI,HIR,Central,13,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,HIR,Urgences,2,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,HIR,Maternité,2,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,HIR,Central,4,2
+Tanger Assilah,Mohamed V,HR,Urgences,2,2
+Tanger Assilah,Mohamed V,HR,Maternité,1,2
+Tanger Assilah,Mohamed V,HR,Central,4,2
+Tanger Assilah,Mohammed Vi,HPr,Central,2,2
+Tetouan,Hôpital.Civil,HP,Urgences,2,4
+Tetouan,Hôpital.Civil,HP,Ophtalmo,1,4
+Tetouan,Hôpital.Civil,HP,Maternité,2,4
+Tetouan,Hôpital.Civil,HP,Central,5,4

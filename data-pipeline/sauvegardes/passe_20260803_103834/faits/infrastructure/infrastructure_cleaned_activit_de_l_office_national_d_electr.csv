@@ -1,0 +1,37 @@
+﻿province_prefecture,fk_territoire,indicateur,valeur,territoire_id
+Tanger - Tétouan - Al Hoceima,tanger tetouan al hoceima,nombre_abonnes,173885.0,1
+Tanger - Tétouan - Al Hoceima,tanger tetouan al hoceima,ventes_abonnes,20856.0,1
+Tanger - Tétouan - Al Hoceima,tanger tetouan al hoceima,ventes_regies_concessions,125295.0,1
+Tanger - Tétouan - Al Hoceima,tanger tetouan al hoceima,production,173490.0,1
+Al Hoceima,al hoceima,nombre_abonnes,76936.0,7
+Al Hoceima,al hoceima,ventes_abonnes,7383.0,7
+Al Hoceima,al hoceima,ventes_regies_concessions,,7
+Al Hoceima,al hoceima,production,14775.0,7
+Chefchaouen,chefchaouen,nombre_abonnes,29697.0,8
+Chefchaouen,chefchaouen,ventes_abonnes,3166.0,8
+Chefchaouen,chefchaouen,ventes_regies_concessions,,8
+Chefchaouen,chefchaouen,production,4292.0,8
+Fahs-Anjra,fahs anjra,nombre_abonnes,9309.0,5
+Fahs-Anjra,fahs anjra,ventes_abonnes,1801.0,5
+Fahs-Anjra,fahs anjra,ventes_regies_concessions,241.0,5
+Fahs-Anjra,fahs anjra,production,84951.0,5
+Larache,larache,nombre_abonnes,18092.0,6
+Larache,larache,ventes_abonnes,1818.0,6
+Larache,larache,ventes_regies_concessions,9405.0,6
+Larache,larache,production,18545.0,6
+Ouezzane,ouezzane,nombre_abonnes,30917.0,9
+Ouezzane,ouezzane,ventes_abonnes,3495.0,9
+Ouezzane,ouezzane,ventes_regies_concessions,,9
+Ouezzane,ouezzane,production,2560.0,9
+Tanger-Assilah,tanger assilah,nombre_abonnes,2060.0,2
+Tanger-Assilah,tanger assilah,ventes_abonnes,1518.0,2
+Tanger-Assilah,tanger assilah,ventes_regies_concessions,80344.0,2
+Tanger-Assilah,tanger assilah,production,19203.0,2
+Tétouan,tetouan,nombre_abonnes,6874.0,4
+Tétouan,tetouan,ventes_abonnes,1654.0,4
+Tétouan,tetouan,ventes_regies_concessions,19.0,4
+Tétouan,tetouan,production,21487.0,4
+M'Diq-Fnideq,m'diq fnideq,nombre_abonnes,,3
+M'Diq-Fnideq,m'diq fnideq,ventes_abonnes,21.0,3
+M'Diq-Fnideq,m'diq fnideq,ventes_regies_concessions,35286.0,3
+M'Diq-Fnideq,m'diq fnideq,production,7677.0,3

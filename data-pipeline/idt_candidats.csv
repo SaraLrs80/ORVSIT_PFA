@@ -1,0 +1,144 @@
+id,theme,nom,prov,taux
+6,demography,indice_entrees (%),8,True
+7,demography,indice_sortie (%),8,True
+13,demography,indice_entrees (%),8,True
+14,demography,indice_sortie (%),8,True
+20,demography,indice_entrees (%),8,True
+21,demography,indice_sortie (%),8,True
+35,demography,Descendance finale des femmes,8,True
+36,demography,Indicateur conjoncturel de fécondité,8,True
+42,demography,Sexe (%) - Féminin,8,True
+43,demography,Sexe (%) - Masculin,8,True
+44,demography,Âge moyen singulier au mariage,8,True
+45,demography,Âge quinquennal (%) - 0-4 ans,8,True
+46,demography,Âge quinquennal (%) - 10-14 ans,8,True
+47,demography,Âge quinquennal (%) - 15-19 ans,8,True
+48,demography,Âge quinquennal (%) - 20-24 ans,8,True
+49,demography,Âge quinquennal (%) - 25-29 ans,8,True
+50,demography,Âge quinquennal (%) - 30-34 ans,8,True
+51,demography,Âge quinquennal (%) - 35-39 ans,8,True
+52,demography,Âge quinquennal (%) - 40-44 ans,8,True
+53,demography,Âge quinquennal (%) - 45-49 ans,8,True
+54,demography,Âge quinquennal (%) - 5-9 ans,8,True
+55,demography,Âge quinquennal (%) - 50-54 ans,8,True
+56,demography,Âge quinquennal (%) - 55-59 ans,8,True
+57,demography,Âge quinquennal (%) - 60-64 ans,8,True
+58,demography,Âge quinquennal (%) - 65-69 ans,8,True
+59,demography,Âge quinquennal (%) - 70-74 ans,8,True
+60,demography,Âge quinquennal (%) - 75 ans ou plus,8,True
+61,demography,État matrimonial des 15 ans et plus (%) - Célibataire,8,True
+62,demography,État matrimonial des 15 ans et plus (%) - Divorcé.e,8,True
+63,demography,État matrimonial des 15 ans et plus (%) - Marié.e,8,True
+64,demography,État matrimonial des 15 ans et plus (%) - Veuf.ve,8,True
+69,demography,taux_accroissement_menages_pct,8,True
+70,demography,taux_accroissement_pop_pct,8,True
+102,education,Langues lues et écrites par les alphabètes de 10 ans et plus (non exclusives) (%) - Amazigh (Tifinagh),8,True
+103,education,Langues lues et écrites par les alphabètes de 10 ans et plus (non exclusives) (%) - Anglais,8,True
+104,education,Langues lues et écrites par les alphabètes de 10 ans et plus (non exclusives) (%) - Arabe,8,True
+105,education,Langues lues et écrites par les alphabètes de 10 ans et plus (non exclusives) (%) - Français,8,True
+106,education,Niveau d'études dans l'enseignement général (%) - Aucun niveau d'études,8,True
+107,education,Niveau d'études dans l'enseignement général (%) - Primaire,8,True
+108,education,Niveau d'études dans l'enseignement général (%) - Préscolaire,8,True
+109,education,Niveau d'études dans l'enseignement général (%) - Secondaire collégial,8,True
+110,education,Niveau d'études dans l'enseignement général (%) - Secondaire qualifiant,8,True
+111,education,Niveau d'études dans l'enseignement général (%) - Supérieur,8,True
+113,education,Taux d'analphabétisme des 10 ans et plus (%),8,True
+114,education,Taux d'analphabétisme des 15 ans et plus (%),8,True
+115,education,Taux de scolarisation des 6-11 ans en 2023/2024 (%),8,True
+116,education,Nombre d'établissements collegial,8,True
+118,education,Nombre d'établissements qualifiant,8,True
+119,education,Nombre d'établissements collegial,8,True
+121,education,Nombre d'établissements qualifiant,8,True
+122,health,Cliniques privées par province (ou préfecture) : Privé,8,True
+125,health,Laboratoires d'analyses médicales par province (ou préfect,8,True
+130,health,Autre,8,True
+132,health,Sage femme,8,True
+142,health,Mères décédées,8,True
+166,health,Autre,8,True
+201,health,Coque- luche,8,True
+202,health,Covid-19,8,True
+203,health,Leishmaniose cutanée,8,True
+205,health,Rougeole,8,True
+208,health,Tétanos,8,True
+221,health,cdtmr_total,8,True
+222,health,crsr_total,8,True
+223,health,essp_csr1,8,True
+224,health,essp_csr2,8,True
+225,health,essp_csu1,8,True
+226,health,essp_csu2,8,True
+227,health,essp_dr,8,True
+228,health,essp_total,8,True
+229,health,essp_total_global,8,True
+230,health,essp_urbain_total,8,True
+231,health,lsp_total,8,True
+232,health,structures_appui_total,8,True
+233,health,total_general,8,True
+234,health,centre_hemodialyse,8,True
+235,health,centre_oncologie,8,True
+236,health,centre_transfusion,8,True
+237,health,clinique_jour,8,True
+238,health,hopital_inter_regional,8,True
+239,health,hopital_provincial,8,True
+240,health,hopital_proximite,8,True
+241,health,hopital_psy_provincial,8,True
+242,health,hopital_regional,8,True
+243,health,hopital_regional_psy,8,True
+244,health,psy_universitaire,8,True
+245,health,total_general,8,True
+246,health,total_hospital,8,True
+247,health,centres_addictologie,8,True
+248,health,centres_appareillage,8,True
+249,health,centres_medico_universitaires,8,True
+250,health,centres_reeducation,8,True
+251,health,espace_sante_jeunes,8,True
+252,health,total_general,8,True
+253,health,nombre_samu,8,True
+254,health,ump_mtsb,8,True
+255,health,ump_smur,8,True
+256,health,ump_total,8,True
+257,health,Cliniques Privées à but lucratif - Nombre de cliniques,8,True
+259,health,Cliniques Privées à but non lucratif - Nombre de cliniques,8,True
+261,health,Total - Nombre de cliniques,8,True
+265,health,Chirurgiens dentistes par province (ou préfecture) : Public,8,True
+340,socio_economic,50 ans et plus,8,True
+341,socio_economic,Appartement,8,True
+342,socio_economic,Autres,8,True
+343,socio_economic,Autres type,8,True
+344,socio_economic,"Béton armé, briques avec mortier",8,True
+345,socio_economic,Dalle,8,True
+346,socio_economic,De 20 à moins de 50 ans,8,True
+347,socio_economic,Logement en type rural,8,True
+348,socio_economic,Logement occupé,8,True
+349,socio_economic,Logement secondaire/saisonnier,8,True
+350,socio_economic,Logement vacants,8,True
+351,socio_economic,Maison marocaine moderne,8,True
+352,socio_economic,Maison marocaine traditionnelle,8,True
+353,socio_economic,Maison sommaire ou bidonville,8,True
+354,socio_economic,Moins de 20 ans,8,True
+355,socio_economic,Pierre agglomérée avec mortier,8,True
+356,socio_economic,"Planches, bois ou tuiles",8,True
+357,socio_economic,Réseau public d'assainissement,8,True
+358,socio_economic,Réseau public d'eau,8,True
+359,socio_economic,Réseau public d'électricité,8,True
+360,socio_economic,Taux de déficit quantitatif en logement (%),8,True
+362,socio_economic,Total logement non occupé,8,True
+363,socio_economic,Total non précaire,8,True
+364,socio_economic,Total précaire,8,True
+365,socio_economic,Tôle en ciment ou en zinc,8,True
+366,socio_economic,Villa ou niveau de villa,8,True
+376,socio_economic,Langues locales utilisées (non exclusives) (%) - Darija,8,True
+377,socio_economic,Langues locales utilisées (non exclusives) (%) - Hassania,8,True
+378,socio_economic,Langues locales utilisées (non exclusives) (%) - Tachelhit,8,True
+379,socio_economic,Langues locales utilisées (non exclusives) (%) - Tamazight,8,True
+380,socio_economic,Langues locales utilisées (non exclusives) (%) - Tarifit,8,True
+384,socio_economic,Statut professionnel des actifs occupés de 15 ans et plus (%) - Aide familial,8,True
+385,socio_economic,Statut professionnel des actifs occupés de 15 ans et plus (%) - Apprenti,8,True
+386,socio_economic,Statut professionnel des actifs occupés de 15 ans et plus (%) - Autre,8,True
+387,socio_economic,Statut professionnel des actifs occupés de 15 ans et plus (%) - Coopérateur/Associé,8,True
+388,socio_economic,Statut professionnel des actifs occupés de 15 ans et plus (%) - Employeur,8,True
+389,socio_economic,Statut professionnel des actifs occupés de 15 ans et plus (%) - Indépendant,8,True
+390,socio_economic,Statut professionnel des actifs occupés de 15 ans et plus (%) - Salarié du secteur privé,8,True
+391,socio_economic,Statut professionnel des actifs occupés de 15 ans et plus (%) - Salarié du secteur public,8,True
+392,socio_economic,Taux d'activité des 15 ans et plus (%),8,True
+393,socio_economic,Taux de chômage (%),8,True
+394,socio_economic,Taux de prévalence du handicap (%),8,True

@@ -1,0 +1,2016 @@
+﻿territoire_id,indicateur,valeur,indicateur_id
+2,Population sédentaire active occupée (15+),478322.0,500
+2,Mode de transport (%) - À pieds,26.2,501
+2,Mode de transport (%) - Motocycle/ Bicyclette,2.7,502
+2,Mode de transport (%) - Voiture privée,12.3,503
+2,Mode de transport (%) - Bus,7.9,504
+2,Mode de transport (%) - Taxi,11.1,505
+2,Mode de transport (%) - Transport de l'employeur / Etablissement,33.3,506
+2,Mode de transport (%) - Train,0.1,507
+2,Mode de transport (%) - Tram,0.0,508
+2,Mode de transport (%) - Transport informel,1.1,509
+2,Mode de transport (%) - Animaux,0.1,510
+2,Mode de transport (%) - Autre,0.5,511
+2,Mode de transport (%) - Ne se déplace pas,4.6,512
+3,Population sédentaire active occupée (15+),58919.0,500
+3,Mode de transport (%) - À pieds,54.8,501
+3,Mode de transport (%) - Motocycle/ Bicyclette,6.4,502
+3,Mode de transport (%) - Voiture privée,10.8,503
+3,Mode de transport (%) - Bus,2.6,504
+3,Mode de transport (%) - Taxi,12.0,505
+3,Mode de transport (%) - Transport de l'employeur / Etablissement,7.2,506
+3,Mode de transport (%) - Train,0.1,507
+3,Mode de transport (%) - Tram,0.0,508
+3,Mode de transport (%) - Transport informel,0.8,509
+3,Mode de transport (%) - Animaux,0.1,510
+3,Mode de transport (%) - Autre,0.3,511
+3,Mode de transport (%) - Ne se déplace pas,5.0,512
+4,Population sédentaire active occupée (15+),162334.0,500
+4,Mode de transport (%) - À pieds,47.9,501
+4,Mode de transport (%) - Motocycle/ Bicyclette,2.8,502
+4,Mode de transport (%) - Voiture privée,11.6,503
+4,Mode de transport (%) - Bus,8.4,504
+4,Mode de transport (%) - Taxi,11.6,505
+4,Mode de transport (%) - Transport de l'employeur / Etablissement,7.1,506
+4,Mode de transport (%) - Train,0.1,507
+4,Mode de transport (%) - Tram,0.0,508
+4,Mode de transport (%) - Transport informel,2.1,509
+4,Mode de transport (%) - Animaux,0.8,510
+4,Mode de transport (%) - Autre,0.4,511
+4,Mode de transport (%) - Ne se déplace pas,7.3,512
+5,Population sédentaire active occupée (15+),27370.0,500
+5,Mode de transport (%) - À pieds,35.5,501
+5,Mode de transport (%) - Motocycle/ Bicyclette,5.3,502
+5,Mode de transport (%) - Voiture privée,7.9,503
+5,Mode de transport (%) - Bus,6.3,504
+5,Mode de transport (%) - Taxi,6.7,505
+5,Mode de transport (%) - Transport de l'employeur / Etablissement,15.2,506
+5,Mode de transport (%) - Train,0.0,507
+5,Mode de transport (%) - Tram,0.0,508
+5,Mode de transport (%) - Transport informel,8.9,509
+5,Mode de transport (%) - Animaux,0.1,510
+5,Mode de transport (%) - Autre,0.5,511
+5,Mode de transport (%) - Ne se déplace pas,13.7,512
+6,Population sédentaire active occupée (15+),122590.0,500
+6,Mode de transport (%) - À pieds,51.1,501
+6,Mode de transport (%) - Motocycle/ Bicyclette,8.1,502
+6,Mode de transport (%) - Voiture privée,7.5,503
+6,Mode de transport (%) - Bus,2.3,504
+6,Mode de transport (%) - Taxi,7.4,505
+6,Mode de transport (%) - Transport de l'employeur / Etablissement,12.0,506
+6,Mode de transport (%) - Train,0.2,507
+6,Mode de transport (%) - Tram,0.0,508
+6,Mode de transport (%) - Transport informel,2.4,509
+6,Mode de transport (%) - Animaux,2.3,510
+6,Mode de transport (%) - Autre,0.8,511
+6,Mode de transport (%) - Ne se déplace pas,5.9,512
+7,Population sédentaire active occupée (15+),77232.0,500
+7,Mode de transport (%) - À pieds,59.9,501
+7,Mode de transport (%) - Motocycle/ Bicyclette,3.7,502
+7,Mode de transport (%) - Voiture privée,11.4,503
+7,Mode de transport (%) - Bus,0.9,504
+7,Mode de transport (%) - Taxi,8.1,505
+7,Mode de transport (%) - Transport de l'employeur / Etablissement,2.4,506
+7,Mode de transport (%) - Train,0.0,507
+7,Mode de transport (%) - Tram,0.0,508
+7,Mode de transport (%) - Transport informel,2.7,509
+7,Mode de transport (%) - Animaux,1.9,510
+7,Mode de transport (%) - Autre,0.5,511
+7,Mode de transport (%) - Ne se déplace pas,8.5,512
+8,Population sédentaire active occupée (15+),108732.0,500
+8,Mode de transport (%) - À pieds,71.8,501
+8,Mode de transport (%) - Motocycle/ Bicyclette,0.9,502
+8,Mode de transport (%) - Voiture privée,3.4,503
+8,Mode de transport (%) - Bus,0.8,504
+8,Mode de transport (%) - Taxi,3.1,505
+8,Mode de transport (%) - Transport de l'employeur / Etablissement,1.1,506
+8,Mode de transport (%) - Train,0.0,507
+8,Mode de transport (%) - Tram,0.0,508
+8,Mode de transport (%) - Transport informel,3.8,509
+8,Mode de transport (%) - Animaux,4.6,510
+8,Mode de transport (%) - Autre,0.2,511
+8,Mode de transport (%) - Ne se déplace pas,10.4,512
+9,Population sédentaire active occupée (15+),49239.0,500
+9,Mode de transport (%) - À pieds,61.6,501
+9,Mode de transport (%) - Motocycle/ Bicyclette,1.5,502
+9,Mode de transport (%) - Voiture privée,6.5,503
+9,Mode de transport (%) - Bus,1.5,504
+9,Mode de transport (%) - Taxi,5.0,505
+9,Mode de transport (%) - Transport de l'employeur / Etablissement,3.1,506
+9,Mode de transport (%) - Train,0.0,507
+9,Mode de transport (%) - Tram,0.0,508
+9,Mode de transport (%) - Transport informel,4.8,509
+9,Mode de transport (%) - Animaux,6.7,510
+9,Mode de transport (%) - Autre,0.9,511
+9,Mode de transport (%) - Ne se déplace pas,8.1,512
+1,Population sédentaire active occupée (15+),1084739.0,500
+1,Mode de transport (%) - À pieds,42.6,501
+1,Mode de transport (%) - Motocycle/ Bicyclette,3.4,502
+1,Mode de transport (%) - Voiture privée,10.3,503
+1,Mode de transport (%) - Bus,5.5,504
+1,Mode de transport (%) - Taxi,9.4,505
+1,Mode de transport (%) - Transport de l'employeur / Etablissement,18.3,506
+1,Mode de transport (%) - Train,0.1,507
+1,Mode de transport (%) - Tram,0.0,508
+1,Mode de transport (%) - Transport informel,2.2,509
+1,Mode de transport (%) - Animaux,1.3,510
+1,Mode de transport (%) - Autre,0.5,511
+1,Mode de transport (%) - Ne se déplace pas,6.4,512
+34,Population sédentaire active occupée (15+),414399.0,500
+34,Mode de transport (%) - À pieds,25.6,501
+34,Mode de transport (%) - Motocycle/ Bicyclette,2.5,502
+34,Mode de transport (%) - Voiture privée,12.8,503
+34,Mode de transport (%) - Bus,7.7,504
+34,Mode de transport (%) - Taxi,11.8,505
+34,Mode de transport (%) - Transport de l'employeur / Etablissement,34.3,506
+34,Mode de transport (%) - Train,0.1,507
+34,Mode de transport (%) - Tram,0.0,508
+34,Mode de transport (%) - Transport informel,0.8,509
+34,Mode de transport (%) - Animaux,0.1,510
+34,Mode de transport (%) - Autre,0.4,511
+34,Mode de transport (%) - Ne se déplace pas,3.9,512
+35,Population sédentaire active occupée (15+),9134.0,500
+35,Mode de transport (%) - À pieds,58.7,501
+35,Mode de transport (%) - Motocycle/ Bicyclette,7.1,502
+35,Mode de transport (%) - Voiture privée,9.8,503
+35,Mode de transport (%) - Bus,5.2,504
+35,Mode de transport (%) - Taxi,4.7,505
+35,Mode de transport (%) - Transport de l'employeur / Etablissement,5.2,506
+35,Mode de transport (%) - Train,0.1,507
+35,Mode de transport (%) - Tram,0.0,508
+35,Mode de transport (%) - Transport informel,1.2,509
+35,Mode de transport (%) - Animaux,0.2,510
+35,Mode de transport (%) - Autre,0.6,511
+35,Mode de transport (%) - Ne se déplace pas,7.3,512
+36,Population sédentaire active occupée (15+),29055.0,500
+36,Mode de transport (%) - À pieds,18.6,501
+36,Mode de transport (%) - Motocycle/ Bicyclette,3.4,502
+36,Mode de transport (%) - Voiture privée,12.0,503
+36,Mode de transport (%) - Bus,11.1,504
+36,Mode de transport (%) - Taxi,7.0,505
+36,Mode de transport (%) - Transport de l'employeur / Etablissement,41.4,506
+36,Mode de transport (%) - Train,0.1,507
+36,Mode de transport (%) - Tram,0.0,508
+36,Mode de transport (%) - Transport informel,1.5,509
+36,Mode de transport (%) - Animaux,0.1,510
+36,Mode de transport (%) - Autre,0.8,511
+36,Mode de transport (%) - Ne se déplace pas,4.0,512
+37,Population sédentaire active occupée (15+),6584.0,500
+37,Mode de transport (%) - À pieds,23.1,501
+37,Mode de transport (%) - Motocycle/ Bicyclette,6.8,502
+37,Mode de transport (%) - Voiture privée,5.4,503
+37,Mode de transport (%) - Bus,11.6,504
+37,Mode de transport (%) - Taxi,3.5,505
+37,Mode de transport (%) - Transport de l'employeur / Etablissement,33.7,506
+37,Mode de transport (%) - Train,0.0,507
+37,Mode de transport (%) - Tram,0.0,508
+37,Mode de transport (%) - Transport informel,7.9,509
+37,Mode de transport (%) - Animaux,0.2,510
+37,Mode de transport (%) - Autre,1.1,511
+37,Mode de transport (%) - Ne se déplace pas,6.7,512
+38,Population sédentaire active occupée (15+),1020.0,500
+38,Mode de transport (%) - À pieds,35.8,501
+38,Mode de transport (%) - Motocycle/ Bicyclette,2.1,502
+38,Mode de transport (%) - Voiture privée,3.7,503
+38,Mode de transport (%) - Bus,13.2,504
+38,Mode de transport (%) - Taxi,1.5,505
+38,Mode de transport (%) - Transport de l'employeur / Etablissement,7.7,506
+38,Mode de transport (%) - Train,0.0,507
+38,Mode de transport (%) - Tram,0.0,508
+38,Mode de transport (%) - Transport informel,12.7,509
+38,Mode de transport (%) - Animaux,0.4,510
+38,Mode de transport (%) - Autre,0.0,511
+38,Mode de transport (%) - Ne se déplace pas,22.8,512
+39,Population sédentaire active occupée (15+),674.0,500
+39,Mode de transport (%) - À pieds,56.8,501
+39,Mode de transport (%) - Motocycle/ Bicyclette,2.7,502
+39,Mode de transport (%) - Voiture privée,2.8,503
+39,Mode de transport (%) - Bus,8.5,504
+39,Mode de transport (%) - Taxi,1.5,505
+39,Mode de transport (%) - Transport de l'employeur / Etablissement,10.1,506
+39,Mode de transport (%) - Train,0.0,507
+39,Mode de transport (%) - Tram,0.0,508
+39,Mode de transport (%) - Transport informel,4.6,509
+39,Mode de transport (%) - Animaux,1.3,510
+39,Mode de transport (%) - Autre,0.4,511
+39,Mode de transport (%) - Ne se déplace pas,11.3,512
+40,Population sédentaire active occupée (15+),4954.0,500
+40,Mode de transport (%) - À pieds,25.4,501
+40,Mode de transport (%) - Motocycle/ Bicyclette,7.0,502
+40,Mode de transport (%) - Voiture privée,9.0,503
+40,Mode de transport (%) - Bus,10.7,504
+40,Mode de transport (%) - Taxi,21.7,505
+40,Mode de transport (%) - Transport de l'employeur / Etablissement,19.6,506
+40,Mode de transport (%) - Train,0.0,507
+40,Mode de transport (%) - Tram,0.0,508
+40,Mode de transport (%) - Transport informel,0.3,509
+40,Mode de transport (%) - Animaux,0.2,510
+40,Mode de transport (%) - Autre,0.4,511
+40,Mode de transport (%) - Ne se déplace pas,5.5,512
+41,Population sédentaire active occupée (15+),1626.0,500
+41,Mode de transport (%) - À pieds,45.9,501
+41,Mode de transport (%) - Motocycle/ Bicyclette,5.9,502
+41,Mode de transport (%) - Voiture privée,6.2,503
+41,Mode de transport (%) - Bus,16.1,504
+41,Mode de transport (%) - Taxi,1.4,505
+41,Mode de transport (%) - Transport de l'employeur / Etablissement,11.8,506
+41,Mode de transport (%) - Train,0.0,507
+41,Mode de transport (%) - Tram,0.0,508
+41,Mode de transport (%) - Transport informel,6.9,509
+41,Mode de transport (%) - Animaux,0.2,510
+41,Mode de transport (%) - Autre,0.7,511
+41,Mode de transport (%) - Ne se déplace pas,4.9,512
+42,Population sédentaire active occupée (15+),1093.0,500
+42,Mode de transport (%) - À pieds,31.0,501
+42,Mode de transport (%) - Motocycle/ Bicyclette,6.3,502
+42,Mode de transport (%) - Voiture privée,8.5,503
+42,Mode de transport (%) - Bus,16.0,504
+42,Mode de transport (%) - Taxi,11.3,505
+42,Mode de transport (%) - Transport de l'employeur / Etablissement,8.6,506
+42,Mode de transport (%) - Train,0.0,507
+42,Mode de transport (%) - Tram,0.0,508
+42,Mode de transport (%) - Transport informel,1.3,509
+42,Mode de transport (%) - Animaux,0.6,510
+42,Mode de transport (%) - Autre,0.5,511
+42,Mode de transport (%) - Ne se déplace pas,15.7,512
+43,Population sédentaire active occupée (15+),4657.0,500
+43,Mode de transport (%) - À pieds,30.8,501
+43,Mode de transport (%) - Motocycle/ Bicyclette,2.4,502
+43,Mode de transport (%) - Voiture privée,3.9,503
+43,Mode de transport (%) - Bus,5.4,504
+43,Mode de transport (%) - Taxi,2.5,505
+43,Mode de transport (%) - Transport de l'employeur / Etablissement,11.7,506
+43,Mode de transport (%) - Train,0.1,507
+43,Mode de transport (%) - Tram,0.0,508
+43,Mode de transport (%) - Transport informel,3.5,509
+43,Mode de transport (%) - Animaux,2.2,510
+43,Mode de transport (%) - Autre,0.6,511
+43,Mode de transport (%) - Ne se déplace pas,36.9,512
+44,Population sédentaire active occupée (15+),1719.0,500
+44,Mode de transport (%) - À pieds,55.8,501
+44,Mode de transport (%) - Motocycle/ Bicyclette,3.4,502
+44,Mode de transport (%) - Voiture privée,2.0,503
+44,Mode de transport (%) - Bus,0.9,504
+44,Mode de transport (%) - Taxi,9.1,505
+44,Mode de transport (%) - Transport de l'employeur / Etablissement,3.7,506
+44,Mode de transport (%) - Train,0.1,507
+44,Mode de transport (%) - Tram,0.0,508
+44,Mode de transport (%) - Transport informel,14.5,509
+44,Mode de transport (%) - Animaux,3.7,510
+44,Mode de transport (%) - Autre,0.1,511
+44,Mode de transport (%) - Ne se déplace pas,6.7,512
+45,Population sédentaire active occupée (15+),3408.0,500
+45,Mode de transport (%) - À pieds,47.2,501
+45,Mode de transport (%) - Motocycle/ Bicyclette,2.3,502
+45,Mode de transport (%) - Voiture privée,4.9,503
+45,Mode de transport (%) - Bus,6.0,504
+45,Mode de transport (%) - Taxi,2.1,505
+45,Mode de transport (%) - Transport de l'employeur / Etablissement,5.7,506
+45,Mode de transport (%) - Train,0.0,507
+45,Mode de transport (%) - Tram,0.0,508
+45,Mode de transport (%) - Transport informel,11.4,509
+45,Mode de transport (%) - Animaux,4.0,510
+45,Mode de transport (%) - Autre,0.4,511
+45,Mode de transport (%) - Ne se déplace pas,15.9,512
+46,Population sédentaire active occupée (15+),15765.0,500
+46,Mode de transport (%) - À pieds,55.9,501
+46,Mode de transport (%) - Motocycle/ Bicyclette,5.4,502
+46,Mode de transport (%) - Voiture privée,7.9,503
+46,Mode de transport (%) - Bus,3.7,504
+46,Mode de transport (%) - Taxi,14.4,505
+46,Mode de transport (%) - Transport de l'employeur / Etablissement,6.1,506
+46,Mode de transport (%) - Train,0.0,507
+46,Mode de transport (%) - Tram,0.0,508
+46,Mode de transport (%) - Transport informel,1.1,509
+46,Mode de transport (%) - Animaux,0.1,510
+46,Mode de transport (%) - Autre,0.3,511
+46,Mode de transport (%) - Ne se déplace pas,5.1,512
+47,Population sédentaire active occupée (15+),16061.0,500
+47,Mode de transport (%) - À pieds,69.9,501
+47,Mode de transport (%) - Motocycle/ Bicyclette,3.9,502
+47,Mode de transport (%) - Voiture privée,6.7,503
+47,Mode de transport (%) - Bus,1.7,504
+47,Mode de transport (%) - Taxi,8.1,505
+47,Mode de transport (%) - Transport de l'employeur / Etablissement,5.7,506
+47,Mode de transport (%) - Train,0.1,507
+47,Mode de transport (%) - Tram,0.0,508
+47,Mode de transport (%) - Transport informel,0.2,509
+47,Mode de transport (%) - Animaux,0.0,510
+47,Mode de transport (%) - Autre,0.1,511
+47,Mode de transport (%) - Ne se déplace pas,3.4,512
+48,Population sédentaire active occupée (15+),24864.0,500
+48,Mode de transport (%) - À pieds,45.0,501
+48,Mode de transport (%) - Motocycle/ Bicyclette,7.6,502
+48,Mode de transport (%) - Voiture privée,15.7,503
+48,Mode de transport (%) - Bus,2.7,504
+48,Mode de transport (%) - Taxi,13.2,505
+48,Mode de transport (%) - Transport de l'employeur / Etablissement,9.2,506
+48,Mode de transport (%) - Train,0.1,507
+48,Mode de transport (%) - Tram,0.0,508
+48,Mode de transport (%) - Transport informel,0.4,509
+48,Mode de transport (%) - Animaux,0.1,510
+48,Mode de transport (%) - Autre,0.4,511
+48,Mode de transport (%) - Ne se déplace pas,5.7,512
+49,Population sédentaire active occupée (15+),1455.0,500
+49,Mode de transport (%) - À pieds,41.6,501
+49,Mode de transport (%) - Motocycle/ Bicyclette,22.9,502
+49,Mode de transport (%) - Voiture privée,6.9,503
+49,Mode de transport (%) - Bus,0.7,504
+49,Mode de transport (%) - Taxi,7.5,505
+49,Mode de transport (%) - Transport de l'employeur / Etablissement,2.5,506
+49,Mode de transport (%) - Train,0.0,507
+49,Mode de transport (%) - Tram,0.0,508
+49,Mode de transport (%) - Transport informel,11.8,509
+49,Mode de transport (%) - Animaux,0.1,510
+49,Mode de transport (%) - Autre,0.5,511
+49,Mode de transport (%) - Ne se déplace pas,5.4,512
+50,Population sédentaire active occupée (15+),775.0,500
+50,Mode de transport (%) - À pieds,59.7,501
+50,Mode de transport (%) - Motocycle/ Bicyclette,9.9,502
+50,Mode de transport (%) - Voiture privée,4.5,503
+50,Mode de transport (%) - Bus,0.5,504
+50,Mode de transport (%) - Taxi,13.0,505
+50,Mode de transport (%) - Transport de l'employeur / Etablissement,0.8,506
+50,Mode de transport (%) - Train,0.0,507
+50,Mode de transport (%) - Tram,0.0,508
+50,Mode de transport (%) - Transport informel,0.3,509
+50,Mode de transport (%) - Animaux,0.1,510
+50,Mode de transport (%) - Autre,0.0,511
+50,Mode de transport (%) - Ne se déplace pas,11.1,512
+51,Population sédentaire active occupée (15+),108883.0,500
+51,Mode de transport (%) - À pieds,43.0,501
+51,Mode de transport (%) - Motocycle/ Bicyclette,2.1,502
+51,Mode de transport (%) - Voiture privée,15.4,503
+51,Mode de transport (%) - Bus,9.3,504
+51,Mode de transport (%) - Taxi,14.4,505
+51,Mode de transport (%) - Transport de l'employeur / Etablissement,9.2,506
+51,Mode de transport (%) - Train,0.1,507
+51,Mode de transport (%) - Tram,0.0,508
+51,Mode de transport (%) - Transport informel,0.7,509
+51,Mode de transport (%) - Animaux,0.0,510
+51,Mode de transport (%) - Autre,0.4,511
+51,Mode de transport (%) - Ne se déplace pas,5.4,512
+52,Population sédentaire active occupée (15+),2373.0,500
+52,Mode de transport (%) - À pieds,50.8,501
+52,Mode de transport (%) - Motocycle/ Bicyclette,13.8,502
+52,Mode de transport (%) - Voiture privée,10.9,503
+52,Mode de transport (%) - Bus,3.1,504
+52,Mode de transport (%) - Taxi,4.2,505
+52,Mode de transport (%) - Transport de l'employeur / Etablissement,1.2,506
+52,Mode de transport (%) - Train,0.0,507
+52,Mode de transport (%) - Tram,0.0,508
+52,Mode de transport (%) - Transport informel,1.7,509
+52,Mode de transport (%) - Animaux,0.5,510
+52,Mode de transport (%) - Autre,0.7,511
+52,Mode de transport (%) - Ne se déplace pas,13.0,512
+53,Population sédentaire active occupée (15+),1888.0,500
+53,Mode de transport (%) - À pieds,36.4,501
+53,Mode de transport (%) - Motocycle/ Bicyclette,1.8,502
+53,Mode de transport (%) - Voiture privée,2.3,503
+53,Mode de transport (%) - Bus,3.9,504
+53,Mode de transport (%) - Taxi,9.5,505
+53,Mode de transport (%) - Transport de l'employeur / Etablissement,2.3,506
+53,Mode de transport (%) - Train,0.1,507
+53,Mode de transport (%) - Tram,0.0,508
+53,Mode de transport (%) - Transport informel,10.1,509
+53,Mode de transport (%) - Animaux,0.4,510
+53,Mode de transport (%) - Autre,0.3,511
+53,Mode de transport (%) - Ne se déplace pas,33.1,512
+54,Population sédentaire active occupée (15+),2176.0,500
+54,Mode de transport (%) - À pieds,47.2,501
+54,Mode de transport (%) - Motocycle/ Bicyclette,4.1,502
+54,Mode de transport (%) - Voiture privée,2.9,503
+54,Mode de transport (%) - Bus,10.3,504
+54,Mode de transport (%) - Taxi,14.6,505
+54,Mode de transport (%) - Transport de l'employeur / Etablissement,4.4,506
+54,Mode de transport (%) - Train,0.0,507
+54,Mode de transport (%) - Tram,0.0,508
+54,Mode de transport (%) - Transport informel,0.2,509
+54,Mode de transport (%) - Animaux,0.4,510
+54,Mode de transport (%) - Autre,0.6,511
+54,Mode de transport (%) - Ne se déplace pas,15.3,512
+55,Population sédentaire active occupée (15+),1296.0,500
+55,Mode de transport (%) - À pieds,69.5,501
+55,Mode de transport (%) - Motocycle/ Bicyclette,1.1,502
+55,Mode de transport (%) - Voiture privée,7.3,503
+55,Mode de transport (%) - Bus,1.5,504
+55,Mode de transport (%) - Taxi,0.5,505
+55,Mode de transport (%) - Transport de l'employeur / Etablissement,7.9,506
+55,Mode de transport (%) - Train,0.0,507
+55,Mode de transport (%) - Tram,0.0,508
+55,Mode de transport (%) - Transport informel,7.1,509
+55,Mode de transport (%) - Animaux,0.0,510
+55,Mode de transport (%) - Autre,0.1,511
+55,Mode de transport (%) - Ne se déplace pas,4.9,512
+56,Population sédentaire active occupée (15+),1660.0,500
+56,Mode de transport (%) - À pieds,64.1,501
+56,Mode de transport (%) - Motocycle/ Bicyclette,0.4,502
+56,Mode de transport (%) - Voiture privée,2.3,503
+56,Mode de transport (%) - Bus,1.2,504
+56,Mode de transport (%) - Taxi,8.0,505
+56,Mode de transport (%) - Transport de l'employeur / Etablissement,6.7,506
+56,Mode de transport (%) - Train,0.0,507
+56,Mode de transport (%) - Tram,0.0,508
+56,Mode de transport (%) - Transport informel,1.0,509
+56,Mode de transport (%) - Animaux,0.5,510
+56,Mode de transport (%) - Autre,0.4,511
+56,Mode de transport (%) - Ne se déplace pas,15.4,512
+57,Population sédentaire active occupée (15+),570.0,500
+57,Mode de transport (%) - À pieds,87.0,501
+57,Mode de transport (%) - Motocycle/ Bicyclette,0.5,502
+57,Mode de transport (%) - Voiture privée,1.8,503
+57,Mode de transport (%) - Bus,3.5,504
+57,Mode de transport (%) - Taxi,1.2,505
+57,Mode de transport (%) - Transport de l'employeur / Etablissement,1.8,506
+57,Mode de transport (%) - Train,0.0,507
+57,Mode de transport (%) - Tram,0.0,508
+57,Mode de transport (%) - Transport informel,3.2,509
+57,Mode de transport (%) - Animaux,0.5,510
+57,Mode de transport (%) - Autre,0.0,511
+57,Mode de transport (%) - Ne se déplace pas,0.5,512
+58,Population sédentaire active occupée (15+),2941.0,500
+58,Mode de transport (%) - À pieds,38.8,501
+58,Mode de transport (%) - Motocycle/ Bicyclette,15.2,502
+58,Mode de transport (%) - Voiture privée,9.0,503
+58,Mode de transport (%) - Bus,8.7,504
+58,Mode de transport (%) - Taxi,4.7,505
+58,Mode de transport (%) - Transport de l'employeur / Etablissement,3.9,506
+58,Mode de transport (%) - Train,0.0,507
+58,Mode de transport (%) - Tram,0.0,508
+58,Mode de transport (%) - Transport informel,5.3,509
+58,Mode de transport (%) - Animaux,0.4,510
+58,Mode de transport (%) - Autre,0.6,511
+58,Mode de transport (%) - Ne se déplace pas,13.5,512
+59,Population sédentaire active occupée (15+),1797.0,500
+59,Mode de transport (%) - À pieds,51.4,501
+59,Mode de transport (%) - Motocycle/ Bicyclette,3.7,502
+59,Mode de transport (%) - Voiture privée,3.1,503
+59,Mode de transport (%) - Bus,11.5,504
+59,Mode de transport (%) - Taxi,5.1,505
+59,Mode de transport (%) - Transport de l'employeur / Etablissement,10.1,506
+59,Mode de transport (%) - Train,0.1,507
+59,Mode de transport (%) - Tram,0.0,508
+59,Mode de transport (%) - Transport informel,4.8,509
+59,Mode de transport (%) - Animaux,0.2,510
+59,Mode de transport (%) - Autre,0.4,511
+59,Mode de transport (%) - Ne se déplace pas,9.5,512
+60,Population sédentaire active occupée (15+),2596.0,500
+60,Mode de transport (%) - À pieds,67.0,501
+60,Mode de transport (%) - Motocycle/ Bicyclette,1.1,502
+60,Mode de transport (%) - Voiture privée,1.9,503
+60,Mode de transport (%) - Bus,7.1,504
+60,Mode de transport (%) - Taxi,4.2,505
+60,Mode de transport (%) - Transport de l'employeur / Etablissement,2.8,506
+60,Mode de transport (%) - Train,0.0,507
+60,Mode de transport (%) - Tram,0.0,508
+60,Mode de transport (%) - Transport informel,3.6,509
+60,Mode de transport (%) - Animaux,9.3,510
+60,Mode de transport (%) - Autre,0.2,511
+60,Mode de transport (%) - Ne se déplace pas,2.6,512
+61,Population sédentaire active occupée (15+),1796.0,500
+61,Mode de transport (%) - À pieds,68.0,501
+61,Mode de transport (%) - Motocycle/ Bicyclette,0.1,502
+61,Mode de transport (%) - Voiture privée,0.4,503
+61,Mode de transport (%) - Bus,0.0,504
+61,Mode de transport (%) - Taxi,2.4,505
+61,Mode de transport (%) - Transport de l'employeur / Etablissement,0.5,506
+61,Mode de transport (%) - Train,0.0,507
+61,Mode de transport (%) - Tram,0.0,508
+61,Mode de transport (%) - Transport informel,2.3,509
+61,Mode de transport (%) - Animaux,1.3,510
+61,Mode de transport (%) - Autre,0.1,511
+61,Mode de transport (%) - Ne se déplace pas,24.8,512
+62,Population sédentaire active occupée (15+),2122.0,500
+62,Mode de transport (%) - À pieds,56.9,501
+62,Mode de transport (%) - Motocycle/ Bicyclette,0.2,502
+62,Mode de transport (%) - Voiture privée,1.8,503
+62,Mode de transport (%) - Bus,0.2,504
+62,Mode de transport (%) - Taxi,2.6,505
+62,Mode de transport (%) - Transport de l'employeur / Etablissement,2.6,506
+62,Mode de transport (%) - Train,0.1,507
+62,Mode de transport (%) - Tram,0.0,508
+62,Mode de transport (%) - Transport informel,1.1,509
+62,Mode de transport (%) - Animaux,10.1,510
+62,Mode de transport (%) - Autre,0.0,511
+62,Mode de transport (%) - Ne se déplace pas,24.3,512
+63,Population sédentaire active occupée (15+),2545.0,500
+63,Mode de transport (%) - À pieds,93.3,501
+63,Mode de transport (%) - Motocycle/ Bicyclette,0.0,502
+63,Mode de transport (%) - Voiture privée,0.2,503
+63,Mode de transport (%) - Bus,0.7,504
+63,Mode de transport (%) - Taxi,0.2,505
+63,Mode de transport (%) - Transport de l'employeur / Etablissement,0.7,506
+63,Mode de transport (%) - Train,0.0,507
+63,Mode de transport (%) - Tram,0.0,508
+63,Mode de transport (%) - Transport informel,1.6,509
+63,Mode de transport (%) - Animaux,2.3,510
+63,Mode de transport (%) - Autre,0.0,511
+63,Mode de transport (%) - Ne se déplace pas,0.9,512
+64,Population sédentaire active occupée (15+),4928.0,500
+64,Mode de transport (%) - À pieds,75.6,501
+64,Mode de transport (%) - Motocycle/ Bicyclette,0.0,502
+64,Mode de transport (%) - Voiture privée,1.5,503
+64,Mode de transport (%) - Bus,10.4,504
+64,Mode de transport (%) - Taxi,1.1,505
+64,Mode de transport (%) - Transport de l'employeur / Etablissement,2.3,506
+64,Mode de transport (%) - Train,0.0,507
+64,Mode de transport (%) - Tram,0.0,508
+64,Mode de transport (%) - Transport informel,5.3,509
+64,Mode de transport (%) - Animaux,0.6,510
+64,Mode de transport (%) - Autre,0.2,511
+64,Mode de transport (%) - Ne se déplace pas,3.0,512
+65,Population sédentaire active occupée (15+),4099.0,500
+65,Mode de transport (%) - À pieds,85.9,501
+65,Mode de transport (%) - Motocycle/ Bicyclette,0.3,502
+65,Mode de transport (%) - Voiture privée,0.4,503
+65,Mode de transport (%) - Bus,1.2,504
+65,Mode de transport (%) - Taxi,1.8,505
+65,Mode de transport (%) - Transport de l'employeur / Etablissement,1.1,506
+65,Mode de transport (%) - Train,0.0,507
+65,Mode de transport (%) - Tram,0.0,508
+65,Mode de transport (%) - Transport informel,4.5,509
+65,Mode de transport (%) - Animaux,0.3,510
+65,Mode de transport (%) - Autre,0.0,511
+65,Mode de transport (%) - Ne se déplace pas,4.4,512
+66,Population sédentaire active occupée (15+),2105.0,500
+66,Mode de transport (%) - À pieds,85.7,501
+66,Mode de transport (%) - Motocycle/ Bicyclette,0.5,502
+66,Mode de transport (%) - Voiture privée,0.3,503
+66,Mode de transport (%) - Bus,1.2,504
+66,Mode de transport (%) - Taxi,0.7,505
+66,Mode de transport (%) - Transport de l'employeur / Etablissement,0.1,506
+66,Mode de transport (%) - Train,0.0,507
+66,Mode de transport (%) - Tram,0.0,508
+66,Mode de transport (%) - Transport informel,1.1,509
+66,Mode de transport (%) - Animaux,0.6,510
+66,Mode de transport (%) - Autre,0.0,511
+66,Mode de transport (%) - Ne se déplace pas,9.7,512
+67,Population sédentaire active occupée (15+),2244.0,500
+67,Mode de transport (%) - À pieds,35.0,501
+67,Mode de transport (%) - Motocycle/ Bicyclette,2.7,502
+67,Mode de transport (%) - Voiture privée,9.2,503
+67,Mode de transport (%) - Bus,18.2,504
+67,Mode de transport (%) - Taxi,10.5,505
+67,Mode de transport (%) - Transport de l'employeur / Etablissement,6.1,506
+67,Mode de transport (%) - Train,0.1,507
+67,Mode de transport (%) - Tram,0.0,508
+67,Mode de transport (%) - Transport informel,9.2,509
+67,Mode de transport (%) - Animaux,0.0,510
+67,Mode de transport (%) - Autre,0.1,511
+67,Mode de transport (%) - Ne se déplace pas,8.8,512
+68,Population sédentaire active occupée (15+),2529.0,500
+68,Mode de transport (%) - À pieds,55.0,501
+68,Mode de transport (%) - Motocycle/ Bicyclette,0.5,502
+68,Mode de transport (%) - Voiture privée,3.8,503
+68,Mode de transport (%) - Bus,8.4,504
+68,Mode de transport (%) - Taxi,0.5,505
+68,Mode de transport (%) - Transport de l'employeur / Etablissement,1.0,506
+68,Mode de transport (%) - Train,0.0,507
+68,Mode de transport (%) - Tram,0.0,508
+68,Mode de transport (%) - Transport informel,19.5,509
+68,Mode de transport (%) - Animaux,4.5,510
+68,Mode de transport (%) - Autre,0.0,511
+68,Mode de transport (%) - Ne se déplace pas,6.7,512
+69,Population sédentaire active occupée (15+),5159.0,500
+69,Mode de transport (%) - À pieds,36.0,501
+69,Mode de transport (%) - Motocycle/ Bicyclette,12.2,502
+69,Mode de transport (%) - Voiture privée,7.7,503
+69,Mode de transport (%) - Bus,4.1,504
+69,Mode de transport (%) - Taxi,18.7,505
+69,Mode de transport (%) - Transport de l'employeur / Etablissement,3.8,506
+69,Mode de transport (%) - Train,0.2,507
+69,Mode de transport (%) - Tram,0.0,508
+69,Mode de transport (%) - Transport informel,5.5,509
+69,Mode de transport (%) - Animaux,0.1,510
+69,Mode de transport (%) - Autre,0.6,511
+69,Mode de transport (%) - Ne se déplace pas,11.1,512
+70,Population sédentaire active occupée (15+),3182.0,500
+70,Mode de transport (%) - À pieds,38.5,501
+70,Mode de transport (%) - Motocycle/ Bicyclette,10.1,502
+70,Mode de transport (%) - Voiture privée,8.9,503
+70,Mode de transport (%) - Bus,20.8,504
+70,Mode de transport (%) - Taxi,10.1,505
+70,Mode de transport (%) - Transport de l'employeur / Etablissement,5.3,506
+70,Mode de transport (%) - Train,0.0,507
+70,Mode de transport (%) - Tram,0.0,508
+70,Mode de transport (%) - Transport informel,0.9,509
+70,Mode de transport (%) - Animaux,0.3,510
+70,Mode de transport (%) - Autre,0.9,511
+70,Mode de transport (%) - Ne se déplace pas,4.2,512
+71,Population sédentaire active occupée (15+),3303.0,500
+71,Mode de transport (%) - À pieds,48.3,501
+71,Mode de transport (%) - Motocycle/ Bicyclette,2.7,502
+71,Mode de transport (%) - Voiture privée,1.4,503
+71,Mode de transport (%) - Bus,1.1,504
+71,Mode de transport (%) - Taxi,4.7,505
+71,Mode de transport (%) - Transport de l'employeur / Etablissement,0.2,506
+71,Mode de transport (%) - Train,0.0,507
+71,Mode de transport (%) - Tram,0.0,508
+71,Mode de transport (%) - Transport informel,12.6,509
+71,Mode de transport (%) - Animaux,12.8,510
+71,Mode de transport (%) - Autre,0.0,511
+71,Mode de transport (%) - Ne se déplace pas,16.1,512
+72,Population sédentaire active occupée (15+),2141.0,500
+72,Mode de transport (%) - À pieds,45.8,501
+72,Mode de transport (%) - Motocycle/ Bicyclette,1.9,502
+72,Mode de transport (%) - Voiture privée,3.7,503
+72,Mode de transport (%) - Bus,11.3,504
+72,Mode de transport (%) - Taxi,1.7,505
+72,Mode de transport (%) - Transport de l'employeur / Etablissement,1.0,506
+72,Mode de transport (%) - Train,0.0,507
+72,Mode de transport (%) - Tram,0.0,508
+72,Mode de transport (%) - Transport informel,2.0,509
+72,Mode de transport (%) - Animaux,3.3,510
+72,Mode de transport (%) - Autre,0.2,511
+72,Mode de transport (%) - Ne se déplace pas,29.1,512
+73,Population sédentaire active occupée (15+),5753.0,500
+73,Mode de transport (%) - À pieds,46.8,501
+73,Mode de transport (%) - Motocycle/ Bicyclette,2.7,502
+73,Mode de transport (%) - Voiture privée,5.5,503
+73,Mode de transport (%) - Bus,6.9,504
+73,Mode de transport (%) - Taxi,3.4,505
+73,Mode de transport (%) - Transport de l'employeur / Etablissement,19.4,506
+73,Mode de transport (%) - Train,0.1,507
+73,Mode de transport (%) - Tram,0.0,508
+73,Mode de transport (%) - Transport informel,3.8,509
+73,Mode de transport (%) - Animaux,0.0,510
+73,Mode de transport (%) - Autre,0.3,511
+73,Mode de transport (%) - Ne se déplace pas,11.0,512
+74,Population sédentaire active occupée (15+),3884.0,500
+74,Mode de transport (%) - À pieds,33.5,501
+74,Mode de transport (%) - Motocycle/ Bicyclette,5.5,502
+74,Mode de transport (%) - Voiture privée,10.2,503
+74,Mode de transport (%) - Bus,12.8,504
+74,Mode de transport (%) - Taxi,7.4,505
+74,Mode de transport (%) - Transport de l'employeur / Etablissement,23.4,506
+74,Mode de transport (%) - Train,0.0,507
+74,Mode de transport (%) - Tram,0.0,508
+74,Mode de transport (%) - Transport informel,1.2,509
+74,Mode de transport (%) - Animaux,0.0,510
+74,Mode de transport (%) - Autre,1.4,511
+74,Mode de transport (%) - Ne se déplace pas,4.7,512
+75,Population sédentaire active occupée (15+),4121.0,500
+75,Mode de transport (%) - À pieds,42.2,501
+75,Mode de transport (%) - Motocycle/ Bicyclette,2.6,502
+75,Mode de transport (%) - Voiture privée,10.1,503
+75,Mode de transport (%) - Bus,8.0,504
+75,Mode de transport (%) - Taxi,10.2,505
+75,Mode de transport (%) - Transport de l'employeur / Etablissement,18.9,506
+75,Mode de transport (%) - Train,0.0,507
+75,Mode de transport (%) - Tram,0.0,508
+75,Mode de transport (%) - Transport informel,3.7,509
+75,Mode de transport (%) - Animaux,0.2,510
+75,Mode de transport (%) - Autre,0.6,511
+75,Mode de transport (%) - Ne se déplace pas,3.4,512
+76,Population sédentaire active occupée (15+),3031.0,500
+76,Mode de transport (%) - À pieds,34.3,501
+76,Mode de transport (%) - Motocycle/ Bicyclette,5.4,502
+76,Mode de transport (%) - Voiture privée,6.7,503
+76,Mode de transport (%) - Bus,5.1,504
+76,Mode de transport (%) - Taxi,8.9,505
+76,Mode de transport (%) - Transport de l'employeur / Etablissement,14.2,506
+76,Mode de transport (%) - Train,0.1,507
+76,Mode de transport (%) - Tram,0.0,508
+76,Mode de transport (%) - Transport informel,0.4,509
+76,Mode de transport (%) - Animaux,0.2,510
+76,Mode de transport (%) - Autre,0.4,511
+76,Mode de transport (%) - Ne se déplace pas,24.3,512
+77,Population sédentaire active occupée (15+),4432.0,500
+77,Mode de transport (%) - À pieds,14.1,501
+77,Mode de transport (%) - Motocycle/ Bicyclette,3.9,502
+77,Mode de transport (%) - Voiture privée,8.1,503
+77,Mode de transport (%) - Bus,5.4,504
+77,Mode de transport (%) - Taxi,4.0,505
+77,Mode de transport (%) - Transport de l'employeur / Etablissement,5.7,506
+77,Mode de transport (%) - Train,0.0,507
+77,Mode de transport (%) - Tram,0.0,508
+77,Mode de transport (%) - Transport informel,28.2,509
+77,Mode de transport (%) - Animaux,0.1,510
+77,Mode de transport (%) - Autre,0.3,511
+77,Mode de transport (%) - Ne se déplace pas,30.1,512
+78,Population sédentaire active occupée (15+),2718.0,500
+78,Mode de transport (%) - À pieds,36.9,501
+78,Mode de transport (%) - Motocycle/ Bicyclette,12.3,502
+78,Mode de transport (%) - Voiture privée,5.1,503
+78,Mode de transport (%) - Bus,0.6,504
+78,Mode de transport (%) - Taxi,8.4,505
+78,Mode de transport (%) - Transport de l'employeur / Etablissement,4.4,506
+78,Mode de transport (%) - Train,0.0,507
+78,Mode de transport (%) - Tram,0.0,508
+78,Mode de transport (%) - Transport informel,13.2,509
+78,Mode de transport (%) - Animaux,0.0,510
+78,Mode de transport (%) - Autre,0.2,511
+78,Mode de transport (%) - Ne se déplace pas,18.9,512
+79,Population sédentaire active occupée (15+),3431.0,500
+79,Mode de transport (%) - À pieds,38.7,501
+79,Mode de transport (%) - Motocycle/ Bicyclette,9.0,502
+79,Mode de transport (%) - Voiture privée,9.3,503
+79,Mode de transport (%) - Bus,2.1,504
+79,Mode de transport (%) - Taxi,7.7,505
+79,Mode de transport (%) - Transport de l'employeur / Etablissement,16.0,506
+79,Mode de transport (%) - Train,0.0,507
+79,Mode de transport (%) - Tram,0.0,508
+79,Mode de transport (%) - Transport informel,11.2,509
+79,Mode de transport (%) - Animaux,0.0,510
+79,Mode de transport (%) - Autre,0.3,511
+79,Mode de transport (%) - Ne se déplace pas,5.8,512
+80,Population sédentaire active occupée (15+),27970.0,500
+80,Mode de transport (%) - À pieds,52.5,501
+80,Mode de transport (%) - Motocycle/ Bicyclette,14.9,502
+80,Mode de transport (%) - Voiture privée,9.5,503
+80,Mode de transport (%) - Bus,2.4,504
+80,Mode de transport (%) - Taxi,7.1,505
+80,Mode de transport (%) - Transport de l'employeur / Etablissement,6.7,506
+80,Mode de transport (%) - Train,0.7,507
+80,Mode de transport (%) - Tram,0.0,508
+80,Mode de transport (%) - Transport informel,1.0,509
+80,Mode de transport (%) - Animaux,0.1,510
+80,Mode de transport (%) - Autre,0.5,511
+80,Mode de transport (%) - Ne se déplace pas,4.6,512
+81,Population sédentaire active occupée (15+),36674.0,500
+81,Mode de transport (%) - À pieds,45.3,501
+81,Mode de transport (%) - Motocycle/ Bicyclette,5.7,502
+81,Mode de transport (%) - Voiture privée,11.9,503
+81,Mode de transport (%) - Bus,3.0,504
+81,Mode de transport (%) - Taxi,10.3,505
+81,Mode de transport (%) - Transport de l'employeur / Etablissement,17.3,506
+81,Mode de transport (%) - Train,0.0,507
+81,Mode de transport (%) - Tram,0.0,508
+81,Mode de transport (%) - Transport informel,0.3,509
+81,Mode de transport (%) - Animaux,0.1,510
+81,Mode de transport (%) - Autre,0.7,511
+81,Mode de transport (%) - Ne se déplace pas,5.3,512
+82,Population sédentaire active occupée (15+),12473.0,500
+82,Mode de transport (%) - À pieds,58.2,501
+82,Mode de transport (%) - Motocycle/ Bicyclette,7.1,502
+82,Mode de transport (%) - Voiture privée,6.2,503
+82,Mode de transport (%) - Bus,1.1,504
+82,Mode de transport (%) - Taxi,2.3,505
+82,Mode de transport (%) - Transport de l'employeur / Etablissement,12.1,506
+82,Mode de transport (%) - Train,0.0,507
+82,Mode de transport (%) - Tram,0.0,508
+82,Mode de transport (%) - Transport informel,5.4,509
+82,Mode de transport (%) - Animaux,2.0,510
+82,Mode de transport (%) - Autre,0.3,511
+82,Mode de transport (%) - Ne se déplace pas,5.3,512
+83,Population sédentaire active occupée (15+),6278.0,500
+83,Mode de transport (%) - À pieds,39.2,501
+83,Mode de transport (%) - Motocycle/ Bicyclette,9.6,502
+83,Mode de transport (%) - Voiture privée,3.3,503
+83,Mode de transport (%) - Bus,0.3,504
+83,Mode de transport (%) - Taxi,5.5,505
+83,Mode de transport (%) - Transport de l'employeur / Etablissement,27.1,506
+83,Mode de transport (%) - Train,0.2,507
+83,Mode de transport (%) - Tram,0.0,508
+83,Mode de transport (%) - Transport informel,2.4,509
+83,Mode de transport (%) - Animaux,0.8,510
+83,Mode de transport (%) - Autre,1.1,511
+83,Mode de transport (%) - Ne se déplace pas,10.4,512
+84,Population sédentaire active occupée (15+),4151.0,500
+84,Mode de transport (%) - À pieds,34.8,501
+84,Mode de transport (%) - Motocycle/ Bicyclette,25.2,502
+84,Mode de transport (%) - Voiture privée,3.9,503
+84,Mode de transport (%) - Bus,1.1,504
+84,Mode de transport (%) - Taxi,10.2,505
+84,Mode de transport (%) - Transport de l'employeur / Etablissement,9.6,506
+84,Mode de transport (%) - Train,0.3,507
+84,Mode de transport (%) - Tram,0.0,508
+84,Mode de transport (%) - Transport informel,1.1,509
+84,Mode de transport (%) - Animaux,6.9,510
+84,Mode de transport (%) - Autre,0.7,511
+84,Mode de transport (%) - Ne se déplace pas,6.1,512
+85,Population sédentaire active occupée (15+),1733.0,500
+85,Mode de transport (%) - À pieds,75.7,501
+85,Mode de transport (%) - Motocycle/ Bicyclette,0.8,502
+85,Mode de transport (%) - Voiture privée,2.2,503
+85,Mode de transport (%) - Bus,0.4,504
+85,Mode de transport (%) - Taxi,2.5,505
+85,Mode de transport (%) - Transport de l'employeur / Etablissement,3.5,506
+85,Mode de transport (%) - Train,0.0,507
+85,Mode de transport (%) - Tram,0.0,508
+85,Mode de transport (%) - Transport informel,0.3,509
+85,Mode de transport (%) - Animaux,8.2,510
+85,Mode de transport (%) - Autre,0.3,511
+85,Mode de transport (%) - Ne se déplace pas,6.1,512
+86,Population sédentaire active occupée (15+),1827.0,500
+86,Mode de transport (%) - À pieds,64.4,501
+86,Mode de transport (%) - Motocycle/ Bicyclette,2.4,502
+86,Mode de transport (%) - Voiture privée,0.6,503
+86,Mode de transport (%) - Bus,0.0,504
+86,Mode de transport (%) - Taxi,1.6,505
+86,Mode de transport (%) - Transport de l'employeur / Etablissement,4.0,506
+86,Mode de transport (%) - Train,0.0,507
+86,Mode de transport (%) - Tram,0.0,508
+86,Mode de transport (%) - Transport informel,4.8,509
+86,Mode de transport (%) - Animaux,21.3,510
+86,Mode de transport (%) - Autre,0.2,511
+86,Mode de transport (%) - Ne se déplace pas,0.8,512
+87,Population sédentaire active occupée (15+),3681.0,500
+87,Mode de transport (%) - À pieds,78.2,501
+87,Mode de transport (%) - Motocycle/ Bicyclette,1.0,502
+87,Mode de transport (%) - Voiture privée,1.8,503
+87,Mode de transport (%) - Bus,0.9,504
+87,Mode de transport (%) - Taxi,0.4,505
+87,Mode de transport (%) - Transport de l'employeur / Etablissement,1.3,506
+87,Mode de transport (%) - Train,0.0,507
+87,Mode de transport (%) - Tram,0.0,508
+87,Mode de transport (%) - Transport informel,0.8,509
+87,Mode de transport (%) - Animaux,13.7,510
+87,Mode de transport (%) - Autre,0.6,511
+87,Mode de transport (%) - Ne se déplace pas,1.2,512
+88,Population sédentaire active occupée (15+),1586.0,500
+88,Mode de transport (%) - À pieds,81.6,501
+88,Mode de transport (%) - Motocycle/ Bicyclette,2.0,502
+88,Mode de transport (%) - Voiture privée,5.0,503
+88,Mode de transport (%) - Bus,1.0,504
+88,Mode de transport (%) - Taxi,1.6,505
+88,Mode de transport (%) - Transport de l'employeur / Etablissement,2.1,506
+88,Mode de transport (%) - Train,0.0,507
+88,Mode de transport (%) - Tram,0.0,508
+88,Mode de transport (%) - Transport informel,3.1,509
+88,Mode de transport (%) - Animaux,0.3,510
+88,Mode de transport (%) - Autre,0.1,511
+88,Mode de transport (%) - Ne se déplace pas,3.3,512
+89,Population sédentaire active occupée (15+),794.0,500
+89,Mode de transport (%) - À pieds,74.1,501
+89,Mode de transport (%) - Motocycle/ Bicyclette,1.3,502
+89,Mode de transport (%) - Voiture privée,2.3,503
+89,Mode de transport (%) - Bus,1.8,504
+89,Mode de transport (%) - Taxi,1.6,505
+89,Mode de transport (%) - Transport de l'employeur / Etablissement,1.9,506
+89,Mode de transport (%) - Train,0.0,507
+89,Mode de transport (%) - Tram,0.0,508
+89,Mode de transport (%) - Transport informel,4.4,509
+89,Mode de transport (%) - Animaux,5.2,510
+89,Mode de transport (%) - Autre,0.9,511
+89,Mode de transport (%) - Ne se déplace pas,6.7,512
+90,Population sédentaire active occupée (15+),1762.0,500
+90,Mode de transport (%) - À pieds,57.5,501
+90,Mode de transport (%) - Motocycle/ Bicyclette,1.4,502
+90,Mode de transport (%) - Voiture privée,1.8,503
+90,Mode de transport (%) - Bus,2.9,504
+90,Mode de transport (%) - Taxi,1.6,505
+90,Mode de transport (%) - Transport de l'employeur / Etablissement,2.9,506
+90,Mode de transport (%) - Train,0.0,507
+90,Mode de transport (%) - Tram,0.0,508
+90,Mode de transport (%) - Transport informel,1.3,509
+90,Mode de transport (%) - Animaux,2.6,510
+90,Mode de transport (%) - Autre,0.9,511
+90,Mode de transport (%) - Ne se déplace pas,27.2,512
+91,Population sédentaire active occupée (15+),1987.0,500
+91,Mode de transport (%) - À pieds,69.7,501
+91,Mode de transport (%) - Motocycle/ Bicyclette,1.8,502
+91,Mode de transport (%) - Voiture privée,3.5,503
+91,Mode de transport (%) - Bus,1.0,504
+91,Mode de transport (%) - Taxi,3.3,505
+91,Mode de transport (%) - Transport de l'employeur / Etablissement,2.0,506
+91,Mode de transport (%) - Train,0.0,507
+91,Mode de transport (%) - Tram,0.0,508
+91,Mode de transport (%) - Transport informel,2.6,509
+91,Mode de transport (%) - Animaux,10.6,510
+91,Mode de transport (%) - Autre,0.2,511
+91,Mode de transport (%) - Ne se déplace pas,5.4,512
+92,Population sédentaire active occupée (15+),850.0,500
+92,Mode de transport (%) - À pieds,72.4,501
+92,Mode de transport (%) - Motocycle/ Bicyclette,0.8,502
+92,Mode de transport (%) - Voiture privée,1.5,503
+92,Mode de transport (%) - Bus,0.4,504
+92,Mode de transport (%) - Taxi,2.4,505
+92,Mode de transport (%) - Transport de l'employeur / Etablissement,1.6,506
+92,Mode de transport (%) - Train,0.0,507
+92,Mode de transport (%) - Tram,0.0,508
+92,Mode de transport (%) - Transport informel,0.9,509
+92,Mode de transport (%) - Animaux,17.2,510
+92,Mode de transport (%) - Autre,0.6,511
+92,Mode de transport (%) - Ne se déplace pas,2.2,512
+93,Population sédentaire active occupée (15+),4255.0,500
+93,Mode de transport (%) - À pieds,36.3,501
+93,Mode de transport (%) - Motocycle/ Bicyclette,5.6,502
+93,Mode de transport (%) - Voiture privée,4.7,503
+93,Mode de transport (%) - Bus,6.1,504
+93,Mode de transport (%) - Taxi,17.3,505
+93,Mode de transport (%) - Transport de l'employeur / Etablissement,20.0,506
+93,Mode de transport (%) - Train,0.0,507
+93,Mode de transport (%) - Tram,0.0,508
+93,Mode de transport (%) - Transport informel,1.9,509
+93,Mode de transport (%) - Animaux,0.8,510
+93,Mode de transport (%) - Autre,1.1,511
+93,Mode de transport (%) - Ne se déplace pas,6.2,512
+94,Population sédentaire active occupée (15+),3169.0,500
+94,Mode de transport (%) - À pieds,44.2,501
+94,Mode de transport (%) - Motocycle/ Bicyclette,1.0,502
+94,Mode de transport (%) - Voiture privée,6.9,503
+94,Mode de transport (%) - Bus,0.7,504
+94,Mode de transport (%) - Taxi,5.2,505
+94,Mode de transport (%) - Transport de l'employeur / Etablissement,5.8,506
+94,Mode de transport (%) - Train,0.3,507
+94,Mode de transport (%) - Tram,0.0,508
+94,Mode de transport (%) - Transport informel,14.3,509
+94,Mode de transport (%) - Animaux,5.2,510
+94,Mode de transport (%) - Autre,8.2,511
+94,Mode de transport (%) - Ne se déplace pas,8.3,512
+95,Population sédentaire active occupée (15+),4127.0,500
+95,Mode de transport (%) - À pieds,50.8,501
+95,Mode de transport (%) - Motocycle/ Bicyclette,4.3,502
+95,Mode de transport (%) - Voiture privée,1.5,503
+95,Mode de transport (%) - Bus,3.9,504
+95,Mode de transport (%) - Taxi,8.2,505
+95,Mode de transport (%) - Transport de l'employeur / Etablissement,14.6,506
+95,Mode de transport (%) - Train,0.1,507
+95,Mode de transport (%) - Tram,0.0,508
+95,Mode de transport (%) - Transport informel,4.2,509
+95,Mode de transport (%) - Animaux,2.3,510
+95,Mode de transport (%) - Autre,0.4,511
+95,Mode de transport (%) - Ne se déplace pas,9.6,512
+96,Population sédentaire active occupée (15+),3106.0,500
+96,Mode de transport (%) - À pieds,52.5,501
+96,Mode de transport (%) - Motocycle/ Bicyclette,9.4,502
+96,Mode de transport (%) - Voiture privée,0.7,503
+96,Mode de transport (%) - Bus,1.9,504
+96,Mode de transport (%) - Taxi,12.4,505
+96,Mode de transport (%) - Transport de l'employeur / Etablissement,10.5,506
+96,Mode de transport (%) - Train,0.0,507
+96,Mode de transport (%) - Tram,0.0,508
+96,Mode de transport (%) - Transport informel,4.2,509
+96,Mode de transport (%) - Animaux,3.8,510
+96,Mode de transport (%) - Autre,0.6,511
+96,Mode de transport (%) - Ne se déplace pas,3.8,512
+97,Population sédentaire active occupée (15+),3013.0,500
+97,Mode de transport (%) - À pieds,40.1,501
+97,Mode de transport (%) - Motocycle/ Bicyclette,2.5,502
+97,Mode de transport (%) - Voiture privée,3.8,503
+97,Mode de transport (%) - Bus,1.5,504
+97,Mode de transport (%) - Taxi,6.4,505
+97,Mode de transport (%) - Transport de l'employeur / Etablissement,13.2,506
+97,Mode de transport (%) - Train,0.4,507
+97,Mode de transport (%) - Tram,0.0,508
+97,Mode de transport (%) - Transport informel,10.2,509
+97,Mode de transport (%) - Animaux,7.8,510
+97,Mode de transport (%) - Autre,0.3,511
+97,Mode de transport (%) - Ne se déplace pas,13.7,512
+98,Population sédentaire active occupée (15+),3154.0,500
+98,Mode de transport (%) - À pieds,63.6,501
+98,Mode de transport (%) - Motocycle/ Bicyclette,3.3,502
+98,Mode de transport (%) - Voiture privée,3.3,503
+98,Mode de transport (%) - Bus,2.6,504
+98,Mode de transport (%) - Taxi,6.4,505
+98,Mode de transport (%) - Transport de l'employeur / Etablissement,6.0,506
+98,Mode de transport (%) - Train,0.1,507
+98,Mode de transport (%) - Tram,0.0,508
+98,Mode de transport (%) - Transport informel,8.4,509
+98,Mode de transport (%) - Animaux,2.3,510
+98,Mode de transport (%) - Autre,0.4,511
+98,Mode de transport (%) - Ne se déplace pas,3.5,512
+99,Population sédentaire active occupée (15+),13647.0,500
+99,Mode de transport (%) - À pieds,47.2,501
+99,Mode de transport (%) - Motocycle/ Bicyclette,2.9,502
+99,Mode de transport (%) - Voiture privée,22.9,503
+99,Mode de transport (%) - Bus,0.7,504
+99,Mode de transport (%) - Taxi,15.9,505
+99,Mode de transport (%) - Transport de l'employeur / Etablissement,4.2,506
+99,Mode de transport (%) - Train,0.0,507
+99,Mode de transport (%) - Tram,0.0,508
+99,Mode de transport (%) - Transport informel,0.2,509
+99,Mode de transport (%) - Animaux,0.0,510
+99,Mode de transport (%) - Autre,0.5,511
+99,Mode de transport (%) - Ne se déplace pas,5.3,512
+100,Population sédentaire active occupée (15+),3978.0,500
+100,Mode de transport (%) - À pieds,55.4,501
+100,Mode de transport (%) - Motocycle/ Bicyclette,9.0,502
+100,Mode de transport (%) - Voiture privée,20.1,503
+100,Mode de transport (%) - Bus,0.1,504
+100,Mode de transport (%) - Taxi,6.6,505
+100,Mode de transport (%) - Transport de l'employeur / Etablissement,2.5,506
+100,Mode de transport (%) - Train,0.0,507
+100,Mode de transport (%) - Tram,0.0,508
+100,Mode de transport (%) - Transport informel,0.8,509
+100,Mode de transport (%) - Animaux,0.2,510
+100,Mode de transport (%) - Autre,1.5,511
+100,Mode de transport (%) - Ne se déplace pas,3.8,512
+101,Population sédentaire active occupée (15+),7398.0,500
+101,Mode de transport (%) - À pieds,48.3,501
+101,Mode de transport (%) - Motocycle/ Bicyclette,10.4,502
+101,Mode de transport (%) - Voiture privée,22.1,503
+101,Mode de transport (%) - Bus,0.7,504
+101,Mode de transport (%) - Taxi,8.9,505
+101,Mode de transport (%) - Transport de l'employeur / Etablissement,3.1,506
+101,Mode de transport (%) - Train,0.1,507
+101,Mode de transport (%) - Tram,0.0,508
+101,Mode de transport (%) - Transport informel,1.1,509
+101,Mode de transport (%) - Animaux,0.0,510
+101,Mode de transport (%) - Autre,0.3,511
+101,Mode de transport (%) - Ne se déplace pas,5.0,512
+102,Population sédentaire active occupée (15+),3410.0,500
+102,Mode de transport (%) - À pieds,60.1,501
+102,Mode de transport (%) - Motocycle/ Bicyclette,1.1,502
+102,Mode de transport (%) - Voiture privée,14.0,503
+102,Mode de transport (%) - Bus,1.9,504
+102,Mode de transport (%) - Taxi,2.4,505
+102,Mode de transport (%) - Transport de l'employeur / Etablissement,1.7,506
+102,Mode de transport (%) - Train,0.0,507
+102,Mode de transport (%) - Tram,0.0,508
+102,Mode de transport (%) - Transport informel,11.0,509
+102,Mode de transport (%) - Animaux,0.0,510
+102,Mode de transport (%) - Autre,0.5,511
+102,Mode de transport (%) - Ne se déplace pas,7.3,512
+103,Population sédentaire active occupée (15+),1382.0,500
+103,Mode de transport (%) - À pieds,23.4,501
+103,Mode de transport (%) - Motocycle/ Bicyclette,6.3,502
+103,Mode de transport (%) - Voiture privée,27.4,503
+103,Mode de transport (%) - Bus,2.2,504
+103,Mode de transport (%) - Taxi,23.2,505
+103,Mode de transport (%) - Transport de l'employeur / Etablissement,6.9,506
+103,Mode de transport (%) - Train,0.1,507
+103,Mode de transport (%) - Tram,0.0,508
+103,Mode de transport (%) - Transport informel,0.4,509
+103,Mode de transport (%) - Animaux,0.0,510
+103,Mode de transport (%) - Autre,1.6,511
+103,Mode de transport (%) - Ne se déplace pas,8.5,512
+104,Population sédentaire active occupée (15+),1282.0,500
+104,Mode de transport (%) - À pieds,45.6,501
+104,Mode de transport (%) - Motocycle/ Bicyclette,6.9,502
+104,Mode de transport (%) - Voiture privée,7.6,503
+104,Mode de transport (%) - Bus,6.3,504
+104,Mode de transport (%) - Taxi,7.3,505
+104,Mode de transport (%) - Transport de l'employeur / Etablissement,5.9,506
+104,Mode de transport (%) - Train,0.0,507
+104,Mode de transport (%) - Tram,0.0,508
+104,Mode de transport (%) - Transport informel,8.3,509
+104,Mode de transport (%) - Animaux,2.0,510
+104,Mode de transport (%) - Autre,0.3,511
+104,Mode de transport (%) - Ne se déplace pas,9.8,512
+105,Population sédentaire active occupée (15+),1519.0,500
+105,Mode de transport (%) - À pieds,74.4,501
+105,Mode de transport (%) - Motocycle/ Bicyclette,1.8,502
+105,Mode de transport (%) - Voiture privée,2.8,503
+105,Mode de transport (%) - Bus,0.0,504
+105,Mode de transport (%) - Taxi,2.8,505
+105,Mode de transport (%) - Transport de l'employeur / Etablissement,1.7,506
+105,Mode de transport (%) - Train,0.0,507
+105,Mode de transport (%) - Tram,0.0,508
+105,Mode de transport (%) - Transport informel,2.6,509
+105,Mode de transport (%) - Animaux,5.1,510
+105,Mode de transport (%) - Autre,0.3,511
+105,Mode de transport (%) - Ne se déplace pas,8.4,512
+106,Population sédentaire active occupée (15+),1469.0,500
+106,Mode de transport (%) - À pieds,58.0,501
+106,Mode de transport (%) - Motocycle/ Bicyclette,0.3,502
+106,Mode de transport (%) - Voiture privée,1.8,503
+106,Mode de transport (%) - Bus,0.3,504
+106,Mode de transport (%) - Taxi,0.3,505
+106,Mode de transport (%) - Transport de l'employeur / Etablissement,1.3,506
+106,Mode de transport (%) - Train,0.0,507
+106,Mode de transport (%) - Tram,0.0,508
+106,Mode de transport (%) - Transport informel,15.4,509
+106,Mode de transport (%) - Animaux,2.3,510
+106,Mode de transport (%) - Autre,0.5,511
+106,Mode de transport (%) - Ne se déplace pas,19.7,512
+107,Population sédentaire active occupée (15+),1530.0,500
+107,Mode de transport (%) - À pieds,61.5,501
+107,Mode de transport (%) - Motocycle/ Bicyclette,0.9,502
+107,Mode de transport (%) - Voiture privée,2.9,503
+107,Mode de transport (%) - Bus,0.7,504
+107,Mode de transport (%) - Taxi,0.8,505
+107,Mode de transport (%) - Transport de l'employeur / Etablissement,0.3,506
+107,Mode de transport (%) - Train,0.0,507
+107,Mode de transport (%) - Tram,0.0,508
+107,Mode de transport (%) - Transport informel,3.7,509
+107,Mode de transport (%) - Animaux,7.5,510
+107,Mode de transport (%) - Autre,0.8,511
+107,Mode de transport (%) - Ne se déplace pas,21.0,512
+108,Population sédentaire active occupée (15+),503.0,500
+108,Mode de transport (%) - À pieds,54.1,501
+108,Mode de transport (%) - Motocycle/ Bicyclette,0.6,502
+108,Mode de transport (%) - Voiture privée,3.2,503
+108,Mode de transport (%) - Bus,0.2,504
+108,Mode de transport (%) - Taxi,1.0,505
+108,Mode de transport (%) - Transport de l'employeur / Etablissement,0.4,506
+108,Mode de transport (%) - Train,0.0,507
+108,Mode de transport (%) - Tram,0.0,508
+108,Mode de transport (%) - Transport informel,5.6,509
+108,Mode de transport (%) - Animaux,34.2,510
+108,Mode de transport (%) - Autre,0.2,511
+108,Mode de transport (%) - Ne se déplace pas,0.6,512
+109,Population sédentaire active occupée (15+),721.0,500
+109,Mode de transport (%) - À pieds,66.9,501
+109,Mode de transport (%) - Motocycle/ Bicyclette,2.5,502
+109,Mode de transport (%) - Voiture privée,4.4,503
+109,Mode de transport (%) - Bus,0.3,504
+109,Mode de transport (%) - Taxi,4.7,505
+109,Mode de transport (%) - Transport de l'employeur / Etablissement,3.7,506
+109,Mode de transport (%) - Train,0.0,507
+109,Mode de transport (%) - Tram,0.0,508
+109,Mode de transport (%) - Transport informel,1.5,509
+109,Mode de transport (%) - Animaux,9.4,510
+109,Mode de transport (%) - Autre,0.0,511
+109,Mode de transport (%) - Ne se déplace pas,6.5,512
+110,Population sédentaire active occupée (15+),185.0,500
+110,Mode de transport (%) - À pieds,16.8,501
+110,Mode de transport (%) - Motocycle/ Bicyclette,9.7,502
+110,Mode de transport (%) - Voiture privée,3.2,503
+110,Mode de transport (%) - Bus,0.0,504
+110,Mode de transport (%) - Taxi,8.1,505
+110,Mode de transport (%) - Transport de l'employeur / Etablissement,0.5,506
+110,Mode de transport (%) - Train,0.0,507
+110,Mode de transport (%) - Tram,0.0,508
+110,Mode de transport (%) - Transport informel,37.3,509
+110,Mode de transport (%) - Animaux,2.7,510
+110,Mode de transport (%) - Autre,0.0,511
+110,Mode de transport (%) - Ne se déplace pas,21.6,512
+111,Population sédentaire active occupée (15+),1098.0,500
+111,Mode de transport (%) - À pieds,53.6,501
+111,Mode de transport (%) - Motocycle/ Bicyclette,2.7,502
+111,Mode de transport (%) - Voiture privée,8.3,503
+111,Mode de transport (%) - Bus,1.0,504
+111,Mode de transport (%) - Taxi,22.5,505
+111,Mode de transport (%) - Transport de l'employeur / Etablissement,1.9,506
+111,Mode de transport (%) - Train,0.0,507
+111,Mode de transport (%) - Tram,0.0,508
+111,Mode de transport (%) - Transport informel,4.0,509
+111,Mode de transport (%) - Animaux,0.5,510
+111,Mode de transport (%) - Autre,0.9,511
+111,Mode de transport (%) - Ne se déplace pas,4.6,512
+112,Population sédentaire active occupée (15+),2844.0,500
+112,Mode de transport (%) - À pieds,41.8,501
+112,Mode de transport (%) - Motocycle/ Bicyclette,17.5,502
+112,Mode de transport (%) - Voiture privée,13.3,503
+112,Mode de transport (%) - Bus,1.9,504
+112,Mode de transport (%) - Taxi,11.6,505
+112,Mode de transport (%) - Transport de l'employeur / Etablissement,4.7,506
+112,Mode de transport (%) - Train,0.1,507
+112,Mode de transport (%) - Tram,0.0,508
+112,Mode de transport (%) - Transport informel,2.6,509
+112,Mode de transport (%) - Animaux,0.2,510
+112,Mode de transport (%) - Autre,0.3,511
+112,Mode de transport (%) - Ne se déplace pas,6.0,512
+113,Population sédentaire active occupée (15+),663.0,500
+113,Mode de transport (%) - À pieds,14.5,501
+113,Mode de transport (%) - Motocycle/ Bicyclette,7.5,502
+113,Mode de transport (%) - Voiture privée,16.9,503
+113,Mode de transport (%) - Bus,0.0,504
+113,Mode de transport (%) - Taxi,53.2,505
+113,Mode de transport (%) - Transport de l'employeur / Etablissement,2.3,506
+113,Mode de transport (%) - Train,0.0,507
+113,Mode de transport (%) - Tram,0.0,508
+113,Mode de transport (%) - Transport informel,0.6,509
+113,Mode de transport (%) - Animaux,0.2,510
+113,Mode de transport (%) - Autre,0.0,511
+113,Mode de transport (%) - Ne se déplace pas,4.8,512
+114,Population sédentaire active occupée (15+),782.0,500
+114,Mode de transport (%) - À pieds,35.4,501
+114,Mode de transport (%) - Motocycle/ Bicyclette,7.0,502
+114,Mode de transport (%) - Voiture privée,8.8,503
+114,Mode de transport (%) - Bus,1.5,504
+114,Mode de transport (%) - Taxi,24.4,505
+114,Mode de transport (%) - Transport de l'employeur / Etablissement,4.3,506
+114,Mode de transport (%) - Train,0.0,507
+114,Mode de transport (%) - Tram,0.0,508
+114,Mode de transport (%) - Transport informel,4.9,509
+114,Mode de transport (%) - Animaux,0.5,510
+114,Mode de transport (%) - Autre,3.7,511
+114,Mode de transport (%) - Ne se déplace pas,9.3,512
+115,Population sédentaire active occupée (15+),736.0,500
+115,Mode de transport (%) - À pieds,32.7,501
+115,Mode de transport (%) - Motocycle/ Bicyclette,2.7,502
+115,Mode de transport (%) - Voiture privée,4.2,503
+115,Mode de transport (%) - Bus,4.2,504
+115,Mode de transport (%) - Taxi,0.8,505
+115,Mode de transport (%) - Transport de l'employeur / Etablissement,1.4,506
+115,Mode de transport (%) - Train,0.0,507
+115,Mode de transport (%) - Tram,0.0,508
+115,Mode de transport (%) - Transport informel,7.3,509
+115,Mode de transport (%) - Animaux,35.9,510
+115,Mode de transport (%) - Autre,0.1,511
+115,Mode de transport (%) - Ne se déplace pas,10.6,512
+116,Population sédentaire active occupée (15+),898.0,500
+116,Mode de transport (%) - À pieds,70.6,501
+116,Mode de transport (%) - Motocycle/ Bicyclette,2.2,502
+116,Mode de transport (%) - Voiture privée,6.2,503
+116,Mode de transport (%) - Bus,2.0,504
+116,Mode de transport (%) - Taxi,3.8,505
+116,Mode de transport (%) - Transport de l'employeur / Etablissement,1.1,506
+116,Mode de transport (%) - Train,0.0,507
+116,Mode de transport (%) - Tram,0.0,508
+116,Mode de transport (%) - Transport informel,6.2,509
+116,Mode de transport (%) - Animaux,0.2,510
+116,Mode de transport (%) - Autre,0.3,511
+116,Mode de transport (%) - Ne se déplace pas,7.2,512
+117,Population sédentaire active occupée (15+),471.0,500
+117,Mode de transport (%) - À pieds,45.2,501
+117,Mode de transport (%) - Motocycle/ Bicyclette,3.4,502
+117,Mode de transport (%) - Voiture privée,7.6,503
+117,Mode de transport (%) - Bus,1.3,504
+117,Mode de transport (%) - Taxi,27.4,505
+117,Mode de transport (%) - Transport de l'employeur / Etablissement,3.8,506
+117,Mode de transport (%) - Train,0.0,507
+117,Mode de transport (%) - Tram,0.0,508
+117,Mode de transport (%) - Transport informel,2.3,509
+117,Mode de transport (%) - Animaux,0.4,510
+117,Mode de transport (%) - Autre,0.0,511
+117,Mode de transport (%) - Ne se déplace pas,8.5,512
+118,Population sédentaire active occupée (15+),1269.0,500
+118,Mode de transport (%) - À pieds,27.9,501
+118,Mode de transport (%) - Motocycle/ Bicyclette,7.2,502
+118,Mode de transport (%) - Voiture privée,16.5,503
+118,Mode de transport (%) - Bus,0.5,504
+118,Mode de transport (%) - Taxi,32.9,505
+118,Mode de transport (%) - Transport de l'employeur / Etablissement,3.7,506
+118,Mode de transport (%) - Train,0.0,507
+118,Mode de transport (%) - Tram,0.0,508
+118,Mode de transport (%) - Transport informel,1.4,509
+118,Mode de transport (%) - Animaux,0.0,510
+118,Mode de transport (%) - Autre,0.1,511
+118,Mode de transport (%) - Ne se déplace pas,9.7,512
+119,Population sédentaire active occupée (15+),1201.0,500
+119,Mode de transport (%) - À pieds,36.0,501
+119,Mode de transport (%) - Motocycle/ Bicyclette,5.1,502
+119,Mode de transport (%) - Voiture privée,9.2,503
+119,Mode de transport (%) - Bus,0.3,504
+119,Mode de transport (%) - Taxi,12.9,505
+119,Mode de transport (%) - Transport de l'employeur / Etablissement,3.2,506
+119,Mode de transport (%) - Train,0.0,507
+119,Mode de transport (%) - Tram,0.0,508
+119,Mode de transport (%) - Transport informel,10.3,509
+119,Mode de transport (%) - Animaux,0.2,510
+119,Mode de transport (%) - Autre,1.4,511
+119,Mode de transport (%) - Ne se déplace pas,21.4,512
+120,Population sédentaire active occupée (15+),1049.0,500
+120,Mode de transport (%) - À pieds,43.4,501
+120,Mode de transport (%) - Motocycle/ Bicyclette,4.7,502
+120,Mode de transport (%) - Voiture privée,8.2,503
+120,Mode de transport (%) - Bus,0.9,504
+120,Mode de transport (%) - Taxi,21.0,505
+120,Mode de transport (%) - Transport de l'employeur / Etablissement,4.4,506
+120,Mode de transport (%) - Train,0.1,507
+120,Mode de transport (%) - Tram,0.0,508
+120,Mode de transport (%) - Transport informel,2.3,509
+120,Mode de transport (%) - Animaux,0.2,510
+120,Mode de transport (%) - Autre,1.0,511
+120,Mode de transport (%) - Ne se déplace pas,13.9,512
+121,Population sédentaire active occupée (15+),904.0,500
+121,Mode de transport (%) - À pieds,67.1,501
+121,Mode de transport (%) - Motocycle/ Bicyclette,0.7,502
+121,Mode de transport (%) - Voiture privée,1.9,503
+121,Mode de transport (%) - Bus,0.1,504
+121,Mode de transport (%) - Taxi,0.1,505
+121,Mode de transport (%) - Transport de l'employeur / Etablissement,1.3,506
+121,Mode de transport (%) - Train,0.0,507
+121,Mode de transport (%) - Tram,0.0,508
+121,Mode de transport (%) - Transport informel,0.7,509
+121,Mode de transport (%) - Animaux,8.7,510
+121,Mode de transport (%) - Autre,0.0,511
+121,Mode de transport (%) - Ne se déplace pas,19.4,512
+122,Population sédentaire active occupée (15+),1208.0,500
+122,Mode de transport (%) - À pieds,62.0,501
+122,Mode de transport (%) - Motocycle/ Bicyclette,1.8,502
+122,Mode de transport (%) - Voiture privée,4.1,503
+122,Mode de transport (%) - Bus,0.8,504
+122,Mode de transport (%) - Taxi,0.9,505
+122,Mode de transport (%) - Transport de l'employeur / Etablissement,4.2,506
+122,Mode de transport (%) - Train,0.0,507
+122,Mode de transport (%) - Tram,0.0,508
+122,Mode de transport (%) - Transport informel,2.5,509
+122,Mode de transport (%) - Animaux,2.5,510
+122,Mode de transport (%) - Autre,0.2,511
+122,Mode de transport (%) - Ne se déplace pas,20.9,512
+123,Population sédentaire active occupée (15+),1604.0,500
+123,Mode de transport (%) - À pieds,64.7,501
+123,Mode de transport (%) - Motocycle/ Bicyclette,1.0,502
+123,Mode de transport (%) - Voiture privée,8.9,503
+123,Mode de transport (%) - Bus,1.4,504
+123,Mode de transport (%) - Taxi,2.6,505
+123,Mode de transport (%) - Transport de l'employeur / Etablissement,0.6,506
+123,Mode de transport (%) - Train,0.1,507
+123,Mode de transport (%) - Tram,0.0,508
+123,Mode de transport (%) - Transport informel,11.4,509
+123,Mode de transport (%) - Animaux,1.3,510
+123,Mode de transport (%) - Autre,0.4,511
+123,Mode de transport (%) - Ne se déplace pas,7.7,512
+124,Population sédentaire active occupée (15+),806.0,500
+124,Mode de transport (%) - À pieds,28.3,501
+124,Mode de transport (%) - Motocycle/ Bicyclette,0.6,502
+124,Mode de transport (%) - Voiture privée,7.1,503
+124,Mode de transport (%) - Bus,1.1,504
+124,Mode de transport (%) - Taxi,0.6,505
+124,Mode de transport (%) - Transport de l'employeur / Etablissement,1.5,506
+124,Mode de transport (%) - Train,0.0,507
+124,Mode de transport (%) - Tram,0.0,508
+124,Mode de transport (%) - Transport informel,15.3,509
+124,Mode de transport (%) - Animaux,0.2,510
+124,Mode de transport (%) - Autre,2.6,511
+124,Mode de transport (%) - Ne se déplace pas,42.7,512
+125,Population sédentaire active occupée (15+),1721.0,500
+125,Mode de transport (%) - À pieds,90.4,501
+125,Mode de transport (%) - Motocycle/ Bicyclette,0.3,502
+125,Mode de transport (%) - Voiture privée,0.6,503
+125,Mode de transport (%) - Bus,0.0,504
+125,Mode de transport (%) - Taxi,0.0,505
+125,Mode de transport (%) - Transport de l'employeur / Etablissement,0.8,506
+125,Mode de transport (%) - Train,0.1,507
+125,Mode de transport (%) - Tram,0.0,508
+125,Mode de transport (%) - Transport informel,0.8,509
+125,Mode de transport (%) - Animaux,5.2,510
+125,Mode de transport (%) - Autre,0.0,511
+125,Mode de transport (%) - Ne se déplace pas,1.8,512
+126,Population sédentaire active occupée (15+),1483.0,500
+126,Mode de transport (%) - À pieds,92.2,501
+126,Mode de transport (%) - Motocycle/ Bicyclette,0.1,502
+126,Mode de transport (%) - Voiture privée,1.4,503
+126,Mode de transport (%) - Bus,0.1,504
+126,Mode de transport (%) - Taxi,0.8,505
+126,Mode de transport (%) - Transport de l'employeur / Etablissement,0.6,506
+126,Mode de transport (%) - Train,0.0,507
+126,Mode de transport (%) - Tram,0.0,508
+126,Mode de transport (%) - Transport informel,0.9,509
+126,Mode de transport (%) - Animaux,0.3,510
+126,Mode de transport (%) - Autre,0.1,511
+126,Mode de transport (%) - Ne se déplace pas,3.4,512
+127,Population sédentaire active occupée (15+),2139.0,500
+127,Mode de transport (%) - À pieds,96.7,501
+127,Mode de transport (%) - Motocycle/ Bicyclette,0.4,502
+127,Mode de transport (%) - Voiture privée,0.4,503
+127,Mode de transport (%) - Bus,0.2,504
+127,Mode de transport (%) - Taxi,0.1,505
+127,Mode de transport (%) - Transport de l'employeur / Etablissement,0.6,506
+127,Mode de transport (%) - Train,0.0,507
+127,Mode de transport (%) - Tram,0.0,508
+127,Mode de transport (%) - Transport informel,0.3,509
+127,Mode de transport (%) - Animaux,0.5,510
+127,Mode de transport (%) - Autre,0.0,511
+127,Mode de transport (%) - Ne se déplace pas,0.7,512
+128,Population sédentaire active occupée (15+),2225.0,500
+128,Mode de transport (%) - À pieds,64.4,501
+128,Mode de transport (%) - Motocycle/ Bicyclette,0.5,502
+128,Mode de transport (%) - Voiture privée,1.9,503
+128,Mode de transport (%) - Bus,0.2,504
+128,Mode de transport (%) - Taxi,3.4,505
+128,Mode de transport (%) - Transport de l'employeur / Etablissement,1.1,506
+128,Mode de transport (%) - Train,0.0,507
+128,Mode de transport (%) - Tram,0.0,508
+128,Mode de transport (%) - Transport informel,0.5,509
+128,Mode de transport (%) - Animaux,0.4,510
+128,Mode de transport (%) - Autre,0.0,511
+128,Mode de transport (%) - Ne se déplace pas,27.6,512
+129,Population sédentaire active occupée (15+),3232.0,500
+129,Mode de transport (%) - À pieds,84.4,501
+129,Mode de transport (%) - Motocycle/ Bicyclette,0.3,502
+129,Mode de transport (%) - Voiture privée,1.6,503
+129,Mode de transport (%) - Bus,0.9,504
+129,Mode de transport (%) - Taxi,1.6,505
+129,Mode de transport (%) - Transport de l'employeur / Etablissement,0.2,506
+129,Mode de transport (%) - Train,0.0,507
+129,Mode de transport (%) - Tram,0.0,508
+129,Mode de transport (%) - Transport informel,1.4,509
+129,Mode de transport (%) - Animaux,3.5,510
+129,Mode de transport (%) - Autre,0.2,511
+129,Mode de transport (%) - Ne se déplace pas,5.9,512
+130,Population sédentaire active occupée (15+),966.0,500
+130,Mode de transport (%) - À pieds,81.8,501
+130,Mode de transport (%) - Motocycle/ Bicyclette,0.5,502
+130,Mode de transport (%) - Voiture privée,4.6,503
+130,Mode de transport (%) - Bus,0.4,504
+130,Mode de transport (%) - Taxi,2.3,505
+130,Mode de transport (%) - Transport de l'employeur / Etablissement,1.1,506
+130,Mode de transport (%) - Train,0.1,507
+130,Mode de transport (%) - Tram,0.0,508
+130,Mode de transport (%) - Transport informel,0.3,509
+130,Mode de transport (%) - Animaux,0.0,510
+130,Mode de transport (%) - Autre,1.6,511
+130,Mode de transport (%) - Ne se déplace pas,7.3,512
+131,Population sédentaire active occupée (15+),4139.0,500
+131,Mode de transport (%) - À pieds,81.7,501
+131,Mode de transport (%) - Motocycle/ Bicyclette,0.5,502
+131,Mode de transport (%) - Voiture privée,6.0,503
+131,Mode de transport (%) - Bus,1.3,504
+131,Mode de transport (%) - Taxi,3.5,505
+131,Mode de transport (%) - Transport de l'employeur / Etablissement,1.4,506
+131,Mode de transport (%) - Train,0.0,507
+131,Mode de transport (%) - Tram,0.0,508
+131,Mode de transport (%) - Transport informel,2.3,509
+131,Mode de transport (%) - Animaux,0.0,510
+131,Mode de transport (%) - Autre,0.2,511
+131,Mode de transport (%) - Ne se déplace pas,3.3,512
+132,Population sédentaire active occupée (15+),1912.0,500
+132,Mode de transport (%) - À pieds,90.3,501
+132,Mode de transport (%) - Motocycle/ Bicyclette,0.4,502
+132,Mode de transport (%) - Voiture privée,2.2,503
+132,Mode de transport (%) - Bus,0.2,504
+132,Mode de transport (%) - Taxi,0.4,505
+132,Mode de transport (%) - Transport de l'employeur / Etablissement,0.6,506
+132,Mode de transport (%) - Train,0.0,507
+132,Mode de transport (%) - Tram,0.0,508
+132,Mode de transport (%) - Transport informel,2.4,509
+132,Mode de transport (%) - Animaux,1.3,510
+132,Mode de transport (%) - Autre,0.2,511
+132,Mode de transport (%) - Ne se déplace pas,2.1,512
+133,Population sédentaire active occupée (15+),163.0,500
+133,Mode de transport (%) - À pieds,77.9,501
+133,Mode de transport (%) - Motocycle/ Bicyclette,1.2,502
+133,Mode de transport (%) - Voiture privée,4.3,503
+133,Mode de transport (%) - Bus,0.6,504
+133,Mode de transport (%) - Taxi,1.2,505
+133,Mode de transport (%) - Transport de l'employeur / Etablissement,1.2,506
+133,Mode de transport (%) - Train,0.0,507
+133,Mode de transport (%) - Tram,0.0,508
+133,Mode de transport (%) - Transport informel,1.8,509
+133,Mode de transport (%) - Animaux,3.1,510
+133,Mode de transport (%) - Autre,1.8,511
+133,Mode de transport (%) - Ne se déplace pas,6.7,512
+134,Population sédentaire active occupée (15+),6695.0,500
+134,Mode de transport (%) - À pieds,76.6,501
+134,Mode de transport (%) - Motocycle/ Bicyclette,0.5,502
+134,Mode de transport (%) - Voiture privée,2.6,503
+134,Mode de transport (%) - Bus,0.8,504
+134,Mode de transport (%) - Taxi,1.0,505
+134,Mode de transport (%) - Transport de l'employeur / Etablissement,0.8,506
+134,Mode de transport (%) - Train,0.0,507
+134,Mode de transport (%) - Tram,0.0,508
+134,Mode de transport (%) - Transport informel,0.2,509
+134,Mode de transport (%) - Animaux,3.7,510
+134,Mode de transport (%) - Autre,0.2,511
+134,Mode de transport (%) - Ne se déplace pas,13.6,512
+135,Population sédentaire active occupée (15+),12949.0,500
+135,Mode de transport (%) - À pieds,64.6,501
+135,Mode de transport (%) - Motocycle/ Bicyclette,2.1,502
+135,Mode de transport (%) - Voiture privée,13.0,503
+135,Mode de transport (%) - Bus,0.9,504
+135,Mode de transport (%) - Taxi,10.9,505
+135,Mode de transport (%) - Transport de l'employeur / Etablissement,2.6,506
+135,Mode de transport (%) - Train,0.1,507
+135,Mode de transport (%) - Tram,0.0,508
+135,Mode de transport (%) - Transport informel,1.2,509
+135,Mode de transport (%) - Animaux,0.0,510
+135,Mode de transport (%) - Autre,0.2,511
+135,Mode de transport (%) - Ne se déplace pas,4.3,512
+136,Population sédentaire active occupée (15+),6062.0,500
+136,Mode de transport (%) - À pieds,87.5,501
+136,Mode de transport (%) - Motocycle/ Bicyclette,0.2,502
+136,Mode de transport (%) - Voiture privée,1.9,503
+136,Mode de transport (%) - Bus,0.3,504
+136,Mode de transport (%) - Taxi,1.4,505
+136,Mode de transport (%) - Transport de l'employeur / Etablissement,1.2,506
+136,Mode de transport (%) - Train,0.0,507
+136,Mode de transport (%) - Tram,0.0,508
+136,Mode de transport (%) - Transport informel,2.6,509
+136,Mode de transport (%) - Animaux,0.3,510
+136,Mode de transport (%) - Autre,0.0,511
+136,Mode de transport (%) - Ne se déplace pas,4.6,512
+137,Population sédentaire active occupée (15+),5472.0,500
+137,Mode de transport (%) - À pieds,65.9,501
+137,Mode de transport (%) - Motocycle/ Bicyclette,0.0,502
+137,Mode de transport (%) - Voiture privée,1.3,503
+137,Mode de transport (%) - Bus,0.4,504
+137,Mode de transport (%) - Taxi,2.3,505
+137,Mode de transport (%) - Transport de l'employeur / Etablissement,1.3,506
+137,Mode de transport (%) - Train,0.0,507
+137,Mode de transport (%) - Tram,0.0,508
+137,Mode de transport (%) - Transport informel,1.8,509
+137,Mode de transport (%) - Animaux,1.8,510
+137,Mode de transport (%) - Autre,0.2,511
+137,Mode de transport (%) - Ne se déplace pas,25.1,512
+138,Population sédentaire active occupée (15+),6456.0,500
+138,Mode de transport (%) - À pieds,77.5,501
+138,Mode de transport (%) - Motocycle/ Bicyclette,0.1,502
+138,Mode de transport (%) - Voiture privée,0.8,503
+138,Mode de transport (%) - Bus,1.2,504
+138,Mode de transport (%) - Taxi,0.6,505
+138,Mode de transport (%) - Transport de l'employeur / Etablissement,0.6,506
+138,Mode de transport (%) - Train,0.0,507
+138,Mode de transport (%) - Tram,0.0,508
+138,Mode de transport (%) - Transport informel,0.7,509
+138,Mode de transport (%) - Animaux,0.6,510
+138,Mode de transport (%) - Autre,0.2,511
+138,Mode de transport (%) - Ne se déplace pas,17.6,512
+139,Population sédentaire active occupée (15+),2398.0,500
+139,Mode de transport (%) - À pieds,68.9,501
+139,Mode de transport (%) - Motocycle/ Bicyclette,0.4,502
+139,Mode de transport (%) - Voiture privée,2.1,503
+139,Mode de transport (%) - Bus,1.1,504
+139,Mode de transport (%) - Taxi,1.5,505
+139,Mode de transport (%) - Transport de l'employeur / Etablissement,1.4,506
+139,Mode de transport (%) - Train,0.0,507
+139,Mode de transport (%) - Tram,0.0,508
+139,Mode de transport (%) - Transport informel,10.9,509
+139,Mode de transport (%) - Animaux,7.0,510
+139,Mode de transport (%) - Autre,0.1,511
+139,Mode de transport (%) - Ne se déplace pas,6.7,512
+140,Population sédentaire active occupée (15+),2200.0,500
+140,Mode de transport (%) - À pieds,80.7,501
+140,Mode de transport (%) - Motocycle/ Bicyclette,0.8,502
+140,Mode de transport (%) - Voiture privée,4.5,503
+140,Mode de transport (%) - Bus,1.1,504
+140,Mode de transport (%) - Taxi,1.7,505
+140,Mode de transport (%) - Transport de l'employeur / Etablissement,1.8,506
+140,Mode de transport (%) - Train,0.0,507
+140,Mode de transport (%) - Tram,0.0,508
+140,Mode de transport (%) - Transport informel,2.9,509
+140,Mode de transport (%) - Animaux,3.5,510
+140,Mode de transport (%) - Autre,0.2,511
+140,Mode de transport (%) - Ne se déplace pas,2.8,512
+141,Population sédentaire active occupée (15+),3739.0,500
+141,Mode de transport (%) - À pieds,81.1,501
+141,Mode de transport (%) - Motocycle/ Bicyclette,0.0,502
+141,Mode de transport (%) - Voiture privée,2.3,503
+141,Mode de transport (%) - Bus,2.1,504
+141,Mode de transport (%) - Taxi,0.1,505
+141,Mode de transport (%) - Transport de l'employeur / Etablissement,1.3,506
+141,Mode de transport (%) - Train,0.0,507
+141,Mode de transport (%) - Tram,0.0,508
+141,Mode de transport (%) - Transport informel,2.0,509
+141,Mode de transport (%) - Animaux,1.1,510
+141,Mode de transport (%) - Autre,0.0,511
+141,Mode de transport (%) - Ne se déplace pas,9.9,512
+142,Population sédentaire active occupée (15+),4358.0,500
+142,Mode de transport (%) - À pieds,79.1,501
+142,Mode de transport (%) - Motocycle/ Bicyclette,0.1,502
+142,Mode de transport (%) - Voiture privée,3.5,503
+142,Mode de transport (%) - Bus,0.0,504
+142,Mode de transport (%) - Taxi,2.7,505
+142,Mode de transport (%) - Transport de l'employeur / Etablissement,0.6,506
+142,Mode de transport (%) - Train,0.0,507
+142,Mode de transport (%) - Tram,0.0,508
+142,Mode de transport (%) - Transport informel,3.9,509
+142,Mode de transport (%) - Animaux,1.7,510
+142,Mode de transport (%) - Autre,0.4,511
+142,Mode de transport (%) - Ne se déplace pas,7.9,512
+143,Population sédentaire active occupée (15+),3630.0,500
+143,Mode de transport (%) - À pieds,81.5,501
+143,Mode de transport (%) - Motocycle/ Bicyclette,0.6,502
+143,Mode de transport (%) - Voiture privée,0.4,503
+143,Mode de transport (%) - Bus,0.7,504
+143,Mode de transport (%) - Taxi,1.6,505
+143,Mode de transport (%) - Transport de l'employeur / Etablissement,0.5,506
+143,Mode de transport (%) - Train,0.0,507
+143,Mode de transport (%) - Tram,0.0,508
+143,Mode de transport (%) - Transport informel,4.2,509
+143,Mode de transport (%) - Animaux,6.2,510
+143,Mode de transport (%) - Autre,0.6,511
+143,Mode de transport (%) - Ne se déplace pas,3.7,512
+144,Population sédentaire active occupée (15+),2819.0,500
+144,Mode de transport (%) - À pieds,65.3,501
+144,Mode de transport (%) - Motocycle/ Bicyclette,0.7,502
+144,Mode de transport (%) - Voiture privée,5.9,503
+144,Mode de transport (%) - Bus,0.2,504
+144,Mode de transport (%) - Taxi,0.9,505
+144,Mode de transport (%) - Transport de l'employeur / Etablissement,1.4,506
+144,Mode de transport (%) - Train,0.0,507
+144,Mode de transport (%) - Tram,0.0,508
+144,Mode de transport (%) - Transport informel,9.2,509
+144,Mode de transport (%) - Animaux,9.7,510
+144,Mode de transport (%) - Autre,0.0,511
+144,Mode de transport (%) - Ne se déplace pas,6.6,512
+145,Population sédentaire active occupée (15+),2773.0,500
+145,Mode de transport (%) - À pieds,63.3,501
+145,Mode de transport (%) - Motocycle/ Bicyclette,0.5,502
+145,Mode de transport (%) - Voiture privée,1.9,503
+145,Mode de transport (%) - Bus,1.5,504
+145,Mode de transport (%) - Taxi,1.0,505
+145,Mode de transport (%) - Transport de l'employeur / Etablissement,0.2,506
+145,Mode de transport (%) - Train,0.0,507
+145,Mode de transport (%) - Tram,0.0,508
+145,Mode de transport (%) - Transport informel,5.1,509
+145,Mode de transport (%) - Animaux,21.4,510
+145,Mode de transport (%) - Autre,0.5,511
+145,Mode de transport (%) - Ne se déplace pas,4.7,512
+146,Population sédentaire active occupée (15+),3503.0,500
+146,Mode de transport (%) - À pieds,61.2,501
+146,Mode de transport (%) - Motocycle/ Bicyclette,0.1,502
+146,Mode de transport (%) - Voiture privée,2.1,503
+146,Mode de transport (%) - Bus,0.0,504
+146,Mode de transport (%) - Taxi,0.3,505
+146,Mode de transport (%) - Transport de l'employeur / Etablissement,1.5,506
+146,Mode de transport (%) - Train,0.0,507
+146,Mode de transport (%) - Tram,0.0,508
+146,Mode de transport (%) - Transport informel,3.4,509
+146,Mode de transport (%) - Animaux,25.4,510
+146,Mode de transport (%) - Autre,0.1,511
+146,Mode de transport (%) - Ne se déplace pas,5.9,512
+147,Population sédentaire active occupée (15+),4259.0,500
+147,Mode de transport (%) - À pieds,71.4,501
+147,Mode de transport (%) - Motocycle/ Bicyclette,0.1,502
+147,Mode de transport (%) - Voiture privée,0.5,503
+147,Mode de transport (%) - Bus,0.2,504
+147,Mode de transport (%) - Taxi,0.7,505
+147,Mode de transport (%) - Transport de l'employeur / Etablissement,1.1,506
+147,Mode de transport (%) - Train,0.0,507
+147,Mode de transport (%) - Tram,0.0,508
+147,Mode de transport (%) - Transport informel,2.2,509
+147,Mode de transport (%) - Animaux,19.5,510
+147,Mode de transport (%) - Autre,0.2,511
+147,Mode de transport (%) - Ne se déplace pas,4.0,512
+148,Population sédentaire active occupée (15+),7864.0,500
+148,Mode de transport (%) - À pieds,82.8,501
+148,Mode de transport (%) - Motocycle/ Bicyclette,0.4,502
+148,Mode de transport (%) - Voiture privée,3.6,503
+148,Mode de transport (%) - Bus,0.4,504
+148,Mode de transport (%) - Taxi,2.2,505
+148,Mode de transport (%) - Transport de l'employeur / Etablissement,1.3,506
+148,Mode de transport (%) - Train,0.0,507
+148,Mode de transport (%) - Tram,0.0,508
+148,Mode de transport (%) - Transport informel,5.3,509
+148,Mode de transport (%) - Animaux,0.8,510
+148,Mode de transport (%) - Autre,0.1,511
+148,Mode de transport (%) - Ne se déplace pas,3.3,512
+149,Population sédentaire active occupée (15+),2475.0,500
+149,Mode de transport (%) - À pieds,89.6,501
+149,Mode de transport (%) - Motocycle/ Bicyclette,0.2,502
+149,Mode de transport (%) - Voiture privée,1.3,503
+149,Mode de transport (%) - Bus,0.1,504
+149,Mode de transport (%) - Taxi,0.3,505
+149,Mode de transport (%) - Transport de l'employeur / Etablissement,0.4,506
+149,Mode de transport (%) - Train,0.0,507
+149,Mode de transport (%) - Tram,0.0,508
+149,Mode de transport (%) - Transport informel,0.7,509
+149,Mode de transport (%) - Animaux,0.2,510
+149,Mode de transport (%) - Autre,0.1,511
+149,Mode de transport (%) - Ne se déplace pas,7.2,512
+150,Population sédentaire active occupée (15+),3682.0,500
+150,Mode de transport (%) - À pieds,81.3,501
+150,Mode de transport (%) - Motocycle/ Bicyclette,0.1,502
+150,Mode de transport (%) - Voiture privée,1.7,503
+150,Mode de transport (%) - Bus,1.5,504
+150,Mode de transport (%) - Taxi,1.2,505
+150,Mode de transport (%) - Transport de l'employeur / Etablissement,0.4,506
+150,Mode de transport (%) - Train,0.0,507
+150,Mode de transport (%) - Tram,0.0,508
+150,Mode de transport (%) - Transport informel,5.7,509
+150,Mode de transport (%) - Animaux,5.1,510
+150,Mode de transport (%) - Autre,0.0,511
+150,Mode de transport (%) - Ne se déplace pas,3.1,512
+151,Population sédentaire active occupée (15+),1726.0,500
+151,Mode de transport (%) - À pieds,83.1,501
+151,Mode de transport (%) - Motocycle/ Bicyclette,0.3,502
+151,Mode de transport (%) - Voiture privée,1.9,503
+151,Mode de transport (%) - Bus,0.6,504
+151,Mode de transport (%) - Taxi,0.2,505
+151,Mode de transport (%) - Transport de l'employeur / Etablissement,0.8,506
+151,Mode de transport (%) - Train,0.0,507
+151,Mode de transport (%) - Tram,0.0,508
+151,Mode de transport (%) - Transport informel,1.2,509
+151,Mode de transport (%) - Animaux,3.8,510
+151,Mode de transport (%) - Autre,0.1,511
+151,Mode de transport (%) - Ne se déplace pas,8.1,512
+152,Population sédentaire active occupée (15+),1701.0,500
+152,Mode de transport (%) - À pieds,72.5,501
+152,Mode de transport (%) - Motocycle/ Bicyclette,0.4,502
+152,Mode de transport (%) - Voiture privée,2.5,503
+152,Mode de transport (%) - Bus,0.8,504
+152,Mode de transport (%) - Taxi,0.8,505
+152,Mode de transport (%) - Transport de l'employeur / Etablissement,2.5,506
+152,Mode de transport (%) - Train,0.0,507
+152,Mode de transport (%) - Tram,0.0,508
+152,Mode de transport (%) - Transport informel,1.7,509
+152,Mode de transport (%) - Animaux,17.1,510
+152,Mode de transport (%) - Autre,0.1,511
+152,Mode de transport (%) - Ne se déplace pas,1.7,512
+153,Population sédentaire active occupée (15+),3625.0,500
+153,Mode de transport (%) - À pieds,84.7,501
+153,Mode de transport (%) - Motocycle/ Bicyclette,1.0,502
+153,Mode de transport (%) - Voiture privée,2.0,503
+153,Mode de transport (%) - Bus,0.4,504
+153,Mode de transport (%) - Taxi,3.7,505
+153,Mode de transport (%) - Transport de l'employeur / Etablissement,0.3,506
+153,Mode de transport (%) - Train,0.0,507
+153,Mode de transport (%) - Tram,0.0,508
+153,Mode de transport (%) - Transport informel,2.3,509
+153,Mode de transport (%) - Animaux,0.4,510
+153,Mode de transport (%) - Autre,0.1,511
+153,Mode de transport (%) - Ne se déplace pas,5.1,512
+154,Population sédentaire active occupée (15+),1915.0,500
+154,Mode de transport (%) - À pieds,63.2,501
+154,Mode de transport (%) - Motocycle/ Bicyclette,1.0,502
+154,Mode de transport (%) - Voiture privée,2.3,503
+154,Mode de transport (%) - Bus,0.2,504
+154,Mode de transport (%) - Taxi,2.4,505
+154,Mode de transport (%) - Transport de l'employeur / Etablissement,1.9,506
+154,Mode de transport (%) - Train,0.0,507
+154,Mode de transport (%) - Tram,0.0,508
+154,Mode de transport (%) - Transport informel,2.0,509
+154,Mode de transport (%) - Animaux,6.6,510
+154,Mode de transport (%) - Autre,0.1,511
+154,Mode de transport (%) - Ne se déplace pas,20.3,512
+155,Population sédentaire active occupée (15+),1806.0,500
+155,Mode de transport (%) - À pieds,77.1,501
+155,Mode de transport (%) - Motocycle/ Bicyclette,0.7,502
+155,Mode de transport (%) - Voiture privée,3.9,503
+155,Mode de transport (%) - Bus,1.1,504
+155,Mode de transport (%) - Taxi,1.9,505
+155,Mode de transport (%) - Transport de l'employeur / Etablissement,1.2,506
+155,Mode de transport (%) - Train,0.0,507
+155,Mode de transport (%) - Tram,0.0,508
+155,Mode de transport (%) - Transport informel,5.3,509
+155,Mode de transport (%) - Animaux,6.6,510
+155,Mode de transport (%) - Autre,0.0,511
+155,Mode de transport (%) - Ne se déplace pas,2.2,512
+156,Population sédentaire active occupée (15+),5302.0,500
+156,Mode de transport (%) - À pieds,70.4,501
+156,Mode de transport (%) - Motocycle/ Bicyclette,0.1,502
+156,Mode de transport (%) - Voiture privée,0.8,503
+156,Mode de transport (%) - Bus,1.0,504
+156,Mode de transport (%) - Taxi,0.8,505
+156,Mode de transport (%) - Transport de l'employeur / Etablissement,0.5,506
+156,Mode de transport (%) - Train,0.0,507
+156,Mode de transport (%) - Tram,0.0,508
+156,Mode de transport (%) - Transport informel,3.7,509
+156,Mode de transport (%) - Animaux,4.9,510
+156,Mode de transport (%) - Autre,0.3,511
+156,Mode de transport (%) - Ne se déplace pas,17.4,512
+157,Population sédentaire active occupée (15+),4067.0,500
+157,Mode de transport (%) - À pieds,49.3,501
+157,Mode de transport (%) - Motocycle/ Bicyclette,0.0,502
+157,Mode de transport (%) - Voiture privée,0.3,503
+157,Mode de transport (%) - Bus,0.1,504
+157,Mode de transport (%) - Taxi,0.1,505
+157,Mode de transport (%) - Transport de l'employeur / Etablissement,0.9,506
+157,Mode de transport (%) - Train,0.0,507
+157,Mode de transport (%) - Tram,0.0,508
+157,Mode de transport (%) - Transport informel,17.0,509
+157,Mode de transport (%) - Animaux,11.5,510
+157,Mode de transport (%) - Autre,0.3,511
+157,Mode de transport (%) - Ne se déplace pas,20.4,512
+158,Population sédentaire active occupée (15+),4402.0,500
+158,Mode de transport (%) - À pieds,67.8,501
+158,Mode de transport (%) - Motocycle/ Bicyclette,2.0,502
+158,Mode de transport (%) - Voiture privée,1.9,503
+158,Mode de transport (%) - Bus,1.9,504
+158,Mode de transport (%) - Taxi,8.9,505
+158,Mode de transport (%) - Transport de l'employeur / Etablissement,0.6,506
+158,Mode de transport (%) - Train,0.0,507
+158,Mode de transport (%) - Tram,0.0,508
+158,Mode de transport (%) - Transport informel,3.7,509
+158,Mode de transport (%) - Animaux,0.5,510
+158,Mode de transport (%) - Autre,0.0,511
+158,Mode de transport (%) - Ne se déplace pas,12.7,512
+159,Population sédentaire active occupée (15+),2498.0,500
+159,Mode de transport (%) - À pieds,41.0,501
+159,Mode de transport (%) - Motocycle/ Bicyclette,4.2,502
+159,Mode de transport (%) - Voiture privée,4.6,503
+159,Mode de transport (%) - Bus,0.5,504
+159,Mode de transport (%) - Taxi,3.1,505
+159,Mode de transport (%) - Transport de l'employeur / Etablissement,1.4,506
+159,Mode de transport (%) - Train,0.0,507
+159,Mode de transport (%) - Tram,0.0,508
+159,Mode de transport (%) - Transport informel,4.9,509
+159,Mode de transport (%) - Animaux,0.4,510
+159,Mode de transport (%) - Autre,0.2,511
+159,Mode de transport (%) - Ne se déplace pas,39.8,512
+160,Population sédentaire active occupée (15+),2815.0,500
+160,Mode de transport (%) - À pieds,51.1,501
+160,Mode de transport (%) - Motocycle/ Bicyclette,7.0,502
+160,Mode de transport (%) - Voiture privée,3.4,503
+160,Mode de transport (%) - Bus,1.4,504
+160,Mode de transport (%) - Taxi,11.3,505
+160,Mode de transport (%) - Transport de l'employeur / Etablissement,0.5,506
+160,Mode de transport (%) - Train,0.0,507
+160,Mode de transport (%) - Tram,0.0,508
+160,Mode de transport (%) - Transport informel,5.2,509
+160,Mode de transport (%) - Animaux,0.4,510
+160,Mode de transport (%) - Autre,0.2,511
+160,Mode de transport (%) - Ne se déplace pas,19.5,512
+161,Population sédentaire active occupée (15+),1618.0,500
+161,Mode de transport (%) - À pieds,80.6,501
+161,Mode de transport (%) - Motocycle/ Bicyclette,3.9,502
+161,Mode de transport (%) - Voiture privée,1.2,503
+161,Mode de transport (%) - Bus,0.8,504
+161,Mode de transport (%) - Taxi,1.4,505
+161,Mode de transport (%) - Transport de l'employeur / Etablissement,1.1,506
+161,Mode de transport (%) - Train,0.1,507
+161,Mode de transport (%) - Tram,0.0,508
+161,Mode de transport (%) - Transport informel,1.6,509
+161,Mode de transport (%) - Animaux,1.1,510
+161,Mode de transport (%) - Autre,0.4,511
+161,Mode de transport (%) - Ne se déplace pas,7.9,512
+162,Population sédentaire active occupée (15+),2617.0,500
+162,Mode de transport (%) - À pieds,61.6,501
+162,Mode de transport (%) - Motocycle/ Bicyclette,0.6,502
+162,Mode de transport (%) - Voiture privée,0.8,503
+162,Mode de transport (%) - Bus,0.5,504
+162,Mode de transport (%) - Taxi,0.5,505
+162,Mode de transport (%) - Transport de l'employeur / Etablissement,0.2,506
+162,Mode de transport (%) - Train,0.0,507
+162,Mode de transport (%) - Tram,0.0,508
+162,Mode de transport (%) - Transport informel,2.6,509
+162,Mode de transport (%) - Animaux,1.3,510
+162,Mode de transport (%) - Autre,0.0,511
+162,Mode de transport (%) - Ne se déplace pas,31.9,512
+163,Population sédentaire active occupée (15+),13235.0,500
+163,Mode de transport (%) - À pieds,64.7,501
+163,Mode de transport (%) - Motocycle/ Bicyclette,1.7,502
+163,Mode de transport (%) - Voiture privée,12.3,503
+163,Mode de transport (%) - Bus,1.7,504
+163,Mode de transport (%) - Taxi,8.6,505
+163,Mode de transport (%) - Transport de l'employeur / Etablissement,4.2,506
+163,Mode de transport (%) - Train,0.1,507
+163,Mode de transport (%) - Tram,0.0,508
+163,Mode de transport (%) - Transport informel,1.2,509
+163,Mode de transport (%) - Animaux,0.2,510
+163,Mode de transport (%) - Autre,0.9,511
+163,Mode de transport (%) - Ne se déplace pas,4.6,512
+164,Population sédentaire active occupée (15+),1230.0,500
+164,Mode de transport (%) - À pieds,57.4,501
+164,Mode de transport (%) - Motocycle/ Bicyclette,0.5,502
+164,Mode de transport (%) - Voiture privée,1.6,503
+164,Mode de transport (%) - Bus,4.7,504
+164,Mode de transport (%) - Taxi,4.5,505
+164,Mode de transport (%) - Transport de l'employeur / Etablissement,6.3,506
+164,Mode de transport (%) - Train,0.0,507
+164,Mode de transport (%) - Tram,0.0,508
+164,Mode de transport (%) - Transport informel,4.1,509
+164,Mode de transport (%) - Animaux,15.7,510
+164,Mode de transport (%) - Autre,0.5,511
+164,Mode de transport (%) - Ne se déplace pas,4.7,512
+165,Population sédentaire active occupée (15+),2628.0,500
+165,Mode de transport (%) - À pieds,41.0,501
+165,Mode de transport (%) - Motocycle/ Bicyclette,1.8,502
+165,Mode de transport (%) - Voiture privée,2.5,503
+165,Mode de transport (%) - Bus,5.7,504
+165,Mode de transport (%) - Taxi,6.3,505
+165,Mode de transport (%) - Transport de l'employeur / Etablissement,5.8,506
+165,Mode de transport (%) - Train,0.0,507
+165,Mode de transport (%) - Tram,0.0,508
+165,Mode de transport (%) - Transport informel,6.5,509
+165,Mode de transport (%) - Animaux,13.4,510
+165,Mode de transport (%) - Autre,0.0,511
+165,Mode de transport (%) - Ne se déplace pas,16.8,512
+166,Population sédentaire active occupée (15+),3279.0,500
+166,Mode de transport (%) - À pieds,63.3,501
+166,Mode de transport (%) - Motocycle/ Bicyclette,1.2,502
+166,Mode de transport (%) - Voiture privée,6.5,503
+166,Mode de transport (%) - Bus,0.5,504
+166,Mode de transport (%) - Taxi,4.7,505
+166,Mode de transport (%) - Transport de l'employeur / Etablissement,1.4,506
+166,Mode de transport (%) - Train,0.0,507
+166,Mode de transport (%) - Tram,0.0,508
+166,Mode de transport (%) - Transport informel,6.0,509
+166,Mode de transport (%) - Animaux,4.1,510
+166,Mode de transport (%) - Autre,0.5,511
+166,Mode de transport (%) - Ne se déplace pas,11.8,512
+167,Population sédentaire active occupée (15+),2075.0,500
+167,Mode de transport (%) - À pieds,36.8,501
+167,Mode de transport (%) - Motocycle/ Bicyclette,2.6,502
+167,Mode de transport (%) - Voiture privée,3.2,503
+167,Mode de transport (%) - Bus,4.0,504
+167,Mode de transport (%) - Taxi,7.6,505
+167,Mode de transport (%) - Transport de l'employeur / Etablissement,3.3,506
+167,Mode de transport (%) - Train,0.0,507
+167,Mode de transport (%) - Tram,0.0,508
+167,Mode de transport (%) - Transport informel,24.5,509
+167,Mode de transport (%) - Animaux,12.1,510
+167,Mode de transport (%) - Autre,1.5,511
+167,Mode de transport (%) - Ne se déplace pas,4.5,512
+168,Population sédentaire active occupée (15+),1106.0,500
+168,Mode de transport (%) - À pieds,59.4,501
+168,Mode de transport (%) - Motocycle/ Bicyclette,3.3,502
+168,Mode de transport (%) - Voiture privée,11.5,503
+168,Mode de transport (%) - Bus,2.3,504
+168,Mode de transport (%) - Taxi,8.0,505
+168,Mode de transport (%) - Transport de l'employeur / Etablissement,1.9,506
+168,Mode de transport (%) - Train,0.0,507
+168,Mode de transport (%) - Tram,0.0,508
+168,Mode de transport (%) - Transport informel,4.4,509
+168,Mode de transport (%) - Animaux,0.8,510
+168,Mode de transport (%) - Autre,0.0,511
+168,Mode de transport (%) - Ne se déplace pas,8.5,512
+169,Population sédentaire active occupée (15+),1199.0,500
+169,Mode de transport (%) - À pieds,37.6,501
+169,Mode de transport (%) - Motocycle/ Bicyclette,4.6,502
+169,Mode de transport (%) - Voiture privée,8.3,503
+169,Mode de transport (%) - Bus,2.1,504
+169,Mode de transport (%) - Taxi,2.4,505
+169,Mode de transport (%) - Transport de l'employeur / Etablissement,4.0,506
+169,Mode de transport (%) - Train,0.0,507
+169,Mode de transport (%) - Tram,0.0,508
+169,Mode de transport (%) - Transport informel,11.9,509
+169,Mode de transport (%) - Animaux,2.2,510
+169,Mode de transport (%) - Autre,3.0,511
+169,Mode de transport (%) - Ne se déplace pas,23.8,512
+170,Population sédentaire active occupée (15+),2318.0,500
+170,Mode de transport (%) - À pieds,61.1,501
+170,Mode de transport (%) - Motocycle/ Bicyclette,1.3,502
+170,Mode de transport (%) - Voiture privée,1.9,503
+170,Mode de transport (%) - Bus,3.3,504
+170,Mode de transport (%) - Taxi,4.0,505
+170,Mode de transport (%) - Transport de l'employeur / Etablissement,1.8,506
+170,Mode de transport (%) - Train,0.0,507
+170,Mode de transport (%) - Tram,0.0,508
+170,Mode de transport (%) - Transport informel,3.9,509
+170,Mode de transport (%) - Animaux,9.4,510
+170,Mode de transport (%) - Autre,0.5,511
+170,Mode de transport (%) - Ne se déplace pas,12.9,512
+171,Population sédentaire active occupée (15+),3136.0,500
+171,Mode de transport (%) - À pieds,56.3,501
+171,Mode de transport (%) - Motocycle/ Bicyclette,2.5,502
+171,Mode de transport (%) - Voiture privée,9.1,503
+171,Mode de transport (%) - Bus,0.4,504
+171,Mode de transport (%) - Taxi,5.5,505
+171,Mode de transport (%) - Transport de l'employeur / Etablissement,2.4,506
+171,Mode de transport (%) - Train,0.0,507
+171,Mode de transport (%) - Tram,0.0,508
+171,Mode de transport (%) - Transport informel,13.4,509
+171,Mode de transport (%) - Animaux,0.5,510
+171,Mode de transport (%) - Autre,1.4,511
+171,Mode de transport (%) - Ne se déplace pas,8.4,512
+172,Population sédentaire active occupée (15+),1256.0,500
+172,Mode de transport (%) - À pieds,52.6,501
+172,Mode de transport (%) - Motocycle/ Bicyclette,2.3,502
+172,Mode de transport (%) - Voiture privée,6.4,503
+172,Mode de transport (%) - Bus,0.9,504
+172,Mode de transport (%) - Taxi,3.6,505
+172,Mode de transport (%) - Transport de l'employeur / Etablissement,3.5,506
+172,Mode de transport (%) - Train,0.0,507
+172,Mode de transport (%) - Tram,0.0,508
+172,Mode de transport (%) - Transport informel,14.2,509
+172,Mode de transport (%) - Animaux,4.5,510
+172,Mode de transport (%) - Autre,5.3,511
+172,Mode de transport (%) - Ne se déplace pas,6.8,512
+173,Population sédentaire active occupée (15+),1126.0,500
+173,Mode de transport (%) - À pieds,59.7,501
+173,Mode de transport (%) - Motocycle/ Bicyclette,1.1,502
+173,Mode de transport (%) - Voiture privée,3.6,503
+173,Mode de transport (%) - Bus,1.6,504
+173,Mode de transport (%) - Taxi,8.4,505
+173,Mode de transport (%) - Transport de l'employeur / Etablissement,5.1,506
+173,Mode de transport (%) - Train,0.0,507
+173,Mode de transport (%) - Tram,0.0,508
+173,Mode de transport (%) - Transport informel,1.9,509
+173,Mode de transport (%) - Animaux,6.1,510
+173,Mode de transport (%) - Autre,0.8,511
+173,Mode de transport (%) - Ne se déplace pas,11.8,512
+174,Population sédentaire active occupée (15+),1615.0,500
+174,Mode de transport (%) - À pieds,76.7,501
+174,Mode de transport (%) - Motocycle/ Bicyclette,0.5,502
+174,Mode de transport (%) - Voiture privée,3.3,503
+174,Mode de transport (%) - Bus,0.3,504
+174,Mode de transport (%) - Taxi,2.6,505
+174,Mode de transport (%) - Transport de l'employeur / Etablissement,1.3,506
+174,Mode de transport (%) - Train,0.0,507
+174,Mode de transport (%) - Tram,0.0,508
+174,Mode de transport (%) - Transport informel,2.0,509
+174,Mode de transport (%) - Animaux,6.8,510
+174,Mode de transport (%) - Autre,0.0,511
+174,Mode de transport (%) - Ne se déplace pas,6.5,512
+175,Population sédentaire active occupée (15+),2406.0,500
+175,Mode de transport (%) - À pieds,53.1,501
+175,Mode de transport (%) - Motocycle/ Bicyclette,1.5,502
+175,Mode de transport (%) - Voiture privée,2.8,503
+175,Mode de transport (%) - Bus,0.5,504
+175,Mode de transport (%) - Taxi,2.6,505
+175,Mode de transport (%) - Transport de l'employeur / Etablissement,4.2,506
+175,Mode de transport (%) - Train,0.0,507
+175,Mode de transport (%) - Tram,0.0,508
+175,Mode de transport (%) - Transport informel,1.9,509
+175,Mode de transport (%) - Animaux,29.5,510
+175,Mode de transport (%) - Autre,0.2,511
+175,Mode de transport (%) - Ne se déplace pas,3.5,512
+176,Population sédentaire active occupée (15+),2092.0,500
+176,Mode de transport (%) - À pieds,73.2,501
+176,Mode de transport (%) - Motocycle/ Bicyclette,0.9,502
+176,Mode de transport (%) - Voiture privée,3.1,503
+176,Mode de transport (%) - Bus,0.4,504
+176,Mode de transport (%) - Taxi,0.6,505
+176,Mode de transport (%) - Transport de l'employeur / Etablissement,1.5,506
+176,Mode de transport (%) - Train,0.0,507
+176,Mode de transport (%) - Tram,0.0,508
+176,Mode de transport (%) - Transport informel,3.2,509
+176,Mode de transport (%) - Animaux,4.4,510
+176,Mode de transport (%) - Autre,0.0,511
+176,Mode de transport (%) - Ne se déplace pas,12.7,512
+177,Population sédentaire active occupée (15+),2568.0,500
+177,Mode de transport (%) - À pieds,65.0,501
+177,Mode de transport (%) - Motocycle/ Bicyclette,0.6,502
+177,Mode de transport (%) - Voiture privée,3.8,503
+177,Mode de transport (%) - Bus,0.2,504
+177,Mode de transport (%) - Taxi,4.0,505
+177,Mode de transport (%) - Transport de l'employeur / Etablissement,3.3,506
+177,Mode de transport (%) - Train,0.0,507
+177,Mode de transport (%) - Tram,0.0,508
+177,Mode de transport (%) - Transport informel,1.8,509
+177,Mode de transport (%) - Animaux,12.0,510
+177,Mode de transport (%) - Autre,0.9,511
+177,Mode de transport (%) - Ne se déplace pas,8.4,512
+178,Population sédentaire active occupée (15+),2633.0,500
+178,Mode de transport (%) - À pieds,78.5,501
+178,Mode de transport (%) - Motocycle/ Bicyclette,1.0,502
+178,Mode de transport (%) - Voiture privée,3.2,503
+178,Mode de transport (%) - Bus,0.4,504
+178,Mode de transport (%) - Taxi,1.2,505
+178,Mode de transport (%) - Transport de l'employeur / Etablissement,0.2,506
+178,Mode de transport (%) - Train,0.2,507
+178,Mode de transport (%) - Tram,0.0,508
+178,Mode de transport (%) - Transport informel,1.2,509
+178,Mode de transport (%) - Animaux,8.2,510
+178,Mode de transport (%) - Autre,0.5,511
+178,Mode de transport (%) - Ne se déplace pas,5.4,512
+179,Population sédentaire active occupée (15+),5337.0,500
+179,Mode de transport (%) - À pieds,70.6,501
+179,Mode de transport (%) - Motocycle/ Bicyclette,0.7,502
+179,Mode de transport (%) - Voiture privée,3.0,503
+179,Mode de transport (%) - Bus,0.1,504
+179,Mode de transport (%) - Taxi,0.8,505
+179,Mode de transport (%) - Transport de l'employeur / Etablissement,1.6,506
+179,Mode de transport (%) - Train,0.0,507
+179,Mode de transport (%) - Tram,0.0,508
+179,Mode de transport (%) - Transport informel,3.4,509
+179,Mode de transport (%) - Animaux,9.8,510
+179,Mode de transport (%) - Autre,1.6,511
+179,Mode de transport (%) - Ne se déplace pas,8.4,512

@@ -1,180 +1,180 @@
-﻿cg,collectivite,fk_territoire,indicateur,valeur,territoire_id
-01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,effectif_migrants_internationaux,57696,1
-01.511,Préfecture de Tanger-Assilah,tanger assilah,effectif_migrants_internationaux,34556,2
-01.511.01.0,Commune de Tanger,tanger assilah,effectif_migrants_internationaux,31860,34
-01.511.01.05,Arrondissement de Mghogha,tanger assilah,effectif_migrants_internationaux,5403,180
-01.511.01.06,Arrondissement de Souani,tanger assilah,effectif_migrants_internationaux,4071,181
-01.511.01.03,Arrondissement de Bni Makada,tanger assilah,effectif_migrants_internationaux,6086,182
-01.511.01.07,Arrondissement de Médina,tanger assilah,effectif_migrants_internationaux,16300,183
-01.511.01.01,Commune d'Assilah,tanger assilah,effectif_migrants_internationaux,824,35
-01.511.01.09,Commune de Gueznaia,tanger assilah,effectif_migrants_internationaux,1347,36
-01.511.05.19,Commune de Hjar Ennhal,tanger assilah,effectif_migrants_internationaux,101,37
-01.511.05.07,Commune de Dar Chaoui,tanger assilah,effectif_migrants_internationaux,21,38
-01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,effectif_migrants_internationaux,12,184
-01.511.05.01,Commune d'Al Manzla,tanger assilah,effectif_migrants_internationaux,10,39
-01.511.05.17,Commune de Laaouama,tanger assilah,effectif_migrants_internationaux,65,40
-01.511.05.05,Commune de Sebt Azzinate,tanger assilah,effectif_migrants_internationaux,17,41
-01.511.03.03,Commune d'Aquouass Briech,tanger assilah,effectif_migrants_internationaux,62,42
-01.511.03.15,Commune de Had Al Gharbia,tanger assilah,effectif_migrants_internationaux,150,43
-01.511.03.11,Commune de Sahel Chamali,tanger assilah,effectif_migrants_internationaux,45,44
-01.511.03.13,Commune de Sidi Lyamani,tanger assilah,effectif_migrants_internationaux,53,45
-01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,effectif_migrants_internationaux,7,185
-01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,effectif_migrants_internationaux,4532,3
-01.573.01.05,Commune de M'diq,m'diq fnideq,effectif_migrants_internationaux,1066,46
-01.573.01.01,Commune de Fnideq,m'diq fnideq,effectif_migrants_internationaux,884,47
-01.573.01.03,Commune de Martil,m'diq fnideq,effectif_migrants_internationaux,2536,48
-01.573.01.07,Commune d'Allyene,m'diq fnideq,effectif_migrants_internationaux,21,49
-01.573.01.09,Commune de Belyounech,m'diq fnideq,effectif_migrants_internationaux,25,50
-01.571,Province de Tétouan,tetouan,effectif_migrants_internationaux,8852,4
-01.571.01.11,Commune de Tétouan,tetouan,effectif_migrants_internationaux,8107,51
-01.571.01.07,Commune d'Oued Laou,tetouan,effectif_migrants_internationaux,191,52
-01.571.03.01,Commune d'Ain Lahsan,tetouan,effectif_migrants_internationaux,14,53
-01.571.03.19,Commune de Souk Kdim,tetouan,effectif_migrants_internationaux,23,54
-01.571.03.09,Commune de Jbel Lahbib,tetouan,effectif_migrants_internationaux,24,55
-01.571.03.09.3,dont le centre urbain de Karia,tetouan,effectif_migrants_internationaux,14,186
-01.571.03.07,Commune de Bni Harchen,tetouan,effectif_migrants_internationaux,3,56
-01.571.03.03,Commune d'Al Kharroub,tetouan,effectif_migrants_internationaux,2,57
-01.571.03.15,Commune de Mallalienne,tetouan,effectif_migrants_internationaux,75,58
-01.571.03.17,Commune de Saddina,tetouan,effectif_migrants_internationaux,14,59
-01.571.03.21,Commune de Sahtryine,tetouan,effectif_migrants_internationaux,14,60
-01.571.03.11,Commune de Bni Idder,tetouan,effectif_migrants_internationaux,0,61
-01.571.03.05,Commune de Bghaghza,tetouan,effectif_migrants_internationaux,1,62
-01.571.05.13,Commune de Bni Leit,tetouan,effectif_migrants_internationaux,2,63
-01.571.05.01,Commune d'Al Hamra,tetouan,effectif_migrants_internationaux,0,64
-01.571.05.05,Commune d'Al Oued,tetouan,effectif_migrants_internationaux,3,65
-01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,effectif_migrants_internationaux,0,66
-01.571.05.17,Commune de Dar Bni Karrich,tetouan,effectif_migrants_internationaux,86,67
-01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,effectif_migrants_internationaux,69,187
-01.571.05.27,Commune de Zinat,tetouan,effectif_migrants_internationaux,18,68
-01.571.05.07,Commune d'Azla,tetouan,effectif_migrants_internationaux,155,69
-01.571.05.23,Commune de Zaitoune,tetouan,effectif_migrants_internationaux,86,70
-01.571.05.15,Commune de Bni Said,tetouan,effectif_migrants_internationaux,6,71
-01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,effectif_migrants_internationaux,28,72
-01.227,Province de Fahs-Anjra,fahs anjra,effectif_migrants_internationaux,523,5
-01.227.05.09,Commune de Malloussa,fahs anjra,effectif_migrants_internationaux,86,73
-01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,effectif_migrants_internationaux,129,74
-01.227.05.05,Commune de Ksar Sghir,fahs anjra,effectif_migrants_internationaux,154,75
-01.227.03.11,Commune de Jouamaa,fahs anjra,effectif_migrants_internationaux,25,76
-01.227.03.05,Commune d'Anjra,fahs anjra,effectif_migrants_internationaux,17,77
-01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,effectif_migrants_internationaux,13,188
-01.227.03.21,Commune de Taghramt,fahs anjra,effectif_migrants_internationaux,24,78
-01.227.03.13,Commune de Ksar El Majaz,fahs anjra,effectif_migrants_internationaux,87,79
-01.331,Province de Larache,larache,effectif_migrants_internationaux,4272,6
-01.331.01.01,Commune de Ksar El Kebir,larache,effectif_migrants_internationaux,1147,80
-01.331.01.03,Commune de Larache,larache,effectif_migrants_internationaux,2499,81
-01.331.07.05,Commune de Laouamra,larache,effectif_migrants_internationaux,209,82
-01.331.07.05.3,dont le centre urbain de Laouamra,larache,effectif_migrants_internationaux,69,189
-01.331.07.17,Commune de Zouada,larache,effectif_migrants_internationaux,59,83
-01.331.07.03,Commune de Ksar Bjir,larache,effectif_migrants_internationaux,27,84
-01.331.07.01,Commune de Boujedyane,larache,effectif_migrants_internationaux,5,85
-01.331.07.15,Commune de Tatoft,larache,effectif_migrants_internationaux,11,86
-01.331.07.11,Commune de Souk L'qolla,larache,effectif_migrants_internationaux,14,87
-01.331.09.03,Commune de Bni Arouss,larache,effectif_migrants_internationaux,17,88
-01.331.09.13,Commune de Tazroute,larache,effectif_migrants_internationaux,8,89
-01.331.09.01,Commune d'Ayacha,larache,effectif_migrants_internationaux,9,90
-01.331.09.05,Commune de Bni Garfett,larache,effectif_migrants_internationaux,50,91
-01.331.09.15,Commune de Zaaroura,larache,effectif_migrants_internationaux,8,92
-01.331.11.11,Commune de Sahel,larache,effectif_migrants_internationaux,119,93
-01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,effectif_migrants_internationaux,37,190
-01.331.11.07,Commune de Rissana Chamalia,larache,effectif_migrants_internationaux,42,94
-01.331.11.09,Commune de Rissana Janoubia,larache,effectif_migrants_internationaux,10,95
-01.331.11.03,Commune d'Oulad Ouchih,larache,effectif_migrants_internationaux,17,96
-01.331.11.12,Commune de Souaken,larache,effectif_migrants_internationaux,1,97
-01.331.11.13,Commune de Souk Tolba,larache,effectif_migrants_internationaux,21,98
-01.051,Province d'Al Hoceima,al hoceima,effectif_migrants_internationaux,3135,7
-01.051.01.01,Commune d'Al Hoceima,al hoceima,effectif_migrants_internationaux,834,99
-01.051.01.03,Commune de Bni Bouayach,al hoceima,effectif_migrants_internationaux,285,100
-01.051.01.05,Commune d'Imzouren,al hoceima,effectif_migrants_internationaux,717,101
-01.051.01.07,Commune de Targuist,al hoceima,effectif_migrants_internationaux,319,102
-01.051.01.09,Commune d'Ajdir,al hoceima,effectif_migrants_internationaux,82,103
-01.051.03.01,Commune de Bni Boufrah,al hoceima,effectif_migrants_internationaux,23,104
-01.051.03.07,Commune de Senada,al hoceima,effectif_migrants_internationaux,35,105
-01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,effectif_migrants_internationaux,14,106
-01.051.03.03,Commune de Bni Gmil,al hoceima,effectif_migrants_internationaux,18,107
-01.051.13.11,Commune de Chakrane,al hoceima,effectif_migrants_internationaux,24,108
-01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,effectif_migrants_internationaux,30,109
-01.051.13.23,Commune de Tifarouine,al hoceima,effectif_migrants_internationaux,12,110
-01.051.13.19,Commune de Nekkour,al hoceima,effectif_migrants_internationaux,82,111
-01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,effectif_migrants_internationaux,45,112
-01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,effectif_migrants_internationaux,26,191
-01.051.13.17,Commune de Louta,al hoceima,effectif_migrants_internationaux,11,113
-01.051.13.13,Commune d'Imrabten,al hoceima,effectif_migrants_internationaux,54,114
-01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,effectif_migrants_internationaux,28,192
-01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,effectif_migrants_internationaux,65,115
-01.051.11.09,Commune de Bni Hadifa,al hoceima,effectif_migrants_internationaux,65,116
-01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,effectif_migrants_internationaux,51,193
-01.051.11.07,Commune de Bni Abdellah,al hoceima,effectif_migrants_internationaux,36,117
-01.051.11.15,Commune d'Izemmouren,al hoceima,effectif_migrants_internationaux,29,118
-01.051.11.01,Commune d'Ait Kamra,al hoceima,effectif_migrants_internationaux,51,119
-01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,effectif_migrants_internationaux,12,194
-01.051.11.21,Commune de Rouadi,al hoceima,effectif_migrants_internationaux,42,120
-01.051.07.21,Commune de Sidi Bouzineb,al hoceima,effectif_migrants_internationaux,45,121
-01.051.07.05,Commune de Bni Ammart,al hoceima,effectif_migrants_internationaux,48,122
-01.051.07.19,Commune de Sidi Boutmim,al hoceima,effectif_migrants_internationaux,26,123
-01.051.07.27,Commune de Zarkt,al hoceima,effectif_migrants_internationaux,27,124
-01.051.07.07,Commune de Bni Bchir,al hoceima,effectif_migrants_internationaux,21,125
-01.051.07.11,Commune de Bni Bounsar,al hoceima,effectif_migrants_internationaux,18,126
-01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,effectif_migrants_internationaux,14,127
-01.051.09.25,Commune de Tamsaout,al hoceima,effectif_migrants_internationaux,0,128
-01.051.09.15,Commune de Ketama,al hoceima,effectif_migrants_internationaux,5,129
-01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,effectif_migrants_internationaux,1,130
-01.051.09.13,Commune d'Issaguen,al hoceima,effectif_migrants_internationaux,31,131
-01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,effectif_migrants_internationaux,12,195
-01.051.09.09,Commune de Bni Bouchibet,al hoceima,effectif_migrants_internationaux,19,132
-01.051.09.23,Commune de Taghzout,al hoceima,effectif_migrants_internationaux,3,133
-01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,effectif_migrants_internationaux,3,134
-01.151,Province de Chefchaouen,chefchaouen,effectif_migrants_internationaux,1311,8
-01.151.01.01,Commune de Chefchaouen,chefchaouen,effectif_migrants_internationaux,667,135
-01.151.03.03,Commune de Bab Berred,chefchaouen,effectif_migrants_internationaux,47,136
-01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,effectif_migrants_internationaux,14,196
-01.151.03.13,Commune d'Iounane,chefchaouen,effectif_migrants_internationaux,20,137
-01.151.03.23,Commune de Tamorot,chefchaouen,effectif_migrants_internationaux,5,138
-01.151.09.01,Commune d'Amtar,chefchaouen,effectif_migrants_internationaux,15,139
-01.151.09.17,Commune de M'tioua,chefchaouen,effectif_migrants_internationaux,56,140
-01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,effectif_migrants_internationaux,44,197
-01.151.09.19,Commune d'Ouaouzgane,chefchaouen,effectif_migrants_internationaux,7,141
-01.151.09.09,Commune de Bni Rzine,chefchaouen,effectif_migrants_internationaux,48,142
-01.151.09.11,Commune de Bni Smih,chefchaouen,effectif_migrants_internationaux,10,143
-01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,effectif_migrants_internationaux,106,144
-01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,effectif_migrants_internationaux,14,145
-01.151.06.21,Commune d'Oued Malha,chefchaouen,effectif_migrants_internationaux,3,146
-01.151.06.15,Commune de Mansoura,chefchaouen,effectif_migrants_internationaux,9,147
-01.151.05.01,Commune de Bab Taza,chefchaouen,effectif_migrants_internationaux,61,148
-01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,effectif_migrants_internationaux,33,198
-01.151.05.07,Commune de Bni Salah,chefchaouen,effectif_migrants_internationaux,1,149
-01.151.05.03,Commune de Bni Darkoul,chefchaouen,effectif_migrants_internationaux,47,150
-01.151.05.05,Commune de Bni Faghloum,chefchaouen,effectif_migrants_internationaux,0,151
-01.151.05.11,Commune de Fifi,chefchaouen,effectif_migrants_internationaux,5,152
-01.151.05.09,Commune de Derdara,chefchaouen,effectif_migrants_internationaux,12,153
-01.151.05.15,Commune de Tanaqoub,chefchaouen,effectif_migrants_internationaux,5,154
-01.151.05.13,Commune de Laghdir,chefchaouen,effectif_migrants_internationaux,12,155
-01.151.11.05,Commune de Bni Selmane,chefchaouen,effectif_migrants_internationaux,6,156
-01.151.11.03,Commune de Bni Mansour,chefchaouen,effectif_migrants_internationaux,0,157
-01.151.07.01,Commune de Bni Bouzra,chefchaouen,effectif_migrants_internationaux,46,158
-01.151.07.07,Commune de Steha,chefchaouen,effectif_migrants_internationaux,30,159
-01.151.07.13,Commune de Tizgane,chefchaouen,effectif_migrants_internationaux,56,160
-01.151.07.11,Commune de Tassift,chefchaouen,effectif_migrants_internationaux,15,161
-01.151.07.09,Commune de Talambote,chefchaouen,effectif_migrants_internationaux,7,162
-01.405,Province d'Ouezzane,ouezzane,effectif_migrants_internationaux,515,9
-01.405.01.09,Commune d'Ouezzane,ouezzane,effectif_migrants_internationaux,293,163
-01.405.07.07,Commune de Mzefroune,ouezzane,effectif_migrants_internationaux,16,164
-01.405.07.05,Commune de Masmouda,ouezzane,effectif_migrants_internationaux,9,165
-01.405.07.15,Commune de Sidi Redouane,ouezzane,effectif_migrants_internationaux,16,166
-01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,effectif_migrants_internationaux,2,199
-01.405.07.01,Commune de Bni Quolla,ouezzane,effectif_migrants_internationaux,13,167
-01.405.13.17,Commune de Teroual,ouezzane,effectif_migrants_internationaux,6,168
-01.405.13.19,Commune de Zghira,ouezzane,effectif_migrants_internationaux,20,169
-01.405.13.09,Commune d'Ouannana,ouezzane,effectif_migrants_internationaux,10,170
-01.405.13.03,Commune de Lamjaara,ouezzane,effectif_migrants_internationaux,28,171
-01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,effectif_migrants_internationaux,12,200
-01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,effectif_migrants_internationaux,0,172
-01.405.13.13,Commune de Sidi Bousber,ouezzane,effectif_migrants_internationaux,7,173
-01.405.09.05,Commune de Brikcha,ouezzane,effectif_migrants_internationaux,9,174
-01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,effectif_migrants_internationaux,3,201
-01.405.09.03,Commune d'Asjen,ouezzane,effectif_migrants_internationaux,23,175
-01.405.09.09,Commune de Moqrissat,ouezzane,effectif_migrants_internationaux,19,176
-01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,effectif_migrants_internationaux,8,202
-01.405.09.01,Commune d'Ain Beida,ouezzane,effectif_migrants_internationaux,8,177
-01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,effectif_migrants_internationaux,16,178
-01.405.11.11,Commune de Zoumi,ouezzane,effectif_migrants_internationaux,22,179
-01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,effectif_migrants_internationaux,1,203
+﻿cg,collectivite,fk_territoire,indicateur,valeur,territoire_id,indicateur_id
+01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,effectif_migrants_internationaux,57696,1,26
+01.511,Préfecture de Tanger-Assilah,tanger assilah,effectif_migrants_internationaux,34556,2,26
+01.511.01.0,Commune de Tanger,tanger assilah,effectif_migrants_internationaux,31860,34,26
+01.511.01.05,Arrondissement de Mghogha,tanger assilah,effectif_migrants_internationaux,5403,180,26
+01.511.01.06,Arrondissement de Souani,tanger assilah,effectif_migrants_internationaux,4071,181,26
+01.511.01.03,Arrondissement de Bni Makada,tanger assilah,effectif_migrants_internationaux,6086,182,26
+01.511.01.07,Arrondissement de Médina,tanger assilah,effectif_migrants_internationaux,16300,183,26
+01.511.01.01,Commune d'Assilah,tanger assilah,effectif_migrants_internationaux,824,35,26
+01.511.01.09,Commune de Gueznaia,tanger assilah,effectif_migrants_internationaux,1347,36,26
+01.511.05.19,Commune de Hjar Ennhal,tanger assilah,effectif_migrants_internationaux,101,37,26
+01.511.05.07,Commune de Dar Chaoui,tanger assilah,effectif_migrants_internationaux,21,38,26
+01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,effectif_migrants_internationaux,12,184,26
+01.511.05.01,Commune d'Al Manzla,tanger assilah,effectif_migrants_internationaux,10,39,26
+01.511.05.17,Commune de Laaouama,tanger assilah,effectif_migrants_internationaux,65,40,26
+01.511.05.05,Commune de Sebt Azzinate,tanger assilah,effectif_migrants_internationaux,17,41,26
+01.511.03.03,Commune d'Aquouass Briech,tanger assilah,effectif_migrants_internationaux,62,42,26
+01.511.03.15,Commune de Had Al Gharbia,tanger assilah,effectif_migrants_internationaux,150,43,26
+01.511.03.11,Commune de Sahel Chamali,tanger assilah,effectif_migrants_internationaux,45,44,26
+01.511.03.13,Commune de Sidi Lyamani,tanger assilah,effectif_migrants_internationaux,53,45,26
+01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,effectif_migrants_internationaux,7,185,26
+01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,effectif_migrants_internationaux,4532,3,26
+01.573.01.05,Commune de M'diq,m'diq fnideq,effectif_migrants_internationaux,1066,46,26
+01.573.01.01,Commune de Fnideq,m'diq fnideq,effectif_migrants_internationaux,884,47,26
+01.573.01.03,Commune de Martil,m'diq fnideq,effectif_migrants_internationaux,2536,48,26
+01.573.01.07,Commune d'Allyene,m'diq fnideq,effectif_migrants_internationaux,21,49,26
+01.573.01.09,Commune de Belyounech,m'diq fnideq,effectif_migrants_internationaux,25,50,26
+01.571,Province de Tétouan,tetouan,effectif_migrants_internationaux,8852,4,26
+01.571.01.11,Commune de Tétouan,tetouan,effectif_migrants_internationaux,8107,51,26
+01.571.01.07,Commune d'Oued Laou,tetouan,effectif_migrants_internationaux,191,52,26
+01.571.03.01,Commune d'Ain Lahsan,tetouan,effectif_migrants_internationaux,14,53,26
+01.571.03.19,Commune de Souk Kdim,tetouan,effectif_migrants_internationaux,23,54,26
+01.571.03.09,Commune de Jbel Lahbib,tetouan,effectif_migrants_internationaux,24,55,26
+01.571.03.09.3,dont le centre urbain de Karia,tetouan,effectif_migrants_internationaux,14,186,26
+01.571.03.07,Commune de Bni Harchen,tetouan,effectif_migrants_internationaux,3,56,26
+01.571.03.03,Commune d'Al Kharroub,tetouan,effectif_migrants_internationaux,2,57,26
+01.571.03.15,Commune de Mallalienne,tetouan,effectif_migrants_internationaux,75,58,26
+01.571.03.17,Commune de Saddina,tetouan,effectif_migrants_internationaux,14,59,26
+01.571.03.21,Commune de Sahtryine,tetouan,effectif_migrants_internationaux,14,60,26
+01.571.03.11,Commune de Bni Idder,tetouan,effectif_migrants_internationaux,0,61,26
+01.571.03.05,Commune de Bghaghza,tetouan,effectif_migrants_internationaux,1,62,26
+01.571.05.13,Commune de Bni Leit,tetouan,effectif_migrants_internationaux,2,63,26
+01.571.05.01,Commune d'Al Hamra,tetouan,effectif_migrants_internationaux,0,64,26
+01.571.05.05,Commune d'Al Oued,tetouan,effectif_migrants_internationaux,3,65,26
+01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,effectif_migrants_internationaux,0,66,26
+01.571.05.17,Commune de Dar Bni Karrich,tetouan,effectif_migrants_internationaux,86,67,26
+01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,effectif_migrants_internationaux,69,187,26
+01.571.05.27,Commune de Zinat,tetouan,effectif_migrants_internationaux,18,68,26
+01.571.05.07,Commune d'Azla,tetouan,effectif_migrants_internationaux,155,69,26
+01.571.05.23,Commune de Zaitoune,tetouan,effectif_migrants_internationaux,86,70,26
+01.571.05.15,Commune de Bni Said,tetouan,effectif_migrants_internationaux,6,71,26
+01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,effectif_migrants_internationaux,28,72,26
+01.227,Province de Fahs-Anjra,fahs anjra,effectif_migrants_internationaux,523,5,26
+01.227.05.09,Commune de Malloussa,fahs anjra,effectif_migrants_internationaux,86,73,26
+01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,effectif_migrants_internationaux,129,74,26
+01.227.05.05,Commune de Ksar Sghir,fahs anjra,effectif_migrants_internationaux,154,75,26
+01.227.03.11,Commune de Jouamaa,fahs anjra,effectif_migrants_internationaux,25,76,26
+01.227.03.05,Commune d'Anjra,fahs anjra,effectif_migrants_internationaux,17,77,26
+01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,effectif_migrants_internationaux,13,188,26
+01.227.03.21,Commune de Taghramt,fahs anjra,effectif_migrants_internationaux,24,78,26
+01.227.03.13,Commune de Ksar El Majaz,fahs anjra,effectif_migrants_internationaux,87,79,26
+01.331,Province de Larache,larache,effectif_migrants_internationaux,4272,6,26
+01.331.01.01,Commune de Ksar El Kebir,larache,effectif_migrants_internationaux,1147,80,26
+01.331.01.03,Commune de Larache,larache,effectif_migrants_internationaux,2499,81,26
+01.331.07.05,Commune de Laouamra,larache,effectif_migrants_internationaux,209,82,26
+01.331.07.05.3,dont le centre urbain de Laouamra,larache,effectif_migrants_internationaux,69,189,26
+01.331.07.17,Commune de Zouada,larache,effectif_migrants_internationaux,59,83,26
+01.331.07.03,Commune de Ksar Bjir,larache,effectif_migrants_internationaux,27,84,26
+01.331.07.01,Commune de Boujedyane,larache,effectif_migrants_internationaux,5,85,26
+01.331.07.15,Commune de Tatoft,larache,effectif_migrants_internationaux,11,86,26
+01.331.07.11,Commune de Souk L'qolla,larache,effectif_migrants_internationaux,14,87,26
+01.331.09.03,Commune de Bni Arouss,larache,effectif_migrants_internationaux,17,88,26
+01.331.09.13,Commune de Tazroute,larache,effectif_migrants_internationaux,8,89,26
+01.331.09.01,Commune d'Ayacha,larache,effectif_migrants_internationaux,9,90,26
+01.331.09.05,Commune de Bni Garfett,larache,effectif_migrants_internationaux,50,91,26
+01.331.09.15,Commune de Zaaroura,larache,effectif_migrants_internationaux,8,92,26
+01.331.11.11,Commune de Sahel,larache,effectif_migrants_internationaux,119,93,26
+01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,effectif_migrants_internationaux,37,190,26
+01.331.11.07,Commune de Rissana Chamalia,larache,effectif_migrants_internationaux,42,94,26
+01.331.11.09,Commune de Rissana Janoubia,larache,effectif_migrants_internationaux,10,95,26
+01.331.11.03,Commune d'Oulad Ouchih,larache,effectif_migrants_internationaux,17,96,26
+01.331.11.12,Commune de Souaken,larache,effectif_migrants_internationaux,1,97,26
+01.331.11.13,Commune de Souk Tolba,larache,effectif_migrants_internationaux,21,98,26
+01.051,Province d'Al Hoceima,al hoceima,effectif_migrants_internationaux,3135,7,26
+01.051.01.01,Commune d'Al Hoceima,al hoceima,effectif_migrants_internationaux,834,99,26
+01.051.01.03,Commune de Bni Bouayach,al hoceima,effectif_migrants_internationaux,285,100,26
+01.051.01.05,Commune d'Imzouren,al hoceima,effectif_migrants_internationaux,717,101,26
+01.051.01.07,Commune de Targuist,al hoceima,effectif_migrants_internationaux,319,102,26
+01.051.01.09,Commune d'Ajdir,al hoceima,effectif_migrants_internationaux,82,103,26
+01.051.03.01,Commune de Bni Boufrah,al hoceima,effectif_migrants_internationaux,23,104,26
+01.051.03.07,Commune de Senada,al hoceima,effectif_migrants_internationaux,35,105,26
+01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,effectif_migrants_internationaux,14,106,26
+01.051.03.03,Commune de Bni Gmil,al hoceima,effectif_migrants_internationaux,18,107,26
+01.051.13.11,Commune de Chakrane,al hoceima,effectif_migrants_internationaux,24,108,26
+01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,effectif_migrants_internationaux,30,109,26
+01.051.13.23,Commune de Tifarouine,al hoceima,effectif_migrants_internationaux,12,110,26
+01.051.13.19,Commune de Nekkour,al hoceima,effectif_migrants_internationaux,82,111,26
+01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,effectif_migrants_internationaux,45,112,26
+01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,effectif_migrants_internationaux,26,191,26
+01.051.13.17,Commune de Louta,al hoceima,effectif_migrants_internationaux,11,113,26
+01.051.13.13,Commune d'Imrabten,al hoceima,effectif_migrants_internationaux,54,114,26
+01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,effectif_migrants_internationaux,28,192,26
+01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,effectif_migrants_internationaux,65,115,26
+01.051.11.09,Commune de Bni Hadifa,al hoceima,effectif_migrants_internationaux,65,116,26
+01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,effectif_migrants_internationaux,51,193,26
+01.051.11.07,Commune de Bni Abdellah,al hoceima,effectif_migrants_internationaux,36,117,26
+01.051.11.15,Commune d'Izemmouren,al hoceima,effectif_migrants_internationaux,29,118,26
+01.051.11.01,Commune d'Ait Kamra,al hoceima,effectif_migrants_internationaux,51,119,26
+01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,effectif_migrants_internationaux,12,194,26
+01.051.11.21,Commune de Rouadi,al hoceima,effectif_migrants_internationaux,42,120,26
+01.051.07.21,Commune de Sidi Bouzineb,al hoceima,effectif_migrants_internationaux,45,121,26
+01.051.07.05,Commune de Bni Ammart,al hoceima,effectif_migrants_internationaux,48,122,26
+01.051.07.19,Commune de Sidi Boutmim,al hoceima,effectif_migrants_internationaux,26,123,26
+01.051.07.27,Commune de Zarkt,al hoceima,effectif_migrants_internationaux,27,124,26
+01.051.07.07,Commune de Bni Bchir,al hoceima,effectif_migrants_internationaux,21,125,26
+01.051.07.11,Commune de Bni Bounsar,al hoceima,effectif_migrants_internationaux,18,126,26
+01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,effectif_migrants_internationaux,14,127,26
+01.051.09.25,Commune de Tamsaout,al hoceima,effectif_migrants_internationaux,0,128,26
+01.051.09.15,Commune de Ketama,al hoceima,effectif_migrants_internationaux,5,129,26
+01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,effectif_migrants_internationaux,1,130,26
+01.051.09.13,Commune d'Issaguen,al hoceima,effectif_migrants_internationaux,31,131,26
+01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,effectif_migrants_internationaux,12,195,26
+01.051.09.09,Commune de Bni Bouchibet,al hoceima,effectif_migrants_internationaux,19,132,26
+01.051.09.23,Commune de Taghzout,al hoceima,effectif_migrants_internationaux,3,133,26
+01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,effectif_migrants_internationaux,3,134,26
+01.151,Province de Chefchaouen,chefchaouen,effectif_migrants_internationaux,1311,8,26
+01.151.01.01,Commune de Chefchaouen,chefchaouen,effectif_migrants_internationaux,667,135,26
+01.151.03.03,Commune de Bab Berred,chefchaouen,effectif_migrants_internationaux,47,136,26
+01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,effectif_migrants_internationaux,14,196,26
+01.151.03.13,Commune d'Iounane,chefchaouen,effectif_migrants_internationaux,20,137,26
+01.151.03.23,Commune de Tamorot,chefchaouen,effectif_migrants_internationaux,5,138,26
+01.151.09.01,Commune d'Amtar,chefchaouen,effectif_migrants_internationaux,15,139,26
+01.151.09.17,Commune de M'tioua,chefchaouen,effectif_migrants_internationaux,56,140,26
+01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,effectif_migrants_internationaux,44,197,26
+01.151.09.19,Commune d'Ouaouzgane,chefchaouen,effectif_migrants_internationaux,7,141,26
+01.151.09.09,Commune de Bni Rzine,chefchaouen,effectif_migrants_internationaux,48,142,26
+01.151.09.11,Commune de Bni Smih,chefchaouen,effectif_migrants_internationaux,10,143,26
+01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,effectif_migrants_internationaux,106,144,26
+01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,effectif_migrants_internationaux,14,145,26
+01.151.06.21,Commune d'Oued Malha,chefchaouen,effectif_migrants_internationaux,3,146,26
+01.151.06.15,Commune de Mansoura,chefchaouen,effectif_migrants_internationaux,9,147,26
+01.151.05.01,Commune de Bab Taza,chefchaouen,effectif_migrants_internationaux,61,148,26
+01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,effectif_migrants_internationaux,33,198,26
+01.151.05.07,Commune de Bni Salah,chefchaouen,effectif_migrants_internationaux,1,149,26
+01.151.05.03,Commune de Bni Darkoul,chefchaouen,effectif_migrants_internationaux,47,150,26
+01.151.05.05,Commune de Bni Faghloum,chefchaouen,effectif_migrants_internationaux,0,151,26
+01.151.05.11,Commune de Fifi,chefchaouen,effectif_migrants_internationaux,5,152,26
+01.151.05.09,Commune de Derdara,chefchaouen,effectif_migrants_internationaux,12,153,26
+01.151.05.15,Commune de Tanaqoub,chefchaouen,effectif_migrants_internationaux,5,154,26
+01.151.05.13,Commune de Laghdir,chefchaouen,effectif_migrants_internationaux,12,155,26
+01.151.11.05,Commune de Bni Selmane,chefchaouen,effectif_migrants_internationaux,6,156,26
+01.151.11.03,Commune de Bni Mansour,chefchaouen,effectif_migrants_internationaux,0,157,26
+01.151.07.01,Commune de Bni Bouzra,chefchaouen,effectif_migrants_internationaux,46,158,26
+01.151.07.07,Commune de Steha,chefchaouen,effectif_migrants_internationaux,30,159,26
+01.151.07.13,Commune de Tizgane,chefchaouen,effectif_migrants_internationaux,56,160,26
+01.151.07.11,Commune de Tassift,chefchaouen,effectif_migrants_internationaux,15,161,26
+01.151.07.09,Commune de Talambote,chefchaouen,effectif_migrants_internationaux,7,162,26
+01.405,Province d'Ouezzane,ouezzane,effectif_migrants_internationaux,515,9,26
+01.405.01.09,Commune d'Ouezzane,ouezzane,effectif_migrants_internationaux,293,163,26
+01.405.07.07,Commune de Mzefroune,ouezzane,effectif_migrants_internationaux,16,164,26
+01.405.07.05,Commune de Masmouda,ouezzane,effectif_migrants_internationaux,9,165,26
+01.405.07.15,Commune de Sidi Redouane,ouezzane,effectif_migrants_internationaux,16,166,26
+01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,effectif_migrants_internationaux,2,199,26
+01.405.07.01,Commune de Bni Quolla,ouezzane,effectif_migrants_internationaux,13,167,26
+01.405.13.17,Commune de Teroual,ouezzane,effectif_migrants_internationaux,6,168,26
+01.405.13.19,Commune de Zghira,ouezzane,effectif_migrants_internationaux,20,169,26
+01.405.13.09,Commune d'Ouannana,ouezzane,effectif_migrants_internationaux,10,170,26
+01.405.13.03,Commune de Lamjaara,ouezzane,effectif_migrants_internationaux,28,171,26
+01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,effectif_migrants_internationaux,12,200,26
+01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,effectif_migrants_internationaux,0,172,26
+01.405.13.13,Commune de Sidi Bousber,ouezzane,effectif_migrants_internationaux,7,173,26
+01.405.09.05,Commune de Brikcha,ouezzane,effectif_migrants_internationaux,9,174,26
+01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,effectif_migrants_internationaux,3,201,26
+01.405.09.03,Commune d'Asjen,ouezzane,effectif_migrants_internationaux,23,175,26
+01.405.09.09,Commune de Moqrissat,ouezzane,effectif_migrants_internationaux,19,176,26
+01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,effectif_migrants_internationaux,8,202,26
+01.405.09.01,Commune d'Ain Beida,ouezzane,effectif_migrants_internationaux,8,177,26
+01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,effectif_migrants_internationaux,16,178,26
+01.405.11.11,Commune de Zoumi,ouezzane,effectif_migrants_internationaux,22,179,26
+01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,effectif_migrants_internationaux,1,203,26

@@ -1,111 +1,62 @@
-:root {
-  --text: #6b6375;
-  --text-h: #08060d;
-  --bg: #fff;
-  --border: #e5e4e7;
-  --code-bg: #f4f3ec;
-  --accent: #aa3bff;
-  --accent-bg: rgba(170, 59, 255, 0.1);
-  --accent-border: rgba(170, 59, 255, 0.5);
-  --social-bg: rgba(244, 243, 236, 0.5);
-  --shadow:
-    rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
+/* 1) On importe tout Tailwind (les classes utilitaires : flex, bg-*, p-*, etc.) */
+@import "tailwindcss";
 
-  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --mono: ui-monospace, Consolas, monospace;
+/* 2) On déclare le thème ORVSIT.
+   Chaque variable --color-XXX crée automatiquement les classes
+   bg-XXX, text-XXX, border-XXX, etc. (ex: --color-navy -> bg-navy)
+   Les couleurs sont reprises de ta maquette. */
+@theme {
+  --color-navy: #0a2540;
+  --color-navy-2: #123a66;
+  --color-navy-3: #1b4d85;
 
-  font: 18px/145% var(--sans);
-  letter-spacing: 0.18px;
-  color-scheme: light dark;
-  color: var(--text);
-  background: var(--bg);
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  --color-gold: #f5a623;
+  --color-gold-2: #e8961a;
+  --color-gold-soft: #fdefd6;
 
-  @media (max-width: 1024px) {
-    font-size: 16px;
-  }
+  --color-blue: #2d6cdf;
+  --color-blue-soft: #e6effd;
+
+  --color-teal: #12a594;
+  --color-teal-soft: #d7f2ee;
+  --color-coral: #f26d5b;
+  --color-coral-soft: #fde5e1;
+  --color-violet: #7a5cf0;
+  --color-violet-soft: #ece6fd;
+
+  --color-bg: #eef2f7;
+  --color-surface: #ffffff;
+  --color-line: #e9edf3;
+
+  --color-t1: #0f1e33;
+  --color-t2: #6b7688;
+  --color-t3: #a3adbd;
+
+  /* Police par défaut du projet */
+  --font-sans: "Inter", -apple-system, "Segoe UI", sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text: #9ca3af;
-    --text-h: #f3f4f6;
-    --bg: #16171d;
-    --border: #2e303a;
-    --code-bg: #1f2028;
-    --accent: #c084fc;
-    --accent-bg: rgba(192, 132, 252, 0.15);
-    --accent-border: rgba(192, 132, 252, 0.5);
-    --social-bg: rgba(47, 48, 58, 0.5);
-    --shadow:
-      rgba(0, 0, 0, 0.4) 0 10px 15px -3px, rgba(0, 0, 0, 0.25) 0 4px 6px -2px;
-  }
-
-  #social .button-icon {
-    filter: invert(1) brightness(2);
-  }
-}
-
+/* 3) Réglages de base appliqués à toute la page */
 body {
   margin: 0;
+  font-family: var(--font-sans);
+  background-color: var(--color-bg);
+  color: var(--color-t1);
+  -webkit-font-smoothing: antialiased;
 }
 
-#root {
-  width: 1126px;
-  max-width: 100%;
-  margin: 0 auto;
-  text-align: center;
-  border-inline: 1px solid var(--border);
-  min-height: 100svh;
-  display: flex;
-  flex-direction: column;
-  box-sizing: border-box;
-}
-
-h1,
-h2 {
-  font-family: var(--heading);
-  font-weight: 500;
-  color: var(--text-h);
-}
-
-h1 {
-  font-size: 56px;
-  letter-spacing: -1.68px;
-  margin: 32px 0;
-  @media (max-width: 1024px) {
-    font-size: 36px;
-    margin: 20px 0;
+/* 4) Animation « flottante » pour les halos décoratifs du hero.
+   La classe .animate-float applique ce mouvement lent de haut en bas. */
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-18px);
   }
 }
-h2 {
-  font-size: 24px;
-  line-height: 118%;
-  letter-spacing: -0.24px;
-  margin: 0 0 8px;
-  @media (max-width: 1024px) {
-    font-size: 20px;
-  }
-}
-p {
-  margin: 0;
-}
 
-code,
-.counter {
-  font-family: var(--mono);
-  display: inline-flex;
-  border-radius: 4px;
-  color: var(--text-h);
-}
-
-code {
-  font-size: 15px;
-  line-height: 135%;
-  padding: 4px 8px;
-  background: var(--code-bg);
+.animate-float {
+  animation: float 10s ease-in-out infinite;
 }

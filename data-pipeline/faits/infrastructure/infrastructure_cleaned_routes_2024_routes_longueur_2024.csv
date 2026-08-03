@@ -1,7 +1,7 @@
-﻿region,fk_territoire,indicateur,valeur,theme,territoire_id
-Région Tanger-Tétouan-Al Hoceïma,tanger tetouan al hoceima,routes_provinciales_dont_revetues_km,1236,routes_longueur_2024,1
-Région Tanger-Tétouan-Al Hoceïma,tanger tetouan al hoceima,routes_provinciales_total_km,1262,routes_longueur_2024,1
-Région Tanger-Tétouan-Al Hoceïma,tanger tetouan al hoceima,routes_regionales_dont_revetues_km,576,routes_longueur_2024,1
-Région Tanger-Tétouan-Al Hoceïma,tanger tetouan al hoceima,routes_regionales_total_km,576,routes_longueur_2024,1
-Région Tanger-Tétouan-Al Hoceïma,tanger tetouan al hoceima,routes_nationales_dont_revetues_km,955,routes_longueur_2024,1
-Région Tanger-Tétouan-Al Hoceïma,tanger tetouan al hoceima,routes_nationales_total_km,955,routes_longueur_2024,1
+﻿region,fk_territoire,indicateur,valeur,theme,territoire_id,indicateur_id
+Région Tanger-Tétouan-Al Hoceïma,tanger tetouan al hoceima,routes_provinciales_dont_revetues_km,1236,routes_longueur_2024,1,307
+Région Tanger-Tétouan-Al Hoceïma,tanger tetouan al hoceima,routes_provinciales_total_km,1262,routes_longueur_2024,1,308
+Région Tanger-Tétouan-Al Hoceïma,tanger tetouan al hoceima,routes_regionales_dont_revetues_km,576,routes_longueur_2024,1,309
+Région Tanger-Tétouan-Al Hoceïma,tanger tetouan al hoceima,routes_regionales_total_km,576,routes_longueur_2024,1,310
+Région Tanger-Tétouan-Al Hoceïma,tanger tetouan al hoceima,routes_nationales_dont_revetues_km,955,routes_longueur_2024,1,305
+Région Tanger-Tétouan-Al Hoceïma,tanger tetouan al hoceima,routes_nationales_total_km,955,routes_longueur_2024,1,306

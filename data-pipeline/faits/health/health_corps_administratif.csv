@@ -1,0 +1,53 @@
+﻿Province,Etablissement,Specialité,Nombre,territoire_id
+Al Hoceima,CRTS AlHoceima,Autre,1,7
+Al Hoceima,CRTS AlHoceima,Administrateur,3,7
+Tanger Assilah,CRTS Tanger,Administrateur,5,2
+Tetouan,CRTS Tétouan,Administrateur,1,4
+Al Hoceima,Bni Bouayach,Administrateur,1,7
+Al Hoceima,Imzouren    ,Administrateur,1,7
+Al Hoceima,Mohamed V,Administrateur,2,7
+Al Hoceima,Mohamed V,Autre,2,7
+Al Hoceima,Targuist,Autre,1,7
+Al Hoceima,Al Hoceima-Hôp. Mohammed V,Administrateur,1,7
+Al Hoceima,Imzouren,Autre,1,7
+Al Hoceima,Imzouren,Administrateur,1,7
+Chefchaouen,Mohamed V,Administrateur,13,8
+Chefchaouen,Mohamed V,Adjoint administratif,1,8
+Chefchaouen,Chefchaouen-Hôp. Mohammed V,Administrateur,1,8
+Larache,Lalla Meriem,Administrateur,15,6
+Larache,Lalla Meriem,Adjoint administratif,2,6
+Larache,Ksar El Kebir,Administrateur,4,6
+Larache,Ksar El Kebir,Adjoint administratif,2,6
+Larache,Cité universitaire Larache,Administrateur,15,6
+Larache,Cité universitaire Larache,Adjoint administratif,2,6
+Mdiq-Fnideq,Mohammed VI,Administrateur,29,3
+Mdiq-Fnideq,Hassan II,Administrateur,8,3
+Ouezzane,Abou Kacem Zahraoui,Administrateur,14,9
+Tanger Assilah,El Marsa,Administrateur,1,2
+Tanger Assilah,Jules Cot,Administrateur,1,2
+Tanger Assilah,Val Fleury,Administrateur,1,2
+Tanger Assilah,Dar Chaoui,Administrateur,1,2
+Tanger Assilah,Aouama Gharbia,Administrateur,1,2
+Tanger Assilah,Mohamed V,Administrateur,21,2
+Tanger Assilah,Al Kortobi,Administrateur,12,2
+Tanger Assilah,Al Kortobi,Adjoint administratif,1,2
+Tanger Assilah,Duc De Tovar,Administrateur,5,2
+Tanger Assilah,Assilah,Administrateur,6,2
+Tanger Assilah,Arrazi,Administrateur,5,2
+Tanger Assilah,Mohammed Vi,Administrateur,13,2
+Tanger Assilah,Centre d'oncologie,Administrateur,3,2
+Tetouan,Coelma,Administrateur,1,4
+Tetouan,Sidi Talha,Administrateur,1,4
+Tetouan,Tetouan (Hôpital),Administrateur,2,4
+Tetouan,Tetouan,Administrateur,1,4
+Tetouan,Hôpital.Civil,Administrateur,27,4
+Tetouan,Ben Karrich,Administrateur,2,4
+Tetouan,Errazi,Administrateur,2,4
+Tetouan,Tétouan,Administrateur,1,4
+Tanger Assilah,Beni Makada (CMP),Administrateur,9,2
+Mdiq-Fnideq,Martil,Administrateur,12,3
+Tanger Assilah,Hôpital des spécialité Mohamed VI,Administrateur,4,2
+Tanger Assilah,Hôpital mère enfant Mohamed VI,Administrateur,2,2
+Tanger Assilah,Hôpital psychiatrique Mohamed VI,Administrateur,4,2
+Al Hoceima,Mohammed VI,Administrateur,5,7
+Al Hoceima,Mohammed VI,Autre,3,7

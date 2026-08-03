@@ -1,0 +1,352 @@
+﻿id,nom,theme,couv,zeros,taux,vmin,vmax
+1,humidite,climate,4,0,%,63.0,77.0
+2,temp_max,climate,4,0,,22.9,25.0
+3,temp_min,climate,4,0,,14.0,16.2
+4,temp_moyenne,climate,4,0,,18.5,20.5
+5,entrees,demography,8,0,,19016.0,681859.0
+6,indice_entrees (%),demography,8,0,%,4.9,52.6
+7,indice_sortie (%),demography,8,0,%,6.9,39.5
+8,natifs,demography,8,0,,101437.0,846710.0
+9,natifs_residents_non_migrants,demography,8,0,,76658.0,788501.0
+10,population_sedentaire,demography,8,0,,99399.0,1486320.0
+11,sorties,demography,8,0,,14896.0,203043.0
+12,entrees,demography,8,0,,6115.0,213672.0
+13,indice_entrees (%),demography,8,0,%,1.9,15.7
+14,indice_sortie (%),demography,8,0,%,3.0,12.6
+15,natifs_residents_non_migrants,demography,8,0,,79170.0,1136970.0
+16,population_sedentaire_5ans_plus,demography,8,0,,89512.0,1359740.0
+17,residents_recents_5ans,demography,8,0,,84099.0,1171899.0
+18,sorties,demography,8,0,,4929.0,53014.0
+19,entrees,demography,8,0,,8803.0,323799.0
+20,indice_entrees (%),demography,8,0,%,3.1,26.6
+21,indice_sortie (%),demography,8,0,%,5.2,21.1
+22,natifs_residents_non_migrants,demography,8,0,,65064.0,884323.0
+23,population_sedentaire,demography,8,0,,79121.0,1219442.0
+24,residents_recents_10ans,demography,8,0,,73233.0,932612.0
+25,sorties,demography,8,0,,8169.0,86387.0
+26,effectif_migrants_internationaux,demography,8,0,,515.0,34556.0
+27,Descendance finale des femmes,demography,0,0,,,
+28,Indice Synthétique de fécondité,demography,0,0,,,
+29,Population de 15 ans et plus,demography,0,0,,,
+30,Taux de couverture médicale (%),demography,0,0,%,,
+31,Taux de prévalence du handicap (%),demography,0,0,%,,
+32,Taux de prévalence du handicap par groupes d'âges ,demography,0,0,%,,
+33,Âge moyen au premier mariage,demography,0,0,,,
+34,État matrimonial des 15 ans et plus (%),demography,0,0,%,,
+35,Descendance finale des femmes,demography,8,0,,2.7,4.0
+36,Indicateur conjoncturel de fécondité,demography,8,0,,1.8,2.7
+37,Population de 10 ans et plus,demography,8,0,,79123.0,1220333.0
+38,Population de 15 ans et plus,demography,8,0,,69491.0,1089488.0
+39,Population de 7-12 ans,demography,8,0,,12049.0,164700.0
+40,Population légale,demography,8,0,,100789.0,1494413.0
+41,Population municipale,demography,8,0,,99401.0,1487236.0
+42,Sexe (%) - Féminin,demography,8,0,%,47.6,50.1
+43,Sexe (%) - Masculin,demography,8,0,%,49.9,52.4
+44,Âge moyen singulier au mariage,demography,8,0,,27.4,30.1
+45,Âge quinquennal (%) - 0-4 ans,demography,8,0,%,7.0,9.9
+46,Âge quinquennal (%) - 10-14 ans,demography,8,0,%,8.8,10.5
+47,Âge quinquennal (%) - 15-19 ans,demography,8,0,%,7.4,9.2
+48,Âge quinquennal (%) - 20-24 ans,demography,8,0,%,6.6,8.3
+49,Âge quinquennal (%) - 25-29 ans,demography,8,0,%,5.2,8.9
+50,Âge quinquennal (%) - 30-34 ans,demography,8,0,%,6.4,9.1
+51,Âge quinquennal (%) - 35-39 ans,demography,8,0,%,7.3,8.3
+52,Âge quinquennal (%) - 40-44 ans,demography,8,0,%,6.4,7.3
+53,Âge quinquennal (%) - 45-49 ans,demography,8,0,%,5.1,6.3
+54,Âge quinquennal (%) - 5-9 ans,demography,8,0,%,8.6,10.5
+55,Âge quinquennal (%) - 50-54 ans,demography,8,0,%,4.4,5.7
+56,Âge quinquennal (%) - 55-59 ans,demography,8,0,%,3.6,4.8
+57,Âge quinquennal (%) - 60-64 ans,demography,8,0,%,3.4,5.2
+58,Âge quinquennal (%) - 65-69 ans,demography,8,0,%,2.3,3.9
+59,Âge quinquennal (%) - 70-74 ans,demography,8,0,%,1.8,3.0
+60,Âge quinquennal (%) - 75 ans ou plus,demography,8,0,%,2.0,4.1
+61,État matrimonial des 15 ans et plus (%) - Célibata,demography,8,0,%,32.1,39.2
+62,État matrimonial des 15 ans et plus (%) - Divorcé.,demography,8,0,%,1.3,3.3
+63,État matrimonial des 15 ans et plus (%) - Marié.e,demography,8,0,%,54.5,61.6
+64,État matrimonial des 15 ans et plus (%) - Veuf.ve,demography,8,0,%,3.7,6.2
+65,menages_2014,demography,8,0,,16823.0,266738.0
+66,menages_2024,demography,8,0,,25160.0,418844.0
+67,population_legale_2014,demography,8,0,,76447.0,1065601.0
+68,population_legale_2024,demography,8,0,,100789.0,1494413.0
+69,taux_accroissement_menages_pct,demography,8,0,%,0.9,4.6
+70,taux_accroissement_pop_pct,demography,8,0,%,-1.0,3.4
+71,menages,demography,8,0,,25160.0,418844.0
+72,population,demography,8,0,,100789.0,1494413.0
+73,distance_centre_sante_km,demography,0,0,,,
+74,distance_college_km,demography,0,0,,,
+75,distance_ecole_primaire_km,demography,0,0,,,
+76,distance_lycee_km,demography,0,0,,,
+77,distance_route_carrossable_km,demography,0,0,,,
+78,distance_route_goudronnee_km,demography,0,0,,,
+79,nombre_menages,demography,0,0,,,
+80,pct_15_59ans,demography,0,0,%,,
+81,pct_60ans_plus,demography,0,0,%,,
+82,pct_celibataire,demography,0,0,%,,
+83,pct_divorce,demography,0,0,%,,
+84,pct_enregistrement_etat_civil,demography,0,0,%,,
+85,pct_logement_appartement,demography,0,0,%,,
+86,pct_logement_autre,demography,0,0,%,,
+87,pct_logement_dur_rural,demography,0,0,%,,
+88,pct_logement_maison_marocaine_moderne,demography,0,0,%,,
+89,pct_logement_maison_marocaine_traditionnelle,demography,0,0,%,,
+90,pct_logement_pise_rural,demography,0,0,%,,
+91,pct_logement_sommaire_bidonville,demography,0,0,%,,
+92,pct_logement_villa,demography,0,0,%,,
+93,pct_marie,demography,0,0,%,,
+94,pct_moins_15ans,demography,0,0,%,,
+95,pct_nationalite_etrangere,demography,0,0,%,,
+96,pct_nationalite_marocaine,demography,0,0,%,,
+97,pct_sexe_feminin,demography,0,0,%,,
+98,pct_sexe_masculin,demography,0,0,%,,
+99,pct_veuf,demography,0,0,%,,
+100,population,demography,0,0,,,
+101,population_15ans_plus,demography,0,0,,,
+102,Langues lues et écrites par les alphabètes de 10 a,education,8,0,%,0.2,1.7
+103,Langues lues et écrites par les alphabètes de 10 a,education,8,0,%,8.9,20.7
+104,Langues lues et écrites par les alphabètes de 10 a,education,8,0,%,99.1,99.9
+105,Langues lues et écrites par les alphabètes de 10 a,education,8,0,%,34.1,53.7
+106,Niveau d'études dans l'enseignement général (%) - ,education,8,0,%,27.1,44.8
+107,Niveau d'études dans l'enseignement général (%) - ,education,8,0,%,25.6,29.1
+108,Niveau d'études dans l'enseignement général (%) - ,education,8,0,%,1.1,1.9
+109,Niveau d'études dans l'enseignement général (%) - ,education,8,0,%,14.2,19.5
+110,Niveau d'études dans l'enseignement général (%) - ,education,8,0,%,5.6,13.8
+111,Niveau d'études dans l'enseignement général (%) - ,education,8,0,%,4.2,11.9
+112,Population alphabète de 10 ans et plus,education,8,0,,58362.0,1034354.0
+113,Taux d'analphabétisme des 10 ans et plus (%),education,8,0,%,15.2,33.6
+114,Taux d'analphabétisme des 15 ans et plus (%),education,8,0,%,16.9,37.7
+115,Taux de scolarisation des 6-11 ans en 2023/2024 (%,education,8,0,%,95.3,96.7
+116,Nombre d'établissements collegial,education,8,0,,4.0,61.0
+117,Nombre d'établissements primaire,education,8,0,,39.0,163.0
+118,Nombre d'établissements qualifiant,education,8,0,,7.0,31.0
+119,Nombre d'établissements collegial,education,0,0,,,
+120,Nombre d'établissements primaire,education,0,0,,,
+121,Nombre d'établissements qualifiant,education,0,0,,,
+123,Cabinets de chirurgie dentaire par province (ou pr,health,8,1,,0.0,116.0
+124,Officines de pharmacie par province (ou préfecture,health,8,0,,20.0,260.0
+125,Laboratoires d'analyses médicales par province (ou,health,8,1,,0.0,50.0
+126,Autre,health,8,0,,7.0,569.0
+127,Infirmier polyvalent,health,8,0,,38.0,669.0
+128,Sage femme,health,8,0,,20.0,215.0
+129,Total Paramédical,health,8,0,,65.0,1453.0
+130,Autre,health,8,0,,6.0,44.0
+131,Infirmier polyvalent,health,8,0,,32.0,142.0
+132,Sage femme,health,8,0,,18.0,73.0
+133,Total général,health,8,0,,59.0,239.0
+134,Ensemble,health,8,0,,40946.0,283561.0
+135,Rural,health,8,0,,7574.0,76677.0
+136,Urbain,health,8,1,,0.0,258672.0
+137,Ensemble,health,8,0,,4625.0,33194.0
+138,Rural,health,8,0,,282.0,14078.0
+139,Urbain,health,8,1,,0.0,29043.0
+140,Césarienne,health,8,1,,0.0,1737.0
+141,Mort-nés,health,8,0,,3.0,257.0
+143,Nés vivants,health,8,0,,431.0,12489.0
+144,Total,health,8,0,,434.0,12601.0
+145,Autres,health,8,1,,0.0,363.0
+146,Condom,health,8,0,,222.0,1589.0
+147,DIU,health,8,0,,209.0,1376.0
+148,Injections,health,8,0,,58.0,447.0
+149,Pilules,health,8,0,,722.0,8482.0
+150,Total,health,8,0,,1226.0,11754.0
+151,Enfants de 12 à 23 mois - Ensemble,health,8,0,,1717.0,24375.0
+152,Enfants de 12 à 23 mois - Rural,health,8,0,,304.0,7853.0
+153,Enfants de 12 à 23 mois - Urbain,health,8,1,,0.0,23197.0
+154,Enfants de moins d'un an - Ensemble,health,8,0,,1729.0,24580.0
+155,Enfants de moins d'un an - Rural,health,8,0,,306.0,7907.0
+156,Enfants de moins d'un an - Urbain,health,8,1,,0.0,23393.0
+157,Enfants de moins de 5 ans - Ensemble,health,8,0,,7617.0,113206.0
+158,Enfants de moins de 5 ans - Rural,health,8,0,,1336.0,40991.0
+159,Enfants de moins de 5 ans - Urbain,health,8,1,,0.0,106852.0
+160,Naissances attendues - Ensemble,health,8,0,,1760.0,24996.0
+161,Naissances attendues - Rural,health,8,0,,312.0,8052.0
+162,Naissances attendues - Urbain,health,8,1,,0.0,23788.0
+167,Condom,health,8,0,,1157.0,6703.0
+168,DIU,health,8,0,,7.0,119.0
+169,Injections,health,8,0,,123.0,810.0
+170,Pilules,health,8,0,,2314.0,29163.0
+171,Total,health,8,0,,3601.0,34004.0
+172,B.C.G,health,8,0,,1839.0,23914.0
+173,DTCP1,health,8,0,,1842.0,24275.0
+174,DTCP2,health,8,0,,1809.0,23567.0
+175,DTCP3,health,8,0,,1809.0,23740.0
+176,Polio,health,8,0,,1839.0,23713.0
+177,RR1,health,8,0,,1803.0,23690.0
+178,Degré de déshydratation - (A),health,8,1,,0.0,1067.0
+179,Degré de déshydratation - (B),health,8,1,,0.0,364.0
+180,Degré de déshydratation - (C),health,8,1,,0.0,124.0
+181,Diarhée Persistante,health,8,1,,0.0,178.0
+182,Dysentérie,health,8,1,,0.0,132.0
+202,Covid-19,health,8,1,,0.0,32.0
+204,Méningite,health,8,0,,2.0,173.0
+206,Toxi-infection collective,health,8,2,,0.0,105.0
+207,Tuber-culose,health,8,0,,45.0,2443.0
+209,Femmes de 15 à 49 ans - Ensemble,health,8,0,,17879.0,357737.0
+210,Femmes de 15 à 49 ans - Rural,health,8,0,,2888.0,88628.0
+211,Femmes de 15 à 49 ans - Urbain,health,8,1,,0.0,342010.0
+212,Femmes de 30 à 49 ans - Ensemble,health,8,0,,8300.0,190068.0
+213,Femmes de 30 à 49 ans - Rural,health,8,0,,1294.0,37391.0
+214,Femmes de 30 à 49 ans - Urbain,health,8,1,,0.0,182985.0
+215,Femmes de 40 à 69 ans - Ensemble,health,8,0,,8702.0,167706.0
+216,Femmes de 40 à 69 ans - Rural,health,8,0,,1481.0,36284.0
+217,Femmes de 40 à 69 ans - Urbain,health,8,1,,0.0,159418.0
+218,Femmes mariées de 15 à 49 ans - Ensemble,health,8,0,,9942.0,197646.0
+219,Femmes mariées de 15 à 49 ans - Rural,health,8,0,,1632.0,46785.0
+220,Femmes mariées de 15 à 49 ans - Urbain,health,8,1,,0.0,188811.0
+221,cdtmr_total,health,8,2,,0.0,1.0
+222,crsr_total,health,8,2,,0.0,2.0
+223,essp_csr1,health,8,0,,2.0,17.0
+224,essp_csr2,health,8,1,,0.0,19.0
+225,essp_csu1,health,8,1,,0.0,21.0
+227,essp_dr,health,8,2,,0.0,22.0
+228,essp_total,health,8,0,,2.0,49.0
+229,essp_total_global,health,8,0,,8.0,61.0
+230,essp_urbain_total,health,8,1,,0.0,28.0
+232,structures_appui_total,health,8,2,,0.0,4.0
+233,total_general,health,8,0,,8.0,64.0
+234,centre_hemodialyse,health,8,0,,1.0,5.0
+239,hopital_provincial,health,8,2,,0.0,2.0
+245,total_general,health,8,0,,1.0,17.0
+246,total_hospital,health,8,1,,0.0,10.0
+255,ump_smur,health,8,0,,7.0,26.0
+256,ump_total,health,8,0,,7.0,28.0
+263,Médecins généralistes,health,8,0,,2.0,309.0
+264,Médecins spécialistes,health,8,1,,0.0,659.0
+265,Chirurgiens dentistes par province (ou préfecture),health,8,0,,2.0,11.0
+266,nombre_abonnes,infrastructure,7,0,,2060.0,76936.0
+267,production,infrastructure,8,0,,2560.0,84951.0
+268,ventes_abonnes,infrastructure,8,0,,21.0,7383.0
+269,ventes_regies_concessions,infrastructure,5,0,,19.0,80344.0
+270,Bonne Qualité 2021,infrastructure,0,0,,,
+271,Bonne Qualité 2022,infrastructure,0,0,,,
+272,Bonne Qualité 2023,infrastructure,0,0,,,
+273,Bonne Qualité 2024,infrastructure,0,0,,,
+274,Execellante Qaulité 2021,infrastructure,0,0,,,
+275,Execellante Qaulité 2022,infrastructure,0,0,,,
+276,Execellante Qaulité 2023,infrastructure,0,0,,,
+277,Execellante Qaulité 2024,infrastructure,0,0,,,
+278,Qualité Suffisante 2021,infrastructure,0,0,,,
+279,Qualité Suffisante 2022,infrastructure,0,0,,,
+280,Qualité Suffisante 2023,infrastructure,0,0,,,
+281,Qualité Suffisante 2024,infrastructure,0,0,,,
+282,Qualité insuffisante 2021,infrastructure,0,0,,,
+283,Qualité insuffisante 2022,infrastructure,0,0,,,
+284,Qualité insuffisante 2023,infrastructure,0,0,,,
+285,Qualité insuffisante 2024,infrastructure,0,0,,,
+286,Total 2021,infrastructure,0,0,,,
+287,Total 2022,infrastructure,0,0,,,
+288,Total 2023,infrastructure,0,0,,,
+289,Total 2024,infrastructure,0,0,,,
+290,nbre_prelevements_2021,infrastructure,0,0,,,
+291,nbre_prelevements_2022,infrastructure,0,0,,,
+292,nbre_prelevements_2023,infrastructure,0,0,,,
+293,nbre_prelevements_2024,infrastructure,0,0,,,
+294,nbre_stations_2021,infrastructure,0,0,,,
+295,nbre_stations_2022,infrastructure,0,0,,,
+296,nbre_stations_2023,infrastructure,0,0,,,
+297,nbre_stations_2024,infrastructure,0,0,,,
+298,plages_evolution_total 2021,infrastructure,0,0,,,
+299,plages_evolution_total 2022,infrastructure,0,0,,,
+300,plages_evolution_total 2023,infrastructure,0,0,,,
+301,plages_evolution_total 2024,infrastructure,0,0,,,
+302,total_general,infrastructure,3,0,,1298.0,23018.0
+303,trafic_commercial,infrastructure,3,0,,1266.0,21724.0
+304,trafic_non_commercial,infrastructure,3,0,,32.0,1294.0
+305,routes_nationales_dont_revetues_km,infrastructure,0,0,,,
+306,routes_nationales_total_km,infrastructure,0,0,,,
+307,routes_provinciales_dont_revetues_km,infrastructure,0,0,,,
+308,routes_provinciales_total_km,infrastructure,0,0,,,
+309,routes_regionales_dont_revetues_km,infrastructure,0,0,,,
+310,routes_regionales_total_km,infrastructure,0,0,,,
+311,autoroutes_km,infrastructure,8,3,,0.0,61.6
+312,niveau_fragilite_transport,infrastructure,0,0,,,
+313,part_autoroute_pct_du_reseau,infrastructure,8,3,%,0.0,24.3
+314,part_routes_provinciales_pct,infrastructure,8,0,%,25.8,68.1
+315,reseau_revetu_km,infrastructure,8,0,,78.3,635.3
+316,reseau_total_km,infrastructure,8,0,,78.3,635.3
+317,routes_nationales_km,infrastructure,8,0,,39.1,317.2
+318,routes_provinciales_km,infrastructure,8,0,,20.2,297.9
+319,routes_regionales_km,infrastructure,8,1,,0.0,136.1
+320,score_fragilite_transport,infrastructure,8,2,,0.0,4.0
+321,taux_revetement_pct,infrastructure,8,0,%,93.5,100.0
+322,electricite_ventes_distributeur_2022,infrastructure,3,0,,351.0,1801.0
+323,electricite_ventes_distributeur_2023,infrastructure,3,0,,354.0,1855.0
+324,electricite_ventes_distributeur_2024,infrastructure,3,0,,363.5,1860.6
+325,electricite_ventes_provinces_2022,infrastructure,8,0,,90.0,1976.0
+326,electricite_ventes_provinces_2023,infrastructure,8,0,,92.0,1953.0
+327,electricite_ventes_provinces_2024,infrastructure,8,0,,91.0,1914.0
+328,Niveau d'études de la population âgée de 25 ans et,socio_economic,0,0,%,,
+329,Nombre moyen d'années d'études dans l'enseignement,socio_economic,0,0,,,
+330,Population alphabète de 10 ans et plus,socio_economic,0,0,,,
+331,Population de 10 ans et plus,socio_economic,0,0,,,
+332,Population de 15 ans et plus,socio_economic,0,0,,,
+333,Population de 7-12 ans,socio_economic,0,0,,,
+334,Taux d'analphabétisme des 10 ans et plus (%),socio_economic,0,0,%,,
+335,Taux d'analphabétisme des 15 ans et plus (%),socio_economic,0,0,%,,
+336,Taux d'analphabétisme selon les groupes d’âges (%),socio_economic,0,0,%,,
+337,Taux de scolarisation des 12-17 ans en 2023/2024 (,socio_economic,0,0,%,,
+338,Taux de scolarisation des 4- 5 ans en 2023/2024 (%,socio_economic,0,0,%,,
+339,Taux de scolarisation des 6- 11 ans en 2023/2024 (,socio_economic,0,0,%,,
+340,50 ans et plus,socio_economic,8,5,%,0.0,75.9
+341,Appartement,socio_economic,8,0,%,0.3,54.4
+342,Autres,socio_economic,8,0,%,0.0,5.0
+343,Autres type,socio_economic,8,0,%,0.2,0.6
+344,"Béton armé, briques avec mortier",socio_economic,8,0,%,91.4,99.8
+345,Dalle,socio_economic,8,0,%,92.2,99.4
+346,De 20 à moins de 50 ans,socio_economic,8,2,%,0.0,69.9
+347,Logement en type rural,socio_economic,8,1,%,0.0,5.1
+348,Logement occupé,socio_economic,8,0,%,40.7,80.6
+349,Logement secondaire/saisonnier,socio_economic,8,0,%,4.5,47.8
+350,Logement vacants,socio_economic,8,0,%,10.7,20.8
+351,Maison marocaine moderne,socio_economic,8,0,%,42.7,97.0
+352,Maison marocaine traditionnelle,socio_economic,8,0,%,0.6,9.7
+353,Maison sommaire ou bidonville,socio_economic,8,0,%,0.1,4.1
+354,Moins de 20 ans,socio_economic,8,0,%,4.4,100.0
+355,Pierre agglomérée avec mortier,socio_economic,8,0,%,0.1,4.0
+356,"Planches, bois ou tuiles",socio_economic,8,0,%,0.5,2.2
+357,Réseau public d'assainissement,socio_economic,8,0,%,85.1,97.3
+358,Réseau public d'eau,socio_economic,8,0,%,87.3,95.5
+359,Réseau public d'électricité,socio_economic,8,0,%,90.8,97.3
+360,Taux de déficit quantitatif en logement (%),socio_economic,8,0,%,0.7,8.4
+361,Total des logements urbains,socio_economic,8,0,,1129.0,554635.0
+362,Total logement non occupé,socio_economic,8,0,%,19.4,59.3
+363,Total non précaire,socio_economic,8,0,%,93.3,99.7
+364,Total précaire,socio_economic,8,0,%,0.3,6.7
+365,Tôle en ciment ou en zinc,socio_economic,8,0,%,0.0,1.2
+366,Villa ou niveau de villa,socio_economic,8,0,%,0.4,1.8
+367,internet_utilisation_pct_5ansplus,socio_economic,8,0,%,32.7,73.7
+368,ordinateur_personnel_pct_5ansplus,socio_economic,8,0,%,2.1,9.6
+369,telephone_mobile_pct_5ansplus,socio_economic,5,0,%,60.8,67.4
+370,ordinateur_personnel_pct_5ansplus,socio_economic,0,0,,,
+371,internet_utilisation_pct_5ansplus,socio_economic,0,0,,,
+372,telephone_mobile_pct_5ansplus,socio_economic,0,0,,,
+373,internet_utilisation_pct_5ansplus,socio_economic,2,0,%,32.7,44.7
+374,ordinateur_personnel_pct_5ansplus,socio_economic,4,0,%,3.0,7.6
+375,telephone_mobile_pct_5ansplus,socio_economic,2,0,%,63.4,64.1
+376,Langues locales utilisées (non exclusives) (%) - D,socio_economic,8,0,%,73.9,99.0
+377,Langues locales utilisées (non exclusives) (%) - H,socio_economic,8,2,%,0.0,0.1
+378,Langues locales utilisées (non exclusives) (%) - T,socio_economic,8,0,%,0.4,2.5
+379,Langues locales utilisées (non exclusives) (%) - T,socio_economic,8,0,%,0.1,2.1
+380,Langues locales utilisées (non exclusives) (%) - T,socio_economic,8,0,%,0.1,53.6
+381,Population active de 15 ans et plus,socio_economic,8,0,,32503.0,564663.0
+382,Population active occupée de 15 ans et plus,socio_economic,8,0,,27370.0,478322.0
+383,Population inactive de 15 ans et plus,socio_economic,8,0,,36986.0,523953.0
+384,Statut professionnel des actifs occupés de 15 ans ,socio_economic,8,0,%,0.9,13.9
+385,Statut professionnel des actifs occupés de 15 ans ,socio_economic,8,0,%,0.2,1.2
+386,Statut professionnel des actifs occupés de 15 ans ,socio_economic,8,0,%,0.9,6.5
+387,Statut professionnel des actifs occupés de 15 ans ,socio_economic,8,0,%,1.5,3.2
+388,Statut professionnel des actifs occupés de 15 ans ,socio_economic,8,0,%,0.9,2.8
+389,Statut professionnel des actifs occupés de 15 ans ,socio_economic,8,0,%,17.3,50.7
+390,Statut professionnel des actifs occupés de 15 ans ,socio_economic,8,0,%,22.9,66.3
+391,Statut professionnel des actifs occupés de 15 ans ,socio_economic,8,0,%,6.4,17.4
+392,Taux d'activité des 15 ans et plus (%),socio_economic,8,0,%,34.3,51.9
+393,Taux de chômage (%),socio_economic,8,0,%,15.3,29.6
+394,Taux de prévalence du handicap (%),socio_economic,8,0,%,3.7,8.0
+395,Nombre d'établissements de soins primaires (ESSP),health,8,0,,8.0,61.0
+396,Nombre d'hôpitaux,health,8,1,%,0.0,10.0
+397,Nombre de médecins (secteur public),health,8,0,,12.0,991.0
+398,Personnel paramédical (secteur public),health,8,0,,65.0,1447.0
+399,Médecins pour 10 000 habitants,health,8,0,,1.2,6.6
+400,Personnel paramédical pour 10 000 habitants,health,8,0,,6.5,18.7
+401,ESSP pour 100 000 habitants,health,8,0,,2.5,16.4
+402,Population urbaine (RGPH 2024),demography,8,0,,3763.0,1402668.0
+403,Population rurale (RGPH 2024),demography,8,0,,13319.0,350081.0
+404,Taux d'urbanisation,demography,8,0,%,3.7,94.8

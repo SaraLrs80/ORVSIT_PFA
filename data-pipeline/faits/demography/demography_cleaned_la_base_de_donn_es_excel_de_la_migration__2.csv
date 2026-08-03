@@ -1,1254 +1,1254 @@
-﻿cg,collectivite,fk_territoire,indicateur,valeur,territoire_id
-01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,population_sedentaire_5ans_plus,3679166.0,1
-01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,natifs_residents_non_migrants,3490612.0,1
-01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,residents_recents_5ans,3568844.0,1
-01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,entrees,174103.0,1
-01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,indice_entrees (%),4.7,1
-01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,indice_sortie (%),2.2,1
-01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,sorties,78232.0,1
-01.511,Préfecture de Tanger-Assilah,tanger assilah,population_sedentaire_5ans_plus,1359740.0,2
-01.511,Préfecture de Tanger-Assilah,tanger assilah,natifs_residents_non_migrants,1136970.0,2
-01.511,Préfecture de Tanger-Assilah,tanger assilah,residents_recents_5ans,1171899.0,2
-01.511,Préfecture de Tanger-Assilah,tanger assilah,entrees,213672.0,2
-01.511,Préfecture de Tanger-Assilah,tanger assilah,indice_entrees (%),15.7,2
-01.511,Préfecture de Tanger-Assilah,tanger assilah,indice_sortie (%),3.0,2
-01.511,Préfecture de Tanger-Assilah,tanger assilah,sorties,34929.0,2
-01.511.01.0,Commune de Tanger,tanger assilah,population_sedentaire_5ans_plus,1166386.0,34
-01.511.01.0,Commune de Tanger,tanger assilah,natifs_residents_non_migrants,963573.0,34
-01.511.01.0,Commune de Tanger,tanger assilah,residents_recents_5ans,1019938.0,34
-01.511.01.0,Commune de Tanger,tanger assilah,entrees,560670.0,34
-01.511.01.0,Commune de Tanger,tanger assilah,indice_entrees (%),48.1,34
-01.511.01.0,Commune de Tanger,tanger assilah,indice_sortie (%),12.4,34
-01.511.01.0,Commune de Tanger,tanger assilah,sorties,126127.0,34
-01.511.01.05,Arrondissement de Mghogha,tanger assilah,population_sedentaire_5ans_plus,231487.0,180
-01.511.01.05,Arrondissement de Mghogha,tanger assilah,natifs_residents_non_migrants,182144.0,180
-01.511.01.05,Arrondissement de Mghogha,tanger assilah,residents_recents_5ans,200944.0,180
-01.511.01.05,Arrondissement de Mghogha,tanger assilah,entrees,48160.0,180
-01.511.01.05,Arrondissement de Mghogha,tanger assilah,indice_entrees (%),20.8,180
-01.511.01.05,Arrondissement de Mghogha,tanger assilah,indice_sortie (%),9.4,180
-01.511.01.05,Arrondissement de Mghogha,tanger assilah,sorties,18800.0,180
-01.511.01.06,Arrondissement de Souani,tanger assilah,population_sedentaire_5ans_plus,104325.0,181
-01.511.01.06,Arrondissement de Souani,tanger assilah,natifs_residents_non_migrants,86420.0,181
-01.511.01.06,Arrondissement de Souani,tanger assilah,residents_recents_5ans,95820.0,181
-01.511.01.06,Arrondissement de Souani,tanger assilah,entrees,16971.0,181
-01.511.01.06,Arrondissement de Souani,tanger assilah,indice_entrees (%),16.3,181
-01.511.01.06,Arrondissement de Souani,tanger assilah,indice_sortie (%),9.8,181
-01.511.01.06,Arrondissement de Souani,tanger assilah,sorties,9400.0,181
-01.511.01.03,Arrondissement de Bni Makada,tanger assilah,population_sedentaire_5ans_plus,514751.0,182
-01.511.01.03,Arrondissement de Bni Makada,tanger assilah,natifs_residents_non_migrants,406791.0,182
-01.511.01.03,Arrondissement de Bni Makada,tanger assilah,residents_recents_5ans,451838.0,182
-01.511.01.03,Arrondissement de Bni Makada,tanger assilah,entrees,106462.0,182
-01.511.01.03,Arrondissement de Bni Makada,tanger assilah,indice_entrees (%),20.7,182
-01.511.01.03,Arrondissement de Bni Makada,tanger assilah,indice_sortie (%),10.0,182
-01.511.01.03,Arrondissement de Bni Makada,tanger assilah,sorties,45047.0,182
-01.511.01.07,Arrondissement de Médina,tanger assilah,population_sedentaire_5ans_plus,315823.0,183
-01.511.01.07,Arrondissement de Médina,tanger assilah,natifs_residents_non_migrants,245603.0,183
-01.511.01.07,Arrondissement de Médina,tanger assilah,residents_recents_5ans,271337.0,183
-01.511.01.07,Arrondissement de Médina,tanger assilah,entrees,65232.0,183
-01.511.01.07,Arrondissement de Médina,tanger assilah,indice_entrees (%),20.7,183
-01.511.01.07,Arrondissement de Médina,tanger assilah,indice_sortie (%),9.5,183
-01.511.01.07,Arrondissement de Médina,tanger assilah,sorties,25734.0,183
-01.511.01.01,Commune d'Assilah,tanger assilah,population_sedentaire_5ans_plus,31473.0,35
-01.511.01.01,Commune d'Assilah,tanger assilah,natifs_residents_non_migrants,28276.0,35
-01.511.01.01,Commune d'Assilah,tanger assilah,residents_recents_5ans,30907.0,35
-01.511.01.01,Commune d'Assilah,tanger assilah,entrees,2994.0,35
-01.511.01.01,Commune d'Assilah,tanger assilah,indice_entrees (%),9.5,35
-01.511.01.01,Commune d'Assilah,tanger assilah,indice_sortie (%),8.5,35
-01.511.01.01,Commune d'Assilah,tanger assilah,sorties,2631.0,35
-01.511.01.09,Commune de Gueznaia,tanger assilah,population_sedentaire_5ans_plus,78916.0,36
-01.511.01.09,Commune de Gueznaia,tanger assilah,natifs_residents_non_migrants,42210.0,36
-01.511.01.09,Commune de Gueznaia,tanger assilah,residents_recents_5ans,46682.0,36
-01.511.01.09,Commune de Gueznaia,tanger assilah,entrees,36500.0,36
-01.511.01.09,Commune de Gueznaia,tanger assilah,indice_entrees (%),46.3,36
-01.511.01.09,Commune de Gueznaia,tanger assilah,indice_sortie (%),9.6,36
-01.511.01.09,Commune de Gueznaia,tanger assilah,sorties,4473.0,36
-01.511.05.19,Commune de Hjar Ennhal,tanger assilah,population_sedentaire_5ans_plus,22504.0,37
-01.511.05.19,Commune de Hjar Ennhal,tanger assilah,natifs_residents_non_migrants,15485.0,37
-01.511.05.19,Commune de Hjar Ennhal,tanger assilah,residents_recents_5ans,16100.0,37
-01.511.05.19,Commune de Hjar Ennhal,tanger assilah,entrees,7013.0,37
-01.511.05.19,Commune de Hjar Ennhal,tanger assilah,indice_entrees (%),31.2,37
-01.511.05.19,Commune de Hjar Ennhal,tanger assilah,indice_sortie (%),3.8,37
-01.511.05.19,Commune de Hjar Ennhal,tanger assilah,sorties,616.0,37
-01.511.05.07,Commune de Dar Chaoui,tanger assilah,population_sedentaire_5ans_plus,4141.0,38
-01.511.05.07,Commune de Dar Chaoui,tanger assilah,natifs_residents_non_migrants,3899.0,38
-01.511.05.07,Commune de Dar Chaoui,tanger assilah,residents_recents_5ans,4540.0,38
-01.511.05.07,Commune de Dar Chaoui,tanger assilah,entrees,236.0,38
-01.511.05.07,Commune de Dar Chaoui,tanger assilah,indice_entrees (%),5.7,38
-01.511.05.07,Commune de Dar Chaoui,tanger assilah,indice_sortie (%),14.1,38
-01.511.05.07,Commune de Dar Chaoui,tanger assilah,sorties,641.0,38
-01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,population_sedentaire_5ans_plus,1378.0,184
-01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,natifs_residents_non_migrants,1204.0,184
-01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,residents_recents_5ans,1391.0,184
-01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,entrees,168.0,184
-01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,indice_entrees (%),12.2,184
-01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,indice_sortie (%),13.4,184
-01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,sorties,187.0,184
-01.511.05.01,Commune d'Al Manzla,tanger assilah,population_sedentaire_5ans_plus,2473.0,39
-01.511.05.01,Commune d'Al Manzla,tanger assilah,natifs_residents_non_migrants,2330.0,39
-01.511.05.01,Commune d'Al Manzla,tanger assilah,residents_recents_5ans,2478.0,39
-01.511.05.01,Commune d'Al Manzla,tanger assilah,entrees,137.0,39
-01.511.05.01,Commune d'Al Manzla,tanger assilah,indice_entrees (%),5.5,39
-01.511.05.01,Commune d'Al Manzla,tanger assilah,indice_sortie (%),6.0,39
-01.511.05.01,Commune d'Al Manzla,tanger assilah,sorties,148.0,39
-01.511.05.17,Commune de Laaouama,tanger assilah,population_sedentaire_5ans_plus,17054.0,40
-01.511.05.17,Commune de Laaouama,tanger assilah,natifs_residents_non_migrants,11966.0,40
-01.511.05.17,Commune de Laaouama,tanger assilah,residents_recents_5ans,14122.0,40
-01.511.05.17,Commune de Laaouama,tanger assilah,entrees,5074.0,40
-01.511.05.17,Commune de Laaouama,tanger assilah,indice_entrees (%),29.8,40
-01.511.05.17,Commune de Laaouama,tanger assilah,indice_sortie (%),15.3,40
-01.511.05.17,Commune de Laaouama,tanger assilah,sorties,2156.0,40
-01.511.05.05,Commune de Sebt Azzinate,tanger assilah,population_sedentaire_5ans_plus,6512.0,41
-01.511.05.05,Commune de Sebt Azzinate,tanger assilah,natifs_residents_non_migrants,5679.0,41
-01.511.05.05,Commune de Sebt Azzinate,tanger assilah,residents_recents_5ans,6178.0,41
-01.511.05.05,Commune de Sebt Azzinate,tanger assilah,entrees,832.0,41
-01.511.05.05,Commune de Sebt Azzinate,tanger assilah,indice_entrees (%),12.8,41
-01.511.05.05,Commune de Sebt Azzinate,tanger assilah,indice_sortie (%),8.1,41
-01.511.05.05,Commune de Sebt Azzinate,tanger assilah,sorties,499.0,41
-01.511.03.03,Commune d'Aquouass Briech,tanger assilah,population_sedentaire_5ans_plus,4265.0,42
-01.511.03.03,Commune d'Aquouass Briech,tanger assilah,natifs_residents_non_migrants,3969.0,42
-01.511.03.03,Commune d'Aquouass Briech,tanger assilah,residents_recents_5ans,4098.0,42
-01.511.03.03,Commune d'Aquouass Briech,tanger assilah,entrees,278.0,42
-01.511.03.03,Commune d'Aquouass Briech,tanger assilah,indice_entrees (%),6.5,42
-01.511.03.03,Commune d'Aquouass Briech,tanger assilah,indice_sortie (%),3.2,42
-01.511.03.03,Commune d'Aquouass Briech,tanger assilah,sorties,129.0,42
-01.511.03.15,Commune de Had Al Gharbia,tanger assilah,population_sedentaire_5ans_plus,11797.0,43
-01.511.03.15,Commune de Had Al Gharbia,tanger assilah,natifs_residents_non_migrants,10968.0,43
-01.511.03.15,Commune de Had Al Gharbia,tanger assilah,residents_recents_5ans,12058.0,43
-01.511.03.15,Commune de Had Al Gharbia,tanger assilah,entrees,812.0,43
-01.511.03.15,Commune de Had Al Gharbia,tanger assilah,indice_entrees (%),6.9,43
-01.511.03.15,Commune de Had Al Gharbia,tanger assilah,indice_sortie (%),9.0,43
-01.511.03.15,Commune de Had Al Gharbia,tanger assilah,sorties,1090.0,43
-01.511.03.11,Commune de Sahel Chamali,tanger assilah,population_sedentaire_5ans_plus,4618.0,44
-01.511.03.11,Commune de Sahel Chamali,tanger assilah,natifs_residents_non_migrants,4453.0,44
-01.511.03.11,Commune de Sahel Chamali,tanger assilah,residents_recents_5ans,4603.0,44
-01.511.03.11,Commune de Sahel Chamali,tanger assilah,entrees,157.0,44
-01.511.03.11,Commune de Sahel Chamali,tanger assilah,indice_entrees (%),3.4,44
-01.511.03.11,Commune de Sahel Chamali,tanger assilah,indice_sortie (%),3.3,44
-01.511.03.11,Commune de Sahel Chamali,tanger assilah,sorties,150.0,44
-01.511.03.13,Commune de Sidi Lyamani,tanger assilah,population_sedentaire_5ans_plus,9601.0,45
-01.511.03.13,Commune de Sidi Lyamani,tanger assilah,natifs_residents_non_migrants,9208.0,45
-01.511.03.13,Commune de Sidi Lyamani,tanger assilah,residents_recents_5ans,10194.0,45
-01.511.03.13,Commune de Sidi Lyamani,tanger assilah,entrees,384.0,45
-01.511.03.13,Commune de Sidi Lyamani,tanger assilah,indice_entrees (%),4.0,45
-01.511.03.13,Commune de Sidi Lyamani,tanger assilah,indice_sortie (%),9.7,45
-01.511.03.13,Commune de Sidi Lyamani,tanger assilah,sorties,986.0,45
-01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,population_sedentaire_5ans_plus,944.0,185
-01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,natifs_residents_non_migrants,848.0,185
-01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,residents_recents_5ans,979.0,185
-01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,entrees,95.0,185
-01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,indice_entrees (%),10.1,185
-01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,indice_sortie (%),13.4,185
-01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,sorties,131.0,185
-01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,population_sedentaire_5ans_plus,233084.0,3
-01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,natifs_residents_non_migrants,203091.0,3
-01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,residents_recents_5ans,213248.0,3
-01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,entrees,28978.0,3
-01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,indice_entrees (%),12.4,3
-01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,indice_sortie (%),4.8,3
-01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,sorties,10157.0,3
-01.573.01.05,Commune de M'diq,m'diq fnideq,population_sedentaire_5ans_plus,62133.0,46
-01.573.01.05,Commune de M'diq,m'diq fnideq,natifs_residents_non_migrants,55042.0,46
-01.573.01.05,Commune de M'diq,m'diq fnideq,residents_recents_5ans,57800.0,46
-01.573.01.05,Commune de M'diq,m'diq fnideq,entrees,6954.0,46
-01.573.01.05,Commune de M'diq,m'diq fnideq,indice_entrees (%),11.2,46
-01.573.01.05,Commune de M'diq,m'diq fnideq,indice_sortie (%),4.8,46
-01.573.01.05,Commune de M'diq,m'diq fnideq,sorties,2757.0,46
-01.573.01.01,Commune de Fnideq,m'diq fnideq,population_sedentaire_5ans_plus,70495.0,47
-01.573.01.01,Commune de Fnideq,m'diq fnideq,natifs_residents_non_migrants,65132.0,47
-01.573.01.01,Commune de Fnideq,m'diq fnideq,residents_recents_5ans,70097.0,47
-01.573.01.01,Commune de Fnideq,m'diq fnideq,entrees,5195.0,47
-01.573.01.01,Commune de Fnideq,m'diq fnideq,indice_entrees (%),7.4,47
-01.573.01.01,Commune de Fnideq,m'diq fnideq,indice_sortie (%),7.1,47
-01.573.01.01,Commune de Fnideq,m'diq fnideq,sorties,4964.0,47
-01.573.01.03,Commune de Martil,m'diq fnideq,population_sedentaire_5ans_plus,88851.0,48
-01.573.01.03,Commune de Martil,m'diq fnideq,natifs_residents_non_migrants,70066.0,48
-01.573.01.03,Commune de Martil,m'diq fnideq,residents_recents_5ans,73814.0,48
-01.573.01.03,Commune de Martil,m'diq fnideq,entrees,18076.0,48
-01.573.01.03,Commune de Martil,m'diq fnideq,indice_entrees (%),20.3,48
-01.573.01.03,Commune de Martil,m'diq fnideq,indice_sortie (%),5.1,48
-01.573.01.03,Commune de Martil,m'diq fnideq,sorties,3748.0,48
-01.573.01.07,Commune d'Allyene,m'diq fnideq,population_sedentaire_5ans_plus,7374.0,49
-01.573.01.07,Commune d'Allyene,m'diq fnideq,natifs_residents_non_migrants,7021.0,49
-01.573.01.07,Commune d'Allyene,m'diq fnideq,residents_recents_5ans,7329.0,49
-01.573.01.07,Commune d'Allyene,m'diq fnideq,entrees,352.0,49
-01.573.01.07,Commune d'Allyene,m'diq fnideq,indice_entrees (%),4.8,49
-01.573.01.07,Commune d'Allyene,m'diq fnideq,indice_sortie (%),4.2,49
-01.573.01.07,Commune d'Allyene,m'diq fnideq,sorties,308.0,49
-01.573.01.09,Commune de Belyounech,m'diq fnideq,population_sedentaire_5ans_plus,4231.0,50
-01.573.01.09,Commune de Belyounech,m'diq fnideq,natifs_residents_non_migrants,4105.0,50
-01.573.01.09,Commune de Belyounech,m'diq fnideq,residents_recents_5ans,4210.0,50
-01.573.01.09,Commune de Belyounech,m'diq fnideq,entrees,125.0,50
-01.573.01.09,Commune de Belyounech,m'diq fnideq,indice_entrees (%),3.0,50
-01.573.01.09,Commune de Belyounech,m'diq fnideq,indice_sortie (%),2.5,50
-01.573.01.09,Commune de Belyounech,m'diq fnideq,sorties,105.0,50
-01.571,Province de Tétouan,tetouan,population_sedentaire_5ans_plus,563824.0,4
-01.571,Province de Tétouan,tetouan,natifs_residents_non_migrants,530204.0,4
-01.571,Province de Tétouan,tetouan,residents_recents_5ans,559845.0,4
-01.571,Province de Tétouan,tetouan,entrees,31472.0,4
-01.571,Province de Tétouan,tetouan,indice_entrees (%),5.6,4
-01.571,Province de Tétouan,tetouan,indice_sortie (%),5.3,4
-01.571,Province de Tétouan,tetouan,sorties,29641.0,4
-01.571.01.11,Commune de Tétouan,tetouan,population_sedentaire_5ans_plus,391423.0,51
-01.571.01.11,Commune de Tétouan,tetouan,natifs_residents_non_migrants,359903.0,51
-01.571.01.11,Commune de Tétouan,tetouan,residents_recents_5ans,380768.0,51
-01.571.01.11,Commune de Tétouan,tetouan,entrees,29565.0,51
-01.571.01.11,Commune de Tétouan,tetouan,indice_entrees (%),7.6,51
-01.571.01.11,Commune de Tétouan,tetouan,indice_sortie (%),5.5,51
-01.571.01.11,Commune de Tétouan,tetouan,sorties,20865.0,51
-01.571.01.07,Commune d'Oued Laou,tetouan,population_sedentaire_5ans_plus,10439.0,52
-01.571.01.07,Commune d'Oued Laou,tetouan,natifs_residents_non_migrants,9172.0,52
-01.571.01.07,Commune d'Oued Laou,tetouan,residents_recents_5ans,10362.0,52
-01.571.01.07,Commune d'Oued Laou,tetouan,entrees,1178.0,52
-01.571.01.07,Commune d'Oued Laou,tetouan,indice_entrees (%),11.3,52
-01.571.01.07,Commune d'Oued Laou,tetouan,indice_sortie (%),11.5,52
-01.571.01.07,Commune d'Oued Laou,tetouan,sorties,1190.0,52
-01.571.03.01,Commune d'Ain Lahsan,tetouan,population_sedentaire_5ans_plus,6767.0,53
-01.571.03.01,Commune d'Ain Lahsan,tetouan,natifs_residents_non_migrants,6514.0,53
-01.571.03.01,Commune d'Ain Lahsan,tetouan,residents_recents_5ans,7171.0,53
-01.571.03.01,Commune d'Ain Lahsan,tetouan,entrees,251.0,53
-01.571.03.01,Commune d'Ain Lahsan,tetouan,indice_entrees (%),3.7,53
-01.571.03.01,Commune d'Ain Lahsan,tetouan,indice_sortie (%),9.2,53
-01.571.03.01,Commune d'Ain Lahsan,tetouan,sorties,657.0,53
-01.571.03.19,Commune de Souk Kdim,tetouan,population_sedentaire_5ans_plus,7954.0,54
-01.571.03.19,Commune de Souk Kdim,tetouan,natifs_residents_non_migrants,7675.0,54
-01.571.03.19,Commune de Souk Kdim,tetouan,residents_recents_5ans,8018.0,54
-01.571.03.19,Commune de Souk Kdim,tetouan,entrees,272.0,54
-01.571.03.19,Commune de Souk Kdim,tetouan,indice_entrees (%),3.4,54
-01.571.03.19,Commune de Souk Kdim,tetouan,indice_sortie (%),4.3,54
-01.571.03.19,Commune de Souk Kdim,tetouan,sorties,343.0,54
-01.571.03.09,Commune de Jbel Lahbib,tetouan,population_sedentaire_5ans_plus,3748.0,55
-01.571.03.09,Commune de Jbel Lahbib,tetouan,natifs_residents_non_migrants,3422.0,55
-01.571.03.09,Commune de Jbel Lahbib,tetouan,residents_recents_5ans,4320.0,55
-01.571.03.09,Commune de Jbel Lahbib,tetouan,entrees,321.0,55
-01.571.03.09,Commune de Jbel Lahbib,tetouan,indice_entrees (%),8.6,55
-01.571.03.09,Commune de Jbel Lahbib,tetouan,indice_sortie (%),20.8,55
-01.571.03.09,Commune de Jbel Lahbib,tetouan,sorties,898.0,55
-01.571.03.09.3,dont le centre urbain de Karia,tetouan,population_sedentaire_5ans_plus,1349.0,186
-01.571.03.09.3,dont le centre urbain de Karia,tetouan,natifs_residents_non_migrants,1125.0,186
-01.571.03.09.3,dont le centre urbain de Karia,tetouan,residents_recents_5ans,1350.0,186
-01.571.03.09.3,dont le centre urbain de Karia,tetouan,entrees,222.0,186
-01.571.03.09.3,dont le centre urbain de Karia,tetouan,indice_entrees (%),16.5,186
-01.571.03.09.3,dont le centre urbain de Karia,tetouan,indice_sortie (%),16.6,186
-01.571.03.09.3,dont le centre urbain de Karia,tetouan,sorties,225.0,186
-01.571.03.07,Commune de Bni Harchen,tetouan,population_sedentaire_5ans_plus,5940.0,56
-01.571.03.07,Commune de Bni Harchen,tetouan,natifs_residents_non_migrants,5829.0,56
-01.571.03.07,Commune de Bni Harchen,tetouan,residents_recents_5ans,6552.0,56
-01.571.03.07,Commune de Bni Harchen,tetouan,entrees,109.0,56
-01.571.03.07,Commune de Bni Harchen,tetouan,indice_entrees (%),1.8,56
-01.571.03.07,Commune de Bni Harchen,tetouan,indice_sortie (%),11.0,56
-01.571.03.07,Commune de Bni Harchen,tetouan,sorties,723.0,56
-01.571.03.03,Commune d'Al Kharroub,tetouan,population_sedentaire_5ans_plus,1896.0,57
-01.571.03.03,Commune d'Al Kharroub,tetouan,natifs_residents_non_migrants,1851.0,57
-01.571.03.03,Commune d'Al Kharroub,tetouan,residents_recents_5ans,2006.0,57
-01.571.03.03,Commune d'Al Kharroub,tetouan,entrees,45.0,57
-01.571.03.03,Commune d'Al Kharroub,tetouan,indice_entrees (%),2.4,57
-01.571.03.03,Commune d'Al Kharroub,tetouan,indice_sortie (%),7.7,57
-01.571.03.03,Commune d'Al Kharroub,tetouan,sorties,155.0,57
-01.571.03.15,Commune de Mallalienne,tetouan,population_sedentaire_5ans_plus,10008.0,58
-01.571.03.15,Commune de Mallalienne,tetouan,natifs_residents_non_migrants,9165.0,58
-01.571.03.15,Commune de Mallalienne,tetouan,residents_recents_5ans,9736.0,58
-01.571.03.15,Commune de Mallalienne,tetouan,entrees,836.0,58
-01.571.03.15,Commune de Mallalienne,tetouan,indice_entrees (%),8.4,58
-01.571.03.15,Commune de Mallalienne,tetouan,indice_sortie (%),5.9,58
-01.571.03.15,Commune de Mallalienne,tetouan,sorties,571.0,58
-01.571.03.17,Commune de Saddina,tetouan,population_sedentaire_5ans_plus,6949.0,59
-01.571.03.17,Commune de Saddina,tetouan,natifs_residents_non_migrants,6714.0,59
-01.571.03.17,Commune de Saddina,tetouan,residents_recents_5ans,7066.0,59
-01.571.03.17,Commune de Saddina,tetouan,entrees,235.0,59
-01.571.03.17,Commune de Saddina,tetouan,indice_entrees (%),3.4,59
-01.571.03.17,Commune de Saddina,tetouan,indice_sortie (%),5.0,59
-01.571.03.17,Commune de Saddina,tetouan,sorties,352.0,59
-01.571.03.21,Commune de Sahtryine,tetouan,population_sedentaire_5ans_plus,7847.0,60
-01.571.03.21,Commune de Sahtryine,tetouan,natifs_residents_non_migrants,7691.0,60
-01.571.03.21,Commune de Sahtryine,tetouan,residents_recents_5ans,8084.0,60
-01.571.03.21,Commune de Sahtryine,tetouan,entrees,156.0,60
-01.571.03.21,Commune de Sahtryine,tetouan,indice_entrees (%),2.0,60
-01.571.03.21,Commune de Sahtryine,tetouan,indice_sortie (%),4.9,60
-01.571.03.21,Commune de Sahtryine,tetouan,sorties,393.0,60
-01.571.03.11,Commune de Bni Idder,tetouan,population_sedentaire_5ans_plus,4203.0,61
-01.571.03.11,Commune de Bni Idder,tetouan,natifs_residents_non_migrants,4159.0,61
-01.571.03.11,Commune de Bni Idder,tetouan,residents_recents_5ans,5374.0,61
-01.571.03.11,Commune de Bni Idder,tetouan,entrees,44.0,61
-01.571.03.11,Commune de Bni Idder,tetouan,indice_entrees (%),1.0,61
-01.571.03.11,Commune de Bni Idder,tetouan,indice_sortie (%),22.6,61
-01.571.03.11,Commune de Bni Idder,tetouan,sorties,1215.0,61
-01.571.03.05,Commune de Bghaghza,tetouan,population_sedentaire_5ans_plus,5698.0,62
-01.571.03.05,Commune de Bghaghza,tetouan,natifs_residents_non_migrants,5578.0,62
-01.571.03.05,Commune de Bghaghza,tetouan,residents_recents_5ans,6221.0,62
-01.571.03.05,Commune de Bghaghza,tetouan,entrees,120.0,62
-01.571.03.05,Commune de Bghaghza,tetouan,indice_entrees (%),2.1,62
-01.571.03.05,Commune de Bghaghza,tetouan,indice_sortie (%),10.3,62
-01.571.03.05,Commune de Bghaghza,tetouan,sorties,643.0,62
-01.571.05.13,Commune de Bni Leit,tetouan,population_sedentaire_5ans_plus,4599.0,63
-01.571.05.13,Commune de Bni Leit,tetouan,natifs_residents_non_migrants,4547.0,63
-01.571.05.13,Commune de Bni Leit,tetouan,residents_recents_5ans,4808.0,63
-01.571.05.13,Commune de Bni Leit,tetouan,entrees,52.0,63
-01.571.05.13,Commune de Bni Leit,tetouan,indice_entrees (%),1.1,63
-01.571.05.13,Commune de Bni Leit,tetouan,indice_sortie (%),5.4,63
-01.571.05.13,Commune de Bni Leit,tetouan,sorties,261.0,63
-01.571.05.01,Commune d'Al Hamra,tetouan,population_sedentaire_5ans_plus,10895.0,64
-01.571.05.01,Commune d'Al Hamra,tetouan,natifs_residents_non_migrants,10588.0,64
-01.571.05.01,Commune d'Al Hamra,tetouan,residents_recents_5ans,11714.0,64
-01.571.05.01,Commune d'Al Hamra,tetouan,entrees,307.0,64
-01.571.05.01,Commune d'Al Hamra,tetouan,indice_entrees (%),2.8,64
-01.571.05.01,Commune d'Al Hamra,tetouan,indice_sortie (%),9.6,64
-01.571.05.01,Commune d'Al Hamra,tetouan,sorties,1126.0,64
-01.571.05.05,Commune d'Al Oued,tetouan,population_sedentaire_5ans_plus,9894.0,65
-01.571.05.05,Commune d'Al Oued,tetouan,natifs_residents_non_migrants,9746.0,65
-01.571.05.05,Commune d'Al Oued,tetouan,residents_recents_5ans,10701.0,65
-01.571.05.05,Commune d'Al Oued,tetouan,entrees,147.0,65
-01.571.05.05,Commune d'Al Oued,tetouan,indice_entrees (%),1.5,65
-01.571.05.05,Commune d'Al Oued,tetouan,indice_sortie (%),8.9,65
-01.571.05.05,Commune d'Al Oued,tetouan,sorties,955.0,65
-01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,population_sedentaire_5ans_plus,4340.0,66
-01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,natifs_residents_non_migrants,4310.0,66
-01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,residents_recents_5ans,4772.0,66
-01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,entrees,30.0,66
-01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,indice_entrees (%),0.7,66
-01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,indice_sortie (%),9.7,66
-01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,sorties,462.0,66
-01.571.05.17,Commune de Dar Bni Karrich,tetouan,population_sedentaire_5ans_plus,9282.0,67
-01.571.05.17,Commune de Dar Bni Karrich,tetouan,natifs_residents_non_migrants,8402.0,67
-01.571.05.17,Commune de Dar Bni Karrich,tetouan,residents_recents_5ans,8920.0,67
-01.571.05.17,Commune de Dar Bni Karrich,tetouan,entrees,841.0,67
-01.571.05.17,Commune de Dar Bni Karrich,tetouan,indice_entrees (%),9.1,67
-01.571.05.17,Commune de Dar Bni Karrich,tetouan,indice_sortie (%),5.8,67
-01.571.05.17,Commune de Dar Bni Karrich,tetouan,sorties,518.0,67
-01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,population_sedentaire_5ans_plus,3811.0,187
-01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,natifs_residents_non_migrants,3374.0,187
-01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,residents_recents_5ans,3562.0,187
-01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,entrees,410.0,187
-01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,indice_entrees (%),10.8,187
-01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,indice_sortie (%),5.3,187
-01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,sorties,188.0,187
-01.571.05.27,Commune de Zinat,tetouan,population_sedentaire_5ans_plus,7440.0,68
-01.571.05.27,Commune de Zinat,tetouan,natifs_residents_non_migrants,7229.0,68
-01.571.05.27,Commune de Zinat,tetouan,residents_recents_5ans,10402.0,68
-01.571.05.27,Commune de Zinat,tetouan,entrees,208.0,68
-01.571.05.27,Commune de Zinat,tetouan,indice_entrees (%),2.8,68
-01.571.05.27,Commune de Zinat,tetouan,indice_sortie (%),30.5,68
-01.571.05.27,Commune de Zinat,tetouan,sorties,3173.0,68
-01.571.05.07,Commune d'Azla,tetouan,population_sedentaire_5ans_plus,20967.0,69
-01.571.05.07,Commune d'Azla,tetouan,natifs_residents_non_migrants,18845.0,69
-01.571.05.07,Commune d'Azla,tetouan,residents_recents_5ans,19446.0,69
-01.571.05.07,Commune d'Azla,tetouan,entrees,2099.0,69
-01.571.05.07,Commune d'Azla,tetouan,indice_entrees (%),10.0,69
-01.571.05.07,Commune d'Azla,tetouan,indice_sortie (%),3.1,69
-01.571.05.07,Commune d'Azla,tetouan,sorties,601.0,69
-01.571.05.23,Commune de Zaitoune,tetouan,population_sedentaire_5ans_plus,12275.0,70
-01.571.05.23,Commune de Zaitoune,tetouan,natifs_residents_non_migrants,11141.0,70
-01.571.05.23,Commune de Zaitoune,tetouan,residents_recents_5ans,11479.0,70
-01.571.05.23,Commune de Zaitoune,tetouan,entrees,1131.0,70
-01.571.05.23,Commune de Zaitoune,tetouan,indice_entrees (%),9.2,70
-01.571.05.23,Commune de Zaitoune,tetouan,indice_sortie (%),2.9,70
-01.571.05.23,Commune de Zaitoune,tetouan,sorties,338.0,70
-01.571.05.15,Commune de Bni Said,tetouan,population_sedentaire_5ans_plus,9577.0,71
-01.571.05.15,Commune de Bni Said,tetouan,natifs_residents_non_migrants,8997.0,71
-01.571.05.15,Commune de Bni Said,tetouan,residents_recents_5ans,9682.0,71
-01.571.05.15,Commune de Bni Said,tetouan,entrees,574.0,71
-01.571.05.15,Commune de Bni Said,tetouan,indice_entrees (%),6.0,71
-01.571.05.15,Commune de Bni Said,tetouan,indice_sortie (%),7.1,71
-01.571.05.15,Commune de Bni Said,tetouan,sorties,685.0,71
-01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,population_sedentaire_5ans_plus,11683.0,72
-01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,natifs_residents_non_migrants,11479.0,72
-01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,residents_recents_5ans,12245.0,72
-01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,entrees,197.0,72
-01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,indice_entrees (%),1.7,72
-01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,indice_sortie (%),6.3,72
-01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,sorties,766.0,72
-01.227,Province de Fahs-Anjra,fahs anjra,population_sedentaire_5ans_plus,89512.0,5
-01.227,Province de Fahs-Anjra,fahs anjra,natifs_residents_non_migrants,79170.0,5
-01.227,Province de Fahs-Anjra,fahs anjra,residents_recents_5ans,84099.0,5
-01.227,Province de Fahs-Anjra,fahs anjra,entrees,10137.0,5
-01.227,Province de Fahs-Anjra,fahs anjra,indice_entrees (%),11.3,5
-01.227,Province de Fahs-Anjra,fahs anjra,indice_sortie (%),5.9,5
-01.227,Province de Fahs-Anjra,fahs anjra,sorties,4929.0,5
-01.227.05.09,Commune de Malloussa,fahs anjra,population_sedentaire_5ans_plus,16201.0,73
-01.227.05.09,Commune de Malloussa,fahs anjra,natifs_residents_non_migrants,13867.0,73
-01.227.05.09,Commune de Malloussa,fahs anjra,residents_recents_5ans,14824.0,73
-01.227.05.09,Commune de Malloussa,fahs anjra,entrees,2302.0,73
-01.227.05.09,Commune de Malloussa,fahs anjra,indice_entrees (%),14.2,73
-01.227.05.09,Commune de Malloussa,fahs anjra,indice_sortie (%),6.5,73
-01.227.05.09,Commune de Malloussa,fahs anjra,sorties,957.0,73
-01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,population_sedentaire_5ans_plus,13908.0,74
-01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,natifs_residents_non_migrants,10567.0,74
-01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,residents_recents_5ans,10986.0,74
-01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,entrees,3283.0,74
-01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,indice_entrees (%),23.6,74
-01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,indice_sortie (%),3.8,74
-01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,sorties,419.0,74
-01.227.05.05,Commune de Ksar Sghir,fahs anjra,population_sedentaire_5ans_plus,14858.0,75
-01.227.05.05,Commune de Ksar Sghir,fahs anjra,natifs_residents_non_migrants,13139.0,75
-01.227.05.05,Commune de Ksar Sghir,fahs anjra,residents_recents_5ans,14588.0,75
-01.227.05.05,Commune de Ksar Sghir,fahs anjra,entrees,1666.0,75
-01.227.05.05,Commune de Ksar Sghir,fahs anjra,indice_entrees (%),11.2,75
-01.227.05.05,Commune de Ksar Sghir,fahs anjra,indice_sortie (%),9.9,75
-01.227.05.05,Commune de Ksar Sghir,fahs anjra,sorties,1449.0,75
-01.227.03.11,Commune de Jouamaa,fahs anjra,population_sedentaire_5ans_plus,8970.0,76
-01.227.03.11,Commune de Jouamaa,fahs anjra,natifs_residents_non_migrants,7522.0,76
-01.227.03.11,Commune de Jouamaa,fahs anjra,residents_recents_5ans,8020.0,76
-01.227.03.11,Commune de Jouamaa,fahs anjra,entrees,1437.0,76
-01.227.03.11,Commune de Jouamaa,fahs anjra,indice_entrees (%),16.0,76
-01.227.03.11,Commune de Jouamaa,fahs anjra,indice_sortie (%),6.2,76
-01.227.03.11,Commune de Jouamaa,fahs anjra,sorties,498.0,76
-01.227.03.05,Commune d'Anjra,fahs anjra,population_sedentaire_5ans_plus,15648.0,77
-01.227.03.05,Commune d'Anjra,fahs anjra,natifs_residents_non_migrants,15055.0,77
-01.227.03.05,Commune d'Anjra,fahs anjra,residents_recents_5ans,15941.0,77
-01.227.03.05,Commune d'Anjra,fahs anjra,entrees,592.0,77
-01.227.03.05,Commune d'Anjra,fahs anjra,indice_entrees (%),3.8,77
-01.227.03.05,Commune d'Anjra,fahs anjra,indice_sortie (%),5.6,77
-01.227.03.05,Commune d'Anjra,fahs anjra,sorties,886.0,77
-01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,population_sedentaire_5ans_plus,3379.0,188
-01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,natifs_residents_non_migrants,2969.0,188
-01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,residents_recents_5ans,3110.0,188
-01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,entrees,409.0,188
-01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,indice_entrees (%),12.1,188
-01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,indice_sortie (%),4.5,188
-01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,sorties,141.0,188
-01.227.03.21,Commune de Taghramt,fahs anjra,population_sedentaire_5ans_plus,8548.0,78
-01.227.03.21,Commune de Taghramt,fahs anjra,natifs_residents_non_migrants,8036.0,78
-01.227.03.21,Commune de Taghramt,fahs anjra,residents_recents_5ans,8366.0,78
-01.227.03.21,Commune de Taghramt,fahs anjra,entrees,492.0,78
-01.227.03.21,Commune de Taghramt,fahs anjra,indice_entrees (%),5.8,78
-01.227.03.21,Commune de Taghramt,fahs anjra,indice_sortie (%),3.9,78
-01.227.03.21,Commune de Taghramt,fahs anjra,sorties,329.0,78
-01.227.03.13,Commune de Ksar El Majaz,fahs anjra,population_sedentaire_5ans_plus,11379.0,79
-01.227.03.13,Commune de Ksar El Majaz,fahs anjra,natifs_residents_non_migrants,10134.0,79
-01.227.03.13,Commune de Ksar El Majaz,fahs anjra,residents_recents_5ans,11374.0,79
-01.227.03.13,Commune de Ksar El Majaz,fahs anjra,entrees,1214.0,79
-01.227.03.13,Commune de Ksar El Majaz,fahs anjra,indice_entrees (%),10.7,79
-01.227.03.13,Commune de Ksar El Majaz,fahs anjra,indice_sortie (%),10.9,79
-01.227.03.13,Commune de Ksar El Majaz,fahs anjra,sorties,1240.0,79
-01.331,Province de Larache,larache,population_sedentaire_5ans_plus,466253.0,6
-01.331,Province de Larache,larache,natifs_residents_non_migrants,449864.0,6
-01.331,Province de Larache,larache,residents_recents_5ans,479894.0,6
-01.331,Province de Larache,larache,entrees,15374.0,6
-01.331,Province de Larache,larache,indice_entrees (%),3.3,6
-01.331,Province de Larache,larache,indice_sortie (%),6.3,6
-01.331,Province de Larache,larache,sorties,30030.0,6
-01.331.01.01,Commune de Ksar El Kebir,larache,population_sedentaire_5ans_plus,116077.0,80
-01.331.01.01,Commune de Ksar El Kebir,larache,natifs_residents_non_migrants,109055.0,80
-01.331.01.01,Commune de Ksar El Kebir,larache,residents_recents_5ans,120611.0,80
-01.331.01.01,Commune de Ksar El Kebir,larache,entrees,6803.0,80
-01.331.01.01,Commune de Ksar El Kebir,larache,indice_entrees (%),5.9,80
-01.331.01.01,Commune de Ksar El Kebir,larache,indice_sortie (%),9.6,80
-01.331.01.01,Commune de Ksar El Kebir,larache,sorties,11556.0,80
-01.331.01.03,Commune de Larache,larache,population_sedentaire_5ans_plus,123542.0,81
-01.331.01.03,Commune de Larache,larache,natifs_residents_non_migrants,113941.0,81
-01.331.01.03,Commune de Larache,larache,residents_recents_5ans,120769.0,81
-01.331.01.03,Commune de Larache,larache,entrees,9033.0,81
-01.331.01.03,Commune de Larache,larache,indice_entrees (%),7.3,81
-01.331.01.03,Commune de Larache,larache,indice_sortie (%),5.7,81
-01.331.01.03,Commune de Larache,larache,sorties,6827.0,81
-01.331.07.05,Commune de Laouamra,larache,population_sedentaire_5ans_plus,43099.0,82
-01.331.07.05,Commune de Laouamra,larache,natifs_residents_non_migrants,41311.0,82
-01.331.07.05,Commune de Laouamra,larache,residents_recents_5ans,43243.0,82
-01.331.07.05,Commune de Laouamra,larache,entrees,1700.0,82
-01.331.07.05,Commune de Laouamra,larache,indice_entrees (%),3.9,82
-01.331.07.05,Commune de Laouamra,larache,indice_sortie (%),4.5,82
-01.331.07.05,Commune de Laouamra,larache,sorties,1933.0,82
-01.331.07.05.3,dont le centre urbain de Laouamra,larache,population_sedentaire_5ans_plus,8979.0,189
-01.331.07.05.3,dont le centre urbain de Laouamra,larache,natifs_residents_non_migrants,8004.0,189
-01.331.07.05.3,dont le centre urbain de Laouamra,larache,residents_recents_5ans,8382.0,189
-01.331.07.05.3,dont le centre urbain de Laouamra,larache,entrees,949.0,189
-01.331.07.05.3,dont le centre urbain de Laouamra,larache,indice_entrees (%),10.6,189
-01.331.07.05.3,dont le centre urbain de Laouamra,larache,indice_sortie (%),4.5,189
-01.331.07.05.3,dont le centre urbain de Laouamra,larache,sorties,378.0,189
-01.331.07.17,Commune de Zouada,larache,population_sedentaire_5ans_plus,22763.0,83
-01.331.07.17,Commune de Zouada,larache,natifs_residents_non_migrants,22239.0,83
-01.331.07.17,Commune de Zouada,larache,residents_recents_5ans,22884.0,83
-01.331.07.17,Commune de Zouada,larache,entrees,490.0,83
-01.331.07.17,Commune de Zouada,larache,indice_entrees (%),2.2,83
-01.331.07.17,Commune de Zouada,larache,indice_sortie (%),2.8,83
-01.331.07.17,Commune de Zouada,larache,sorties,645.0,83
-01.331.07.03,Commune de Ksar Bjir,larache,population_sedentaire_5ans_plus,15694.0,84
-01.331.07.03,Commune de Ksar Bjir,larache,natifs_residents_non_migrants,15228.0,84
-01.331.07.03,Commune de Ksar Bjir,larache,residents_recents_5ans,15885.0,84
-01.331.07.03,Commune de Ksar Bjir,larache,entrees,453.0,84
-01.331.07.03,Commune de Ksar Bjir,larache,indice_entrees (%),2.9,84
-01.331.07.03,Commune de Ksar Bjir,larache,indice_sortie (%),4.1,84
-01.331.07.03,Commune de Ksar Bjir,larache,sorties,657.0,84
-01.331.07.01,Commune de Boujedyane,larache,population_sedentaire_5ans_plus,8865.0,85
-01.331.07.01,Commune de Boujedyane,larache,natifs_residents_non_migrants,8625.0,85
-01.331.07.01,Commune de Boujedyane,larache,residents_recents_5ans,9373.0,85
-01.331.07.01,Commune de Boujedyane,larache,entrees,235.0,85
-01.331.07.01,Commune de Boujedyane,larache,indice_entrees (%),2.7,85
-01.331.07.01,Commune de Boujedyane,larache,indice_sortie (%),8.0,85
-01.331.07.01,Commune de Boujedyane,larache,sorties,749.0,85
-01.331.07.15,Commune de Tatoft,larache,population_sedentaire_5ans_plus,7940.0,86
-01.331.07.15,Commune de Tatoft,larache,natifs_residents_non_migrants,7733.0,86
-01.331.07.15,Commune de Tatoft,larache,residents_recents_5ans,9016.0,86
-01.331.07.15,Commune de Tatoft,larache,entrees,204.0,86
-01.331.07.15,Commune de Tatoft,larache,indice_entrees (%),2.6,86
-01.331.07.15,Commune de Tatoft,larache,indice_sortie (%),14.2,86
-01.331.07.15,Commune de Tatoft,larache,sorties,1284.0,86
-01.331.07.11,Commune de Souk L'qolla,larache,population_sedentaire_5ans_plus,12481.0,87
-01.331.07.11,Commune de Souk L'qolla,larache,natifs_residents_non_migrants,12263.0,87
-01.331.07.11,Commune de Souk L'qolla,larache,residents_recents_5ans,13626.0,87
-01.331.07.11,Commune de Souk L'qolla,larache,entrees,218.0,87
-01.331.07.11,Commune de Souk L'qolla,larache,indice_entrees (%),1.7,87
-01.331.07.11,Commune de Souk L'qolla,larache,indice_sortie (%),10.0,87
-01.331.07.11,Commune de Souk L'qolla,larache,sorties,1362.0,87
-01.331.09.03,Commune de Bni Arouss,larache,population_sedentaire_5ans_plus,6804.0,88
-01.331.09.03,Commune de Bni Arouss,larache,natifs_residents_non_migrants,6479.0,88
-01.331.09.03,Commune de Bni Arouss,larache,residents_recents_5ans,8748.0,88
-01.331.09.03,Commune de Bni Arouss,larache,entrees,317.0,88
-01.331.09.03,Commune de Bni Arouss,larache,indice_entrees (%),4.7,88
-01.331.09.03,Commune de Bni Arouss,larache,indice_sortie (%),25.9,88
-01.331.09.03,Commune de Bni Arouss,larache,sorties,2269.0,88
-01.331.09.13,Commune de Tazroute,larache,population_sedentaire_5ans_plus,5012.0,89
-01.331.09.13,Commune de Tazroute,larache,natifs_residents_non_migrants,4892.0,89
-01.331.09.13,Commune de Tazroute,larache,residents_recents_5ans,5178.0,89
-01.331.09.13,Commune de Tazroute,larache,entrees,120.0,89
-01.331.09.13,Commune de Tazroute,larache,indice_entrees (%),2.4,89
-01.331.09.13,Commune de Tazroute,larache,indice_sortie (%),5.5,89
-01.331.09.13,Commune de Tazroute,larache,sorties,286.0,89
-01.331.09.01,Commune d'Ayacha,larache,population_sedentaire_5ans_plus,6356.0,90
-01.331.09.01,Commune d'Ayacha,larache,natifs_residents_non_migrants,6127.0,90
-01.331.09.01,Commune d'Ayacha,larache,residents_recents_5ans,6764.0,90
-01.331.09.01,Commune d'Ayacha,larache,entrees,228.0,90
-01.331.09.01,Commune d'Ayacha,larache,indice_entrees (%),3.6,90
-01.331.09.01,Commune d'Ayacha,larache,indice_sortie (%),9.4,90
-01.331.09.01,Commune d'Ayacha,larache,sorties,637.0,90
-01.331.09.05,Commune de Bni Garfett,larache,population_sedentaire_5ans_plus,10361.0,91
-01.331.09.05,Commune de Bni Garfett,larache,natifs_residents_non_migrants,10004.0,91
-01.331.09.05,Commune de Bni Garfett,larache,residents_recents_5ans,12171.0,91
-01.331.09.05,Commune de Bni Garfett,larache,entrees,329.0,91
-01.331.09.05,Commune de Bni Garfett,larache,indice_entrees (%),3.2,91
-01.331.09.05,Commune de Bni Garfett,larache,indice_sortie (%),17.8,91
-01.331.09.05,Commune de Bni Garfett,larache,sorties,2167.0,91
-01.331.09.15,Commune de Zaaroura,larache,population_sedentaire_5ans_plus,7953.0,92
-01.331.09.15,Commune de Zaaroura,larache,natifs_residents_non_migrants,7856.0,92
-01.331.09.15,Commune de Zaaroura,larache,residents_recents_5ans,8758.0,92
-01.331.09.15,Commune de Zaaroura,larache,entrees,96.0,92
-01.331.09.15,Commune de Zaaroura,larache,indice_entrees (%),1.2,92
-01.331.09.15,Commune de Zaaroura,larache,indice_sortie (%),10.3,92
-01.331.09.15,Commune de Zaaroura,larache,sorties,902.0,92
-01.331.11.11,Commune de Sahel,larache,population_sedentaire_5ans_plus,16591.0,93
-01.331.11.11,Commune de Sahel,larache,natifs_residents_non_migrants,15675.0,93
-01.331.11.11,Commune de Sahel,larache,residents_recents_5ans,16789.0,93
-01.331.11.11,Commune de Sahel,larache,entrees,887.0,93
-01.331.11.11,Commune de Sahel,larache,indice_entrees (%),5.3,93
-01.331.11.11,Commune de Sahel,larache,indice_sortie (%),6.6,93
-01.331.11.11,Commune de Sahel,larache,sorties,1115.0,93
-01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,population_sedentaire_5ans_plus,6422.0,190
-01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,natifs_residents_non_migrants,5876.0,190
-01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,residents_recents_5ans,6210.0,190
-01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,entrees,539.0,190
-01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,indice_entrees (%),8.4,190
-01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,indice_sortie (%),5.4,190
-01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,sorties,334.0,190
-01.331.11.07,Commune de Rissana Chamalia,larache,population_sedentaire_5ans_plus,11647.0,94
-01.331.11.07,Commune de Rissana Chamalia,larache,natifs_residents_non_migrants,11360.0,94
-01.331.11.07,Commune de Rissana Chamalia,larache,residents_recents_5ans,12841.0,94
-01.331.11.07,Commune de Rissana Chamalia,larache,entrees,275.0,94
-01.331.11.07,Commune de Rissana Chamalia,larache,indice_entrees (%),2.4,94
-01.331.11.07,Commune de Rissana Chamalia,larache,indice_sortie (%),11.5,94
-01.331.11.07,Commune de Rissana Chamalia,larache,sorties,1480.0,94
-01.331.11.09,Commune de Rissana Janoubia,larache,population_sedentaire_5ans_plus,16009.0,95
-01.331.11.09,Commune de Rissana Janoubia,larache,natifs_residents_non_migrants,15491.0,95
-01.331.11.09,Commune de Rissana Janoubia,larache,residents_recents_5ans,16097.0,95
-01.331.11.09,Commune de Rissana Janoubia,larache,entrees,518.0,95
-01.331.11.09,Commune de Rissana Janoubia,larache,indice_entrees (%),3.2,95
-01.331.11.09,Commune de Rissana Janoubia,larache,indice_sortie (%),3.8,95
-01.331.11.09,Commune de Rissana Janoubia,larache,sorties,605.0,95
-01.331.11.03,Commune d'Oulad Ouchih,larache,population_sedentaire_5ans_plus,12120.0,96
-01.331.11.03,Commune d'Oulad Ouchih,larache,natifs_residents_non_migrants,11914.0,96
-01.331.11.03,Commune d'Oulad Ouchih,larache,residents_recents_5ans,12428.0,96
-01.331.11.03,Commune d'Oulad Ouchih,larache,entrees,206.0,96
-01.331.11.03,Commune d'Oulad Ouchih,larache,indice_entrees (%),1.7,96
-01.331.11.03,Commune d'Oulad Ouchih,larache,indice_sortie (%),4.1,96
-01.331.11.03,Commune d'Oulad Ouchih,larache,sorties,514.0,96
-01.331.11.12,Commune de Souaken,larache,population_sedentaire_5ans_plus,11325.0,97
-01.331.11.12,Commune de Souaken,larache,natifs_residents_non_migrants,11158.0,97
-01.331.11.12,Commune de Souaken,larache,residents_recents_5ans,11953.0,97
-01.331.11.12,Commune de Souaken,larache,entrees,167.0,97
-01.331.11.12,Commune de Souaken,larache,indice_entrees (%),1.5,97
-01.331.11.12,Commune de Souaken,larache,indice_sortie (%),6.7,97
-01.331.11.12,Commune de Souaken,larache,sorties,795.0,97
-01.331.11.13,Commune de Souk Tolba,larache,population_sedentaire_5ans_plus,11614.0,98
-01.331.11.13,Commune de Souk Tolba,larache,natifs_residents_non_migrants,11426.0,98
-01.331.11.13,Commune de Souk Tolba,larache,residents_recents_5ans,12759.0,98
-01.331.11.13,Commune de Souk Tolba,larache,entrees,182.0,98
-01.331.11.13,Commune de Souk Tolba,larache,indice_entrees (%),1.6,98
-01.331.11.13,Commune de Souk Tolba,larache,indice_sortie (%),10.5,98
-01.331.11.13,Commune de Souk Tolba,larache,sorties,1333.0,98
-01.051,Province d'Al Hoceima,al hoceima,population_sedentaire_5ans_plus,338642.0,7
-01.051,Province d'Al Hoceima,al hoceima,natifs_residents_non_migrants,327259.0,7
-01.051,Province d'Al Hoceima,al hoceima,residents_recents_5ans,361508.0,7
-01.051,Province d'Al Hoceima,al hoceima,entrees,10838.0,7
-01.051,Province d'Al Hoceima,al hoceima,indice_entrees (%),3.2,7
-01.051,Province d'Al Hoceima,al hoceima,indice_sortie (%),9.5,7
-01.051,Province d'Al Hoceima,al hoceima,sorties,34248.0,7
-01.051.01.01,Commune d'Al Hoceima,al hoceima,population_sedentaire_5ans_plus,46376.0,99
-01.051.01.01,Commune d'Al Hoceima,al hoceima,natifs_residents_non_migrants,42591.0,99
-01.051.01.01,Commune d'Al Hoceima,al hoceima,residents_recents_5ans,50761.0,99
-01.051.01.01,Commune d'Al Hoceima,al hoceima,entrees,3610.0,99
-01.051.01.01,Commune d'Al Hoceima,al hoceima,indice_entrees (%),7.8,99
-01.051.01.01,Commune d'Al Hoceima,al hoceima,indice_sortie (%),16.1,99
-01.051.01.01,Commune d'Al Hoceima,al hoceima,sorties,8170.0,99
-01.051.01.03,Commune de Bni Bouayach,al hoceima,population_sedentaire_5ans_plus,18471.0,100
-01.051.01.03,Commune de Bni Bouayach,al hoceima,natifs_residents_non_migrants,16486.0,100
-01.051.01.03,Commune de Bni Bouayach,al hoceima,residents_recents_5ans,17919.0,100
-01.051.01.03,Commune de Bni Bouayach,al hoceima,entrees,1948.0,100
-01.051.01.03,Commune de Bni Bouayach,al hoceima,indice_entrees (%),10.5,100
-01.051.01.03,Commune de Bni Bouayach,al hoceima,indice_sortie (%),8.0,100
-01.051.01.03,Commune de Bni Bouayach,al hoceima,sorties,1433.0,100
-01.051.01.05,Commune d'Imzouren,al hoceima,population_sedentaire_5ans_plus,31766.0,101
-01.051.01.05,Commune d'Imzouren,al hoceima,natifs_residents_non_migrants,27650.0,101
-01.051.01.05,Commune d'Imzouren,al hoceima,residents_recents_5ans,29829.0,101
-01.051.01.05,Commune d'Imzouren,al hoceima,entrees,4039.0,101
-01.051.01.05,Commune d'Imzouren,al hoceima,indice_entrees (%),12.7,101
-01.051.01.05,Commune d'Imzouren,al hoceima,indice_sortie (%),7.3,101
-01.051.01.05,Commune d'Imzouren,al hoceima,sorties,2179.0,101
-01.051.01.07,Commune de Targuist,al hoceima,population_sedentaire_5ans_plus,13308.0,102
-01.051.01.07,Commune de Targuist,al hoceima,natifs_residents_non_migrants,11829.0,102
-01.051.01.07,Commune de Targuist,al hoceima,residents_recents_5ans,14543.0,102
-01.051.01.07,Commune de Targuist,al hoceima,entrees,1435.0,102
-01.051.01.07,Commune de Targuist,al hoceima,indice_entrees (%),10.8,102
-01.051.01.07,Commune de Targuist,al hoceima,indice_sortie (%),18.7,102
-01.051.01.07,Commune de Targuist,al hoceima,sorties,2714.0,102
-01.051.01.09,Commune d'Ajdir,al hoceima,population_sedentaire_5ans_plus,5248.0,103
-01.051.01.09,Commune d'Ajdir,al hoceima,natifs_residents_non_migrants,4577.0,103
-01.051.01.09,Commune d'Ajdir,al hoceima,residents_recents_5ans,5034.0,103
-01.051.01.09,Commune d'Ajdir,al hoceima,entrees,654.0,103
-01.051.01.09,Commune d'Ajdir,al hoceima,indice_entrees (%),12.5,103
-01.051.01.09,Commune d'Ajdir,al hoceima,indice_sortie (%),9.1,103
-01.051.01.09,Commune d'Ajdir,al hoceima,sorties,457.0,103
-01.051.03.01,Commune de Bni Boufrah,al hoceima,population_sedentaire_5ans_plus,7827.0,104
-01.051.03.01,Commune de Bni Boufrah,al hoceima,natifs_residents_non_migrants,7603.0,104
-01.051.03.01,Commune de Bni Boufrah,al hoceima,residents_recents_5ans,8458.0,104
-01.051.03.01,Commune de Bni Boufrah,al hoceima,entrees,221.0,104
-01.051.03.01,Commune de Bni Boufrah,al hoceima,indice_entrees (%),2.8,104
-01.051.03.01,Commune de Bni Boufrah,al hoceima,indice_sortie (%),10.1,104
-01.051.03.01,Commune de Bni Boufrah,al hoceima,sorties,855.0,104
-01.051.03.07,Commune de Senada,al hoceima,population_sedentaire_5ans_plus,7436.0,105
-01.051.03.07,Commune de Senada,al hoceima,natifs_residents_non_migrants,7277.0,105
-01.051.03.07,Commune de Senada,al hoceima,residents_recents_5ans,8041.0,105
-01.051.03.07,Commune de Senada,al hoceima,entrees,149.0,105
-01.051.03.07,Commune de Senada,al hoceima,indice_entrees (%),2.0,105
-01.051.03.07,Commune de Senada,al hoceima,indice_sortie (%),9.5,105
-01.051.03.07,Commune de Senada,al hoceima,sorties,764.0,105
-01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,population_sedentaire_5ans_plus,6540.0,106
-01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,natifs_residents_non_migrants,6466.0,106
-01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,residents_recents_5ans,6709.0,106
-01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,entrees,69.0,106
-01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,indice_entrees (%),1.1,106
-01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,indice_sortie (%),3.6,106
-01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,sorties,243.0,106
-01.051.03.03,Commune de Bni Gmil,al hoceima,population_sedentaire_5ans_plus,7109.0,107
-01.051.03.03,Commune de Bni Gmil,al hoceima,natifs_residents_non_migrants,6907.0,107
-01.051.03.03,Commune de Bni Gmil,al hoceima,residents_recents_5ans,8985.0,107
-01.051.03.03,Commune de Bni Gmil,al hoceima,entrees,202.0,107
-01.051.03.03,Commune de Bni Gmil,al hoceima,indice_entrees (%),2.8,107
-01.051.03.03,Commune de Bni Gmil,al hoceima,indice_sortie (%),23.1,107
-01.051.03.03,Commune de Bni Gmil,al hoceima,sorties,2078.0,107
-01.051.13.11,Commune de Chakrane,al hoceima,population_sedentaire_5ans_plus,2981.0,108
-01.051.13.11,Commune de Chakrane,al hoceima,natifs_residents_non_migrants,2902.0,108
-01.051.13.11,Commune de Chakrane,al hoceima,residents_recents_5ans,3483.0,108
-01.051.13.11,Commune de Chakrane,al hoceima,entrees,78.0,108
-01.051.13.11,Commune de Chakrane,al hoceima,indice_entrees (%),2.6,108
-01.051.13.11,Commune de Chakrane,al hoceima,indice_sortie (%),16.7,108
-01.051.13.11,Commune de Chakrane,al hoceima,sorties,581.0,108
-01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,population_sedentaire_5ans_plus,3508.0,109
-01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,natifs_residents_non_migrants,3419.0,109
-01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,residents_recents_5ans,5920.0,109
-01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,entrees,86.0,109
-01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,indice_entrees (%),2.5,109
-01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,indice_sortie (%),42.2,109
-01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,sorties,2501.0,109
-01.051.13.23,Commune de Tifarouine,al hoceima,population_sedentaire_5ans_plus,2996.0,110
-01.051.13.23,Commune de Tifarouine,al hoceima,natifs_residents_non_migrants,2944.0,110
-01.051.13.23,Commune de Tifarouine,al hoceima,residents_recents_5ans,3379.0,110
-01.051.13.23,Commune de Tifarouine,al hoceima,entrees,48.0,110
-01.051.13.23,Commune de Tifarouine,al hoceima,indice_entrees (%),1.6,110
-01.051.13.23,Commune de Tifarouine,al hoceima,indice_sortie (%),12.9,110
-01.051.13.23,Commune de Tifarouine,al hoceima,sorties,435.0,110
-01.051.13.19,Commune de Nekkour,al hoceima,population_sedentaire_5ans_plus,7132.0,111
-01.051.13.19,Commune de Nekkour,al hoceima,natifs_residents_non_migrants,6957.0,111
-01.051.13.19,Commune de Nekkour,al hoceima,residents_recents_5ans,7782.0,111
-01.051.13.19,Commune de Nekkour,al hoceima,entrees,154.0,111
-01.051.13.19,Commune de Nekkour,al hoceima,indice_entrees (%),2.2,111
-01.051.13.19,Commune de Nekkour,al hoceima,indice_sortie (%),10.6,111
-01.051.13.19,Commune de Nekkour,al hoceima,sorties,825.0,111
-01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,population_sedentaire_5ans_plus,12865.0,112
-01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,natifs_residents_non_migrants,12042.0,112
-01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,residents_recents_5ans,12723.0,112
-01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,entrees,816.0,112
-01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,indice_entrees (%),6.3,112
-01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,indice_sortie (%),5.4,112
-01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,sorties,681.0,112
-01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,population_sedentaire_5ans_plus,3580.0,191
-01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,natifs_residents_non_migrants,3171.0,191
-01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,residents_recents_5ans,3386.0,191
-01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,entrees,405.0,191
-01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,indice_entrees (%),11.3,191
-01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,indice_sortie (%),6.4,191
-01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,sorties,215.0,191
-01.051.13.17,Commune de Louta,al hoceima,population_sedentaire_5ans_plus,4070.0,113
-01.051.13.17,Commune de Louta,al hoceima,natifs_residents_non_migrants,3822.0,113
-01.051.13.17,Commune de Louta,al hoceima,residents_recents_5ans,4195.0,113
-01.051.13.17,Commune de Louta,al hoceima,entrees,245.0,113
-01.051.13.17,Commune de Louta,al hoceima,indice_entrees (%),6.0,113
-01.051.13.17,Commune de Louta,al hoceima,indice_sortie (%),8.9,113
-01.051.13.17,Commune de Louta,al hoceima,sorties,373.0,113
-01.051.13.13,Commune d'Imrabten,al hoceima,population_sedentaire_5ans_plus,6535.0,114
-01.051.13.13,Commune d'Imrabten,al hoceima,natifs_residents_non_migrants,6367.0,114
-01.051.13.13,Commune d'Imrabten,al hoceima,residents_recents_5ans,7134.0,114
-01.051.13.13,Commune d'Imrabten,al hoceima,entrees,153.0,114
-01.051.13.13,Commune d'Imrabten,al hoceima,indice_entrees (%),2.3,114
-01.051.13.13,Commune d'Imrabten,al hoceima,indice_sortie (%),10.8,114
-01.051.13.13,Commune d'Imrabten,al hoceima,sorties,767.0,114
-01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,population_sedentaire_5ans_plus,1684.0,192
-01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,natifs_residents_non_migrants,1596.0,192
-01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,residents_recents_5ans,1794.0,192
-01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,entrees,78.0,192
-01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,indice_entrees (%),4.6,192
-01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,indice_sortie (%),11.0,192
-01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,sorties,198.0,192
-01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,population_sedentaire_5ans_plus,3768.0,115
-01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,natifs_residents_non_migrants,3674.0,115
-01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,residents_recents_5ans,3967.0,115
-01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,entrees,85.0,115
-01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,indice_entrees (%),2.3,115
-01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,indice_sortie (%),7.4,115
-01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,sorties,293.0,115
-01.051.11.09,Commune de Bni Hadifa,al hoceima,population_sedentaire_5ans_plus,4385.0,116
-01.051.11.09,Commune de Bni Hadifa,al hoceima,natifs_residents_non_migrants,4079.0,116
-01.051.11.09,Commune de Bni Hadifa,al hoceima,residents_recents_5ans,4927.0,116
-01.051.11.09,Commune de Bni Hadifa,al hoceima,entrees,280.0,116
-01.051.11.09,Commune de Bni Hadifa,al hoceima,indice_entrees (%),6.4,116
-01.051.11.09,Commune de Bni Hadifa,al hoceima,indice_sortie (%),17.2,116
-01.051.11.09,Commune de Bni Hadifa,al hoceima,sorties,848.0,116
-01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,population_sedentaire_5ans_plus,1963.0,193
-01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,natifs_residents_non_migrants,1717.0,193
-01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,residents_recents_5ans,1980.0,193
-01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,entrees,220.0,193
-01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,indice_entrees (%),11.2,193
-01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,indice_sortie (%),13.3,193
-01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,sorties,263.0,193
-01.051.11.07,Commune de Bni Abdellah,al hoceima,population_sedentaire_5ans_plus,4565.0,117
-01.051.11.07,Commune de Bni Abdellah,al hoceima,natifs_residents_non_migrants,4480.0,117
-01.051.11.07,Commune de Bni Abdellah,al hoceima,residents_recents_5ans,5326.0,117
-01.051.11.07,Commune de Bni Abdellah,al hoceima,entrees,77.0,117
-01.051.11.07,Commune de Bni Abdellah,al hoceima,indice_entrees (%),1.7,117
-01.051.11.07,Commune de Bni Abdellah,al hoceima,indice_sortie (%),15.9,117
-01.051.11.07,Commune de Bni Abdellah,al hoceima,sorties,846.0,117
-01.051.11.15,Commune d'Izemmouren,al hoceima,population_sedentaire_5ans_plus,5823.0,118
-01.051.11.15,Commune d'Izemmouren,al hoceima,natifs_residents_non_migrants,5137.0,118
-01.051.11.15,Commune d'Izemmouren,al hoceima,residents_recents_5ans,5276.0,118
-01.051.11.15,Commune d'Izemmouren,al hoceima,entrees,682.0,118
-01.051.11.15,Commune d'Izemmouren,al hoceima,indice_entrees (%),11.7,118
-01.051.11.15,Commune d'Izemmouren,al hoceima,indice_sortie (%),2.6,118
-01.051.11.15,Commune d'Izemmouren,al hoceima,sorties,139.0,118
-01.051.11.01,Commune d'Ait Kamra,al hoceima,population_sedentaire_5ans_plus,6841.0,119
-01.051.11.01,Commune d'Ait Kamra,al hoceima,natifs_residents_non_migrants,6224.0,119
-01.051.11.01,Commune d'Ait Kamra,al hoceima,residents_recents_5ans,6620.0,119
-01.051.11.01,Commune d'Ait Kamra,al hoceima,entrees,608.0,119
-01.051.11.01,Commune d'Ait Kamra,al hoceima,indice_entrees (%),8.9,119
-01.051.11.01,Commune d'Ait Kamra,al hoceima,indice_sortie (%),6.0,119
-01.051.11.01,Commune d'Ait Kamra,al hoceima,sorties,396.0,119
-01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,population_sedentaire_5ans_plus,2043.0,194
-01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,natifs_residents_non_migrants,1615.0,194
-01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,residents_recents_5ans,1728.0,194
-01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,entrees,426.0,194
-01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,indice_entrees (%),20.9,194
-01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,indice_sortie (%),6.6,194
-01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,sorties,113.0,194
-01.051.11.21,Commune de Rouadi,al hoceima,population_sedentaire_5ans_plus,6327.0,120
-01.051.11.21,Commune de Rouadi,al hoceima,natifs_residents_non_migrants,6121.0,120
-01.051.11.21,Commune de Rouadi,al hoceima,residents_recents_5ans,6672.0,120
-01.051.11.21,Commune de Rouadi,al hoceima,entrees,197.0,120
-01.051.11.21,Commune de Rouadi,al hoceima,indice_entrees (%),3.1,120
-01.051.11.21,Commune de Rouadi,al hoceima,indice_sortie (%),8.3,120
-01.051.11.21,Commune de Rouadi,al hoceima,sorties,551.0,120
-01.051.07.21,Commune de Sidi Bouzineb,al hoceima,population_sedentaire_5ans_plus,2496.0,121
-01.051.07.21,Commune de Sidi Bouzineb,al hoceima,natifs_residents_non_migrants,2365.0,121
-01.051.07.21,Commune de Sidi Bouzineb,al hoceima,residents_recents_5ans,2570.0,121
-01.051.07.21,Commune de Sidi Bouzineb,al hoceima,entrees,122.0,121
-01.051.07.21,Commune de Sidi Bouzineb,al hoceima,indice_entrees (%),4.9,121
-01.051.07.21,Commune de Sidi Bouzineb,al hoceima,indice_sortie (%),8.0,121
-01.051.07.21,Commune de Sidi Bouzineb,al hoceima,sorties,205.0,121
-01.051.07.05,Commune de Bni Ammart,al hoceima,population_sedentaire_5ans_plus,5031.0,122
-01.051.07.05,Commune de Bni Ammart,al hoceima,natifs_residents_non_migrants,4795.0,122
-01.051.07.05,Commune de Bni Ammart,al hoceima,residents_recents_5ans,6026.0,122
-01.051.07.05,Commune de Bni Ammart,al hoceima,entrees,218.0,122
-01.051.07.05,Commune de Bni Ammart,al hoceima,indice_entrees (%),4.3,122
-01.051.07.05,Commune de Bni Ammart,al hoceima,indice_sortie (%),20.4,122
-01.051.07.05,Commune de Bni Ammart,al hoceima,sorties,1231.0,122
-01.051.07.19,Commune de Sidi Boutmim,al hoceima,population_sedentaire_5ans_plus,7756.0,123
-01.051.07.19,Commune de Sidi Boutmim,al hoceima,natifs_residents_non_migrants,7433.0,123
-01.051.07.19,Commune de Sidi Boutmim,al hoceima,residents_recents_5ans,8169.0,123
-01.051.07.19,Commune de Sidi Boutmim,al hoceima,entrees,320.0,123
-01.051.07.19,Commune de Sidi Boutmim,al hoceima,indice_entrees (%),4.1,123
-01.051.07.19,Commune de Sidi Boutmim,al hoceima,indice_sortie (%),9.0,123
-01.051.07.19,Commune de Sidi Boutmim,al hoceima,sorties,736.0,123
-01.051.07.27,Commune de Zarkt,al hoceima,population_sedentaire_5ans_plus,5013.0,124
-01.051.07.27,Commune de Zarkt,al hoceima,natifs_residents_non_migrants,4856.0,124
-01.051.07.27,Commune de Zarkt,al hoceima,residents_recents_5ans,5446.0,124
-01.051.07.27,Commune de Zarkt,al hoceima,entrees,151.0,124
-01.051.07.27,Commune de Zarkt,al hoceima,indice_entrees (%),3.0,124
-01.051.07.27,Commune de Zarkt,al hoceima,indice_sortie (%),10.8,124
-01.051.07.27,Commune de Zarkt,al hoceima,sorties,590.0,124
-01.051.07.07,Commune de Bni Bchir,al hoceima,population_sedentaire_5ans_plus,4873.0,125
-01.051.07.07,Commune de Bni Bchir,al hoceima,natifs_residents_non_migrants,4747.0,125
-01.051.07.07,Commune de Bni Bchir,al hoceima,residents_recents_5ans,5469.0,125
-01.051.07.07,Commune de Bni Bchir,al hoceima,entrees,125.0,125
-01.051.07.07,Commune de Bni Bchir,al hoceima,indice_entrees (%),2.6,125
-01.051.07.07,Commune de Bni Bchir,al hoceima,indice_sortie (%),13.2,125
-01.051.07.07,Commune de Bni Bchir,al hoceima,sorties,722.0,125
-01.051.07.11,Commune de Bni Bounsar,al hoceima,population_sedentaire_5ans_plus,5886.0,126
-01.051.07.11,Commune de Bni Bounsar,al hoceima,natifs_residents_non_migrants,5678.0,126
-01.051.07.11,Commune de Bni Bounsar,al hoceima,residents_recents_5ans,6365.0,126
-01.051.07.11,Commune de Bni Bounsar,al hoceima,entrees,205.0,126
-01.051.07.11,Commune de Bni Bounsar,al hoceima,indice_entrees (%),3.5,126
-01.051.07.11,Commune de Bni Bounsar,al hoceima,indice_sortie (%),10.8,126
-01.051.07.11,Commune de Bni Bounsar,al hoceima,sorties,687.0,126
-01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,population_sedentaire_5ans_plus,6897.0,127
-01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,natifs_residents_non_migrants,6633.0,127
-01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,residents_recents_5ans,7033.0,127
-01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,entrees,264.0,127
-01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,indice_entrees (%),3.8,127
-01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,indice_sortie (%),5.7,127
-01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,sorties,400.0,127
-01.051.09.25,Commune de Tamsaout,al hoceima,population_sedentaire_5ans_plus,11616.0,128
-01.051.09.25,Commune de Tamsaout,al hoceima,natifs_residents_non_migrants,11331.0,128
-01.051.09.25,Commune de Tamsaout,al hoceima,residents_recents_5ans,12315.0,128
-01.051.09.25,Commune de Tamsaout,al hoceima,entrees,285.0,128
-01.051.09.25,Commune de Tamsaout,al hoceima,indice_entrees (%),2.5,128
-01.051.09.25,Commune de Tamsaout,al hoceima,indice_sortie (%),8.0,128
-01.051.09.25,Commune de Tamsaout,al hoceima,sorties,985.0,128
-01.051.09.15,Commune de Ketama,al hoceima,population_sedentaire_5ans_plus,15149.0,129
-01.051.09.15,Commune de Ketama,al hoceima,natifs_residents_non_migrants,14857.0,129
-01.051.09.15,Commune de Ketama,al hoceima,residents_recents_5ans,16751.0,129
-01.051.09.15,Commune de Ketama,al hoceima,entrees,292.0,129
-01.051.09.15,Commune de Ketama,al hoceima,indice_entrees (%),1.9,129
-01.051.09.15,Commune de Ketama,al hoceima,indice_sortie (%),11.3,129
-01.051.09.15,Commune de Ketama,al hoceima,sorties,1893.0,129
-01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,population_sedentaire_5ans_plus,8384.0,130
-01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,natifs_residents_non_migrants,8210.0,130
-01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,residents_recents_5ans,8782.0,130
-01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,entrees,174.0,130
-01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,indice_entrees (%),2.1,130
-01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,indice_sortie (%),6.5,130
-01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,sorties,572.0,130
-01.051.09.13,Commune d'Issaguen,al hoceima,population_sedentaire_5ans_plus,15858.0,131
-01.051.09.13,Commune d'Issaguen,al hoceima,natifs_residents_non_migrants,15150.0,131
-01.051.09.13,Commune d'Issaguen,al hoceima,residents_recents_5ans,18737.0,131
-01.051.09.13,Commune d'Issaguen,al hoceima,entrees,700.0,131
-01.051.09.13,Commune d'Issaguen,al hoceima,indice_entrees (%),4.4,131
-01.051.09.13,Commune d'Issaguen,al hoceima,indice_sortie (%),19.1,131
-01.051.09.13,Commune d'Issaguen,al hoceima,sorties,3587.0,131
-01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,population_sedentaire_5ans_plus,2365.0,195
-01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,natifs_residents_non_migrants,1987.0,195
-01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,residents_recents_5ans,2487.0,195
-01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,entrees,375.0,195
-01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,indice_entrees (%),15.9,195
-01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,indice_sortie (%),20.1,195
-01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,sorties,500.0,195
-01.051.09.09,Commune de Bni Bouchibet,al hoceima,population_sedentaire_5ans_plus,8018.0,132
-01.051.09.09,Commune de Bni Bouchibet,al hoceima,natifs_residents_non_migrants,7779.0,132
-01.051.09.09,Commune de Bni Bouchibet,al hoceima,residents_recents_5ans,8499.0,132
-01.051.09.09,Commune de Bni Bouchibet,al hoceima,entrees,230.0,132
-01.051.09.09,Commune de Bni Bouchibet,al hoceima,indice_entrees (%),2.9,132
-01.051.09.09,Commune de Bni Bouchibet,al hoceima,indice_sortie (%),8.5,132
-01.051.09.09,Commune de Bni Bouchibet,al hoceima,sorties,720.0,132
-01.051.09.23,Commune de Taghzout,al hoceima,population_sedentaire_5ans_plus,3743.0,133
-01.051.09.23,Commune de Taghzout,al hoceima,natifs_residents_non_migrants,3684.0,133
-01.051.09.23,Commune de Taghzout,al hoceima,residents_recents_5ans,4199.0,133
-01.051.09.23,Commune de Taghzout,al hoceima,entrees,59.0,133
-01.051.09.23,Commune de Taghzout,al hoceima,indice_entrees (%),1.6,133
-01.051.09.23,Commune de Taghzout,al hoceima,indice_sortie (%),12.3,133
-01.051.09.23,Commune de Taghzout,al hoceima,sorties,515.0,133
-01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,population_sedentaire_5ans_plus,22045.0,134
-01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,natifs_residents_non_migrants,21601.0,134
-01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,residents_recents_5ans,23462.0,134
-01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,entrees,444.0,134
-01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,indice_entrees (%),2.0,134
-01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,indice_sortie (%),7.9,134
-01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,sorties,1861.0,134
-01.151,Province de Chefchaouen,chefchaouen,population_sedentaire_5ans_plus,375092.0,8
-01.151,Province de Chefchaouen,chefchaouen,natifs_residents_non_migrants,367473.0,8
-01.151,Province de Chefchaouen,chefchaouen,residents_recents_5ans,420487.0,8
-01.151,Province de Chefchaouen,chefchaouen,entrees,7298.0,8
-01.151,Province de Chefchaouen,chefchaouen,indice_entrees (%),1.9,8
-01.151,Province de Chefchaouen,chefchaouen,indice_sortie (%),12.6,8
-01.151,Province de Chefchaouen,chefchaouen,sorties,53014.0,8
-01.151.01.01,Commune de Chefchaouen,chefchaouen,population_sedentaire_5ans_plus,42761.0,135
-01.151.01.01,Commune de Chefchaouen,chefchaouen,natifs_residents_non_migrants,38880.0,135
-01.151.01.01,Commune de Chefchaouen,chefchaouen,residents_recents_5ans,44899.0,135
-01.151.01.01,Commune de Chefchaouen,chefchaouen,entrees,3695.0,135
-01.151.01.01,Commune de Chefchaouen,chefchaouen,indice_entrees (%),8.6,135
-01.151.01.01,Commune de Chefchaouen,chefchaouen,indice_sortie (%),13.4,135
-01.151.01.01,Commune de Chefchaouen,chefchaouen,sorties,6019.0,135
-01.151.03.03,Commune de Bab Berred,chefchaouen,population_sedentaire_5ans_plus,22568.0,136
-01.151.03.03,Commune de Bab Berred,chefchaouen,natifs_residents_non_migrants,21310.0,136
-01.151.03.03,Commune de Bab Berred,chefchaouen,residents_recents_5ans,28898.0,136
-01.151.03.03,Commune de Bab Berred,chefchaouen,entrees,1245.0,136
-01.151.03.03,Commune de Bab Berred,chefchaouen,indice_entrees (%),5.5,136
-01.151.03.03,Commune de Bab Berred,chefchaouen,indice_sortie (%),26.3,136
-01.151.03.03,Commune de Bab Berred,chefchaouen,sorties,7588.0,136
-01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,population_sedentaire_5ans_plus,5312.0,196
-01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,natifs_residents_non_migrants,4505.0,196
-01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,residents_recents_5ans,5935.0,196
-01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,entrees,804.0,196
-01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,indice_entrees (%),15.1,196
-01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,indice_sortie (%),24.1,196
-01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,sorties,1430.0,196
-01.151.03.13,Commune d'Iounane,chefchaouen,population_sedentaire_5ans_plus,17569.0,137
-01.151.03.13,Commune d'Iounane,chefchaouen,natifs_residents_non_migrants,17249.0,137
-01.151.03.13,Commune d'Iounane,chefchaouen,residents_recents_5ans,19027.0,137
-01.151.03.13,Commune d'Iounane,chefchaouen,entrees,320.0,137
-01.151.03.13,Commune d'Iounane,chefchaouen,indice_entrees (%),1.8,137
-01.151.03.13,Commune d'Iounane,chefchaouen,indice_sortie (%),9.3,137
-01.151.03.13,Commune d'Iounane,chefchaouen,sorties,1778.0,137
-01.151.03.23,Commune de Tamorot,chefchaouen,population_sedentaire_5ans_plus,21833.0,138
-01.151.03.23,Commune de Tamorot,chefchaouen,natifs_residents_non_migrants,21419.0,138
-01.151.03.23,Commune de Tamorot,chefchaouen,residents_recents_5ans,23205.0,138
-01.151.03.23,Commune de Tamorot,chefchaouen,entrees,414.0,138
-01.151.03.23,Commune de Tamorot,chefchaouen,indice_entrees (%),1.9,138
-01.151.03.23,Commune de Tamorot,chefchaouen,indice_sortie (%),7.7,138
-01.151.03.23,Commune de Tamorot,chefchaouen,sorties,1786.0,138
-01.151.09.01,Commune d'Amtar,chefchaouen,population_sedentaire_5ans_plus,7832.0,139
-01.151.09.01,Commune d'Amtar,chefchaouen,natifs_residents_non_migrants,7490.0,139
-01.151.09.01,Commune d'Amtar,chefchaouen,residents_recents_5ans,8973.0,139
-01.151.09.01,Commune d'Amtar,chefchaouen,entrees,340.0,139
-01.151.09.01,Commune d'Amtar,chefchaouen,indice_entrees (%),4.3,139
-01.151.09.01,Commune d'Amtar,chefchaouen,indice_sortie (%),16.5,139
-01.151.09.01,Commune d'Amtar,chefchaouen,sorties,1483.0,139
-01.151.09.17,Commune de M'tioua,chefchaouen,population_sedentaire_5ans_plus,9508.0,140
-01.151.09.17,Commune de M'tioua,chefchaouen,natifs_residents_non_migrants,8925.0,140
-01.151.09.17,Commune de M'tioua,chefchaouen,residents_recents_5ans,11116.0,140
-01.151.09.17,Commune de M'tioua,chefchaouen,entrees,576.0,140
-01.151.09.17,Commune de M'tioua,chefchaouen,indice_entrees (%),6.1,140
-01.151.09.17,Commune de M'tioua,chefchaouen,indice_sortie (%),19.7,140
-01.151.09.17,Commune de M'tioua,chefchaouen,sorties,2191.0,140
-01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,population_sedentaire_5ans_plus,4099.0,197
-01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,natifs_residents_non_migrants,3514.0,197
-01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,residents_recents_5ans,4180.0,197
-01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,entrees,579.0,197
-01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,indice_entrees (%),14.1,197
-01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,indice_sortie (%),15.9,197
-01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,sorties,666.0,197
-01.151.09.19,Commune d'Ouaouzgane,chefchaouen,population_sedentaire_5ans_plus,11448.0,141
-01.151.09.19,Commune d'Ouaouzgane,chefchaouen,natifs_residents_non_migrants,11159.0,141
-01.151.09.19,Commune d'Ouaouzgane,chefchaouen,residents_recents_5ans,12549.0,141
-01.151.09.19,Commune d'Ouaouzgane,chefchaouen,entrees,289.0,141
-01.151.09.19,Commune d'Ouaouzgane,chefchaouen,indice_entrees (%),2.5,141
-01.151.09.19,Commune d'Ouaouzgane,chefchaouen,indice_sortie (%),11.1,141
-01.151.09.19,Commune d'Ouaouzgane,chefchaouen,sorties,1390.0,141
-01.151.09.09,Commune de Bni Rzine,chefchaouen,population_sedentaire_5ans_plus,14948.0,142
-01.151.09.09,Commune de Bni Rzine,chefchaouen,natifs_residents_non_migrants,14518.0,142
-01.151.09.09,Commune de Bni Rzine,chefchaouen,residents_recents_5ans,17518.0,142
-01.151.09.09,Commune de Bni Rzine,chefchaouen,entrees,423.0,142
-01.151.09.09,Commune de Bni Rzine,chefchaouen,indice_entrees (%),2.8,142
-01.151.09.09,Commune de Bni Rzine,chefchaouen,indice_sortie (%),17.1,142
-01.151.09.09,Commune de Bni Rzine,chefchaouen,sorties,3000.0,142
-01.151.09.11,Commune de Bni Smih,chefchaouen,population_sedentaire_5ans_plus,12515.0,143
-01.151.09.11,Commune de Bni Smih,chefchaouen,natifs_residents_non_migrants,12106.0,143
-01.151.09.11,Commune de Bni Smih,chefchaouen,residents_recents_5ans,14846.0,143
-01.151.09.11,Commune de Bni Smih,chefchaouen,entrees,409.0,143
-01.151.09.11,Commune de Bni Smih,chefchaouen,indice_entrees (%),3.3,143
-01.151.09.11,Commune de Bni Smih,chefchaouen,indice_sortie (%),18.5,143
-01.151.09.11,Commune de Bni Smih,chefchaouen,sorties,2740.0,143
-01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,population_sedentaire_5ans_plus,9842.0,144
-01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,natifs_residents_non_migrants,9549.0,144
-01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,residents_recents_5ans,11977.0,144
-01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,entrees,264.0,144
-01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,indice_entrees (%),2.7,144
-01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,indice_sortie (%),20.3,144
-01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,sorties,2428.0,144
-01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,population_sedentaire_5ans_plus,9790.0,145
-01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,natifs_residents_non_migrants,9549.0,145
-01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,residents_recents_5ans,10410.0,145
-01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,entrees,232.0,145
-01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,indice_entrees (%),2.4,145
-01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,indice_sortie (%),8.3,145
-01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,sorties,861.0,145
-01.151.06.21,Commune d'Oued Malha,chefchaouen,population_sedentaire_5ans_plus,10970.0,146
-01.151.06.21,Commune d'Oued Malha,chefchaouen,natifs_residents_non_migrants,10758.0,146
-01.151.06.21,Commune d'Oued Malha,chefchaouen,residents_recents_5ans,11432.0,146
-01.151.06.21,Commune d'Oued Malha,chefchaouen,entrees,209.0,146
-01.151.06.21,Commune d'Oued Malha,chefchaouen,indice_entrees (%),1.9,146
-01.151.06.21,Commune d'Oued Malha,chefchaouen,indice_sortie (%),5.9,146
-01.151.06.21,Commune d'Oued Malha,chefchaouen,sorties,674.0,146
-01.151.06.15,Commune de Mansoura,chefchaouen,population_sedentaire_5ans_plus,12269.0,147
-01.151.06.15,Commune de Mansoura,chefchaouen,natifs_residents_non_migrants,11892.0,147
-01.151.06.15,Commune de Mansoura,chefchaouen,residents_recents_5ans,13360.0,147
-01.151.06.15,Commune de Mansoura,chefchaouen,entrees,374.0,147
-01.151.06.15,Commune de Mansoura,chefchaouen,indice_entrees (%),3.0,147
-01.151.06.15,Commune de Mansoura,chefchaouen,indice_sortie (%),11.0,147
-01.151.06.15,Commune de Mansoura,chefchaouen,sorties,1468.0,147
-01.151.05.01,Commune de Bab Taza,chefchaouen,population_sedentaire_5ans_plus,27231.0,148
-01.151.05.01,Commune de Bab Taza,chefchaouen,natifs_residents_non_migrants,26276.0,148
-01.151.05.01,Commune de Bab Taza,chefchaouen,residents_recents_5ans,30372.0,148
-01.151.05.01,Commune de Bab Taza,chefchaouen,entrees,938.0,148
-01.151.05.01,Commune de Bab Taza,chefchaouen,indice_entrees (%),3.4,148
-01.151.05.01,Commune de Bab Taza,chefchaouen,indice_sortie (%),13.5,148
-01.151.05.01,Commune de Bab Taza,chefchaouen,sorties,4096.0,148
-01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,population_sedentaire_5ans_plus,5429.0,198
-01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,natifs_residents_non_migrants,4625.0,198
-01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,residents_recents_5ans,5349.0,198
-01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,entrees,792.0,198
-01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,indice_entrees (%),14.6,198
-01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,indice_sortie (%),13.5,198
-01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,sorties,724.0,198
-01.151.05.07,Commune de Bni Salah,chefchaouen,population_sedentaire_5ans_plus,9376.0,149
-01.151.05.07,Commune de Bni Salah,chefchaouen,natifs_residents_non_migrants,9196.0,149
-01.151.05.07,Commune de Bni Salah,chefchaouen,residents_recents_5ans,9857.0,149
-01.151.05.07,Commune de Bni Salah,chefchaouen,entrees,179.0,149
-01.151.05.07,Commune de Bni Salah,chefchaouen,indice_entrees (%),1.9,149
-01.151.05.07,Commune de Bni Salah,chefchaouen,indice_sortie (%),6.7,149
-01.151.05.07,Commune de Bni Salah,chefchaouen,sorties,661.0,149
-01.151.05.03,Commune de Bni Darkoul,chefchaouen,population_sedentaire_5ans_plus,12759.0,150
-01.151.05.03,Commune de Bni Darkoul,chefchaouen,natifs_residents_non_migrants,12595.0,150
-01.151.05.03,Commune de Bni Darkoul,chefchaouen,residents_recents_5ans,14049.0,150
-01.151.05.03,Commune de Bni Darkoul,chefchaouen,entrees,161.0,150
-01.151.05.03,Commune de Bni Darkoul,chefchaouen,indice_entrees (%),1.3,150
-01.151.05.03,Commune de Bni Darkoul,chefchaouen,indice_sortie (%),10.4,150
-01.151.05.03,Commune de Bni Darkoul,chefchaouen,sorties,1454.0,150
-01.151.05.05,Commune de Bni Faghloum,chefchaouen,population_sedentaire_5ans_plus,8500.0,151
-01.151.05.05,Commune de Bni Faghloum,chefchaouen,natifs_residents_non_migrants,8386.0,151
-01.151.05.05,Commune de Bni Faghloum,chefchaouen,residents_recents_5ans,9066.0,151
-01.151.05.05,Commune de Bni Faghloum,chefchaouen,entrees,114.0,151
-01.151.05.05,Commune de Bni Faghloum,chefchaouen,indice_entrees (%),1.3,151
-01.151.05.05,Commune de Bni Faghloum,chefchaouen,indice_sortie (%),7.5,151
-01.151.05.05,Commune de Bni Faghloum,chefchaouen,sorties,680.0,151
-01.151.05.11,Commune de Fifi,chefchaouen,population_sedentaire_5ans_plus,6296.0,152
-01.151.05.11,Commune de Fifi,chefchaouen,natifs_residents_non_migrants,6124.0,152
-01.151.05.11,Commune de Fifi,chefchaouen,residents_recents_5ans,7202.0,152
-01.151.05.11,Commune de Fifi,chefchaouen,entrees,170.0,152
-01.151.05.11,Commune de Fifi,chefchaouen,indice_entrees (%),2.7,152
-01.151.05.11,Commune de Fifi,chefchaouen,indice_sortie (%),15.0,152
-01.151.05.11,Commune de Fifi,chefchaouen,sorties,1078.0,152
-01.151.05.09,Commune de Derdara,chefchaouen,population_sedentaire_5ans_plus,10300.0,153
-01.151.05.09,Commune de Derdara,chefchaouen,natifs_residents_non_migrants,10105.0,153
-01.151.05.09,Commune de Derdara,chefchaouen,residents_recents_5ans,11653.0,153
-01.151.05.09,Commune de Derdara,chefchaouen,entrees,194.0,153
-01.151.05.09,Commune de Derdara,chefchaouen,indice_entrees (%),1.9,153
-01.151.05.09,Commune de Derdara,chefchaouen,indice_sortie (%),13.3,153
-01.151.05.09,Commune de Derdara,chefchaouen,sorties,1549.0,153
-01.151.05.15,Commune de Tanaqoub,chefchaouen,population_sedentaire_5ans_plus,7376.0,154
-01.151.05.15,Commune de Tanaqoub,chefchaouen,natifs_residents_non_migrants,7194.0,154
-01.151.05.15,Commune de Tanaqoub,chefchaouen,residents_recents_5ans,8513.0,154
-01.151.05.15,Commune de Tanaqoub,chefchaouen,entrees,182.0,154
-01.151.05.15,Commune de Tanaqoub,chefchaouen,indice_entrees (%),2.5,154
-01.151.05.15,Commune de Tanaqoub,chefchaouen,indice_sortie (%),15.5,154
-01.151.05.15,Commune de Tanaqoub,chefchaouen,sorties,1319.0,154
-01.151.05.13,Commune de Laghdir,chefchaouen,population_sedentaire_5ans_plus,5901.0,155
-01.151.05.13,Commune de Laghdir,chefchaouen,natifs_residents_non_migrants,5696.0,155
-01.151.05.13,Commune de Laghdir,chefchaouen,residents_recents_5ans,6179.0,155
-01.151.05.13,Commune de Laghdir,chefchaouen,entrees,200.0,155
-01.151.05.13,Commune de Laghdir,chefchaouen,indice_entrees (%),3.4,155
-01.151.05.13,Commune de Laghdir,chefchaouen,indice_sortie (%),7.8,155
-01.151.05.13,Commune de Laghdir,chefchaouen,sorties,483.0,155
-01.151.11.05,Commune de Bni Selmane,chefchaouen,population_sedentaire_5ans_plus,19463.0,156
-01.151.11.05,Commune de Bni Selmane,chefchaouen,natifs_residents_non_migrants,19235.0,156
-01.151.11.05,Commune de Bni Selmane,chefchaouen,residents_recents_5ans,21670.0,156
-01.151.11.05,Commune de Bni Selmane,chefchaouen,entrees,228.0,156
-01.151.11.05,Commune de Bni Selmane,chefchaouen,indice_entrees (%),1.2,156
-01.151.11.05,Commune de Bni Selmane,chefchaouen,indice_sortie (%),11.2,156
-01.151.11.05,Commune de Bni Selmane,chefchaouen,sorties,2434.0,156
-01.151.11.03,Commune de Bni Mansour,chefchaouen,population_sedentaire_5ans_plus,14991.0,157
-01.151.11.03,Commune de Bni Mansour,chefchaouen,natifs_residents_non_migrants,14834.0,157
-01.151.11.03,Commune de Bni Mansour,chefchaouen,residents_recents_5ans,17962.0,157
-01.151.11.03,Commune de Bni Mansour,chefchaouen,entrees,157.0,157
-01.151.11.03,Commune de Bni Mansour,chefchaouen,indice_entrees (%),1.0,157
-01.151.11.03,Commune de Bni Mansour,chefchaouen,indice_sortie (%),17.4,157
-01.151.11.03,Commune de Bni Mansour,chefchaouen,sorties,3127.0,157
-01.151.07.01,Commune de Bni Bouzra,chefchaouen,population_sedentaire_5ans_plus,14409.0,158
-01.151.07.01,Commune de Bni Bouzra,chefchaouen,natifs_residents_non_migrants,14075.0,158
-01.151.07.01,Commune de Bni Bouzra,chefchaouen,residents_recents_5ans,16706.0,158
-01.151.07.01,Commune de Bni Bouzra,chefchaouen,entrees,324.0,158
-01.151.07.01,Commune de Bni Bouzra,chefchaouen,indice_entrees (%),2.2,158
-01.151.07.01,Commune de Bni Bouzra,chefchaouen,indice_sortie (%),15.7,158
-01.151.07.01,Commune de Bni Bouzra,chefchaouen,sorties,2631.0,158
-01.151.07.07,Commune de Steha,chefchaouen,population_sedentaire_5ans_plus,9902.0,159
-01.151.07.07,Commune de Steha,chefchaouen,natifs_residents_non_migrants,9348.0,159
-01.151.07.07,Commune de Steha,chefchaouen,residents_recents_5ans,11110.0,159
-01.151.07.07,Commune de Steha,chefchaouen,entrees,546.0,159
-01.151.07.07,Commune de Steha,chefchaouen,indice_entrees (%),5.5,159
-01.151.07.07,Commune de Steha,chefchaouen,indice_sortie (%),15.9,159
-01.151.07.07,Commune de Steha,chefchaouen,sorties,1763.0,159
-01.151.07.13,Commune de Tizgane,chefchaouen,population_sedentaire_5ans_plus,11122.0,160
-01.151.07.13,Commune de Tizgane,chefchaouen,natifs_residents_non_migrants,10519.0,160
-01.151.07.13,Commune de Tizgane,chefchaouen,residents_recents_5ans,11454.0,160
-01.151.07.13,Commune de Tizgane,chefchaouen,entrees,591.0,160
-01.151.07.13,Commune de Tizgane,chefchaouen,indice_entrees (%),5.3,160
-01.151.07.13,Commune de Tizgane,chefchaouen,indice_sortie (%),8.2,160
-01.151.07.13,Commune de Tizgane,chefchaouen,sorties,934.0,160
-01.151.07.11,Commune de Tassift,chefchaouen,population_sedentaire_5ans_plus,6239.0,161
-01.151.07.11,Commune de Tassift,chefchaouen,natifs_residents_non_migrants,6005.0,161
-01.151.07.11,Commune de Tassift,chefchaouen,residents_recents_5ans,7275.0,161
-01.151.07.11,Commune de Tassift,chefchaouen,entrees,234.0,161
-01.151.07.11,Commune de Tassift,chefchaouen,indice_entrees (%),3.8,161
-01.151.07.11,Commune de Tassift,chefchaouen,indice_sortie (%),17.5,161
-01.151.07.11,Commune de Tassift,chefchaouen,sorties,1270.0,161
-01.151.07.09,Commune de Talambote,chefchaouen,population_sedentaire_5ans_plus,7374.0,162
-01.151.07.09,Commune de Talambote,chefchaouen,natifs_residents_non_migrants,7138.0,162
-01.151.07.09,Commune de Talambote,chefchaouen,residents_recents_5ans,9207.0,162
-01.151.07.09,Commune de Talambote,chefchaouen,entrees,233.0,162
-01.151.07.09,Commune de Talambote,chefchaouen,indice_entrees (%),3.2,162
-01.151.07.09,Commune de Talambote,chefchaouen,indice_sortie (%),22.5,162
-01.151.07.09,Commune de Talambote,chefchaouen,sorties,2069.0,162
-01.405,Province d'Ouezzane,ouezzane,population_sedentaire_5ans_plus,253019.0,9
-01.405,Province d'Ouezzane,ouezzane,natifs_residents_non_migrants,246798.0,9
-01.405,Province d'Ouezzane,ouezzane,residents_recents_5ans,277864.0,9
-01.405,Province d'Ouezzane,ouezzane,entrees,6115.0,9
-01.405,Province d'Ouezzane,ouezzane,indice_entrees (%),2.4,9
-01.405,Province d'Ouezzane,ouezzane,indice_sortie (%),11.2,9
-01.405,Province d'Ouezzane,ouezzane,sorties,31066.0,9
-01.405.01.09,Commune d'Ouezzane,ouezzane,population_sedentaire_5ans_plus,53512.0,163
-01.405.01.09,Commune d'Ouezzane,ouezzane,natifs_residents_non_migrants,49171.0,163
-01.405.01.09,Commune d'Ouezzane,ouezzane,residents_recents_5ans,59751.0,163
-01.405.01.09,Commune d'Ouezzane,ouezzane,entrees,4291.0,163
-01.405.01.09,Commune d'Ouezzane,ouezzane,indice_entrees (%),8.0,163
-01.405.01.09,Commune d'Ouezzane,ouezzane,indice_sortie (%),17.7,163
-01.405.01.09,Commune d'Ouezzane,ouezzane,sorties,10580.0,163
-01.405.07.07,Commune de Mzefroune,ouezzane,population_sedentaire_5ans_plus,5766.0,164
-01.405.07.07,Commune de Mzefroune,ouezzane,natifs_residents_non_migrants,5523.0,164
-01.405.07.07,Commune de Mzefroune,ouezzane,residents_recents_5ans,6058.0,164
-01.405.07.07,Commune de Mzefroune,ouezzane,entrees,235.0,164
-01.405.07.07,Commune de Mzefroune,ouezzane,indice_entrees (%),4.1,164
-01.405.07.07,Commune de Mzefroune,ouezzane,indice_sortie (%),8.8,164
-01.405.07.07,Commune de Mzefroune,ouezzane,sorties,535.0,164
-01.405.07.05,Commune de Masmouda,ouezzane,population_sedentaire_5ans_plus,13652.0,165
-01.405.07.05,Commune de Masmouda,ouezzane,natifs_residents_non_migrants,13285.0,165
-01.405.07.05,Commune de Masmouda,ouezzane,residents_recents_5ans,15183.0,165
-01.405.07.05,Commune de Masmouda,ouezzane,entrees,367.0,165
-01.405.07.05,Commune de Masmouda,ouezzane,indice_entrees (%),2.7,165
-01.405.07.05,Commune de Masmouda,ouezzane,indice_sortie (%),12.5,165
-01.405.07.05,Commune de Masmouda,ouezzane,sorties,1898.0,165
-01.405.07.15,Commune de Sidi Redouane,ouezzane,population_sedentaire_5ans_plus,16605.0,166
-01.405.07.15,Commune de Sidi Redouane,ouezzane,natifs_residents_non_migrants,16003.0,166
-01.405.07.15,Commune de Sidi Redouane,ouezzane,residents_recents_5ans,18364.0,166
-01.405.07.15,Commune de Sidi Redouane,ouezzane,entrees,597.0,166
-01.405.07.15,Commune de Sidi Redouane,ouezzane,indice_entrees (%),3.6,166
-01.405.07.15,Commune de Sidi Redouane,ouezzane,indice_sortie (%),12.9,166
-01.405.07.15,Commune de Sidi Redouane,ouezzane,sorties,2361.0,166
-01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,population_sedentaire_5ans_plus,3728.0,199
-01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,natifs_residents_non_migrants,3234.0,199
-01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,residents_recents_5ans,3739.0,199
-01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,entrees,494.0,199
-01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,indice_entrees (%),13.3,199
-01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,indice_sortie (%),13.5,199
-01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,sorties,505.0,199
-01.405.07.01,Commune de Bni Quolla,ouezzane,population_sedentaire_5ans_plus,12638.0,167
-01.405.07.01,Commune de Bni Quolla,ouezzane,natifs_residents_non_migrants,12378.0,167
-01.405.07.01,Commune de Bni Quolla,ouezzane,residents_recents_5ans,16138.0,167
-01.405.07.01,Commune de Bni Quolla,ouezzane,entrees,260.0,167
-01.405.07.01,Commune de Bni Quolla,ouezzane,indice_entrees (%),2.1,167
-01.405.07.01,Commune de Bni Quolla,ouezzane,indice_sortie (%),23.3,167
-01.405.07.01,Commune de Bni Quolla,ouezzane,sorties,3761.0,167
-01.405.13.17,Commune de Teroual,ouezzane,population_sedentaire_5ans_plus,10824.0,168
-01.405.13.17,Commune de Teroual,ouezzane,natifs_residents_non_migrants,10512.0,168
-01.405.13.17,Commune de Teroual,ouezzane,residents_recents_5ans,11895.0,168
-01.405.13.17,Commune de Teroual,ouezzane,entrees,312.0,168
-01.405.13.17,Commune de Teroual,ouezzane,indice_entrees (%),2.9,168
-01.405.13.17,Commune de Teroual,ouezzane,indice_sortie (%),11.6,168
-01.405.13.17,Commune de Teroual,ouezzane,sorties,1382.0,168
-01.405.13.19,Commune de Zghira,ouezzane,population_sedentaire_5ans_plus,12467.0,169
-01.405.13.19,Commune de Zghira,ouezzane,natifs_residents_non_migrants,12122.0,169
-01.405.13.19,Commune de Zghira,ouezzane,residents_recents_5ans,13076.0,169
-01.405.13.19,Commune de Zghira,ouezzane,entrees,344.0,169
-01.405.13.19,Commune de Zghira,ouezzane,indice_entrees (%),2.8,169
-01.405.13.19,Commune de Zghira,ouezzane,indice_sortie (%),7.3,169
-01.405.13.19,Commune de Zghira,ouezzane,sorties,955.0,169
-01.405.13.09,Commune d'Ouannana,ouezzane,population_sedentaire_5ans_plus,11135.0,170
-01.405.13.09,Commune d'Ouannana,ouezzane,natifs_residents_non_migrants,10914.0,170
-01.405.13.09,Commune d'Ouannana,ouezzane,residents_recents_5ans,11867.0,170
-01.405.13.09,Commune d'Ouannana,ouezzane,entrees,216.0,170
-01.405.13.09,Commune d'Ouannana,ouezzane,indice_entrees (%),1.9,170
-01.405.13.09,Commune d'Ouannana,ouezzane,indice_sortie (%),8.0,170
-01.405.13.09,Commune d'Ouannana,ouezzane,sorties,952.0,170
-01.405.13.03,Commune de Lamjaara,ouezzane,population_sedentaire_5ans_plus,15667.0,171
-01.405.13.03,Commune de Lamjaara,ouezzane,natifs_residents_non_migrants,14774.0,171
-01.405.13.03,Commune de Lamjaara,ouezzane,residents_recents_5ans,16124.0,171
-01.405.13.03,Commune de Lamjaara,ouezzane,entrees,892.0,171
-01.405.13.03,Commune de Lamjaara,ouezzane,indice_entrees (%),5.7,171
-01.405.13.03,Commune de Lamjaara,ouezzane,indice_sortie (%),8.4,171
-01.405.13.03,Commune de Lamjaara,ouezzane,sorties,1350.0,171
-01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,population_sedentaire_5ans_plus,4334.0,200
-01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,natifs_residents_non_migrants,3632.0,200
-01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,residents_recents_5ans,4000.0,200
-01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,entrees,701.0,200
-01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,indice_entrees (%),16.2,200
-01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,indice_sortie (%),9.2,200
-01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,sorties,368.0,200
-01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,population_sedentaire_5ans_plus,7342.0,172
-01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,natifs_residents_non_migrants,7148.0,172
-01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,residents_recents_5ans,7772.0,172
-01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,entrees,194.0,172
-01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,indice_entrees (%),2.6,172
-01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,indice_sortie (%),8.0,172
-01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,sorties,624.0,172
-01.405.13.13,Commune de Sidi Bousber,ouezzane,population_sedentaire_5ans_plus,8984.0,173
-01.405.13.13,Commune de Sidi Bousber,ouezzane,natifs_residents_non_migrants,8807.0,173
-01.405.13.13,Commune de Sidi Bousber,ouezzane,residents_recents_5ans,9983.0,173
-01.405.13.13,Commune de Sidi Bousber,ouezzane,entrees,173.0,173
-01.405.13.13,Commune de Sidi Bousber,ouezzane,indice_entrees (%),1.9,173
-01.405.13.13,Commune de Sidi Bousber,ouezzane,indice_sortie (%),11.8,173
-01.405.13.13,Commune de Sidi Bousber,ouezzane,sorties,1176.0,173
-01.405.09.05,Commune de Brikcha,ouezzane,population_sedentaire_5ans_plus,8234.0,174
-01.405.09.05,Commune de Brikcha,ouezzane,natifs_residents_non_migrants,8007.0,174
-01.405.09.05,Commune de Brikcha,ouezzane,residents_recents_5ans,9409.0,174
-01.405.09.05,Commune de Brikcha,ouezzane,entrees,225.0,174
-01.405.09.05,Commune de Brikcha,ouezzane,indice_entrees (%),2.7,174
-01.405.09.05,Commune de Brikcha,ouezzane,indice_sortie (%),14.9,174
-01.405.09.05,Commune de Brikcha,ouezzane,sorties,1402.0,174
-01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,population_sedentaire_5ans_plus,1080.0,201
-01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,natifs_residents_non_migrants,984.0,201
-01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,residents_recents_5ans,1202.0,201
-01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,entrees,94.0,201
-01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,indice_entrees (%),8.7,201
-01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,indice_sortie (%),18.1,201
-01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,sorties,218.0,201
-01.405.09.03,Commune d'Asjen,ouezzane,population_sedentaire_5ans_plus,10718.0,175
-01.405.09.03,Commune d'Asjen,ouezzane,natifs_residents_non_migrants,10420.0,175
-01.405.09.03,Commune d'Asjen,ouezzane,residents_recents_5ans,11237.0,175
-01.405.09.03,Commune d'Asjen,ouezzane,entrees,294.0,175
-01.405.09.03,Commune d'Asjen,ouezzane,indice_entrees (%),2.7,175
-01.405.09.03,Commune d'Asjen,ouezzane,indice_sortie (%),7.3,175
-01.405.09.03,Commune d'Asjen,ouezzane,sorties,817.0,175
-01.405.09.09,Commune de Moqrissat,ouezzane,population_sedentaire_5ans_plus,8808.0,176
-01.405.09.09,Commune de Moqrissat,ouezzane,natifs_residents_non_migrants,8418.0,176
-01.405.09.09,Commune de Moqrissat,ouezzane,residents_recents_5ans,9658.0,176
-01.405.09.09,Commune de Moqrissat,ouezzane,entrees,376.0,176
-01.405.09.09,Commune de Moqrissat,ouezzane,indice_entrees (%),4.3,176
-01.405.09.09,Commune de Moqrissat,ouezzane,indice_sortie (%),12.8,176
-01.405.09.09,Commune de Moqrissat,ouezzane,sorties,1240.0,176
-01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,population_sedentaire_5ans_plus,1881.0,202
-01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,natifs_residents_non_migrants,1527.0,202
-01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,residents_recents_5ans,1763.0,202
-01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,entrees,352.0,202
-01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,indice_entrees (%),18.7,202
-01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,indice_sortie (%),13.4,202
-01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,sorties,236.0,202
-01.405.09.01,Commune d'Ain Beida,ouezzane,population_sedentaire_5ans_plus,9644.0,177
-01.405.09.01,Commune d'Ain Beida,ouezzane,natifs_residents_non_migrants,9435.0,177
-01.405.09.01,Commune d'Ain Beida,ouezzane,residents_recents_5ans,10256.0,177
-01.405.09.01,Commune d'Ain Beida,ouezzane,entrees,209.0,177
-01.405.09.01,Commune d'Ain Beida,ouezzane,indice_entrees (%),2.2,177
-01.405.09.01,Commune d'Ain Beida,ouezzane,indice_sortie (%),8.0,177
-01.405.09.01,Commune d'Ain Beida,ouezzane,sorties,821.0,177
-01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,population_sedentaire_5ans_plus,13042.0,178
-01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,natifs_residents_non_migrants,12826.0,178
-01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,residents_recents_5ans,14074.0,178
-01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,entrees,210.0,178
-01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,indice_entrees (%),1.6,178
-01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,indice_sortie (%),8.9,178
-01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,sorties,1248.0,178
-01.405.11.11,Commune de Zoumi,ouezzane,population_sedentaire_5ans_plus,33981.0,179
-01.405.11.11,Commune de Zoumi,ouezzane,natifs_residents_non_migrants,33408.0,179
-01.405.11.11,Commune de Zoumi,ouezzane,residents_recents_5ans,37019.0,179
-01.405.11.11,Commune de Zoumi,ouezzane,entrees,567.0,179
-01.405.11.11,Commune de Zoumi,ouezzane,indice_entrees (%),1.7,179
-01.405.11.11,Commune de Zoumi,ouezzane,indice_sortie (%),9.8,179
-01.405.11.11,Commune de Zoumi,ouezzane,sorties,3611.0,179
-01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,population_sedentaire_5ans_plus,4327.0,203
-01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,natifs_residents_non_migrants,4151.0,203
-01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,residents_recents_5ans,4572.0,203
-01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,entrees,176.0,203
-01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,indice_entrees (%),4.1,203
-01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,indice_sortie (%),9.2,203
-01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,sorties,421.0,203
+﻿cg,collectivite,fk_territoire,indicateur,valeur,territoire_id,indicateur_id
+01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,population_sedentaire_5ans_plus,3679166.0,1,16
+01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,natifs_residents_non_migrants,3490612.0,1,15
+01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,residents_recents_5ans,3568844.0,1,17
+01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,entrees,174103.0,1,12
+01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,indice_entrees (%),4.7,1,13
+01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,indice_sortie (%),2.2,1,14
+01,Région de Tanger-Tétouan-Al Hoceima,tanger tetouan al hoceima,sorties,78232.0,1,18
+01.511,Préfecture de Tanger-Assilah,tanger assilah,population_sedentaire_5ans_plus,1359740.0,2,16
+01.511,Préfecture de Tanger-Assilah,tanger assilah,natifs_residents_non_migrants,1136970.0,2,15
+01.511,Préfecture de Tanger-Assilah,tanger assilah,residents_recents_5ans,1171899.0,2,17
+01.511,Préfecture de Tanger-Assilah,tanger assilah,entrees,213672.0,2,12
+01.511,Préfecture de Tanger-Assilah,tanger assilah,indice_entrees (%),15.7,2,13
+01.511,Préfecture de Tanger-Assilah,tanger assilah,indice_sortie (%),3.0,2,14
+01.511,Préfecture de Tanger-Assilah,tanger assilah,sorties,34929.0,2,18
+01.511.01.0,Commune de Tanger,tanger assilah,population_sedentaire_5ans_plus,1166386.0,34,16
+01.511.01.0,Commune de Tanger,tanger assilah,natifs_residents_non_migrants,963573.0,34,15
+01.511.01.0,Commune de Tanger,tanger assilah,residents_recents_5ans,1019938.0,34,17
+01.511.01.0,Commune de Tanger,tanger assilah,entrees,560670.0,34,12
+01.511.01.0,Commune de Tanger,tanger assilah,indice_entrees (%),48.1,34,13
+01.511.01.0,Commune de Tanger,tanger assilah,indice_sortie (%),12.4,34,14
+01.511.01.0,Commune de Tanger,tanger assilah,sorties,126127.0,34,18
+01.511.01.05,Arrondissement de Mghogha,tanger assilah,population_sedentaire_5ans_plus,231487.0,180,16
+01.511.01.05,Arrondissement de Mghogha,tanger assilah,natifs_residents_non_migrants,182144.0,180,15
+01.511.01.05,Arrondissement de Mghogha,tanger assilah,residents_recents_5ans,200944.0,180,17
+01.511.01.05,Arrondissement de Mghogha,tanger assilah,entrees,48160.0,180,12
+01.511.01.05,Arrondissement de Mghogha,tanger assilah,indice_entrees (%),20.8,180,13
+01.511.01.05,Arrondissement de Mghogha,tanger assilah,indice_sortie (%),9.4,180,14
+01.511.01.05,Arrondissement de Mghogha,tanger assilah,sorties,18800.0,180,18
+01.511.01.06,Arrondissement de Souani,tanger assilah,population_sedentaire_5ans_plus,104325.0,181,16
+01.511.01.06,Arrondissement de Souani,tanger assilah,natifs_residents_non_migrants,86420.0,181,15
+01.511.01.06,Arrondissement de Souani,tanger assilah,residents_recents_5ans,95820.0,181,17
+01.511.01.06,Arrondissement de Souani,tanger assilah,entrees,16971.0,181,12
+01.511.01.06,Arrondissement de Souani,tanger assilah,indice_entrees (%),16.3,181,13
+01.511.01.06,Arrondissement de Souani,tanger assilah,indice_sortie (%),9.8,181,14
+01.511.01.06,Arrondissement de Souani,tanger assilah,sorties,9400.0,181,18
+01.511.01.03,Arrondissement de Bni Makada,tanger assilah,population_sedentaire_5ans_plus,514751.0,182,16
+01.511.01.03,Arrondissement de Bni Makada,tanger assilah,natifs_residents_non_migrants,406791.0,182,15
+01.511.01.03,Arrondissement de Bni Makada,tanger assilah,residents_recents_5ans,451838.0,182,17
+01.511.01.03,Arrondissement de Bni Makada,tanger assilah,entrees,106462.0,182,12
+01.511.01.03,Arrondissement de Bni Makada,tanger assilah,indice_entrees (%),20.7,182,13
+01.511.01.03,Arrondissement de Bni Makada,tanger assilah,indice_sortie (%),10.0,182,14
+01.511.01.03,Arrondissement de Bni Makada,tanger assilah,sorties,45047.0,182,18
+01.511.01.07,Arrondissement de Médina,tanger assilah,population_sedentaire_5ans_plus,315823.0,183,16
+01.511.01.07,Arrondissement de Médina,tanger assilah,natifs_residents_non_migrants,245603.0,183,15
+01.511.01.07,Arrondissement de Médina,tanger assilah,residents_recents_5ans,271337.0,183,17
+01.511.01.07,Arrondissement de Médina,tanger assilah,entrees,65232.0,183,12
+01.511.01.07,Arrondissement de Médina,tanger assilah,indice_entrees (%),20.7,183,13
+01.511.01.07,Arrondissement de Médina,tanger assilah,indice_sortie (%),9.5,183,14
+01.511.01.07,Arrondissement de Médina,tanger assilah,sorties,25734.0,183,18
+01.511.01.01,Commune d'Assilah,tanger assilah,population_sedentaire_5ans_plus,31473.0,35,16
+01.511.01.01,Commune d'Assilah,tanger assilah,natifs_residents_non_migrants,28276.0,35,15
+01.511.01.01,Commune d'Assilah,tanger assilah,residents_recents_5ans,30907.0,35,17
+01.511.01.01,Commune d'Assilah,tanger assilah,entrees,2994.0,35,12
+01.511.01.01,Commune d'Assilah,tanger assilah,indice_entrees (%),9.5,35,13
+01.511.01.01,Commune d'Assilah,tanger assilah,indice_sortie (%),8.5,35,14
+01.511.01.01,Commune d'Assilah,tanger assilah,sorties,2631.0,35,18
+01.511.01.09,Commune de Gueznaia,tanger assilah,population_sedentaire_5ans_plus,78916.0,36,16
+01.511.01.09,Commune de Gueznaia,tanger assilah,natifs_residents_non_migrants,42210.0,36,15
+01.511.01.09,Commune de Gueznaia,tanger assilah,residents_recents_5ans,46682.0,36,17
+01.511.01.09,Commune de Gueznaia,tanger assilah,entrees,36500.0,36,12
+01.511.01.09,Commune de Gueznaia,tanger assilah,indice_entrees (%),46.3,36,13
+01.511.01.09,Commune de Gueznaia,tanger assilah,indice_sortie (%),9.6,36,14
+01.511.01.09,Commune de Gueznaia,tanger assilah,sorties,4473.0,36,18
+01.511.05.19,Commune de Hjar Ennhal,tanger assilah,population_sedentaire_5ans_plus,22504.0,37,16
+01.511.05.19,Commune de Hjar Ennhal,tanger assilah,natifs_residents_non_migrants,15485.0,37,15
+01.511.05.19,Commune de Hjar Ennhal,tanger assilah,residents_recents_5ans,16100.0,37,17
+01.511.05.19,Commune de Hjar Ennhal,tanger assilah,entrees,7013.0,37,12
+01.511.05.19,Commune de Hjar Ennhal,tanger assilah,indice_entrees (%),31.2,37,13
+01.511.05.19,Commune de Hjar Ennhal,tanger assilah,indice_sortie (%),3.8,37,14
+01.511.05.19,Commune de Hjar Ennhal,tanger assilah,sorties,616.0,37,18
+01.511.05.07,Commune de Dar Chaoui,tanger assilah,population_sedentaire_5ans_plus,4141.0,38,16
+01.511.05.07,Commune de Dar Chaoui,tanger assilah,natifs_residents_non_migrants,3899.0,38,15
+01.511.05.07,Commune de Dar Chaoui,tanger assilah,residents_recents_5ans,4540.0,38,17
+01.511.05.07,Commune de Dar Chaoui,tanger assilah,entrees,236.0,38,12
+01.511.05.07,Commune de Dar Chaoui,tanger assilah,indice_entrees (%),5.7,38,13
+01.511.05.07,Commune de Dar Chaoui,tanger assilah,indice_sortie (%),14.1,38,14
+01.511.05.07,Commune de Dar Chaoui,tanger assilah,sorties,641.0,38,18
+01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,population_sedentaire_5ans_plus,1378.0,184,16
+01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,natifs_residents_non_migrants,1204.0,184,15
+01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,residents_recents_5ans,1391.0,184,17
+01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,entrees,168.0,184,12
+01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,indice_entrees (%),12.2,184,13
+01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,indice_sortie (%),13.4,184,14
+01.511.05.07.3,dont le centre urbain de Dar Chaoui,tanger assilah,sorties,187.0,184,18
+01.511.05.01,Commune d'Al Manzla,tanger assilah,population_sedentaire_5ans_plus,2473.0,39,16
+01.511.05.01,Commune d'Al Manzla,tanger assilah,natifs_residents_non_migrants,2330.0,39,15
+01.511.05.01,Commune d'Al Manzla,tanger assilah,residents_recents_5ans,2478.0,39,17
+01.511.05.01,Commune d'Al Manzla,tanger assilah,entrees,137.0,39,12
+01.511.05.01,Commune d'Al Manzla,tanger assilah,indice_entrees (%),5.5,39,13
+01.511.05.01,Commune d'Al Manzla,tanger assilah,indice_sortie (%),6.0,39,14
+01.511.05.01,Commune d'Al Manzla,tanger assilah,sorties,148.0,39,18
+01.511.05.17,Commune de Laaouama,tanger assilah,population_sedentaire_5ans_plus,17054.0,40,16
+01.511.05.17,Commune de Laaouama,tanger assilah,natifs_residents_non_migrants,11966.0,40,15
+01.511.05.17,Commune de Laaouama,tanger assilah,residents_recents_5ans,14122.0,40,17
+01.511.05.17,Commune de Laaouama,tanger assilah,entrees,5074.0,40,12
+01.511.05.17,Commune de Laaouama,tanger assilah,indice_entrees (%),29.8,40,13
+01.511.05.17,Commune de Laaouama,tanger assilah,indice_sortie (%),15.3,40,14
+01.511.05.17,Commune de Laaouama,tanger assilah,sorties,2156.0,40,18
+01.511.05.05,Commune de Sebt Azzinate,tanger assilah,population_sedentaire_5ans_plus,6512.0,41,16
+01.511.05.05,Commune de Sebt Azzinate,tanger assilah,natifs_residents_non_migrants,5679.0,41,15
+01.511.05.05,Commune de Sebt Azzinate,tanger assilah,residents_recents_5ans,6178.0,41,17
+01.511.05.05,Commune de Sebt Azzinate,tanger assilah,entrees,832.0,41,12
+01.511.05.05,Commune de Sebt Azzinate,tanger assilah,indice_entrees (%),12.8,41,13
+01.511.05.05,Commune de Sebt Azzinate,tanger assilah,indice_sortie (%),8.1,41,14
+01.511.05.05,Commune de Sebt Azzinate,tanger assilah,sorties,499.0,41,18
+01.511.03.03,Commune d'Aquouass Briech,tanger assilah,population_sedentaire_5ans_plus,4265.0,42,16
+01.511.03.03,Commune d'Aquouass Briech,tanger assilah,natifs_residents_non_migrants,3969.0,42,15
+01.511.03.03,Commune d'Aquouass Briech,tanger assilah,residents_recents_5ans,4098.0,42,17
+01.511.03.03,Commune d'Aquouass Briech,tanger assilah,entrees,278.0,42,12
+01.511.03.03,Commune d'Aquouass Briech,tanger assilah,indice_entrees (%),6.5,42,13
+01.511.03.03,Commune d'Aquouass Briech,tanger assilah,indice_sortie (%),3.2,42,14
+01.511.03.03,Commune d'Aquouass Briech,tanger assilah,sorties,129.0,42,18
+01.511.03.15,Commune de Had Al Gharbia,tanger assilah,population_sedentaire_5ans_plus,11797.0,43,16
+01.511.03.15,Commune de Had Al Gharbia,tanger assilah,natifs_residents_non_migrants,10968.0,43,15
+01.511.03.15,Commune de Had Al Gharbia,tanger assilah,residents_recents_5ans,12058.0,43,17
+01.511.03.15,Commune de Had Al Gharbia,tanger assilah,entrees,812.0,43,12
+01.511.03.15,Commune de Had Al Gharbia,tanger assilah,indice_entrees (%),6.9,43,13
+01.511.03.15,Commune de Had Al Gharbia,tanger assilah,indice_sortie (%),9.0,43,14
+01.511.03.15,Commune de Had Al Gharbia,tanger assilah,sorties,1090.0,43,18
+01.511.03.11,Commune de Sahel Chamali,tanger assilah,population_sedentaire_5ans_plus,4618.0,44,16
+01.511.03.11,Commune de Sahel Chamali,tanger assilah,natifs_residents_non_migrants,4453.0,44,15
+01.511.03.11,Commune de Sahel Chamali,tanger assilah,residents_recents_5ans,4603.0,44,17
+01.511.03.11,Commune de Sahel Chamali,tanger assilah,entrees,157.0,44,12
+01.511.03.11,Commune de Sahel Chamali,tanger assilah,indice_entrees (%),3.4,44,13
+01.511.03.11,Commune de Sahel Chamali,tanger assilah,indice_sortie (%),3.3,44,14
+01.511.03.11,Commune de Sahel Chamali,tanger assilah,sorties,150.0,44,18
+01.511.03.13,Commune de Sidi Lyamani,tanger assilah,population_sedentaire_5ans_plus,9601.0,45,16
+01.511.03.13,Commune de Sidi Lyamani,tanger assilah,natifs_residents_non_migrants,9208.0,45,15
+01.511.03.13,Commune de Sidi Lyamani,tanger assilah,residents_recents_5ans,10194.0,45,17
+01.511.03.13,Commune de Sidi Lyamani,tanger assilah,entrees,384.0,45,12
+01.511.03.13,Commune de Sidi Lyamani,tanger assilah,indice_entrees (%),4.0,45,13
+01.511.03.13,Commune de Sidi Lyamani,tanger assilah,indice_sortie (%),9.7,45,14
+01.511.03.13,Commune de Sidi Lyamani,tanger assilah,sorties,986.0,45,18
+01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,population_sedentaire_5ans_plus,944.0,185,16
+01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,natifs_residents_non_migrants,848.0,185,15
+01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,residents_recents_5ans,979.0,185,17
+01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,entrees,95.0,185,12
+01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,indice_entrees (%),10.1,185,13
+01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,indice_sortie (%),13.4,185,14
+01.511.03.13.3,dont le centre urbain de Tnine Sidi Lyamani,tanger assilah,sorties,131.0,185,18
+01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,population_sedentaire_5ans_plus,233084.0,3,16
+01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,natifs_residents_non_migrants,203091.0,3,15
+01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,residents_recents_5ans,213248.0,3,17
+01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,entrees,28978.0,3,12
+01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,indice_entrees (%),12.4,3,13
+01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,indice_sortie (%),4.8,3,14
+01.573,Préfecture de M'diq-Fnideq,m'diq fnideq,sorties,10157.0,3,18
+01.573.01.05,Commune de M'diq,m'diq fnideq,population_sedentaire_5ans_plus,62133.0,46,16
+01.573.01.05,Commune de M'diq,m'diq fnideq,natifs_residents_non_migrants,55042.0,46,15
+01.573.01.05,Commune de M'diq,m'diq fnideq,residents_recents_5ans,57800.0,46,17
+01.573.01.05,Commune de M'diq,m'diq fnideq,entrees,6954.0,46,12
+01.573.01.05,Commune de M'diq,m'diq fnideq,indice_entrees (%),11.2,46,13
+01.573.01.05,Commune de M'diq,m'diq fnideq,indice_sortie (%),4.8,46,14
+01.573.01.05,Commune de M'diq,m'diq fnideq,sorties,2757.0,46,18
+01.573.01.01,Commune de Fnideq,m'diq fnideq,population_sedentaire_5ans_plus,70495.0,47,16
+01.573.01.01,Commune de Fnideq,m'diq fnideq,natifs_residents_non_migrants,65132.0,47,15
+01.573.01.01,Commune de Fnideq,m'diq fnideq,residents_recents_5ans,70097.0,47,17
+01.573.01.01,Commune de Fnideq,m'diq fnideq,entrees,5195.0,47,12
+01.573.01.01,Commune de Fnideq,m'diq fnideq,indice_entrees (%),7.4,47,13
+01.573.01.01,Commune de Fnideq,m'diq fnideq,indice_sortie (%),7.1,47,14
+01.573.01.01,Commune de Fnideq,m'diq fnideq,sorties,4964.0,47,18
+01.573.01.03,Commune de Martil,m'diq fnideq,population_sedentaire_5ans_plus,88851.0,48,16
+01.573.01.03,Commune de Martil,m'diq fnideq,natifs_residents_non_migrants,70066.0,48,15
+01.573.01.03,Commune de Martil,m'diq fnideq,residents_recents_5ans,73814.0,48,17
+01.573.01.03,Commune de Martil,m'diq fnideq,entrees,18076.0,48,12
+01.573.01.03,Commune de Martil,m'diq fnideq,indice_entrees (%),20.3,48,13
+01.573.01.03,Commune de Martil,m'diq fnideq,indice_sortie (%),5.1,48,14
+01.573.01.03,Commune de Martil,m'diq fnideq,sorties,3748.0,48,18
+01.573.01.07,Commune d'Allyene,m'diq fnideq,population_sedentaire_5ans_plus,7374.0,49,16
+01.573.01.07,Commune d'Allyene,m'diq fnideq,natifs_residents_non_migrants,7021.0,49,15
+01.573.01.07,Commune d'Allyene,m'diq fnideq,residents_recents_5ans,7329.0,49,17
+01.573.01.07,Commune d'Allyene,m'diq fnideq,entrees,352.0,49,12
+01.573.01.07,Commune d'Allyene,m'diq fnideq,indice_entrees (%),4.8,49,13
+01.573.01.07,Commune d'Allyene,m'diq fnideq,indice_sortie (%),4.2,49,14
+01.573.01.07,Commune d'Allyene,m'diq fnideq,sorties,308.0,49,18
+01.573.01.09,Commune de Belyounech,m'diq fnideq,population_sedentaire_5ans_plus,4231.0,50,16
+01.573.01.09,Commune de Belyounech,m'diq fnideq,natifs_residents_non_migrants,4105.0,50,15
+01.573.01.09,Commune de Belyounech,m'diq fnideq,residents_recents_5ans,4210.0,50,17
+01.573.01.09,Commune de Belyounech,m'diq fnideq,entrees,125.0,50,12
+01.573.01.09,Commune de Belyounech,m'diq fnideq,indice_entrees (%),3.0,50,13
+01.573.01.09,Commune de Belyounech,m'diq fnideq,indice_sortie (%),2.5,50,14
+01.573.01.09,Commune de Belyounech,m'diq fnideq,sorties,105.0,50,18
+01.571,Province de Tétouan,tetouan,population_sedentaire_5ans_plus,563824.0,4,16
+01.571,Province de Tétouan,tetouan,natifs_residents_non_migrants,530204.0,4,15
+01.571,Province de Tétouan,tetouan,residents_recents_5ans,559845.0,4,17
+01.571,Province de Tétouan,tetouan,entrees,31472.0,4,12
+01.571,Province de Tétouan,tetouan,indice_entrees (%),5.6,4,13
+01.571,Province de Tétouan,tetouan,indice_sortie (%),5.3,4,14
+01.571,Province de Tétouan,tetouan,sorties,29641.0,4,18
+01.571.01.11,Commune de Tétouan,tetouan,population_sedentaire_5ans_plus,391423.0,51,16
+01.571.01.11,Commune de Tétouan,tetouan,natifs_residents_non_migrants,359903.0,51,15
+01.571.01.11,Commune de Tétouan,tetouan,residents_recents_5ans,380768.0,51,17
+01.571.01.11,Commune de Tétouan,tetouan,entrees,29565.0,51,12
+01.571.01.11,Commune de Tétouan,tetouan,indice_entrees (%),7.6,51,13
+01.571.01.11,Commune de Tétouan,tetouan,indice_sortie (%),5.5,51,14
+01.571.01.11,Commune de Tétouan,tetouan,sorties,20865.0,51,18
+01.571.01.07,Commune d'Oued Laou,tetouan,population_sedentaire_5ans_plus,10439.0,52,16
+01.571.01.07,Commune d'Oued Laou,tetouan,natifs_residents_non_migrants,9172.0,52,15
+01.571.01.07,Commune d'Oued Laou,tetouan,residents_recents_5ans,10362.0,52,17
+01.571.01.07,Commune d'Oued Laou,tetouan,entrees,1178.0,52,12
+01.571.01.07,Commune d'Oued Laou,tetouan,indice_entrees (%),11.3,52,13
+01.571.01.07,Commune d'Oued Laou,tetouan,indice_sortie (%),11.5,52,14
+01.571.01.07,Commune d'Oued Laou,tetouan,sorties,1190.0,52,18
+01.571.03.01,Commune d'Ain Lahsan,tetouan,population_sedentaire_5ans_plus,6767.0,53,16
+01.571.03.01,Commune d'Ain Lahsan,tetouan,natifs_residents_non_migrants,6514.0,53,15
+01.571.03.01,Commune d'Ain Lahsan,tetouan,residents_recents_5ans,7171.0,53,17
+01.571.03.01,Commune d'Ain Lahsan,tetouan,entrees,251.0,53,12
+01.571.03.01,Commune d'Ain Lahsan,tetouan,indice_entrees (%),3.7,53,13
+01.571.03.01,Commune d'Ain Lahsan,tetouan,indice_sortie (%),9.2,53,14
+01.571.03.01,Commune d'Ain Lahsan,tetouan,sorties,657.0,53,18
+01.571.03.19,Commune de Souk Kdim,tetouan,population_sedentaire_5ans_plus,7954.0,54,16
+01.571.03.19,Commune de Souk Kdim,tetouan,natifs_residents_non_migrants,7675.0,54,15
+01.571.03.19,Commune de Souk Kdim,tetouan,residents_recents_5ans,8018.0,54,17
+01.571.03.19,Commune de Souk Kdim,tetouan,entrees,272.0,54,12
+01.571.03.19,Commune de Souk Kdim,tetouan,indice_entrees (%),3.4,54,13
+01.571.03.19,Commune de Souk Kdim,tetouan,indice_sortie (%),4.3,54,14
+01.571.03.19,Commune de Souk Kdim,tetouan,sorties,343.0,54,18
+01.571.03.09,Commune de Jbel Lahbib,tetouan,population_sedentaire_5ans_plus,3748.0,55,16
+01.571.03.09,Commune de Jbel Lahbib,tetouan,natifs_residents_non_migrants,3422.0,55,15
+01.571.03.09,Commune de Jbel Lahbib,tetouan,residents_recents_5ans,4320.0,55,17
+01.571.03.09,Commune de Jbel Lahbib,tetouan,entrees,321.0,55,12
+01.571.03.09,Commune de Jbel Lahbib,tetouan,indice_entrees (%),8.6,55,13
+01.571.03.09,Commune de Jbel Lahbib,tetouan,indice_sortie (%),20.8,55,14
+01.571.03.09,Commune de Jbel Lahbib,tetouan,sorties,898.0,55,18
+01.571.03.09.3,dont le centre urbain de Karia,tetouan,population_sedentaire_5ans_plus,1349.0,186,16
+01.571.03.09.3,dont le centre urbain de Karia,tetouan,natifs_residents_non_migrants,1125.0,186,15
+01.571.03.09.3,dont le centre urbain de Karia,tetouan,residents_recents_5ans,1350.0,186,17
+01.571.03.09.3,dont le centre urbain de Karia,tetouan,entrees,222.0,186,12
+01.571.03.09.3,dont le centre urbain de Karia,tetouan,indice_entrees (%),16.5,186,13
+01.571.03.09.3,dont le centre urbain de Karia,tetouan,indice_sortie (%),16.6,186,14
+01.571.03.09.3,dont le centre urbain de Karia,tetouan,sorties,225.0,186,18
+01.571.03.07,Commune de Bni Harchen,tetouan,population_sedentaire_5ans_plus,5940.0,56,16
+01.571.03.07,Commune de Bni Harchen,tetouan,natifs_residents_non_migrants,5829.0,56,15
+01.571.03.07,Commune de Bni Harchen,tetouan,residents_recents_5ans,6552.0,56,17
+01.571.03.07,Commune de Bni Harchen,tetouan,entrees,109.0,56,12
+01.571.03.07,Commune de Bni Harchen,tetouan,indice_entrees (%),1.8,56,13
+01.571.03.07,Commune de Bni Harchen,tetouan,indice_sortie (%),11.0,56,14
+01.571.03.07,Commune de Bni Harchen,tetouan,sorties,723.0,56,18
+01.571.03.03,Commune d'Al Kharroub,tetouan,population_sedentaire_5ans_plus,1896.0,57,16
+01.571.03.03,Commune d'Al Kharroub,tetouan,natifs_residents_non_migrants,1851.0,57,15
+01.571.03.03,Commune d'Al Kharroub,tetouan,residents_recents_5ans,2006.0,57,17
+01.571.03.03,Commune d'Al Kharroub,tetouan,entrees,45.0,57,12
+01.571.03.03,Commune d'Al Kharroub,tetouan,indice_entrees (%),2.4,57,13
+01.571.03.03,Commune d'Al Kharroub,tetouan,indice_sortie (%),7.7,57,14
+01.571.03.03,Commune d'Al Kharroub,tetouan,sorties,155.0,57,18
+01.571.03.15,Commune de Mallalienne,tetouan,population_sedentaire_5ans_plus,10008.0,58,16
+01.571.03.15,Commune de Mallalienne,tetouan,natifs_residents_non_migrants,9165.0,58,15
+01.571.03.15,Commune de Mallalienne,tetouan,residents_recents_5ans,9736.0,58,17
+01.571.03.15,Commune de Mallalienne,tetouan,entrees,836.0,58,12
+01.571.03.15,Commune de Mallalienne,tetouan,indice_entrees (%),8.4,58,13
+01.571.03.15,Commune de Mallalienne,tetouan,indice_sortie (%),5.9,58,14
+01.571.03.15,Commune de Mallalienne,tetouan,sorties,571.0,58,18
+01.571.03.17,Commune de Saddina,tetouan,population_sedentaire_5ans_plus,6949.0,59,16
+01.571.03.17,Commune de Saddina,tetouan,natifs_residents_non_migrants,6714.0,59,15
+01.571.03.17,Commune de Saddina,tetouan,residents_recents_5ans,7066.0,59,17
+01.571.03.17,Commune de Saddina,tetouan,entrees,235.0,59,12
+01.571.03.17,Commune de Saddina,tetouan,indice_entrees (%),3.4,59,13
+01.571.03.17,Commune de Saddina,tetouan,indice_sortie (%),5.0,59,14
+01.571.03.17,Commune de Saddina,tetouan,sorties,352.0,59,18
+01.571.03.21,Commune de Sahtryine,tetouan,population_sedentaire_5ans_plus,7847.0,60,16
+01.571.03.21,Commune de Sahtryine,tetouan,natifs_residents_non_migrants,7691.0,60,15
+01.571.03.21,Commune de Sahtryine,tetouan,residents_recents_5ans,8084.0,60,17
+01.571.03.21,Commune de Sahtryine,tetouan,entrees,156.0,60,12
+01.571.03.21,Commune de Sahtryine,tetouan,indice_entrees (%),2.0,60,13
+01.571.03.21,Commune de Sahtryine,tetouan,indice_sortie (%),4.9,60,14
+01.571.03.21,Commune de Sahtryine,tetouan,sorties,393.0,60,18
+01.571.03.11,Commune de Bni Idder,tetouan,population_sedentaire_5ans_plus,4203.0,61,16
+01.571.03.11,Commune de Bni Idder,tetouan,natifs_residents_non_migrants,4159.0,61,15
+01.571.03.11,Commune de Bni Idder,tetouan,residents_recents_5ans,5374.0,61,17
+01.571.03.11,Commune de Bni Idder,tetouan,entrees,44.0,61,12
+01.571.03.11,Commune de Bni Idder,tetouan,indice_entrees (%),1.0,61,13
+01.571.03.11,Commune de Bni Idder,tetouan,indice_sortie (%),22.6,61,14
+01.571.03.11,Commune de Bni Idder,tetouan,sorties,1215.0,61,18
+01.571.03.05,Commune de Bghaghza,tetouan,population_sedentaire_5ans_plus,5698.0,62,16
+01.571.03.05,Commune de Bghaghza,tetouan,natifs_residents_non_migrants,5578.0,62,15
+01.571.03.05,Commune de Bghaghza,tetouan,residents_recents_5ans,6221.0,62,17
+01.571.03.05,Commune de Bghaghza,tetouan,entrees,120.0,62,12
+01.571.03.05,Commune de Bghaghza,tetouan,indice_entrees (%),2.1,62,13
+01.571.03.05,Commune de Bghaghza,tetouan,indice_sortie (%),10.3,62,14
+01.571.03.05,Commune de Bghaghza,tetouan,sorties,643.0,62,18
+01.571.05.13,Commune de Bni Leit,tetouan,population_sedentaire_5ans_plus,4599.0,63,16
+01.571.05.13,Commune de Bni Leit,tetouan,natifs_residents_non_migrants,4547.0,63,15
+01.571.05.13,Commune de Bni Leit,tetouan,residents_recents_5ans,4808.0,63,17
+01.571.05.13,Commune de Bni Leit,tetouan,entrees,52.0,63,12
+01.571.05.13,Commune de Bni Leit,tetouan,indice_entrees (%),1.1,63,13
+01.571.05.13,Commune de Bni Leit,tetouan,indice_sortie (%),5.4,63,14
+01.571.05.13,Commune de Bni Leit,tetouan,sorties,261.0,63,18
+01.571.05.01,Commune d'Al Hamra,tetouan,population_sedentaire_5ans_plus,10895.0,64,16
+01.571.05.01,Commune d'Al Hamra,tetouan,natifs_residents_non_migrants,10588.0,64,15
+01.571.05.01,Commune d'Al Hamra,tetouan,residents_recents_5ans,11714.0,64,17
+01.571.05.01,Commune d'Al Hamra,tetouan,entrees,307.0,64,12
+01.571.05.01,Commune d'Al Hamra,tetouan,indice_entrees (%),2.8,64,13
+01.571.05.01,Commune d'Al Hamra,tetouan,indice_sortie (%),9.6,64,14
+01.571.05.01,Commune d'Al Hamra,tetouan,sorties,1126.0,64,18
+01.571.05.05,Commune d'Al Oued,tetouan,population_sedentaire_5ans_plus,9894.0,65,16
+01.571.05.05,Commune d'Al Oued,tetouan,natifs_residents_non_migrants,9746.0,65,15
+01.571.05.05,Commune d'Al Oued,tetouan,residents_recents_5ans,10701.0,65,17
+01.571.05.05,Commune d'Al Oued,tetouan,entrees,147.0,65,12
+01.571.05.05,Commune d'Al Oued,tetouan,indice_entrees (%),1.5,65,13
+01.571.05.05,Commune d'Al Oued,tetouan,indice_sortie (%),8.9,65,14
+01.571.05.05,Commune d'Al Oued,tetouan,sorties,955.0,65,18
+01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,population_sedentaire_5ans_plus,4340.0,66,16
+01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,natifs_residents_non_migrants,4310.0,66,15
+01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,residents_recents_5ans,4772.0,66,17
+01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,entrees,30.0,66,12
+01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,indice_entrees (%),0.7,66,13
+01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,indice_sortie (%),9.7,66,14
+01.571.05.19,Commune d'Oulad Ali Mansour,tetouan,sorties,462.0,66,18
+01.571.05.17,Commune de Dar Bni Karrich,tetouan,population_sedentaire_5ans_plus,9282.0,67,16
+01.571.05.17,Commune de Dar Bni Karrich,tetouan,natifs_residents_non_migrants,8402.0,67,15
+01.571.05.17,Commune de Dar Bni Karrich,tetouan,residents_recents_5ans,8920.0,67,17
+01.571.05.17,Commune de Dar Bni Karrich,tetouan,entrees,841.0,67,12
+01.571.05.17,Commune de Dar Bni Karrich,tetouan,indice_entrees (%),9.1,67,13
+01.571.05.17,Commune de Dar Bni Karrich,tetouan,indice_sortie (%),5.8,67,14
+01.571.05.17,Commune de Dar Bni Karrich,tetouan,sorties,518.0,67,18
+01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,population_sedentaire_5ans_plus,3811.0,187,16
+01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,natifs_residents_non_migrants,3374.0,187,15
+01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,residents_recents_5ans,3562.0,187,17
+01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,entrees,410.0,187,12
+01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,indice_entrees (%),10.8,187,13
+01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,indice_sortie (%),5.3,187,14
+01.571.05.17.3,dont le centre urbain de Dar Bni Karrich,tetouan,sorties,188.0,187,18
+01.571.05.27,Commune de Zinat,tetouan,population_sedentaire_5ans_plus,7440.0,68,16
+01.571.05.27,Commune de Zinat,tetouan,natifs_residents_non_migrants,7229.0,68,15
+01.571.05.27,Commune de Zinat,tetouan,residents_recents_5ans,10402.0,68,17
+01.571.05.27,Commune de Zinat,tetouan,entrees,208.0,68,12
+01.571.05.27,Commune de Zinat,tetouan,indice_entrees (%),2.8,68,13
+01.571.05.27,Commune de Zinat,tetouan,indice_sortie (%),30.5,68,14
+01.571.05.27,Commune de Zinat,tetouan,sorties,3173.0,68,18
+01.571.05.07,Commune d'Azla,tetouan,population_sedentaire_5ans_plus,20967.0,69,16
+01.571.05.07,Commune d'Azla,tetouan,natifs_residents_non_migrants,18845.0,69,15
+01.571.05.07,Commune d'Azla,tetouan,residents_recents_5ans,19446.0,69,17
+01.571.05.07,Commune d'Azla,tetouan,entrees,2099.0,69,12
+01.571.05.07,Commune d'Azla,tetouan,indice_entrees (%),10.0,69,13
+01.571.05.07,Commune d'Azla,tetouan,indice_sortie (%),3.1,69,14
+01.571.05.07,Commune d'Azla,tetouan,sorties,601.0,69,18
+01.571.05.23,Commune de Zaitoune,tetouan,population_sedentaire_5ans_plus,12275.0,70,16
+01.571.05.23,Commune de Zaitoune,tetouan,natifs_residents_non_migrants,11141.0,70,15
+01.571.05.23,Commune de Zaitoune,tetouan,residents_recents_5ans,11479.0,70,17
+01.571.05.23,Commune de Zaitoune,tetouan,entrees,1131.0,70,12
+01.571.05.23,Commune de Zaitoune,tetouan,indice_entrees (%),9.2,70,13
+01.571.05.23,Commune de Zaitoune,tetouan,indice_sortie (%),2.9,70,14
+01.571.05.23,Commune de Zaitoune,tetouan,sorties,338.0,70,18
+01.571.05.15,Commune de Bni Said,tetouan,population_sedentaire_5ans_plus,9577.0,71,16
+01.571.05.15,Commune de Bni Said,tetouan,natifs_residents_non_migrants,8997.0,71,15
+01.571.05.15,Commune de Bni Said,tetouan,residents_recents_5ans,9682.0,71,17
+01.571.05.15,Commune de Bni Said,tetouan,entrees,574.0,71,12
+01.571.05.15,Commune de Bni Said,tetouan,indice_entrees (%),6.0,71,13
+01.571.05.15,Commune de Bni Said,tetouan,indice_sortie (%),7.1,71,14
+01.571.05.15,Commune de Bni Said,tetouan,sorties,685.0,71,18
+01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,population_sedentaire_5ans_plus,11683.0,72,16
+01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,natifs_residents_non_migrants,11479.0,72,15
+01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,residents_recents_5ans,12245.0,72,17
+01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,entrees,197.0,72,12
+01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,indice_entrees (%),1.7,72,13
+01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,indice_sortie (%),6.3,72,14
+01.571.05.25,Commune de Zaouiat Sidi Kacem,tetouan,sorties,766.0,72,18
+01.227,Province de Fahs-Anjra,fahs anjra,population_sedentaire_5ans_plus,89512.0,5,16
+01.227,Province de Fahs-Anjra,fahs anjra,natifs_residents_non_migrants,79170.0,5,15
+01.227,Province de Fahs-Anjra,fahs anjra,residents_recents_5ans,84099.0,5,17
+01.227,Province de Fahs-Anjra,fahs anjra,entrees,10137.0,5,12
+01.227,Province de Fahs-Anjra,fahs anjra,indice_entrees (%),11.3,5,13
+01.227,Province de Fahs-Anjra,fahs anjra,indice_sortie (%),5.9,5,14
+01.227,Province de Fahs-Anjra,fahs anjra,sorties,4929.0,5,18
+01.227.05.09,Commune de Malloussa,fahs anjra,population_sedentaire_5ans_plus,16201.0,73,16
+01.227.05.09,Commune de Malloussa,fahs anjra,natifs_residents_non_migrants,13867.0,73,15
+01.227.05.09,Commune de Malloussa,fahs anjra,residents_recents_5ans,14824.0,73,17
+01.227.05.09,Commune de Malloussa,fahs anjra,entrees,2302.0,73,12
+01.227.05.09,Commune de Malloussa,fahs anjra,indice_entrees (%),14.2,73,13
+01.227.05.09,Commune de Malloussa,fahs anjra,indice_sortie (%),6.5,73,14
+01.227.05.09,Commune de Malloussa,fahs anjra,sorties,957.0,73,18
+01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,population_sedentaire_5ans_plus,13908.0,74,16
+01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,natifs_residents_non_migrants,10567.0,74,15
+01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,residents_recents_5ans,10986.0,74,17
+01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,entrees,3283.0,74,12
+01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,indice_entrees (%),23.6,74,13
+01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,indice_sortie (%),3.8,74,14
+01.227.05.01,Commune d'Al Bahraoyine,fahs anjra,sorties,419.0,74,18
+01.227.05.05,Commune de Ksar Sghir,fahs anjra,population_sedentaire_5ans_plus,14858.0,75,16
+01.227.05.05,Commune de Ksar Sghir,fahs anjra,natifs_residents_non_migrants,13139.0,75,15
+01.227.05.05,Commune de Ksar Sghir,fahs anjra,residents_recents_5ans,14588.0,75,17
+01.227.05.05,Commune de Ksar Sghir,fahs anjra,entrees,1666.0,75,12
+01.227.05.05,Commune de Ksar Sghir,fahs anjra,indice_entrees (%),11.2,75,13
+01.227.05.05,Commune de Ksar Sghir,fahs anjra,indice_sortie (%),9.9,75,14
+01.227.05.05,Commune de Ksar Sghir,fahs anjra,sorties,1449.0,75,18
+01.227.03.11,Commune de Jouamaa,fahs anjra,population_sedentaire_5ans_plus,8970.0,76,16
+01.227.03.11,Commune de Jouamaa,fahs anjra,natifs_residents_non_migrants,7522.0,76,15
+01.227.03.11,Commune de Jouamaa,fahs anjra,residents_recents_5ans,8020.0,76,17
+01.227.03.11,Commune de Jouamaa,fahs anjra,entrees,1437.0,76,12
+01.227.03.11,Commune de Jouamaa,fahs anjra,indice_entrees (%),16.0,76,13
+01.227.03.11,Commune de Jouamaa,fahs anjra,indice_sortie (%),6.2,76,14
+01.227.03.11,Commune de Jouamaa,fahs anjra,sorties,498.0,76,18
+01.227.03.05,Commune d'Anjra,fahs anjra,population_sedentaire_5ans_plus,15648.0,77,16
+01.227.03.05,Commune d'Anjra,fahs anjra,natifs_residents_non_migrants,15055.0,77,15
+01.227.03.05,Commune d'Anjra,fahs anjra,residents_recents_5ans,15941.0,77,17
+01.227.03.05,Commune d'Anjra,fahs anjra,entrees,592.0,77,12
+01.227.03.05,Commune d'Anjra,fahs anjra,indice_entrees (%),3.8,77,13
+01.227.03.05,Commune d'Anjra,fahs anjra,indice_sortie (%),5.6,77,14
+01.227.03.05,Commune d'Anjra,fahs anjra,sorties,886.0,77,18
+01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,population_sedentaire_5ans_plus,3379.0,188,16
+01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,natifs_residents_non_migrants,2969.0,188,15
+01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,residents_recents_5ans,3110.0,188,17
+01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,entrees,409.0,188,12
+01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,indice_entrees (%),12.1,188,13
+01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,indice_sortie (%),4.5,188,14
+01.227.03.05.3,dont le centre urbain d'Anjra,fahs anjra,sorties,141.0,188,18
+01.227.03.21,Commune de Taghramt,fahs anjra,population_sedentaire_5ans_plus,8548.0,78,16
+01.227.03.21,Commune de Taghramt,fahs anjra,natifs_residents_non_migrants,8036.0,78,15
+01.227.03.21,Commune de Taghramt,fahs anjra,residents_recents_5ans,8366.0,78,17
+01.227.03.21,Commune de Taghramt,fahs anjra,entrees,492.0,78,12
+01.227.03.21,Commune de Taghramt,fahs anjra,indice_entrees (%),5.8,78,13
+01.227.03.21,Commune de Taghramt,fahs anjra,indice_sortie (%),3.9,78,14
+01.227.03.21,Commune de Taghramt,fahs anjra,sorties,329.0,78,18
+01.227.03.13,Commune de Ksar El Majaz,fahs anjra,population_sedentaire_5ans_plus,11379.0,79,16
+01.227.03.13,Commune de Ksar El Majaz,fahs anjra,natifs_residents_non_migrants,10134.0,79,15
+01.227.03.13,Commune de Ksar El Majaz,fahs anjra,residents_recents_5ans,11374.0,79,17
+01.227.03.13,Commune de Ksar El Majaz,fahs anjra,entrees,1214.0,79,12
+01.227.03.13,Commune de Ksar El Majaz,fahs anjra,indice_entrees (%),10.7,79,13
+01.227.03.13,Commune de Ksar El Majaz,fahs anjra,indice_sortie (%),10.9,79,14
+01.227.03.13,Commune de Ksar El Majaz,fahs anjra,sorties,1240.0,79,18
+01.331,Province de Larache,larache,population_sedentaire_5ans_plus,466253.0,6,16
+01.331,Province de Larache,larache,natifs_residents_non_migrants,449864.0,6,15
+01.331,Province de Larache,larache,residents_recents_5ans,479894.0,6,17
+01.331,Province de Larache,larache,entrees,15374.0,6,12
+01.331,Province de Larache,larache,indice_entrees (%),3.3,6,13
+01.331,Province de Larache,larache,indice_sortie (%),6.3,6,14
+01.331,Province de Larache,larache,sorties,30030.0,6,18
+01.331.01.01,Commune de Ksar El Kebir,larache,population_sedentaire_5ans_plus,116077.0,80,16
+01.331.01.01,Commune de Ksar El Kebir,larache,natifs_residents_non_migrants,109055.0,80,15
+01.331.01.01,Commune de Ksar El Kebir,larache,residents_recents_5ans,120611.0,80,17
+01.331.01.01,Commune de Ksar El Kebir,larache,entrees,6803.0,80,12
+01.331.01.01,Commune de Ksar El Kebir,larache,indice_entrees (%),5.9,80,13
+01.331.01.01,Commune de Ksar El Kebir,larache,indice_sortie (%),9.6,80,14
+01.331.01.01,Commune de Ksar El Kebir,larache,sorties,11556.0,80,18
+01.331.01.03,Commune de Larache,larache,population_sedentaire_5ans_plus,123542.0,81,16
+01.331.01.03,Commune de Larache,larache,natifs_residents_non_migrants,113941.0,81,15
+01.331.01.03,Commune de Larache,larache,residents_recents_5ans,120769.0,81,17
+01.331.01.03,Commune de Larache,larache,entrees,9033.0,81,12
+01.331.01.03,Commune de Larache,larache,indice_entrees (%),7.3,81,13
+01.331.01.03,Commune de Larache,larache,indice_sortie (%),5.7,81,14
+01.331.01.03,Commune de Larache,larache,sorties,6827.0,81,18
+01.331.07.05,Commune de Laouamra,larache,population_sedentaire_5ans_plus,43099.0,82,16
+01.331.07.05,Commune de Laouamra,larache,natifs_residents_non_migrants,41311.0,82,15
+01.331.07.05,Commune de Laouamra,larache,residents_recents_5ans,43243.0,82,17
+01.331.07.05,Commune de Laouamra,larache,entrees,1700.0,82,12
+01.331.07.05,Commune de Laouamra,larache,indice_entrees (%),3.9,82,13
+01.331.07.05,Commune de Laouamra,larache,indice_sortie (%),4.5,82,14
+01.331.07.05,Commune de Laouamra,larache,sorties,1933.0,82,18
+01.331.07.05.3,dont le centre urbain de Laouamra,larache,population_sedentaire_5ans_plus,8979.0,189,16
+01.331.07.05.3,dont le centre urbain de Laouamra,larache,natifs_residents_non_migrants,8004.0,189,15
+01.331.07.05.3,dont le centre urbain de Laouamra,larache,residents_recents_5ans,8382.0,189,17
+01.331.07.05.3,dont le centre urbain de Laouamra,larache,entrees,949.0,189,12
+01.331.07.05.3,dont le centre urbain de Laouamra,larache,indice_entrees (%),10.6,189,13
+01.331.07.05.3,dont le centre urbain de Laouamra,larache,indice_sortie (%),4.5,189,14
+01.331.07.05.3,dont le centre urbain de Laouamra,larache,sorties,378.0,189,18
+01.331.07.17,Commune de Zouada,larache,population_sedentaire_5ans_plus,22763.0,83,16
+01.331.07.17,Commune de Zouada,larache,natifs_residents_non_migrants,22239.0,83,15
+01.331.07.17,Commune de Zouada,larache,residents_recents_5ans,22884.0,83,17
+01.331.07.17,Commune de Zouada,larache,entrees,490.0,83,12
+01.331.07.17,Commune de Zouada,larache,indice_entrees (%),2.2,83,13
+01.331.07.17,Commune de Zouada,larache,indice_sortie (%),2.8,83,14
+01.331.07.17,Commune de Zouada,larache,sorties,645.0,83,18
+01.331.07.03,Commune de Ksar Bjir,larache,population_sedentaire_5ans_plus,15694.0,84,16
+01.331.07.03,Commune de Ksar Bjir,larache,natifs_residents_non_migrants,15228.0,84,15
+01.331.07.03,Commune de Ksar Bjir,larache,residents_recents_5ans,15885.0,84,17
+01.331.07.03,Commune de Ksar Bjir,larache,entrees,453.0,84,12
+01.331.07.03,Commune de Ksar Bjir,larache,indice_entrees (%),2.9,84,13
+01.331.07.03,Commune de Ksar Bjir,larache,indice_sortie (%),4.1,84,14
+01.331.07.03,Commune de Ksar Bjir,larache,sorties,657.0,84,18
+01.331.07.01,Commune de Boujedyane,larache,population_sedentaire_5ans_plus,8865.0,85,16
+01.331.07.01,Commune de Boujedyane,larache,natifs_residents_non_migrants,8625.0,85,15
+01.331.07.01,Commune de Boujedyane,larache,residents_recents_5ans,9373.0,85,17
+01.331.07.01,Commune de Boujedyane,larache,entrees,235.0,85,12
+01.331.07.01,Commune de Boujedyane,larache,indice_entrees (%),2.7,85,13
+01.331.07.01,Commune de Boujedyane,larache,indice_sortie (%),8.0,85,14
+01.331.07.01,Commune de Boujedyane,larache,sorties,749.0,85,18
+01.331.07.15,Commune de Tatoft,larache,population_sedentaire_5ans_plus,7940.0,86,16
+01.331.07.15,Commune de Tatoft,larache,natifs_residents_non_migrants,7733.0,86,15
+01.331.07.15,Commune de Tatoft,larache,residents_recents_5ans,9016.0,86,17
+01.331.07.15,Commune de Tatoft,larache,entrees,204.0,86,12
+01.331.07.15,Commune de Tatoft,larache,indice_entrees (%),2.6,86,13
+01.331.07.15,Commune de Tatoft,larache,indice_sortie (%),14.2,86,14
+01.331.07.15,Commune de Tatoft,larache,sorties,1284.0,86,18
+01.331.07.11,Commune de Souk L'qolla,larache,population_sedentaire_5ans_plus,12481.0,87,16
+01.331.07.11,Commune de Souk L'qolla,larache,natifs_residents_non_migrants,12263.0,87,15
+01.331.07.11,Commune de Souk L'qolla,larache,residents_recents_5ans,13626.0,87,17
+01.331.07.11,Commune de Souk L'qolla,larache,entrees,218.0,87,12
+01.331.07.11,Commune de Souk L'qolla,larache,indice_entrees (%),1.7,87,13
+01.331.07.11,Commune de Souk L'qolla,larache,indice_sortie (%),10.0,87,14
+01.331.07.11,Commune de Souk L'qolla,larache,sorties,1362.0,87,18
+01.331.09.03,Commune de Bni Arouss,larache,population_sedentaire_5ans_plus,6804.0,88,16
+01.331.09.03,Commune de Bni Arouss,larache,natifs_residents_non_migrants,6479.0,88,15
+01.331.09.03,Commune de Bni Arouss,larache,residents_recents_5ans,8748.0,88,17
+01.331.09.03,Commune de Bni Arouss,larache,entrees,317.0,88,12
+01.331.09.03,Commune de Bni Arouss,larache,indice_entrees (%),4.7,88,13
+01.331.09.03,Commune de Bni Arouss,larache,indice_sortie (%),25.9,88,14
+01.331.09.03,Commune de Bni Arouss,larache,sorties,2269.0,88,18
+01.331.09.13,Commune de Tazroute,larache,population_sedentaire_5ans_plus,5012.0,89,16
+01.331.09.13,Commune de Tazroute,larache,natifs_residents_non_migrants,4892.0,89,15
+01.331.09.13,Commune de Tazroute,larache,residents_recents_5ans,5178.0,89,17
+01.331.09.13,Commune de Tazroute,larache,entrees,120.0,89,12
+01.331.09.13,Commune de Tazroute,larache,indice_entrees (%),2.4,89,13
+01.331.09.13,Commune de Tazroute,larache,indice_sortie (%),5.5,89,14
+01.331.09.13,Commune de Tazroute,larache,sorties,286.0,89,18
+01.331.09.01,Commune d'Ayacha,larache,population_sedentaire_5ans_plus,6356.0,90,16
+01.331.09.01,Commune d'Ayacha,larache,natifs_residents_non_migrants,6127.0,90,15
+01.331.09.01,Commune d'Ayacha,larache,residents_recents_5ans,6764.0,90,17
+01.331.09.01,Commune d'Ayacha,larache,entrees,228.0,90,12
+01.331.09.01,Commune d'Ayacha,larache,indice_entrees (%),3.6,90,13
+01.331.09.01,Commune d'Ayacha,larache,indice_sortie (%),9.4,90,14
+01.331.09.01,Commune d'Ayacha,larache,sorties,637.0,90,18
+01.331.09.05,Commune de Bni Garfett,larache,population_sedentaire_5ans_plus,10361.0,91,16
+01.331.09.05,Commune de Bni Garfett,larache,natifs_residents_non_migrants,10004.0,91,15
+01.331.09.05,Commune de Bni Garfett,larache,residents_recents_5ans,12171.0,91,17
+01.331.09.05,Commune de Bni Garfett,larache,entrees,329.0,91,12
+01.331.09.05,Commune de Bni Garfett,larache,indice_entrees (%),3.2,91,13
+01.331.09.05,Commune de Bni Garfett,larache,indice_sortie (%),17.8,91,14
+01.331.09.05,Commune de Bni Garfett,larache,sorties,2167.0,91,18
+01.331.09.15,Commune de Zaaroura,larache,population_sedentaire_5ans_plus,7953.0,92,16
+01.331.09.15,Commune de Zaaroura,larache,natifs_residents_non_migrants,7856.0,92,15
+01.331.09.15,Commune de Zaaroura,larache,residents_recents_5ans,8758.0,92,17
+01.331.09.15,Commune de Zaaroura,larache,entrees,96.0,92,12
+01.331.09.15,Commune de Zaaroura,larache,indice_entrees (%),1.2,92,13
+01.331.09.15,Commune de Zaaroura,larache,indice_sortie (%),10.3,92,14
+01.331.09.15,Commune de Zaaroura,larache,sorties,902.0,92,18
+01.331.11.11,Commune de Sahel,larache,population_sedentaire_5ans_plus,16591.0,93,16
+01.331.11.11,Commune de Sahel,larache,natifs_residents_non_migrants,15675.0,93,15
+01.331.11.11,Commune de Sahel,larache,residents_recents_5ans,16789.0,93,17
+01.331.11.11,Commune de Sahel,larache,entrees,887.0,93,12
+01.331.11.11,Commune de Sahel,larache,indice_entrees (%),5.3,93,13
+01.331.11.11,Commune de Sahel,larache,indice_sortie (%),6.6,93,14
+01.331.11.11,Commune de Sahel,larache,sorties,1115.0,93,18
+01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,population_sedentaire_5ans_plus,6422.0,190,16
+01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,natifs_residents_non_migrants,5876.0,190,15
+01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,residents_recents_5ans,6210.0,190,17
+01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,entrees,539.0,190,12
+01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,indice_entrees (%),8.4,190,13
+01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,indice_sortie (%),5.4,190,14
+01.331.11.11.3,dont le centre urbain de Khemis Sahel,larache,sorties,334.0,190,18
+01.331.11.07,Commune de Rissana Chamalia,larache,population_sedentaire_5ans_plus,11647.0,94,16
+01.331.11.07,Commune de Rissana Chamalia,larache,natifs_residents_non_migrants,11360.0,94,15
+01.331.11.07,Commune de Rissana Chamalia,larache,residents_recents_5ans,12841.0,94,17
+01.331.11.07,Commune de Rissana Chamalia,larache,entrees,275.0,94,12
+01.331.11.07,Commune de Rissana Chamalia,larache,indice_entrees (%),2.4,94,13
+01.331.11.07,Commune de Rissana Chamalia,larache,indice_sortie (%),11.5,94,14
+01.331.11.07,Commune de Rissana Chamalia,larache,sorties,1480.0,94,18
+01.331.11.09,Commune de Rissana Janoubia,larache,population_sedentaire_5ans_plus,16009.0,95,16
+01.331.11.09,Commune de Rissana Janoubia,larache,natifs_residents_non_migrants,15491.0,95,15
+01.331.11.09,Commune de Rissana Janoubia,larache,residents_recents_5ans,16097.0,95,17
+01.331.11.09,Commune de Rissana Janoubia,larache,entrees,518.0,95,12
+01.331.11.09,Commune de Rissana Janoubia,larache,indice_entrees (%),3.2,95,13
+01.331.11.09,Commune de Rissana Janoubia,larache,indice_sortie (%),3.8,95,14
+01.331.11.09,Commune de Rissana Janoubia,larache,sorties,605.0,95,18
+01.331.11.03,Commune d'Oulad Ouchih,larache,population_sedentaire_5ans_plus,12120.0,96,16
+01.331.11.03,Commune d'Oulad Ouchih,larache,natifs_residents_non_migrants,11914.0,96,15
+01.331.11.03,Commune d'Oulad Ouchih,larache,residents_recents_5ans,12428.0,96,17
+01.331.11.03,Commune d'Oulad Ouchih,larache,entrees,206.0,96,12
+01.331.11.03,Commune d'Oulad Ouchih,larache,indice_entrees (%),1.7,96,13
+01.331.11.03,Commune d'Oulad Ouchih,larache,indice_sortie (%),4.1,96,14
+01.331.11.03,Commune d'Oulad Ouchih,larache,sorties,514.0,96,18
+01.331.11.12,Commune de Souaken,larache,population_sedentaire_5ans_plus,11325.0,97,16
+01.331.11.12,Commune de Souaken,larache,natifs_residents_non_migrants,11158.0,97,15
+01.331.11.12,Commune de Souaken,larache,residents_recents_5ans,11953.0,97,17
+01.331.11.12,Commune de Souaken,larache,entrees,167.0,97,12
+01.331.11.12,Commune de Souaken,larache,indice_entrees (%),1.5,97,13
+01.331.11.12,Commune de Souaken,larache,indice_sortie (%),6.7,97,14
+01.331.11.12,Commune de Souaken,larache,sorties,795.0,97,18
+01.331.11.13,Commune de Souk Tolba,larache,population_sedentaire_5ans_plus,11614.0,98,16
+01.331.11.13,Commune de Souk Tolba,larache,natifs_residents_non_migrants,11426.0,98,15
+01.331.11.13,Commune de Souk Tolba,larache,residents_recents_5ans,12759.0,98,17
+01.331.11.13,Commune de Souk Tolba,larache,entrees,182.0,98,12
+01.331.11.13,Commune de Souk Tolba,larache,indice_entrees (%),1.6,98,13
+01.331.11.13,Commune de Souk Tolba,larache,indice_sortie (%),10.5,98,14
+01.331.11.13,Commune de Souk Tolba,larache,sorties,1333.0,98,18
+01.051,Province d'Al Hoceima,al hoceima,population_sedentaire_5ans_plus,338642.0,7,16
+01.051,Province d'Al Hoceima,al hoceima,natifs_residents_non_migrants,327259.0,7,15
+01.051,Province d'Al Hoceima,al hoceima,residents_recents_5ans,361508.0,7,17
+01.051,Province d'Al Hoceima,al hoceima,entrees,10838.0,7,12
+01.051,Province d'Al Hoceima,al hoceima,indice_entrees (%),3.2,7,13
+01.051,Province d'Al Hoceima,al hoceima,indice_sortie (%),9.5,7,14
+01.051,Province d'Al Hoceima,al hoceima,sorties,34248.0,7,18
+01.051.01.01,Commune d'Al Hoceima,al hoceima,population_sedentaire_5ans_plus,46376.0,99,16
+01.051.01.01,Commune d'Al Hoceima,al hoceima,natifs_residents_non_migrants,42591.0,99,15
+01.051.01.01,Commune d'Al Hoceima,al hoceima,residents_recents_5ans,50761.0,99,17
+01.051.01.01,Commune d'Al Hoceima,al hoceima,entrees,3610.0,99,12
+01.051.01.01,Commune d'Al Hoceima,al hoceima,indice_entrees (%),7.8,99,13
+01.051.01.01,Commune d'Al Hoceima,al hoceima,indice_sortie (%),16.1,99,14
+01.051.01.01,Commune d'Al Hoceima,al hoceima,sorties,8170.0,99,18
+01.051.01.03,Commune de Bni Bouayach,al hoceima,population_sedentaire_5ans_plus,18471.0,100,16
+01.051.01.03,Commune de Bni Bouayach,al hoceima,natifs_residents_non_migrants,16486.0,100,15
+01.051.01.03,Commune de Bni Bouayach,al hoceima,residents_recents_5ans,17919.0,100,17
+01.051.01.03,Commune de Bni Bouayach,al hoceima,entrees,1948.0,100,12
+01.051.01.03,Commune de Bni Bouayach,al hoceima,indice_entrees (%),10.5,100,13
+01.051.01.03,Commune de Bni Bouayach,al hoceima,indice_sortie (%),8.0,100,14
+01.051.01.03,Commune de Bni Bouayach,al hoceima,sorties,1433.0,100,18
+01.051.01.05,Commune d'Imzouren,al hoceima,population_sedentaire_5ans_plus,31766.0,101,16
+01.051.01.05,Commune d'Imzouren,al hoceima,natifs_residents_non_migrants,27650.0,101,15
+01.051.01.05,Commune d'Imzouren,al hoceima,residents_recents_5ans,29829.0,101,17
+01.051.01.05,Commune d'Imzouren,al hoceima,entrees,4039.0,101,12
+01.051.01.05,Commune d'Imzouren,al hoceima,indice_entrees (%),12.7,101,13
+01.051.01.05,Commune d'Imzouren,al hoceima,indice_sortie (%),7.3,101,14
+01.051.01.05,Commune d'Imzouren,al hoceima,sorties,2179.0,101,18
+01.051.01.07,Commune de Targuist,al hoceima,population_sedentaire_5ans_plus,13308.0,102,16
+01.051.01.07,Commune de Targuist,al hoceima,natifs_residents_non_migrants,11829.0,102,15
+01.051.01.07,Commune de Targuist,al hoceima,residents_recents_5ans,14543.0,102,17
+01.051.01.07,Commune de Targuist,al hoceima,entrees,1435.0,102,12
+01.051.01.07,Commune de Targuist,al hoceima,indice_entrees (%),10.8,102,13
+01.051.01.07,Commune de Targuist,al hoceima,indice_sortie (%),18.7,102,14
+01.051.01.07,Commune de Targuist,al hoceima,sorties,2714.0,102,18
+01.051.01.09,Commune d'Ajdir,al hoceima,population_sedentaire_5ans_plus,5248.0,103,16
+01.051.01.09,Commune d'Ajdir,al hoceima,natifs_residents_non_migrants,4577.0,103,15
+01.051.01.09,Commune d'Ajdir,al hoceima,residents_recents_5ans,5034.0,103,17
+01.051.01.09,Commune d'Ajdir,al hoceima,entrees,654.0,103,12
+01.051.01.09,Commune d'Ajdir,al hoceima,indice_entrees (%),12.5,103,13
+01.051.01.09,Commune d'Ajdir,al hoceima,indice_sortie (%),9.1,103,14
+01.051.01.09,Commune d'Ajdir,al hoceima,sorties,457.0,103,18
+01.051.03.01,Commune de Bni Boufrah,al hoceima,population_sedentaire_5ans_plus,7827.0,104,16
+01.051.03.01,Commune de Bni Boufrah,al hoceima,natifs_residents_non_migrants,7603.0,104,15
+01.051.03.01,Commune de Bni Boufrah,al hoceima,residents_recents_5ans,8458.0,104,17
+01.051.03.01,Commune de Bni Boufrah,al hoceima,entrees,221.0,104,12
+01.051.03.01,Commune de Bni Boufrah,al hoceima,indice_entrees (%),2.8,104,13
+01.051.03.01,Commune de Bni Boufrah,al hoceima,indice_sortie (%),10.1,104,14
+01.051.03.01,Commune de Bni Boufrah,al hoceima,sorties,855.0,104,18
+01.051.03.07,Commune de Senada,al hoceima,population_sedentaire_5ans_plus,7436.0,105,16
+01.051.03.07,Commune de Senada,al hoceima,natifs_residents_non_migrants,7277.0,105,15
+01.051.03.07,Commune de Senada,al hoceima,residents_recents_5ans,8041.0,105,17
+01.051.03.07,Commune de Senada,al hoceima,entrees,149.0,105,12
+01.051.03.07,Commune de Senada,al hoceima,indice_entrees (%),2.0,105,13
+01.051.03.07,Commune de Senada,al hoceima,indice_sortie (%),9.5,105,14
+01.051.03.07,Commune de Senada,al hoceima,sorties,764.0,105,18
+01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,population_sedentaire_5ans_plus,6540.0,106,16
+01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,natifs_residents_non_migrants,6466.0,106,15
+01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,residents_recents_5ans,6709.0,106,17
+01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,entrees,69.0,106,12
+01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,indice_entrees (%),1.1,106,13
+01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,indice_sortie (%),3.6,106,14
+01.051.03.05,Commune de Bni Gmil Maksouline,al hoceima,sorties,243.0,106,18
+01.051.03.03,Commune de Bni Gmil,al hoceima,population_sedentaire_5ans_plus,7109.0,107,16
+01.051.03.03,Commune de Bni Gmil,al hoceima,natifs_residents_non_migrants,6907.0,107,15
+01.051.03.03,Commune de Bni Gmil,al hoceima,residents_recents_5ans,8985.0,107,17
+01.051.03.03,Commune de Bni Gmil,al hoceima,entrees,202.0,107,12
+01.051.03.03,Commune de Bni Gmil,al hoceima,indice_entrees (%),2.8,107,13
+01.051.03.03,Commune de Bni Gmil,al hoceima,indice_sortie (%),23.1,107,14
+01.051.03.03,Commune de Bni Gmil,al hoceima,sorties,2078.0,107,18
+01.051.13.11,Commune de Chakrane,al hoceima,population_sedentaire_5ans_plus,2981.0,108,16
+01.051.13.11,Commune de Chakrane,al hoceima,natifs_residents_non_migrants,2902.0,108,15
+01.051.13.11,Commune de Chakrane,al hoceima,residents_recents_5ans,3483.0,108,17
+01.051.13.11,Commune de Chakrane,al hoceima,entrees,78.0,108,12
+01.051.13.11,Commune de Chakrane,al hoceima,indice_entrees (%),2.6,108,13
+01.051.13.11,Commune de Chakrane,al hoceima,indice_sortie (%),16.7,108,14
+01.051.13.11,Commune de Chakrane,al hoceima,sorties,581.0,108,18
+01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,population_sedentaire_5ans_plus,3508.0,109,16
+01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,natifs_residents_non_migrants,3419.0,109,15
+01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,residents_recents_5ans,5920.0,109,17
+01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,entrees,86.0,109,12
+01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,indice_entrees (%),2.5,109,13
+01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,indice_sortie (%),42.2,109,14
+01.051.13.05,Commune d'Arbaa Taourirt,al hoceima,sorties,2501.0,109,18
+01.051.13.23,Commune de Tifarouine,al hoceima,population_sedentaire_5ans_plus,2996.0,110,16
+01.051.13.23,Commune de Tifarouine,al hoceima,natifs_residents_non_migrants,2944.0,110,15
+01.051.13.23,Commune de Tifarouine,al hoceima,residents_recents_5ans,3379.0,110,17
+01.051.13.23,Commune de Tifarouine,al hoceima,entrees,48.0,110,12
+01.051.13.23,Commune de Tifarouine,al hoceima,indice_entrees (%),1.6,110,13
+01.051.13.23,Commune de Tifarouine,al hoceima,indice_sortie (%),12.9,110,14
+01.051.13.23,Commune de Tifarouine,al hoceima,sorties,435.0,110,18
+01.051.13.19,Commune de Nekkour,al hoceima,population_sedentaire_5ans_plus,7132.0,111,16
+01.051.13.19,Commune de Nekkour,al hoceima,natifs_residents_non_migrants,6957.0,111,15
+01.051.13.19,Commune de Nekkour,al hoceima,residents_recents_5ans,7782.0,111,17
+01.051.13.19,Commune de Nekkour,al hoceima,entrees,154.0,111,12
+01.051.13.19,Commune de Nekkour,al hoceima,indice_entrees (%),2.2,111,13
+01.051.13.19,Commune de Nekkour,al hoceima,indice_sortie (%),10.6,111,14
+01.051.13.19,Commune de Nekkour,al hoceima,sorties,825.0,111,18
+01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,population_sedentaire_5ans_plus,12865.0,112,16
+01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,natifs_residents_non_migrants,12042.0,112,15
+01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,residents_recents_5ans,12723.0,112,17
+01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,entrees,816.0,112,12
+01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,indice_entrees (%),6.3,112,13
+01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,indice_sortie (%),5.4,112,14
+01.051.13.03,Commune d'Ait Youssef Ou Ali,al hoceima,sorties,681.0,112,18
+01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,population_sedentaire_5ans_plus,3580.0,191,16
+01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,natifs_residents_non_migrants,3171.0,191,15
+01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,residents_recents_5ans,3386.0,191,17
+01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,entrees,405.0,191,12
+01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,indice_entrees (%),11.3,191,13
+01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,indice_sortie (%),6.4,191,14
+01.051.13.03.4,dont le centre urbain de Sidi Bouafif,al hoceima,sorties,215.0,191,18
+01.051.13.17,Commune de Louta,al hoceima,population_sedentaire_5ans_plus,4070.0,113,16
+01.051.13.17,Commune de Louta,al hoceima,natifs_residents_non_migrants,3822.0,113,15
+01.051.13.17,Commune de Louta,al hoceima,residents_recents_5ans,4195.0,113,17
+01.051.13.17,Commune de Louta,al hoceima,entrees,245.0,113,12
+01.051.13.17,Commune de Louta,al hoceima,indice_entrees (%),6.0,113,13
+01.051.13.17,Commune de Louta,al hoceima,indice_sortie (%),8.9,113,14
+01.051.13.17,Commune de Louta,al hoceima,sorties,373.0,113,18
+01.051.13.13,Commune d'Imrabten,al hoceima,population_sedentaire_5ans_plus,6535.0,114,16
+01.051.13.13,Commune d'Imrabten,al hoceima,natifs_residents_non_migrants,6367.0,114,15
+01.051.13.13,Commune d'Imrabten,al hoceima,residents_recents_5ans,7134.0,114,17
+01.051.13.13,Commune d'Imrabten,al hoceima,entrees,153.0,114,12
+01.051.13.13,Commune d'Imrabten,al hoceima,indice_entrees (%),2.3,114,13
+01.051.13.13,Commune d'Imrabten,al hoceima,indice_sortie (%),10.8,114,14
+01.051.13.13,Commune d'Imrabten,al hoceima,sorties,767.0,114,18
+01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,population_sedentaire_5ans_plus,1684.0,192,16
+01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,natifs_residents_non_migrants,1596.0,192,15
+01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,residents_recents_5ans,1794.0,192,17
+01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,entrees,78.0,192,12
+01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,indice_entrees (%),4.6,192,13
+01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,indice_sortie (%),11.0,192,14
+01.051.13.13.3,dont le centre urbain de Tamassint,al hoceima,sorties,198.0,192,18
+01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,population_sedentaire_5ans_plus,3768.0,115,16
+01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,natifs_residents_non_migrants,3674.0,115,15
+01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,residents_recents_5ans,3967.0,115,17
+01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,entrees,85.0,115,12
+01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,indice_entrees (%),2.3,115,13
+01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,indice_sortie (%),7.4,115,14
+01.051.11.25,Commune de Zaouiat Sidi Abdelkader,al hoceima,sorties,293.0,115,18
+01.051.11.09,Commune de Bni Hadifa,al hoceima,population_sedentaire_5ans_plus,4385.0,116,16
+01.051.11.09,Commune de Bni Hadifa,al hoceima,natifs_residents_non_migrants,4079.0,116,15
+01.051.11.09,Commune de Bni Hadifa,al hoceima,residents_recents_5ans,4927.0,116,17
+01.051.11.09,Commune de Bni Hadifa,al hoceima,entrees,280.0,116,12
+01.051.11.09,Commune de Bni Hadifa,al hoceima,indice_entrees (%),6.4,116,13
+01.051.11.09,Commune de Bni Hadifa,al hoceima,indice_sortie (%),17.2,116,14
+01.051.11.09,Commune de Bni Hadifa,al hoceima,sorties,848.0,116,18
+01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,population_sedentaire_5ans_plus,1963.0,193,16
+01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,natifs_residents_non_migrants,1717.0,193,15
+01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,residents_recents_5ans,1980.0,193,17
+01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,entrees,220.0,193,12
+01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,indice_entrees (%),11.2,193,13
+01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,indice_sortie (%),13.3,193,14
+01.051.11.09.3,dont le centre urbain de Bni Hadifa,al hoceima,sorties,263.0,193,18
+01.051.11.07,Commune de Bni Abdellah,al hoceima,population_sedentaire_5ans_plus,4565.0,117,16
+01.051.11.07,Commune de Bni Abdellah,al hoceima,natifs_residents_non_migrants,4480.0,117,15
+01.051.11.07,Commune de Bni Abdellah,al hoceima,residents_recents_5ans,5326.0,117,17
+01.051.11.07,Commune de Bni Abdellah,al hoceima,entrees,77.0,117,12
+01.051.11.07,Commune de Bni Abdellah,al hoceima,indice_entrees (%),1.7,117,13
+01.051.11.07,Commune de Bni Abdellah,al hoceima,indice_sortie (%),15.9,117,14
+01.051.11.07,Commune de Bni Abdellah,al hoceima,sorties,846.0,117,18
+01.051.11.15,Commune d'Izemmouren,al hoceima,population_sedentaire_5ans_plus,5823.0,118,16
+01.051.11.15,Commune d'Izemmouren,al hoceima,natifs_residents_non_migrants,5137.0,118,15
+01.051.11.15,Commune d'Izemmouren,al hoceima,residents_recents_5ans,5276.0,118,17
+01.051.11.15,Commune d'Izemmouren,al hoceima,entrees,682.0,118,12
+01.051.11.15,Commune d'Izemmouren,al hoceima,indice_entrees (%),11.7,118,13
+01.051.11.15,Commune d'Izemmouren,al hoceima,indice_sortie (%),2.6,118,14
+01.051.11.15,Commune d'Izemmouren,al hoceima,sorties,139.0,118,18
+01.051.11.01,Commune d'Ait Kamra,al hoceima,population_sedentaire_5ans_plus,6841.0,119,16
+01.051.11.01,Commune d'Ait Kamra,al hoceima,natifs_residents_non_migrants,6224.0,119,15
+01.051.11.01,Commune d'Ait Kamra,al hoceima,residents_recents_5ans,6620.0,119,17
+01.051.11.01,Commune d'Ait Kamra,al hoceima,entrees,608.0,119,12
+01.051.11.01,Commune d'Ait Kamra,al hoceima,indice_entrees (%),8.9,119,13
+01.051.11.01,Commune d'Ait Kamra,al hoceima,indice_sortie (%),6.0,119,14
+01.051.11.01,Commune d'Ait Kamra,al hoceima,sorties,396.0,119,18
+01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,population_sedentaire_5ans_plus,2043.0,194,16
+01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,natifs_residents_non_migrants,1615.0,194,15
+01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,residents_recents_5ans,1728.0,194,17
+01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,entrees,426.0,194,12
+01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,indice_entrees (%),20.9,194,13
+01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,indice_sortie (%),6.6,194,14
+01.051.11.01.3,dont le centre urbain d'Ait Kamra,al hoceima,sorties,113.0,194,18
+01.051.11.21,Commune de Rouadi,al hoceima,population_sedentaire_5ans_plus,6327.0,120,16
+01.051.11.21,Commune de Rouadi,al hoceima,natifs_residents_non_migrants,6121.0,120,15
+01.051.11.21,Commune de Rouadi,al hoceima,residents_recents_5ans,6672.0,120,17
+01.051.11.21,Commune de Rouadi,al hoceima,entrees,197.0,120,12
+01.051.11.21,Commune de Rouadi,al hoceima,indice_entrees (%),3.1,120,13
+01.051.11.21,Commune de Rouadi,al hoceima,indice_sortie (%),8.3,120,14
+01.051.11.21,Commune de Rouadi,al hoceima,sorties,551.0,120,18
+01.051.07.21,Commune de Sidi Bouzineb,al hoceima,population_sedentaire_5ans_plus,2496.0,121,16
+01.051.07.21,Commune de Sidi Bouzineb,al hoceima,natifs_residents_non_migrants,2365.0,121,15
+01.051.07.21,Commune de Sidi Bouzineb,al hoceima,residents_recents_5ans,2570.0,121,17
+01.051.07.21,Commune de Sidi Bouzineb,al hoceima,entrees,122.0,121,12
+01.051.07.21,Commune de Sidi Bouzineb,al hoceima,indice_entrees (%),4.9,121,13
+01.051.07.21,Commune de Sidi Bouzineb,al hoceima,indice_sortie (%),8.0,121,14
+01.051.07.21,Commune de Sidi Bouzineb,al hoceima,sorties,205.0,121,18
+01.051.07.05,Commune de Bni Ammart,al hoceima,population_sedentaire_5ans_plus,5031.0,122,16
+01.051.07.05,Commune de Bni Ammart,al hoceima,natifs_residents_non_migrants,4795.0,122,15
+01.051.07.05,Commune de Bni Ammart,al hoceima,residents_recents_5ans,6026.0,122,17
+01.051.07.05,Commune de Bni Ammart,al hoceima,entrees,218.0,122,12
+01.051.07.05,Commune de Bni Ammart,al hoceima,indice_entrees (%),4.3,122,13
+01.051.07.05,Commune de Bni Ammart,al hoceima,indice_sortie (%),20.4,122,14
+01.051.07.05,Commune de Bni Ammart,al hoceima,sorties,1231.0,122,18
+01.051.07.19,Commune de Sidi Boutmim,al hoceima,population_sedentaire_5ans_plus,7756.0,123,16
+01.051.07.19,Commune de Sidi Boutmim,al hoceima,natifs_residents_non_migrants,7433.0,123,15
+01.051.07.19,Commune de Sidi Boutmim,al hoceima,residents_recents_5ans,8169.0,123,17
+01.051.07.19,Commune de Sidi Boutmim,al hoceima,entrees,320.0,123,12
+01.051.07.19,Commune de Sidi Boutmim,al hoceima,indice_entrees (%),4.1,123,13
+01.051.07.19,Commune de Sidi Boutmim,al hoceima,indice_sortie (%),9.0,123,14
+01.051.07.19,Commune de Sidi Boutmim,al hoceima,sorties,736.0,123,18
+01.051.07.27,Commune de Zarkt,al hoceima,population_sedentaire_5ans_plus,5013.0,124,16
+01.051.07.27,Commune de Zarkt,al hoceima,natifs_residents_non_migrants,4856.0,124,15
+01.051.07.27,Commune de Zarkt,al hoceima,residents_recents_5ans,5446.0,124,17
+01.051.07.27,Commune de Zarkt,al hoceima,entrees,151.0,124,12
+01.051.07.27,Commune de Zarkt,al hoceima,indice_entrees (%),3.0,124,13
+01.051.07.27,Commune de Zarkt,al hoceima,indice_sortie (%),10.8,124,14
+01.051.07.27,Commune de Zarkt,al hoceima,sorties,590.0,124,18
+01.051.07.07,Commune de Bni Bchir,al hoceima,population_sedentaire_5ans_plus,4873.0,125,16
+01.051.07.07,Commune de Bni Bchir,al hoceima,natifs_residents_non_migrants,4747.0,125,15
+01.051.07.07,Commune de Bni Bchir,al hoceima,residents_recents_5ans,5469.0,125,17
+01.051.07.07,Commune de Bni Bchir,al hoceima,entrees,125.0,125,12
+01.051.07.07,Commune de Bni Bchir,al hoceima,indice_entrees (%),2.6,125,13
+01.051.07.07,Commune de Bni Bchir,al hoceima,indice_sortie (%),13.2,125,14
+01.051.07.07,Commune de Bni Bchir,al hoceima,sorties,722.0,125,18
+01.051.07.11,Commune de Bni Bounsar,al hoceima,population_sedentaire_5ans_plus,5886.0,126,16
+01.051.07.11,Commune de Bni Bounsar,al hoceima,natifs_residents_non_migrants,5678.0,126,15
+01.051.07.11,Commune de Bni Bounsar,al hoceima,residents_recents_5ans,6365.0,126,17
+01.051.07.11,Commune de Bni Bounsar,al hoceima,entrees,205.0,126,12
+01.051.07.11,Commune de Bni Bounsar,al hoceima,indice_entrees (%),3.5,126,13
+01.051.07.11,Commune de Bni Bounsar,al hoceima,indice_sortie (%),10.8,126,14
+01.051.07.11,Commune de Bni Bounsar,al hoceima,sorties,687.0,126,18
+01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,population_sedentaire_5ans_plus,6897.0,127,16
+01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,natifs_residents_non_migrants,6633.0,127,15
+01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,residents_recents_5ans,7033.0,127,17
+01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,entrees,264.0,127,12
+01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,indice_entrees (%),3.8,127,13
+01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,indice_sortie (%),5.7,127,14
+01.051.07.03,Commune de Bni Ahmed Imoukzan,al hoceima,sorties,400.0,127,18
+01.051.09.25,Commune de Tamsaout,al hoceima,population_sedentaire_5ans_plus,11616.0,128,16
+01.051.09.25,Commune de Tamsaout,al hoceima,natifs_residents_non_migrants,11331.0,128,15
+01.051.09.25,Commune de Tamsaout,al hoceima,residents_recents_5ans,12315.0,128,17
+01.051.09.25,Commune de Tamsaout,al hoceima,entrees,285.0,128,12
+01.051.09.25,Commune de Tamsaout,al hoceima,indice_entrees (%),2.5,128,13
+01.051.09.25,Commune de Tamsaout,al hoceima,indice_sortie (%),8.0,128,14
+01.051.09.25,Commune de Tamsaout,al hoceima,sorties,985.0,128,18
+01.051.09.15,Commune de Ketama,al hoceima,population_sedentaire_5ans_plus,15149.0,129,16
+01.051.09.15,Commune de Ketama,al hoceima,natifs_residents_non_migrants,14857.0,129,15
+01.051.09.15,Commune de Ketama,al hoceima,residents_recents_5ans,16751.0,129,17
+01.051.09.15,Commune de Ketama,al hoceima,entrees,292.0,129,12
+01.051.09.15,Commune de Ketama,al hoceima,indice_entrees (%),1.9,129,13
+01.051.09.15,Commune de Ketama,al hoceima,indice_sortie (%),11.3,129,14
+01.051.09.15,Commune de Ketama,al hoceima,sorties,1893.0,129,18
+01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,population_sedentaire_5ans_plus,8384.0,130,16
+01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,natifs_residents_non_migrants,8210.0,130,15
+01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,residents_recents_5ans,8782.0,130,17
+01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,entrees,174.0,130,12
+01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,indice_entrees (%),2.1,130,13
+01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,indice_sortie (%),6.5,130,14
+01.051.09.17,Commune de Moulay Ahmed Cherif,al hoceima,sorties,572.0,130,18
+01.051.09.13,Commune d'Issaguen,al hoceima,population_sedentaire_5ans_plus,15858.0,131,16
+01.051.09.13,Commune d'Issaguen,al hoceima,natifs_residents_non_migrants,15150.0,131,15
+01.051.09.13,Commune d'Issaguen,al hoceima,residents_recents_5ans,18737.0,131,17
+01.051.09.13,Commune d'Issaguen,al hoceima,entrees,700.0,131,12
+01.051.09.13,Commune d'Issaguen,al hoceima,indice_entrees (%),4.4,131,13
+01.051.09.13,Commune d'Issaguen,al hoceima,indice_sortie (%),19.1,131,14
+01.051.09.13,Commune d'Issaguen,al hoceima,sorties,3587.0,131,18
+01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,population_sedentaire_5ans_plus,2365.0,195,16
+01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,natifs_residents_non_migrants,1987.0,195,15
+01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,residents_recents_5ans,2487.0,195,17
+01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,entrees,375.0,195,12
+01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,indice_entrees (%),15.9,195,13
+01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,indice_sortie (%),20.1,195,14
+01.051.09.13.3,dont le centre urbain d'Issaguen,al hoceima,sorties,500.0,195,18
+01.051.09.09,Commune de Bni Bouchibet,al hoceima,population_sedentaire_5ans_plus,8018.0,132,16
+01.051.09.09,Commune de Bni Bouchibet,al hoceima,natifs_residents_non_migrants,7779.0,132,15
+01.051.09.09,Commune de Bni Bouchibet,al hoceima,residents_recents_5ans,8499.0,132,17
+01.051.09.09,Commune de Bni Bouchibet,al hoceima,entrees,230.0,132,12
+01.051.09.09,Commune de Bni Bouchibet,al hoceima,indice_entrees (%),2.9,132,13
+01.051.09.09,Commune de Bni Bouchibet,al hoceima,indice_sortie (%),8.5,132,14
+01.051.09.09,Commune de Bni Bouchibet,al hoceima,sorties,720.0,132,18
+01.051.09.23,Commune de Taghzout,al hoceima,population_sedentaire_5ans_plus,3743.0,133,16
+01.051.09.23,Commune de Taghzout,al hoceima,natifs_residents_non_migrants,3684.0,133,15
+01.051.09.23,Commune de Taghzout,al hoceima,residents_recents_5ans,4199.0,133,17
+01.051.09.23,Commune de Taghzout,al hoceima,entrees,59.0,133,12
+01.051.09.23,Commune de Taghzout,al hoceima,indice_entrees (%),1.6,133,13
+01.051.09.23,Commune de Taghzout,al hoceima,indice_sortie (%),12.3,133,14
+01.051.09.23,Commune de Taghzout,al hoceima,sorties,515.0,133,18
+01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,population_sedentaire_5ans_plus,22045.0,134,16
+01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,natifs_residents_non_migrants,21601.0,134,15
+01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,residents_recents_5ans,23462.0,134,17
+01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,entrees,444.0,134,12
+01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,indice_entrees (%),2.0,134,13
+01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,indice_sortie (%),7.9,134,14
+01.051.09.01,Commune d'Abdelghaya Souahel,al hoceima,sorties,1861.0,134,18
+01.151,Province de Chefchaouen,chefchaouen,population_sedentaire_5ans_plus,375092.0,8,16
+01.151,Province de Chefchaouen,chefchaouen,natifs_residents_non_migrants,367473.0,8,15
+01.151,Province de Chefchaouen,chefchaouen,residents_recents_5ans,420487.0,8,17
+01.151,Province de Chefchaouen,chefchaouen,entrees,7298.0,8,12
+01.151,Province de Chefchaouen,chefchaouen,indice_entrees (%),1.9,8,13
+01.151,Province de Chefchaouen,chefchaouen,indice_sortie (%),12.6,8,14
+01.151,Province de Chefchaouen,chefchaouen,sorties,53014.0,8,18
+01.151.01.01,Commune de Chefchaouen,chefchaouen,population_sedentaire_5ans_plus,42761.0,135,16
+01.151.01.01,Commune de Chefchaouen,chefchaouen,natifs_residents_non_migrants,38880.0,135,15
+01.151.01.01,Commune de Chefchaouen,chefchaouen,residents_recents_5ans,44899.0,135,17
+01.151.01.01,Commune de Chefchaouen,chefchaouen,entrees,3695.0,135,12
+01.151.01.01,Commune de Chefchaouen,chefchaouen,indice_entrees (%),8.6,135,13
+01.151.01.01,Commune de Chefchaouen,chefchaouen,indice_sortie (%),13.4,135,14
+01.151.01.01,Commune de Chefchaouen,chefchaouen,sorties,6019.0,135,18
+01.151.03.03,Commune de Bab Berred,chefchaouen,population_sedentaire_5ans_plus,22568.0,136,16
+01.151.03.03,Commune de Bab Berred,chefchaouen,natifs_residents_non_migrants,21310.0,136,15
+01.151.03.03,Commune de Bab Berred,chefchaouen,residents_recents_5ans,28898.0,136,17
+01.151.03.03,Commune de Bab Berred,chefchaouen,entrees,1245.0,136,12
+01.151.03.03,Commune de Bab Berred,chefchaouen,indice_entrees (%),5.5,136,13
+01.151.03.03,Commune de Bab Berred,chefchaouen,indice_sortie (%),26.3,136,14
+01.151.03.03,Commune de Bab Berred,chefchaouen,sorties,7588.0,136,18
+01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,population_sedentaire_5ans_plus,5312.0,196,16
+01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,natifs_residents_non_migrants,4505.0,196,15
+01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,residents_recents_5ans,5935.0,196,17
+01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,entrees,804.0,196,12
+01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,indice_entrees (%),15.1,196,13
+01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,indice_sortie (%),24.1,196,14
+01.151.03.03.3,dont le centre urbain de Bab Berred,chefchaouen,sorties,1430.0,196,18
+01.151.03.13,Commune d'Iounane,chefchaouen,population_sedentaire_5ans_plus,17569.0,137,16
+01.151.03.13,Commune d'Iounane,chefchaouen,natifs_residents_non_migrants,17249.0,137,15
+01.151.03.13,Commune d'Iounane,chefchaouen,residents_recents_5ans,19027.0,137,17
+01.151.03.13,Commune d'Iounane,chefchaouen,entrees,320.0,137,12
+01.151.03.13,Commune d'Iounane,chefchaouen,indice_entrees (%),1.8,137,13
+01.151.03.13,Commune d'Iounane,chefchaouen,indice_sortie (%),9.3,137,14
+01.151.03.13,Commune d'Iounane,chefchaouen,sorties,1778.0,137,18
+01.151.03.23,Commune de Tamorot,chefchaouen,population_sedentaire_5ans_plus,21833.0,138,16
+01.151.03.23,Commune de Tamorot,chefchaouen,natifs_residents_non_migrants,21419.0,138,15
+01.151.03.23,Commune de Tamorot,chefchaouen,residents_recents_5ans,23205.0,138,17
+01.151.03.23,Commune de Tamorot,chefchaouen,entrees,414.0,138,12
+01.151.03.23,Commune de Tamorot,chefchaouen,indice_entrees (%),1.9,138,13
+01.151.03.23,Commune de Tamorot,chefchaouen,indice_sortie (%),7.7,138,14
+01.151.03.23,Commune de Tamorot,chefchaouen,sorties,1786.0,138,18
+01.151.09.01,Commune d'Amtar,chefchaouen,population_sedentaire_5ans_plus,7832.0,139,16
+01.151.09.01,Commune d'Amtar,chefchaouen,natifs_residents_non_migrants,7490.0,139,15
+01.151.09.01,Commune d'Amtar,chefchaouen,residents_recents_5ans,8973.0,139,17
+01.151.09.01,Commune d'Amtar,chefchaouen,entrees,340.0,139,12
+01.151.09.01,Commune d'Amtar,chefchaouen,indice_entrees (%),4.3,139,13
+01.151.09.01,Commune d'Amtar,chefchaouen,indice_sortie (%),16.5,139,14
+01.151.09.01,Commune d'Amtar,chefchaouen,sorties,1483.0,139,18
+01.151.09.17,Commune de M'tioua,chefchaouen,population_sedentaire_5ans_plus,9508.0,140,16
+01.151.09.17,Commune de M'tioua,chefchaouen,natifs_residents_non_migrants,8925.0,140,15
+01.151.09.17,Commune de M'tioua,chefchaouen,residents_recents_5ans,11116.0,140,17
+01.151.09.17,Commune de M'tioua,chefchaouen,entrees,576.0,140,12
+01.151.09.17,Commune de M'tioua,chefchaouen,indice_entrees (%),6.1,140,13
+01.151.09.17,Commune de M'tioua,chefchaouen,indice_sortie (%),19.7,140,14
+01.151.09.17,Commune de M'tioua,chefchaouen,sorties,2191.0,140,18
+01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,population_sedentaire_5ans_plus,4099.0,197,16
+01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,natifs_residents_non_migrants,3514.0,197,15
+01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,residents_recents_5ans,4180.0,197,17
+01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,entrees,579.0,197,12
+01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,indice_entrees (%),14.1,197,13
+01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,indice_sortie (%),15.9,197,14
+01.151.09.17.3,dont le centre urbain de Jebha,chefchaouen,sorties,666.0,197,18
+01.151.09.19,Commune d'Ouaouzgane,chefchaouen,population_sedentaire_5ans_plus,11448.0,141,16
+01.151.09.19,Commune d'Ouaouzgane,chefchaouen,natifs_residents_non_migrants,11159.0,141,15
+01.151.09.19,Commune d'Ouaouzgane,chefchaouen,residents_recents_5ans,12549.0,141,17
+01.151.09.19,Commune d'Ouaouzgane,chefchaouen,entrees,289.0,141,12
+01.151.09.19,Commune d'Ouaouzgane,chefchaouen,indice_entrees (%),2.5,141,13
+01.151.09.19,Commune d'Ouaouzgane,chefchaouen,indice_sortie (%),11.1,141,14
+01.151.09.19,Commune d'Ouaouzgane,chefchaouen,sorties,1390.0,141,18
+01.151.09.09,Commune de Bni Rzine,chefchaouen,population_sedentaire_5ans_plus,14948.0,142,16
+01.151.09.09,Commune de Bni Rzine,chefchaouen,natifs_residents_non_migrants,14518.0,142,15
+01.151.09.09,Commune de Bni Rzine,chefchaouen,residents_recents_5ans,17518.0,142,17
+01.151.09.09,Commune de Bni Rzine,chefchaouen,entrees,423.0,142,12
+01.151.09.09,Commune de Bni Rzine,chefchaouen,indice_entrees (%),2.8,142,13
+01.151.09.09,Commune de Bni Rzine,chefchaouen,indice_sortie (%),17.1,142,14
+01.151.09.09,Commune de Bni Rzine,chefchaouen,sorties,3000.0,142,18
+01.151.09.11,Commune de Bni Smih,chefchaouen,population_sedentaire_5ans_plus,12515.0,143,16
+01.151.09.11,Commune de Bni Smih,chefchaouen,natifs_residents_non_migrants,12106.0,143,15
+01.151.09.11,Commune de Bni Smih,chefchaouen,residents_recents_5ans,14846.0,143,17
+01.151.09.11,Commune de Bni Smih,chefchaouen,entrees,409.0,143,12
+01.151.09.11,Commune de Bni Smih,chefchaouen,indice_entrees (%),3.3,143,13
+01.151.09.11,Commune de Bni Smih,chefchaouen,indice_sortie (%),18.5,143,14
+01.151.09.11,Commune de Bni Smih,chefchaouen,sorties,2740.0,143,18
+01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,population_sedentaire_5ans_plus,9842.0,144,16
+01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,natifs_residents_non_migrants,9549.0,144,15
+01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,residents_recents_5ans,11977.0,144,17
+01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,entrees,264.0,144,12
+01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,indice_entrees (%),2.7,144,13
+01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,indice_sortie (%),20.3,144,14
+01.151.06.05,Commune de Bni Ahmed Cherqia,chefchaouen,sorties,2428.0,144,18
+01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,population_sedentaire_5ans_plus,9790.0,145,16
+01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,natifs_residents_non_migrants,9549.0,145,15
+01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,residents_recents_5ans,10410.0,145,17
+01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,entrees,232.0,145,12
+01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,indice_entrees (%),2.4,145,13
+01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,indice_sortie (%),8.3,145,14
+01.151.06.07,Commune de Bni Ahmed Gharbia,chefchaouen,sorties,861.0,145,18
+01.151.06.21,Commune d'Oued Malha,chefchaouen,population_sedentaire_5ans_plus,10970.0,146,16
+01.151.06.21,Commune d'Oued Malha,chefchaouen,natifs_residents_non_migrants,10758.0,146,15
+01.151.06.21,Commune d'Oued Malha,chefchaouen,residents_recents_5ans,11432.0,146,17
+01.151.06.21,Commune d'Oued Malha,chefchaouen,entrees,209.0,146,12
+01.151.06.21,Commune d'Oued Malha,chefchaouen,indice_entrees (%),1.9,146,13
+01.151.06.21,Commune d'Oued Malha,chefchaouen,indice_sortie (%),5.9,146,14
+01.151.06.21,Commune d'Oued Malha,chefchaouen,sorties,674.0,146,18
+01.151.06.15,Commune de Mansoura,chefchaouen,population_sedentaire_5ans_plus,12269.0,147,16
+01.151.06.15,Commune de Mansoura,chefchaouen,natifs_residents_non_migrants,11892.0,147,15
+01.151.06.15,Commune de Mansoura,chefchaouen,residents_recents_5ans,13360.0,147,17
+01.151.06.15,Commune de Mansoura,chefchaouen,entrees,374.0,147,12
+01.151.06.15,Commune de Mansoura,chefchaouen,indice_entrees (%),3.0,147,13
+01.151.06.15,Commune de Mansoura,chefchaouen,indice_sortie (%),11.0,147,14
+01.151.06.15,Commune de Mansoura,chefchaouen,sorties,1468.0,147,18
+01.151.05.01,Commune de Bab Taza,chefchaouen,population_sedentaire_5ans_plus,27231.0,148,16
+01.151.05.01,Commune de Bab Taza,chefchaouen,natifs_residents_non_migrants,26276.0,148,15
+01.151.05.01,Commune de Bab Taza,chefchaouen,residents_recents_5ans,30372.0,148,17
+01.151.05.01,Commune de Bab Taza,chefchaouen,entrees,938.0,148,12
+01.151.05.01,Commune de Bab Taza,chefchaouen,indice_entrees (%),3.4,148,13
+01.151.05.01,Commune de Bab Taza,chefchaouen,indice_sortie (%),13.5,148,14
+01.151.05.01,Commune de Bab Taza,chefchaouen,sorties,4096.0,148,18
+01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,population_sedentaire_5ans_plus,5429.0,198,16
+01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,natifs_residents_non_migrants,4625.0,198,15
+01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,residents_recents_5ans,5349.0,198,17
+01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,entrees,792.0,198,12
+01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,indice_entrees (%),14.6,198,13
+01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,indice_sortie (%),13.5,198,14
+01.151.05.01.3,dont le centre urbain de Bab Taza,chefchaouen,sorties,724.0,198,18
+01.151.05.07,Commune de Bni Salah,chefchaouen,population_sedentaire_5ans_plus,9376.0,149,16
+01.151.05.07,Commune de Bni Salah,chefchaouen,natifs_residents_non_migrants,9196.0,149,15
+01.151.05.07,Commune de Bni Salah,chefchaouen,residents_recents_5ans,9857.0,149,17
+01.151.05.07,Commune de Bni Salah,chefchaouen,entrees,179.0,149,12
+01.151.05.07,Commune de Bni Salah,chefchaouen,indice_entrees (%),1.9,149,13
+01.151.05.07,Commune de Bni Salah,chefchaouen,indice_sortie (%),6.7,149,14
+01.151.05.07,Commune de Bni Salah,chefchaouen,sorties,661.0,149,18
+01.151.05.03,Commune de Bni Darkoul,chefchaouen,population_sedentaire_5ans_plus,12759.0,150,16
+01.151.05.03,Commune de Bni Darkoul,chefchaouen,natifs_residents_non_migrants,12595.0,150,15
+01.151.05.03,Commune de Bni Darkoul,chefchaouen,residents_recents_5ans,14049.0,150,17
+01.151.05.03,Commune de Bni Darkoul,chefchaouen,entrees,161.0,150,12
+01.151.05.03,Commune de Bni Darkoul,chefchaouen,indice_entrees (%),1.3,150,13
+01.151.05.03,Commune de Bni Darkoul,chefchaouen,indice_sortie (%),10.4,150,14
+01.151.05.03,Commune de Bni Darkoul,chefchaouen,sorties,1454.0,150,18
+01.151.05.05,Commune de Bni Faghloum,chefchaouen,population_sedentaire_5ans_plus,8500.0,151,16
+01.151.05.05,Commune de Bni Faghloum,chefchaouen,natifs_residents_non_migrants,8386.0,151,15
+01.151.05.05,Commune de Bni Faghloum,chefchaouen,residents_recents_5ans,9066.0,151,17
+01.151.05.05,Commune de Bni Faghloum,chefchaouen,entrees,114.0,151,12
+01.151.05.05,Commune de Bni Faghloum,chefchaouen,indice_entrees (%),1.3,151,13
+01.151.05.05,Commune de Bni Faghloum,chefchaouen,indice_sortie (%),7.5,151,14
+01.151.05.05,Commune de Bni Faghloum,chefchaouen,sorties,680.0,151,18
+01.151.05.11,Commune de Fifi,chefchaouen,population_sedentaire_5ans_plus,6296.0,152,16
+01.151.05.11,Commune de Fifi,chefchaouen,natifs_residents_non_migrants,6124.0,152,15
+01.151.05.11,Commune de Fifi,chefchaouen,residents_recents_5ans,7202.0,152,17
+01.151.05.11,Commune de Fifi,chefchaouen,entrees,170.0,152,12
+01.151.05.11,Commune de Fifi,chefchaouen,indice_entrees (%),2.7,152,13
+01.151.05.11,Commune de Fifi,chefchaouen,indice_sortie (%),15.0,152,14
+01.151.05.11,Commune de Fifi,chefchaouen,sorties,1078.0,152,18
+01.151.05.09,Commune de Derdara,chefchaouen,population_sedentaire_5ans_plus,10300.0,153,16
+01.151.05.09,Commune de Derdara,chefchaouen,natifs_residents_non_migrants,10105.0,153,15
+01.151.05.09,Commune de Derdara,chefchaouen,residents_recents_5ans,11653.0,153,17
+01.151.05.09,Commune de Derdara,chefchaouen,entrees,194.0,153,12
+01.151.05.09,Commune de Derdara,chefchaouen,indice_entrees (%),1.9,153,13
+01.151.05.09,Commune de Derdara,chefchaouen,indice_sortie (%),13.3,153,14
+01.151.05.09,Commune de Derdara,chefchaouen,sorties,1549.0,153,18
+01.151.05.15,Commune de Tanaqoub,chefchaouen,population_sedentaire_5ans_plus,7376.0,154,16
+01.151.05.15,Commune de Tanaqoub,chefchaouen,natifs_residents_non_migrants,7194.0,154,15
+01.151.05.15,Commune de Tanaqoub,chefchaouen,residents_recents_5ans,8513.0,154,17
+01.151.05.15,Commune de Tanaqoub,chefchaouen,entrees,182.0,154,12
+01.151.05.15,Commune de Tanaqoub,chefchaouen,indice_entrees (%),2.5,154,13
+01.151.05.15,Commune de Tanaqoub,chefchaouen,indice_sortie (%),15.5,154,14
+01.151.05.15,Commune de Tanaqoub,chefchaouen,sorties,1319.0,154,18
+01.151.05.13,Commune de Laghdir,chefchaouen,population_sedentaire_5ans_plus,5901.0,155,16
+01.151.05.13,Commune de Laghdir,chefchaouen,natifs_residents_non_migrants,5696.0,155,15
+01.151.05.13,Commune de Laghdir,chefchaouen,residents_recents_5ans,6179.0,155,17
+01.151.05.13,Commune de Laghdir,chefchaouen,entrees,200.0,155,12
+01.151.05.13,Commune de Laghdir,chefchaouen,indice_entrees (%),3.4,155,13
+01.151.05.13,Commune de Laghdir,chefchaouen,indice_sortie (%),7.8,155,14
+01.151.05.13,Commune de Laghdir,chefchaouen,sorties,483.0,155,18
+01.151.11.05,Commune de Bni Selmane,chefchaouen,population_sedentaire_5ans_plus,19463.0,156,16
+01.151.11.05,Commune de Bni Selmane,chefchaouen,natifs_residents_non_migrants,19235.0,156,15
+01.151.11.05,Commune de Bni Selmane,chefchaouen,residents_recents_5ans,21670.0,156,17
+01.151.11.05,Commune de Bni Selmane,chefchaouen,entrees,228.0,156,12
+01.151.11.05,Commune de Bni Selmane,chefchaouen,indice_entrees (%),1.2,156,13
+01.151.11.05,Commune de Bni Selmane,chefchaouen,indice_sortie (%),11.2,156,14
+01.151.11.05,Commune de Bni Selmane,chefchaouen,sorties,2434.0,156,18
+01.151.11.03,Commune de Bni Mansour,chefchaouen,population_sedentaire_5ans_plus,14991.0,157,16
+01.151.11.03,Commune de Bni Mansour,chefchaouen,natifs_residents_non_migrants,14834.0,157,15
+01.151.11.03,Commune de Bni Mansour,chefchaouen,residents_recents_5ans,17962.0,157,17
+01.151.11.03,Commune de Bni Mansour,chefchaouen,entrees,157.0,157,12
+01.151.11.03,Commune de Bni Mansour,chefchaouen,indice_entrees (%),1.0,157,13
+01.151.11.03,Commune de Bni Mansour,chefchaouen,indice_sortie (%),17.4,157,14
+01.151.11.03,Commune de Bni Mansour,chefchaouen,sorties,3127.0,157,18
+01.151.07.01,Commune de Bni Bouzra,chefchaouen,population_sedentaire_5ans_plus,14409.0,158,16
+01.151.07.01,Commune de Bni Bouzra,chefchaouen,natifs_residents_non_migrants,14075.0,158,15
+01.151.07.01,Commune de Bni Bouzra,chefchaouen,residents_recents_5ans,16706.0,158,17
+01.151.07.01,Commune de Bni Bouzra,chefchaouen,entrees,324.0,158,12
+01.151.07.01,Commune de Bni Bouzra,chefchaouen,indice_entrees (%),2.2,158,13
+01.151.07.01,Commune de Bni Bouzra,chefchaouen,indice_sortie (%),15.7,158,14
+01.151.07.01,Commune de Bni Bouzra,chefchaouen,sorties,2631.0,158,18
+01.151.07.07,Commune de Steha,chefchaouen,population_sedentaire_5ans_plus,9902.0,159,16
+01.151.07.07,Commune de Steha,chefchaouen,natifs_residents_non_migrants,9348.0,159,15
+01.151.07.07,Commune de Steha,chefchaouen,residents_recents_5ans,11110.0,159,17
+01.151.07.07,Commune de Steha,chefchaouen,entrees,546.0,159,12
+01.151.07.07,Commune de Steha,chefchaouen,indice_entrees (%),5.5,159,13
+01.151.07.07,Commune de Steha,chefchaouen,indice_sortie (%),15.9,159,14
+01.151.07.07,Commune de Steha,chefchaouen,sorties,1763.0,159,18
+01.151.07.13,Commune de Tizgane,chefchaouen,population_sedentaire_5ans_plus,11122.0,160,16
+01.151.07.13,Commune de Tizgane,chefchaouen,natifs_residents_non_migrants,10519.0,160,15
+01.151.07.13,Commune de Tizgane,chefchaouen,residents_recents_5ans,11454.0,160,17
+01.151.07.13,Commune de Tizgane,chefchaouen,entrees,591.0,160,12
+01.151.07.13,Commune de Tizgane,chefchaouen,indice_entrees (%),5.3,160,13
+01.151.07.13,Commune de Tizgane,chefchaouen,indice_sortie (%),8.2,160,14
+01.151.07.13,Commune de Tizgane,chefchaouen,sorties,934.0,160,18
+01.151.07.11,Commune de Tassift,chefchaouen,population_sedentaire_5ans_plus,6239.0,161,16
+01.151.07.11,Commune de Tassift,chefchaouen,natifs_residents_non_migrants,6005.0,161,15
+01.151.07.11,Commune de Tassift,chefchaouen,residents_recents_5ans,7275.0,161,17
+01.151.07.11,Commune de Tassift,chefchaouen,entrees,234.0,161,12
+01.151.07.11,Commune de Tassift,chefchaouen,indice_entrees (%),3.8,161,13
+01.151.07.11,Commune de Tassift,chefchaouen,indice_sortie (%),17.5,161,14
+01.151.07.11,Commune de Tassift,chefchaouen,sorties,1270.0,161,18
+01.151.07.09,Commune de Talambote,chefchaouen,population_sedentaire_5ans_plus,7374.0,162,16
+01.151.07.09,Commune de Talambote,chefchaouen,natifs_residents_non_migrants,7138.0,162,15
+01.151.07.09,Commune de Talambote,chefchaouen,residents_recents_5ans,9207.0,162,17
+01.151.07.09,Commune de Talambote,chefchaouen,entrees,233.0,162,12
+01.151.07.09,Commune de Talambote,chefchaouen,indice_entrees (%),3.2,162,13
+01.151.07.09,Commune de Talambote,chefchaouen,indice_sortie (%),22.5,162,14
+01.151.07.09,Commune de Talambote,chefchaouen,sorties,2069.0,162,18
+01.405,Province d'Ouezzane,ouezzane,population_sedentaire_5ans_plus,253019.0,9,16
+01.405,Province d'Ouezzane,ouezzane,natifs_residents_non_migrants,246798.0,9,15
+01.405,Province d'Ouezzane,ouezzane,residents_recents_5ans,277864.0,9,17
+01.405,Province d'Ouezzane,ouezzane,entrees,6115.0,9,12
+01.405,Province d'Ouezzane,ouezzane,indice_entrees (%),2.4,9,13
+01.405,Province d'Ouezzane,ouezzane,indice_sortie (%),11.2,9,14
+01.405,Province d'Ouezzane,ouezzane,sorties,31066.0,9,18
+01.405.01.09,Commune d'Ouezzane,ouezzane,population_sedentaire_5ans_plus,53512.0,163,16
+01.405.01.09,Commune d'Ouezzane,ouezzane,natifs_residents_non_migrants,49171.0,163,15
+01.405.01.09,Commune d'Ouezzane,ouezzane,residents_recents_5ans,59751.0,163,17
+01.405.01.09,Commune d'Ouezzane,ouezzane,entrees,4291.0,163,12
+01.405.01.09,Commune d'Ouezzane,ouezzane,indice_entrees (%),8.0,163,13
+01.405.01.09,Commune d'Ouezzane,ouezzane,indice_sortie (%),17.7,163,14
+01.405.01.09,Commune d'Ouezzane,ouezzane,sorties,10580.0,163,18
+01.405.07.07,Commune de Mzefroune,ouezzane,population_sedentaire_5ans_plus,5766.0,164,16
+01.405.07.07,Commune de Mzefroune,ouezzane,natifs_residents_non_migrants,5523.0,164,15
+01.405.07.07,Commune de Mzefroune,ouezzane,residents_recents_5ans,6058.0,164,17
+01.405.07.07,Commune de Mzefroune,ouezzane,entrees,235.0,164,12
+01.405.07.07,Commune de Mzefroune,ouezzane,indice_entrees (%),4.1,164,13
+01.405.07.07,Commune de Mzefroune,ouezzane,indice_sortie (%),8.8,164,14
+01.405.07.07,Commune de Mzefroune,ouezzane,sorties,535.0,164,18
+01.405.07.05,Commune de Masmouda,ouezzane,population_sedentaire_5ans_plus,13652.0,165,16
+01.405.07.05,Commune de Masmouda,ouezzane,natifs_residents_non_migrants,13285.0,165,15
+01.405.07.05,Commune de Masmouda,ouezzane,residents_recents_5ans,15183.0,165,17
+01.405.07.05,Commune de Masmouda,ouezzane,entrees,367.0,165,12
+01.405.07.05,Commune de Masmouda,ouezzane,indice_entrees (%),2.7,165,13
+01.405.07.05,Commune de Masmouda,ouezzane,indice_sortie (%),12.5,165,14
+01.405.07.05,Commune de Masmouda,ouezzane,sorties,1898.0,165,18
+01.405.07.15,Commune de Sidi Redouane,ouezzane,population_sedentaire_5ans_plus,16605.0,166,16
+01.405.07.15,Commune de Sidi Redouane,ouezzane,natifs_residents_non_migrants,16003.0,166,15
+01.405.07.15,Commune de Sidi Redouane,ouezzane,residents_recents_5ans,18364.0,166,17
+01.405.07.15,Commune de Sidi Redouane,ouezzane,entrees,597.0,166,12
+01.405.07.15,Commune de Sidi Redouane,ouezzane,indice_entrees (%),3.6,166,13
+01.405.07.15,Commune de Sidi Redouane,ouezzane,indice_sortie (%),12.9,166,14
+01.405.07.15,Commune de Sidi Redouane,ouezzane,sorties,2361.0,166,18
+01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,population_sedentaire_5ans_plus,3728.0,199,16
+01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,natifs_residents_non_migrants,3234.0,199,15
+01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,residents_recents_5ans,3739.0,199,17
+01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,entrees,494.0,199,12
+01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,indice_entrees (%),13.3,199,13
+01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,indice_sortie (%),13.5,199,14
+01.405.07.15.3,dont le centre urbain de Sidi Redouane,ouezzane,sorties,505.0,199,18
+01.405.07.01,Commune de Bni Quolla,ouezzane,population_sedentaire_5ans_plus,12638.0,167,16
+01.405.07.01,Commune de Bni Quolla,ouezzane,natifs_residents_non_migrants,12378.0,167,15
+01.405.07.01,Commune de Bni Quolla,ouezzane,residents_recents_5ans,16138.0,167,17
+01.405.07.01,Commune de Bni Quolla,ouezzane,entrees,260.0,167,12
+01.405.07.01,Commune de Bni Quolla,ouezzane,indice_entrees (%),2.1,167,13
+01.405.07.01,Commune de Bni Quolla,ouezzane,indice_sortie (%),23.3,167,14
+01.405.07.01,Commune de Bni Quolla,ouezzane,sorties,3761.0,167,18
+01.405.13.17,Commune de Teroual,ouezzane,population_sedentaire_5ans_plus,10824.0,168,16
+01.405.13.17,Commune de Teroual,ouezzane,natifs_residents_non_migrants,10512.0,168,15
+01.405.13.17,Commune de Teroual,ouezzane,residents_recents_5ans,11895.0,168,17
+01.405.13.17,Commune de Teroual,ouezzane,entrees,312.0,168,12
+01.405.13.17,Commune de Teroual,ouezzane,indice_entrees (%),2.9,168,13
+01.405.13.17,Commune de Teroual,ouezzane,indice_sortie (%),11.6,168,14
+01.405.13.17,Commune de Teroual,ouezzane,sorties,1382.0,168,18
+01.405.13.19,Commune de Zghira,ouezzane,population_sedentaire_5ans_plus,12467.0,169,16
+01.405.13.19,Commune de Zghira,ouezzane,natifs_residents_non_migrants,12122.0,169,15
+01.405.13.19,Commune de Zghira,ouezzane,residents_recents_5ans,13076.0,169,17
+01.405.13.19,Commune de Zghira,ouezzane,entrees,344.0,169,12
+01.405.13.19,Commune de Zghira,ouezzane,indice_entrees (%),2.8,169,13
+01.405.13.19,Commune de Zghira,ouezzane,indice_sortie (%),7.3,169,14
+01.405.13.19,Commune de Zghira,ouezzane,sorties,955.0,169,18
+01.405.13.09,Commune d'Ouannana,ouezzane,population_sedentaire_5ans_plus,11135.0,170,16
+01.405.13.09,Commune d'Ouannana,ouezzane,natifs_residents_non_migrants,10914.0,170,15
+01.405.13.09,Commune d'Ouannana,ouezzane,residents_recents_5ans,11867.0,170,17
+01.405.13.09,Commune d'Ouannana,ouezzane,entrees,216.0,170,12
+01.405.13.09,Commune d'Ouannana,ouezzane,indice_entrees (%),1.9,170,13
+01.405.13.09,Commune d'Ouannana,ouezzane,indice_sortie (%),8.0,170,14
+01.405.13.09,Commune d'Ouannana,ouezzane,sorties,952.0,170,18
+01.405.13.03,Commune de Lamjaara,ouezzane,population_sedentaire_5ans_plus,15667.0,171,16
+01.405.13.03,Commune de Lamjaara,ouezzane,natifs_residents_non_migrants,14774.0,171,15
+01.405.13.03,Commune de Lamjaara,ouezzane,residents_recents_5ans,16124.0,171,17
+01.405.13.03,Commune de Lamjaara,ouezzane,entrees,892.0,171,12
+01.405.13.03,Commune de Lamjaara,ouezzane,indice_entrees (%),5.7,171,13
+01.405.13.03,Commune de Lamjaara,ouezzane,indice_sortie (%),8.4,171,14
+01.405.13.03,Commune de Lamjaara,ouezzane,sorties,1350.0,171,18
+01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,population_sedentaire_5ans_plus,4334.0,200,16
+01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,natifs_residents_non_migrants,3632.0,200,15
+01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,residents_recents_5ans,4000.0,200,17
+01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,entrees,701.0,200,12
+01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,indice_entrees (%),16.2,200,13
+01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,indice_sortie (%),9.2,200,14
+01.405.13.03.3,dont le centre urbain d'Ain Dorij,ouezzane,sorties,368.0,200,18
+01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,population_sedentaire_5ans_plus,7342.0,172,16
+01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,natifs_residents_non_migrants,7148.0,172,15
+01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,residents_recents_5ans,7772.0,172,17
+01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,entrees,194.0,172,12
+01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,indice_entrees (%),2.6,172,13
+01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,indice_sortie (%),8.0,172,14
+01.405.13.11,Commune de Sidi Ahmed Cherif,ouezzane,sorties,624.0,172,18
+01.405.13.13,Commune de Sidi Bousber,ouezzane,population_sedentaire_5ans_plus,8984.0,173,16
+01.405.13.13,Commune de Sidi Bousber,ouezzane,natifs_residents_non_migrants,8807.0,173,15
+01.405.13.13,Commune de Sidi Bousber,ouezzane,residents_recents_5ans,9983.0,173,17
+01.405.13.13,Commune de Sidi Bousber,ouezzane,entrees,173.0,173,12
+01.405.13.13,Commune de Sidi Bousber,ouezzane,indice_entrees (%),1.9,173,13
+01.405.13.13,Commune de Sidi Bousber,ouezzane,indice_sortie (%),11.8,173,14
+01.405.13.13,Commune de Sidi Bousber,ouezzane,sorties,1176.0,173,18
+01.405.09.05,Commune de Brikcha,ouezzane,population_sedentaire_5ans_plus,8234.0,174,16
+01.405.09.05,Commune de Brikcha,ouezzane,natifs_residents_non_migrants,8007.0,174,15
+01.405.09.05,Commune de Brikcha,ouezzane,residents_recents_5ans,9409.0,174,17
+01.405.09.05,Commune de Brikcha,ouezzane,entrees,225.0,174,12
+01.405.09.05,Commune de Brikcha,ouezzane,indice_entrees (%),2.7,174,13
+01.405.09.05,Commune de Brikcha,ouezzane,indice_sortie (%),14.9,174,14
+01.405.09.05,Commune de Brikcha,ouezzane,sorties,1402.0,174,18
+01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,population_sedentaire_5ans_plus,1080.0,201,16
+01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,natifs_residents_non_migrants,984.0,201,15
+01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,residents_recents_5ans,1202.0,201,17
+01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,entrees,94.0,201,12
+01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,indice_entrees (%),8.7,201,13
+01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,indice_sortie (%),18.1,201,14
+01.405.09.05.3,dont le centre urbain de Brikcha,ouezzane,sorties,218.0,201,18
+01.405.09.03,Commune d'Asjen,ouezzane,population_sedentaire_5ans_plus,10718.0,175,16
+01.405.09.03,Commune d'Asjen,ouezzane,natifs_residents_non_migrants,10420.0,175,15
+01.405.09.03,Commune d'Asjen,ouezzane,residents_recents_5ans,11237.0,175,17
+01.405.09.03,Commune d'Asjen,ouezzane,entrees,294.0,175,12
+01.405.09.03,Commune d'Asjen,ouezzane,indice_entrees (%),2.7,175,13
+01.405.09.03,Commune d'Asjen,ouezzane,indice_sortie (%),7.3,175,14
+01.405.09.03,Commune d'Asjen,ouezzane,sorties,817.0,175,18
+01.405.09.09,Commune de Moqrissat,ouezzane,population_sedentaire_5ans_plus,8808.0,176,16
+01.405.09.09,Commune de Moqrissat,ouezzane,natifs_residents_non_migrants,8418.0,176,15
+01.405.09.09,Commune de Moqrissat,ouezzane,residents_recents_5ans,9658.0,176,17
+01.405.09.09,Commune de Moqrissat,ouezzane,entrees,376.0,176,12
+01.405.09.09,Commune de Moqrissat,ouezzane,indice_entrees (%),4.3,176,13
+01.405.09.09,Commune de Moqrissat,ouezzane,indice_sortie (%),12.8,176,14
+01.405.09.09,Commune de Moqrissat,ouezzane,sorties,1240.0,176,18
+01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,population_sedentaire_5ans_plus,1881.0,202,16
+01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,natifs_residents_non_migrants,1527.0,202,15
+01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,residents_recents_5ans,1763.0,202,17
+01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,entrees,352.0,202,12
+01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,indice_entrees (%),18.7,202,13
+01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,indice_sortie (%),13.4,202,14
+01.405.09.09.3,dont le centre urbain de Moqrissat,ouezzane,sorties,236.0,202,18
+01.405.09.01,Commune d'Ain Beida,ouezzane,population_sedentaire_5ans_plus,9644.0,177,16
+01.405.09.01,Commune d'Ain Beida,ouezzane,natifs_residents_non_migrants,9435.0,177,15
+01.405.09.01,Commune d'Ain Beida,ouezzane,residents_recents_5ans,10256.0,177,17
+01.405.09.01,Commune d'Ain Beida,ouezzane,entrees,209.0,177,12
+01.405.09.01,Commune d'Ain Beida,ouezzane,indice_entrees (%),2.2,177,13
+01.405.09.01,Commune d'Ain Beida,ouezzane,indice_sortie (%),8.0,177,14
+01.405.09.01,Commune d'Ain Beida,ouezzane,sorties,821.0,177,18
+01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,population_sedentaire_5ans_plus,13042.0,178,16
+01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,natifs_residents_non_migrants,12826.0,178,15
+01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,residents_recents_5ans,14074.0,178,17
+01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,entrees,210.0,178,12
+01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,indice_entrees (%),1.6,178,13
+01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,indice_sortie (%),8.9,178,14
+01.405.11.07,Commune de Kalaat Bouqorra,ouezzane,sorties,1248.0,178,18
+01.405.11.11,Commune de Zoumi,ouezzane,population_sedentaire_5ans_plus,33981.0,179,16
+01.405.11.11,Commune de Zoumi,ouezzane,natifs_residents_non_migrants,33408.0,179,15
+01.405.11.11,Commune de Zoumi,ouezzane,residents_recents_5ans,37019.0,179,17
+01.405.11.11,Commune de Zoumi,ouezzane,entrees,567.0,179,12
+01.405.11.11,Commune de Zoumi,ouezzane,indice_entrees (%),1.7,179,13
+01.405.11.11,Commune de Zoumi,ouezzane,indice_sortie (%),9.8,179,14
+01.405.11.11,Commune de Zoumi,ouezzane,sorties,3611.0,179,18
+01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,population_sedentaire_5ans_plus,4327.0,203,16
+01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,natifs_residents_non_migrants,4151.0,203,15
+01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,residents_recents_5ans,4572.0,203,17
+01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,entrees,176.0,203,12
+01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,indice_entrees (%),4.1,203,13
+01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,indice_sortie (%),9.2,203,14
+01.405.11.11.3,dont le centre urbain de Zoumi,ouezzane,sorties,421.0,203,18

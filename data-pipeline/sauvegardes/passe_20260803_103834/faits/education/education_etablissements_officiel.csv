@@ -1,0 +1,91 @@
+﻿territoire_id,indicateur,valeur,source,annee,url
+1,etab_collegial_prive,189,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-24",2023-2024,https://www.hcp.ma/file/248150/
+1,etab_collegial_public,237,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-17",2023-2024,https://www.hcp.ma/file/248150/
+1,etab_collegial_total,426,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+1,etab_primaire_prive,365,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-15",2023-2024,https://www.hcp.ma/file/248150/
+1,etab_primaire_public,944,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+1,etab_primaire_satellites,1576,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+1,etab_primaire_total,1309,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+1,etab_qualifiant_prive,92,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-32",2023-2024,https://www.hcp.ma/file/248150/
+1,etab_qualifiant_public,173,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-26",2023-2024,https://www.hcp.ma/file/248150/
+1,etab_qualifiant_total,265,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+2,etab_collegial_prive,113,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-24",2023-2024,https://www.hcp.ma/file/248150/
+2,etab_collegial_public,65,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-17",2023-2024,https://www.hcp.ma/file/248150/
+2,etab_collegial_total,178,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+2,etab_primaire_prive,219,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-15",2023-2024,https://www.hcp.ma/file/248150/
+2,etab_primaire_public,175,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+2,etab_primaire_satellites,63,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+2,etab_primaire_total,394,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+2,etab_qualifiant_prive,60,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-32",2023-2024,https://www.hcp.ma/file/248150/
+2,etab_qualifiant_public,34,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-26",2023-2024,https://www.hcp.ma/file/248150/
+2,etab_qualifiant_total,94,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+3,etab_collegial_prive,14,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-24",2023-2024,https://www.hcp.ma/file/248150/
+3,etab_collegial_public,17,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-17",2023-2024,https://www.hcp.ma/file/248150/
+3,etab_collegial_total,31,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+3,etab_primaire_prive,19,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-15",2023-2024,https://www.hcp.ma/file/248150/
+3,etab_primaire_public,44,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+3,etab_primaire_satellites,17,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+3,etab_primaire_total,63,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+3,etab_qualifiant_prive,6,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-32",2023-2024,https://www.hcp.ma/file/248150/
+3,etab_qualifiant_public,11,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-26",2023-2024,https://www.hcp.ma/file/248150/
+3,etab_qualifiant_total,17,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+4,etab_collegial_prive,34,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-24",2023-2024,https://www.hcp.ma/file/248150/
+4,etab_collegial_public,38,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-17",2023-2024,https://www.hcp.ma/file/248150/
+4,etab_collegial_total,72,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+4,etab_primaire_prive,55,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-15",2023-2024,https://www.hcp.ma/file/248150/
+4,etab_primaire_public,138,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+4,etab_primaire_satellites,222,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+4,etab_primaire_total,193,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+4,etab_qualifiant_prive,17,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-32",2023-2024,https://www.hcp.ma/file/248150/
+4,etab_qualifiant_public,31,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-26",2023-2024,https://www.hcp.ma/file/248150/
+4,etab_qualifiant_total,48,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+5,etab_collegial_prive,1,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-24",2023-2024,https://www.hcp.ma/file/248150/
+5,etab_collegial_public,4,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-17",2023-2024,https://www.hcp.ma/file/248150/
+5,etab_collegial_total,5,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+5,etab_primaire_prive,6,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-15",2023-2024,https://www.hcp.ma/file/248150/
+5,etab_primaire_public,41,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+5,etab_primaire_satellites,89,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+5,etab_primaire_total,47,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+5,etab_qualifiant_prive,0,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-32",2023-2024,https://www.hcp.ma/file/248150/
+5,etab_qualifiant_public,7,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-26",2023-2024,https://www.hcp.ma/file/248150/
+5,etab_qualifiant_total,7,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+6,etab_collegial_prive,15,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-24",2023-2024,https://www.hcp.ma/file/248150/
+6,etab_collegial_public,28,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-17",2023-2024,https://www.hcp.ma/file/248150/
+6,etab_collegial_total,43,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+6,etab_primaire_prive,34,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-15",2023-2024,https://www.hcp.ma/file/248150/
+6,etab_primaire_public,148,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+6,etab_primaire_satellites,230,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+6,etab_primaire_total,182,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+6,etab_qualifiant_prive,8,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-32",2023-2024,https://www.hcp.ma/file/248150/
+6,etab_qualifiant_public,22,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-26",2023-2024,https://www.hcp.ma/file/248150/
+6,etab_qualifiant_total,30,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+7,etab_collegial_prive,4,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-24",2023-2024,https://www.hcp.ma/file/248150/
+7,etab_collegial_public,38,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-17",2023-2024,https://www.hcp.ma/file/248150/
+7,etab_collegial_total,42,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+7,etab_primaire_prive,11,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-15",2023-2024,https://www.hcp.ma/file/248150/
+7,etab_primaire_public,151,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+7,etab_primaire_satellites,327,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+7,etab_primaire_total,162,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+7,etab_qualifiant_prive,1,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-32",2023-2024,https://www.hcp.ma/file/248150/
+7,etab_qualifiant_public,27,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-26",2023-2024,https://www.hcp.ma/file/248150/
+7,etab_qualifiant_total,28,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+8,etab_collegial_prive,4,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-24",2023-2024,https://www.hcp.ma/file/248150/
+8,etab_collegial_public,29,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-17",2023-2024,https://www.hcp.ma/file/248150/
+8,etab_collegial_total,33,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+8,etab_primaire_prive,9,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-15",2023-2024,https://www.hcp.ma/file/248150/
+8,etab_primaire_public,157,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+8,etab_primaire_satellites,431,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+8,etab_primaire_total,166,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+8,etab_qualifiant_prive,0,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-32",2023-2024,https://www.hcp.ma/file/248150/
+8,etab_qualifiant_public,24,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-26",2023-2024,https://www.hcp.ma/file/248150/
+8,etab_qualifiant_total,24,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+9,etab_collegial_prive,4,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-24",2023-2024,https://www.hcp.ma/file/248150/
+9,etab_collegial_public,18,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-17",2023-2024,https://www.hcp.ma/file/248150/
+9,etab_collegial_total,22,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+9,etab_primaire_prive,12,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-15",2023-2024,https://www.hcp.ma/file/248150/
+9,etab_primaire_public,90,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+9,etab_primaire_satellites,197,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-5",2023-2024,https://www.hcp.ma/file/248150/
+9,etab_primaire_total,102,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/
+9,etab_qualifiant_prive,0,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-32",2023-2024,https://www.hcp.ma/file/248150/
+9,etab_qualifiant_public,17,"Annuaire Statistique du Maroc 2024 (HCP), Tableau 11-26",2023-2024,https://www.hcp.ma/file/248150/
+9,etab_qualifiant_total,17,"Annuaire Statistique du Maroc 2024 (HCP), public + privé",2023-2024,https://www.hcp.ma/file/248150/

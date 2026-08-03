@@ -127,7 +127,11 @@ def charger_faits(engine, dossier_faits="faits"):
                 df = pd.read_csv(chemin, encoding="utf-8-sig")
                 if "territoire_id" in df.columns:
                     df["territoire_id"] = pd.to_numeric(df["territoire_id"], errors="coerce").astype("Int64")
-                df.to_sql(table_finale, engine, schema=theme, if_exists="replace", index=False)
+                # chunksize : charge les grosses tables par lots (évite les
+                # échecs de connexion / timeouts sur les tables volumineuses,
+                # ex. les ~87 000 lignes des distances douar).
+                df.to_sql(table_finale, engine, schema=theme, if_exists="replace",
+                          index=False, chunksize=5000)
 
                 if "territoire_id" in df.columns:
                     with engine.begin() as conn:
@@ -167,6 +171,31 @@ def ajouter_cles_etrangeres(engine, dossier_faits="faits"):
                     ))
             except Exception as e:
                 echecs.append((theme, table_finale, str(e)))
+
+            # Seconde branche de l'etoile : la table de faits pointe vers le
+            # catalogue. Elle n'existe que sur les tables en mode long, seules
+            # a porter une colonne indicateur_id.
+            try:
+                with engine.begin() as conn:
+                    presente = conn.execute(text(
+                        "SELECT 1 FROM information_schema.columns "
+                        "WHERE table_schema = :s AND table_name = :t "
+                        "AND column_name = 'indicateur_id'"
+                    ), {"s": theme, "t": table_finale}).first()
+                    if presente:
+                        conn.execute(text(
+                            f'ALTER TABLE "{theme}"."{table_finale}" '
+                            f'ADD CONSTRAINT fk_{theme}_{table_finale}_indicateur '
+                            f'FOREIGN KEY (indicateur_id) '
+                            f'REFERENCES referential.dim_indicateur(indicateur_id)'
+                        ))
+                        conn.execute(text(
+                            f'CREATE INDEX IF NOT EXISTS '
+                            f'idx_{theme}_{table_finale}_indicateur '
+                            f'ON "{theme}"."{table_finale}" (indicateur_id)'
+                        ))
+            except Exception as e:
+                echecs.append((theme, table_finale + " [indicateur]", str(e)))
     if echecs:
         print(f"\n[i] {len(echecs)} contrainte(s) de cle etrangere non ajoutee(s) (non bloquant) :")
         for theme, table, err in echecs[:10]:

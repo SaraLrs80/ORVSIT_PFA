@@ -1,25 +1,25 @@
-﻿territoire_id,fk_territoire,indicateur,valeur,theme,unite
-2,tanger assilah,Nombre d'établissements primaire,163,education,nombre
-2,tanger assilah,Nombre d'établissements collegial,61,education,nombre
-2,tanger assilah,Nombre d'établissements qualifiant,31,education,nombre
-3,m'diq fnideq,Nombre d'établissements primaire,39,education,nombre
-3,m'diq fnideq,Nombre d'établissements collegial,18,education,nombre
-3,m'diq fnideq,Nombre d'établissements qualifiant,8,education,nombre
-4,tetouan,Nombre d'établissements primaire,128,education,nombre
-4,tetouan,Nombre d'établissements collegial,44,education,nombre
-4,tetouan,Nombre d'établissements qualifiant,24,education,nombre
-5,fahs anjra,Nombre d'établissements primaire,39,education,nombre
-5,fahs anjra,Nombre d'établissements collegial,4,education,nombre
-5,fahs anjra,Nombre d'établissements qualifiant,7,education,nombre
-6,larache,Nombre d'établissements primaire,139,education,nombre
-6,larache,Nombre d'établissements collegial,28,education,nombre
-6,larache,Nombre d'établissements qualifiant,16,education,nombre
-7,al hoceima,Nombre d'établissements primaire,136,education,nombre
-7,al hoceima,Nombre d'établissements collegial,38,education,nombre
-7,al hoceima,Nombre d'établissements qualifiant,27,education,nombre
-8,chefchaouen,Nombre d'établissements primaire,152,education,nombre
-8,chefchaouen,Nombre d'établissements collegial,25,education,nombre
-8,chefchaouen,Nombre d'établissements qualifiant,24,education,nombre
-9,ouezzane,Nombre d'établissements primaire,88,education,nombre
-9,ouezzane,Nombre d'établissements collegial,17,education,nombre
-9,ouezzane,Nombre d'établissements qualifiant,17,education,nombre
+﻿territoire_id,fk_territoire,indicateur,valeur,theme,unite,indicateur_id
+2,tanger assilah,Nombre d'établissements primaire,163,education,nombre,117
+2,tanger assilah,Nombre d'établissements collegial,61,education,nombre,116
+2,tanger assilah,Nombre d'établissements qualifiant,31,education,nombre,118
+3,m'diq fnideq,Nombre d'établissements primaire,39,education,nombre,117
+3,m'diq fnideq,Nombre d'établissements collegial,18,education,nombre,116
+3,m'diq fnideq,Nombre d'établissements qualifiant,8,education,nombre,118
+4,tetouan,Nombre d'établissements primaire,128,education,nombre,117
+4,tetouan,Nombre d'établissements collegial,44,education,nombre,116
+4,tetouan,Nombre d'établissements qualifiant,24,education,nombre,118
+5,fahs anjra,Nombre d'établissements primaire,39,education,nombre,117
+5,fahs anjra,Nombre d'établissements collegial,4,education,nombre,116
+5,fahs anjra,Nombre d'établissements qualifiant,7,education,nombre,118
+6,larache,Nombre d'établissements primaire,139,education,nombre,117
+6,larache,Nombre d'établissements collegial,28,education,nombre,116
+6,larache,Nombre d'établissements qualifiant,16,education,nombre,118
+7,al hoceima,Nombre d'établissements primaire,136,education,nombre,117
+7,al hoceima,Nombre d'établissements collegial,38,education,nombre,116
+7,al hoceima,Nombre d'établissements qualifiant,27,education,nombre,118
+8,chefchaouen,Nombre d'établissements primaire,152,education,nombre,117
+8,chefchaouen,Nombre d'établissements collegial,25,education,nombre,116
+8,chefchaouen,Nombre d'établissements qualifiant,24,education,nombre,118
+9,ouezzane,Nombre d'établissements primaire,88,education,nombre,117
+9,ouezzane,Nombre d'établissements collegial,17,education,nombre,116
+9,ouezzane,Nombre d'établissements qualifiant,17,education,nombre,118

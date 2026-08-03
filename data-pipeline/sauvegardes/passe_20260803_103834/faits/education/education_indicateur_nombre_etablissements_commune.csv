@@ -1,0 +1,451 @@
+﻿territoire_id,nom,indicateur,valeur,theme,unite
+182,Arrondissement de Bni Makada,Nombre d'établissements collegial,17,education,nombre
+182,Arrondissement de Bni Makada,Nombre d'établissements primaire,51,education,nombre
+182,Arrondissement de Bni Makada,Nombre d'établissements qualifiant,9,education,nombre
+180,Arrondissement de Mghogha,Nombre d'établissements collegial,13,education,nombre
+180,Arrondissement de Mghogha,Nombre d'établissements primaire,30,education,nombre
+180,Arrondissement de Mghogha,Nombre d'établissements qualifiant,4,education,nombre
+183,Arrondissement de Médina,Nombre d'établissements collegial,14,education,nombre
+183,Arrondissement de Médina,Nombre d'établissements primaire,33,education,nombre
+183,Arrondissement de Médina,Nombre d'établissements qualifiant,8,education,nombre
+181,Arrondissement de Souani,Nombre d'établissements collegial,5,education,nombre
+181,Arrondissement de Souani,Nombre d'établissements primaire,12,education,nombre
+181,Arrondissement de Souani,Nombre d'établissements qualifiant,5,education,nombre
+134,Commune d'Abdelghaya Souahel,Nombre d'établissements collegial,1,education,nombre
+134,Commune d'Abdelghaya Souahel,Nombre d'établissements primaire,7,education,nombre
+134,Commune d'Abdelghaya Souahel,Nombre d'établissements qualifiant,1,education,nombre
+177,Commune d'Ain Beida,Nombre d'établissements collegial,1,education,nombre
+177,Commune d'Ain Beida,Nombre d'établissements primaire,4,education,nombre
+177,Commune d'Ain Beida,Nombre d'établissements qualifiant,1,education,nombre
+53,Commune d'Ain Lahsan,Nombre d'établissements collegial,1,education,nombre
+53,Commune d'Ain Lahsan,Nombre d'établissements primaire,3,education,nombre
+53,Commune d'Ain Lahsan,Nombre d'établissements qualifiant,0,education,nombre
+119,Commune d'Ait Kamra,Nombre d'établissements collegial,1,education,nombre
+119,Commune d'Ait Kamra,Nombre d'établissements primaire,3,education,nombre
+119,Commune d'Ait Kamra,Nombre d'établissements qualifiant,1,education,nombre
+112,Commune d'Ait Youssef Ou Ali,Nombre d'établissements collegial,1,education,nombre
+112,Commune d'Ait Youssef Ou Ali,Nombre d'établissements primaire,3,education,nombre
+112,Commune d'Ait Youssef Ou Ali,Nombre d'établissements qualifiant,1,education,nombre
+103,Commune d'Ajdir,Nombre d'établissements collegial,1,education,nombre
+103,Commune d'Ajdir,Nombre d'établissements primaire,3,education,nombre
+103,Commune d'Ajdir,Nombre d'établissements qualifiant,1,education,nombre
+74,Commune d'Al Bahraoyine,Nombre d'établissements collegial,1,education,nombre
+74,Commune d'Al Bahraoyine,Nombre d'établissements primaire,4,education,nombre
+74,Commune d'Al Bahraoyine,Nombre d'établissements qualifiant,1,education,nombre
+64,Commune d'Al Hamra,Nombre d'établissements collegial,1,education,nombre
+64,Commune d'Al Hamra,Nombre d'établissements primaire,3,education,nombre
+64,Commune d'Al Hamra,Nombre d'établissements qualifiant,1,education,nombre
+99,Commune d'Al Hoceima,Nombre d'établissements collegial,6,education,nombre
+99,Commune d'Al Hoceima,Nombre d'établissements primaire,15,education,nombre
+99,Commune d'Al Hoceima,Nombre d'établissements qualifiant,4,education,nombre
+57,Commune d'Al Kharroub,Nombre d'établissements collegial,1,education,nombre
+57,Commune d'Al Kharroub,Nombre d'établissements primaire,2,education,nombre
+57,Commune d'Al Kharroub,Nombre d'établissements qualifiant,0,education,nombre
+39,Commune d'Al Manzla,Nombre d'établissements collegial,0,education,nombre
+39,Commune d'Al Manzla,Nombre d'établissements primaire,1,education,nombre
+39,Commune d'Al Manzla,Nombre d'établissements qualifiant,0,education,nombre
+65,Commune d'Al Oued,Nombre d'établissements collegial,1,education,nombre
+65,Commune d'Al Oued,Nombre d'établissements primaire,7,education,nombre
+65,Commune d'Al Oued,Nombre d'établissements qualifiant,0,education,nombre
+49,Commune d'Allyene,Nombre d'établissements collegial,1,education,nombre
+49,Commune d'Allyene,Nombre d'établissements primaire,5,education,nombre
+49,Commune d'Allyene,Nombre d'établissements qualifiant,0,education,nombre
+139,Commune d'Amtar,Nombre d'établissements collegial,1,education,nombre
+139,Commune d'Amtar,Nombre d'établissements primaire,6,education,nombre
+139,Commune d'Amtar,Nombre d'établissements qualifiant,1,education,nombre
+77,Commune d'Anjra,Nombre d'établissements collegial,1,education,nombre
+77,Commune d'Anjra,Nombre d'établissements primaire,7,education,nombre
+77,Commune d'Anjra,Nombre d'établissements qualifiant,1,education,nombre
+42,Commune d'Aquouass Briech,Nombre d'établissements collegial,0,education,nombre
+42,Commune d'Aquouass Briech,Nombre d'établissements primaire,1,education,nombre
+42,Commune d'Aquouass Briech,Nombre d'établissements qualifiant,0,education,nombre
+109,Commune d'Arbaa Taourirt,Nombre d'établissements collegial,1,education,nombre
+109,Commune d'Arbaa Taourirt,Nombre d'établissements primaire,3,education,nombre
+109,Commune d'Arbaa Taourirt,Nombre d'établissements qualifiant,0,education,nombre
+175,Commune d'Asjen,Nombre d'établissements collegial,0,education,nombre
+175,Commune d'Asjen,Nombre d'établissements primaire,7,education,nombre
+175,Commune d'Asjen,Nombre d'établissements qualifiant,1,education,nombre
+35,Commune d'Assilah,Nombre d'établissements collegial,2,education,nombre
+35,Commune d'Assilah,Nombre d'établissements primaire,8,education,nombre
+35,Commune d'Assilah,Nombre d'établissements qualifiant,1,education,nombre
+90,Commune d'Ayacha,Nombre d'établissements collegial,1,education,nombre
+90,Commune d'Ayacha,Nombre d'établissements primaire,5,education,nombre
+90,Commune d'Ayacha,Nombre d'établissements qualifiant,0,education,nombre
+69,Commune d'Azla,Nombre d'établissements collegial,1,education,nombre
+69,Commune d'Azla,Nombre d'établissements primaire,3,education,nombre
+69,Commune d'Azla,Nombre d'établissements qualifiant,1,education,nombre
+114,Commune d'Imrabten,Nombre d'établissements collegial,0,education,nombre
+114,Commune d'Imrabten,Nombre d'établissements primaire,3,education,nombre
+114,Commune d'Imrabten,Nombre d'établissements qualifiant,1,education,nombre
+101,Commune d'Imzouren,Nombre d'établissements collegial,4,education,nombre
+101,Commune d'Imzouren,Nombre d'établissements primaire,9,education,nombre
+101,Commune d'Imzouren,Nombre d'établissements qualifiant,3,education,nombre
+137,Commune d'Iounane,Nombre d'établissements collegial,1,education,nombre
+137,Commune d'Iounane,Nombre d'établissements primaire,7,education,nombre
+137,Commune d'Iounane,Nombre d'établissements qualifiant,0,education,nombre
+131,Commune d'Issaguen,Nombre d'établissements collegial,1,education,nombre
+131,Commune d'Issaguen,Nombre d'établissements primaire,3,education,nombre
+131,Commune d'Issaguen,Nombre d'établissements qualifiant,1,education,nombre
+118,Commune d'Izemmouren,Nombre d'établissements collegial,1,education,nombre
+118,Commune d'Izemmouren,Nombre d'établissements primaire,1,education,nombre
+118,Commune d'Izemmouren,Nombre d'établissements qualifiant,0,education,nombre
+170,Commune d'Ouannana,Nombre d'établissements collegial,1,education,nombre
+170,Commune d'Ouannana,Nombre d'établissements primaire,4,education,nombre
+170,Commune d'Ouannana,Nombre d'établissements qualifiant,0,education,nombre
+141,Commune d'Ouaouzgane,Nombre d'établissements collegial,1,education,nombre
+141,Commune d'Ouaouzgane,Nombre d'établissements primaire,7,education,nombre
+141,Commune d'Ouaouzgane,Nombre d'établissements qualifiant,1,education,nombre
+52,Commune d'Oued Laou,Nombre d'établissements collegial,1,education,nombre
+52,Commune d'Oued Laou,Nombre d'établissements primaire,4,education,nombre
+52,Commune d'Oued Laou,Nombre d'établissements qualifiant,1,education,nombre
+146,Commune d'Oued Malha,Nombre d'établissements collegial,0,education,nombre
+146,Commune d'Oued Malha,Nombre d'établissements primaire,3,education,nombre
+146,Commune d'Oued Malha,Nombre d'établissements qualifiant,1,education,nombre
+163,Commune d'Ouezzane,Nombre d'établissements collegial,2,education,nombre
+163,Commune d'Ouezzane,Nombre d'établissements primaire,12,education,nombre
+163,Commune d'Ouezzane,Nombre d'établissements qualifiant,4,education,nombre
+66,Commune d'Oulad Ali Mansour,Nombre d'établissements collegial,1,education,nombre
+66,Commune d'Oulad Ali Mansour,Nombre d'établissements primaire,3,education,nombre
+66,Commune d'Oulad Ali Mansour,Nombre d'établissements qualifiant,0,education,nombre
+96,Commune d'Oulad Ouchih,Nombre d'établissements collegial,0,education,nombre
+96,Commune d'Oulad Ouchih,Nombre d'établissements primaire,3,education,nombre
+96,Commune d'Oulad Ouchih,Nombre d'établissements qualifiant,1,education,nombre
+136,Commune de Bab Berred,Nombre d'établissements collegial,1,education,nombre
+136,Commune de Bab Berred,Nombre d'établissements primaire,8,education,nombre
+136,Commune de Bab Berred,Nombre d'établissements qualifiant,1,education,nombre
+148,Commune de Bab Taza,Nombre d'établissements collegial,1,education,nombre
+148,Commune de Bab Taza,Nombre d'établissements primaire,7,education,nombre
+148,Commune de Bab Taza,Nombre d'établissements qualifiant,1,education,nombre
+50,Commune de Belyounech,Nombre d'établissements collegial,1,education,nombre
+50,Commune de Belyounech,Nombre d'établissements primaire,1,education,nombre
+50,Commune de Belyounech,Nombre d'établissements qualifiant,0,education,nombre
+62,Commune de Bghaghza,Nombre d'établissements collegial,1,education,nombre
+62,Commune de Bghaghza,Nombre d'établissements primaire,4,education,nombre
+62,Commune de Bghaghza,Nombre d'établissements qualifiant,0,education,nombre
+117,Commune de Bni Abdellah,Nombre d'établissements collegial,1,education,nombre
+117,Commune de Bni Abdellah,Nombre d'établissements primaire,4,education,nombre
+117,Commune de Bni Abdellah,Nombre d'établissements qualifiant,0,education,nombre
+144,Commune de Bni Ahmed Cherqia,Nombre d'établissements collegial,0,education,nombre
+144,Commune de Bni Ahmed Cherqia,Nombre d'établissements primaire,3,education,nombre
+144,Commune de Bni Ahmed Cherqia,Nombre d'établissements qualifiant,1,education,nombre
+145,Commune de Bni Ahmed Gharbia,Nombre d'établissements collegial,1,education,nombre
+145,Commune de Bni Ahmed Gharbia,Nombre d'établissements primaire,3,education,nombre
+145,Commune de Bni Ahmed Gharbia,Nombre d'établissements qualifiant,0,education,nombre
+127,Commune de Bni Ahmed Imoukzan,Nombre d'établissements collegial,1,education,nombre
+127,Commune de Bni Ahmed Imoukzan,Nombre d'établissements primaire,3,education,nombre
+127,Commune de Bni Ahmed Imoukzan,Nombre d'établissements qualifiant,0,education,nombre
+122,Commune de Bni Ammart,Nombre d'établissements collegial,0,education,nombre
+122,Commune de Bni Ammart,Nombre d'établissements primaire,5,education,nombre
+122,Commune de Bni Ammart,Nombre d'établissements qualifiant,1,education,nombre
+88,Commune de Bni Arouss,Nombre d'établissements collegial,1,education,nombre
+88,Commune de Bni Arouss,Nombre d'établissements primaire,3,education,nombre
+88,Commune de Bni Arouss,Nombre d'établissements qualifiant,0,education,nombre
+125,Commune de Bni Bchir,Nombre d'établissements collegial,1,education,nombre
+125,Commune de Bni Bchir,Nombre d'établissements primaire,2,education,nombre
+125,Commune de Bni Bchir,Nombre d'établissements qualifiant,0,education,nombre
+100,Commune de Bni Bouayach,Nombre d'établissements collegial,1,education,nombre
+100,Commune de Bni Bouayach,Nombre d'établissements primaire,6,education,nombre
+100,Commune de Bni Bouayach,Nombre d'établissements qualifiant,2,education,nombre
+132,Commune de Bni Bouchibet,Nombre d'établissements collegial,0,education,nombre
+132,Commune de Bni Bouchibet,Nombre d'établissements primaire,2,education,nombre
+132,Commune de Bni Bouchibet,Nombre d'établissements qualifiant,1,education,nombre
+104,Commune de Bni Boufrah,Nombre d'établissements collegial,1,education,nombre
+104,Commune de Bni Boufrah,Nombre d'établissements primaire,4,education,nombre
+104,Commune de Bni Boufrah,Nombre d'établissements qualifiant,1,education,nombre
+126,Commune de Bni Bounsar,Nombre d'établissements collegial,0,education,nombre
+126,Commune de Bni Bounsar,Nombre d'établissements primaire,3,education,nombre
+126,Commune de Bni Bounsar,Nombre d'établissements qualifiant,1,education,nombre
+158,Commune de Bni Bouzra,Nombre d'établissements collegial,1,education,nombre
+158,Commune de Bni Bouzra,Nombre d'établissements primaire,5,education,nombre
+158,Commune de Bni Bouzra,Nombre d'établissements qualifiant,0,education,nombre
+150,Commune de Bni Darkoul,Nombre d'établissements collegial,1,education,nombre
+150,Commune de Bni Darkoul,Nombre d'établissements primaire,5,education,nombre
+150,Commune de Bni Darkoul,Nombre d'établissements qualifiant,0,education,nombre
+151,Commune de Bni Faghloum,Nombre d'établissements collegial,0,education,nombre
+151,Commune de Bni Faghloum,Nombre d'établissements primaire,3,education,nombre
+151,Commune de Bni Faghloum,Nombre d'établissements qualifiant,1,education,nombre
+91,Commune de Bni Garfett,Nombre d'établissements collegial,1,education,nombre
+91,Commune de Bni Garfett,Nombre d'établissements primaire,5,education,nombre
+91,Commune de Bni Garfett,Nombre d'établissements qualifiant,0,education,nombre
+107,Commune de Bni Gmil,Nombre d'établissements collegial,1,education,nombre
+107,Commune de Bni Gmil,Nombre d'établissements primaire,3,education,nombre
+107,Commune de Bni Gmil,Nombre d'établissements qualifiant,1,education,nombre
+106,Commune de Bni Gmil Maksouline,Nombre d'établissements collegial,1,education,nombre
+106,Commune de Bni Gmil Maksouline,Nombre d'établissements primaire,3,education,nombre
+106,Commune de Bni Gmil Maksouline,Nombre d'établissements qualifiant,0,education,nombre
+116,Commune de Bni Hadifa,Nombre d'établissements collegial,1,education,nombre
+116,Commune de Bni Hadifa,Nombre d'établissements primaire,4,education,nombre
+116,Commune de Bni Hadifa,Nombre d'établissements qualifiant,1,education,nombre
+56,Commune de Bni Harchen,Nombre d'établissements collegial,1,education,nombre
+56,Commune de Bni Harchen,Nombre d'établissements primaire,5,education,nombre
+56,Commune de Bni Harchen,Nombre d'établissements qualifiant,0,education,nombre
+61,Commune de Bni Idder,Nombre d'établissements collegial,1,education,nombre
+61,Commune de Bni Idder,Nombre d'établissements primaire,3,education,nombre
+61,Commune de Bni Idder,Nombre d'établissements qualifiant,0,education,nombre
+63,Commune de Bni Leit,Nombre d'établissements collegial,1,education,nombre
+63,Commune de Bni Leit,Nombre d'établissements primaire,4,education,nombre
+63,Commune de Bni Leit,Nombre d'établissements qualifiant,0,education,nombre
+157,Commune de Bni Mansour,Nombre d'établissements collegial,1,education,nombre
+157,Commune de Bni Mansour,Nombre d'établissements primaire,7,education,nombre
+157,Commune de Bni Mansour,Nombre d'établissements qualifiant,0,education,nombre
+167,Commune de Bni Quolla,Nombre d'établissements collegial,1,education,nombre
+167,Commune de Bni Quolla,Nombre d'établissements primaire,5,education,nombre
+167,Commune de Bni Quolla,Nombre d'établissements qualifiant,0,education,nombre
+142,Commune de Bni Rzine,Nombre d'établissements collegial,0,education,nombre
+142,Commune de Bni Rzine,Nombre d'établissements primaire,7,education,nombre
+142,Commune de Bni Rzine,Nombre d'établissements qualifiant,1,education,nombre
+71,Commune de Bni Said,Nombre d'établissements collegial,1,education,nombre
+71,Commune de Bni Said,Nombre d'établissements primaire,5,education,nombre
+71,Commune de Bni Said,Nombre d'établissements qualifiant,0,education,nombre
+149,Commune de Bni Salah,Nombre d'établissements collegial,1,education,nombre
+149,Commune de Bni Salah,Nombre d'établissements primaire,3,education,nombre
+149,Commune de Bni Salah,Nombre d'établissements qualifiant,0,education,nombre
+156,Commune de Bni Selmane,Nombre d'établissements collegial,1,education,nombre
+156,Commune de Bni Selmane,Nombre d'établissements primaire,10,education,nombre
+156,Commune de Bni Selmane,Nombre d'établissements qualifiant,1,education,nombre
+143,Commune de Bni Smih,Nombre d'établissements collegial,1,education,nombre
+143,Commune de Bni Smih,Nombre d'établissements primaire,6,education,nombre
+143,Commune de Bni Smih,Nombre d'établissements qualifiant,1,education,nombre
+85,Commune de Boujedyane,Nombre d'établissements collegial,0,education,nombre
+85,Commune de Boujedyane,Nombre d'établissements primaire,5,education,nombre
+85,Commune de Boujedyane,Nombre d'établissements qualifiant,0,education,nombre
+174,Commune de Brikcha,Nombre d'établissements collegial,0,education,nombre
+174,Commune de Brikcha,Nombre d'établissements primaire,5,education,nombre
+174,Commune de Brikcha,Nombre d'établissements qualifiant,1,education,nombre
+108,Commune de Chakrane,Nombre d'établissements collegial,1,education,nombre
+108,Commune de Chakrane,Nombre d'établissements primaire,3,education,nombre
+108,Commune de Chakrane,Nombre d'établissements qualifiant,0,education,nombre
+135,Commune de Chefchaouen,Nombre d'établissements collegial,5,education,nombre
+135,Commune de Chefchaouen,Nombre d'établissements primaire,12,education,nombre
+135,Commune de Chefchaouen,Nombre d'établissements qualifiant,5,education,nombre
+67,Commune de Dar Bni Karrich,Nombre d'établissements collegial,1,education,nombre
+67,Commune de Dar Bni Karrich,Nombre d'établissements primaire,2,education,nombre
+67,Commune de Dar Bni Karrich,Nombre d'établissements qualifiant,1,education,nombre
+38,Commune de Dar Chaoui,Nombre d'établissements collegial,1,education,nombre
+38,Commune de Dar Chaoui,Nombre d'établissements primaire,2,education,nombre
+38,Commune de Dar Chaoui,Nombre d'établissements qualifiant,0,education,nombre
+153,Commune de Derdara,Nombre d'établissements collegial,1,education,nombre
+153,Commune de Derdara,Nombre d'établissements primaire,6,education,nombre
+153,Commune de Derdara,Nombre d'établissements qualifiant,0,education,nombre
+152,Commune de Fifi,Nombre d'établissements collegial,1,education,nombre
+152,Commune de Fifi,Nombre d'établissements primaire,3,education,nombre
+152,Commune de Fifi,Nombre d'établissements qualifiant,1,education,nombre
+47,Commune de Fnideq,Nombre d'établissements collegial,6,education,nombre
+47,Commune de Fnideq,Nombre d'établissements primaire,10,education,nombre
+47,Commune de Fnideq,Nombre d'établissements qualifiant,3,education,nombre
+36,Commune de Gueznaia,Nombre d'établissements collegial,3,education,nombre
+36,Commune de Gueznaia,Nombre d'établissements primaire,7,education,nombre
+36,Commune de Gueznaia,Nombre d'établissements qualifiant,2,education,nombre
+43,Commune de Had Al Gharbia,Nombre d'établissements collegial,1,education,nombre
+43,Commune de Had Al Gharbia,Nombre d'établissements primaire,6,education,nombre
+43,Commune de Had Al Gharbia,Nombre d'établissements qualifiant,1,education,nombre
+37,Commune de Hjar Ennhal,Nombre d'établissements collegial,1,education,nombre
+37,Commune de Hjar Ennhal,Nombre d'établissements primaire,4,education,nombre
+37,Commune de Hjar Ennhal,Nombre d'établissements qualifiant,0,education,nombre
+55,Commune de Jbel Lahbib,Nombre d'établissements collegial,1,education,nombre
+55,Commune de Jbel Lahbib,Nombre d'établissements primaire,2,education,nombre
+55,Commune de Jbel Lahbib,Nombre d'établissements qualifiant,1,education,nombre
+76,Commune de Jouamaa,Nombre d'établissements collegial,0,education,nombre
+76,Commune de Jouamaa,Nombre d'établissements primaire,5,education,nombre
+76,Commune de Jouamaa,Nombre d'établissements qualifiant,1,education,nombre
+178,Commune de Kalaat Bouqorra,Nombre d'établissements collegial,1,education,nombre
+178,Commune de Kalaat Bouqorra,Nombre d'établissements primaire,5,education,nombre
+178,Commune de Kalaat Bouqorra,Nombre d'établissements qualifiant,1,education,nombre
+129,Commune de Ketama,Nombre d'établissements collegial,0,education,nombre
+129,Commune de Ketama,Nombre d'établissements primaire,5,education,nombre
+129,Commune de Ketama,Nombre d'établissements qualifiant,1,education,nombre
+84,Commune de Ksar Bjir,Nombre d'établissements collegial,1,education,nombre
+84,Commune de Ksar Bjir,Nombre d'établissements primaire,5,education,nombre
+84,Commune de Ksar Bjir,Nombre d'établissements qualifiant,0,education,nombre
+80,Commune de Ksar El Kebir,Nombre d'établissements collegial,8,education,nombre
+80,Commune de Ksar El Kebir,Nombre d'établissements primaire,27,education,nombre
+80,Commune de Ksar El Kebir,Nombre d'établissements qualifiant,7,education,nombre
+79,Commune de Ksar El Majaz,Nombre d'établissements collegial,1,education,nombre
+79,Commune de Ksar El Majaz,Nombre d'établissements primaire,6,education,nombre
+79,Commune de Ksar El Majaz,Nombre d'établissements qualifiant,0,education,nombre
+75,Commune de Ksar Sghir,Nombre d'établissements collegial,0,education,nombre
+75,Commune de Ksar Sghir,Nombre d'établissements primaire,6,education,nombre
+75,Commune de Ksar Sghir,Nombre d'établissements qualifiant,2,education,nombre
+40,Commune de Laaouama,Nombre d'établissements collegial,1,education,nombre
+40,Commune de Laaouama,Nombre d'établissements primaire,2,education,nombre
+40,Commune de Laaouama,Nombre d'établissements qualifiant,0,education,nombre
+155,Commune de Laghdir,Nombre d'établissements collegial,0,education,nombre
+155,Commune de Laghdir,Nombre d'établissements primaire,3,education,nombre
+155,Commune de Laghdir,Nombre d'établissements qualifiant,1,education,nombre
+171,Commune de Lamjaara,Nombre d'établissements collegial,1,education,nombre
+171,Commune de Lamjaara,Nombre d'établissements primaire,4,education,nombre
+171,Commune de Lamjaara,Nombre d'établissements qualifiant,1,education,nombre
+82,Commune de Laouamra,Nombre d'établissements collegial,2,education,nombre
+82,Commune de Laouamra,Nombre d'établissements primaire,10,education,nombre
+82,Commune de Laouamra,Nombre d'établissements qualifiant,1,education,nombre
+81,Commune de Larache,Nombre d'établissements collegial,6,education,nombre
+81,Commune de Larache,Nombre d'établissements primaire,28,education,nombre
+81,Commune de Larache,Nombre d'établissements qualifiant,5,education,nombre
+113,Commune de Louta,Nombre d'établissements collegial,1,education,nombre
+113,Commune de Louta,Nombre d'établissements primaire,2,education,nombre
+113,Commune de Louta,Nombre d'établissements qualifiant,0,education,nombre
+46,Commune de M'diq,Nombre d'établissements collegial,4,education,nombre
+46,Commune de M'diq,Nombre d'établissements primaire,11,education,nombre
+46,Commune de M'diq,Nombre d'établissements qualifiant,3,education,nombre
+140,Commune de M'tioua,Nombre d'établissements collegial,1,education,nombre
+140,Commune de M'tioua,Nombre d'établissements primaire,6,education,nombre
+140,Commune de M'tioua,Nombre d'établissements qualifiant,2,education,nombre
+58,Commune de Mallalienne,Nombre d'établissements collegial,1,education,nombre
+58,Commune de Mallalienne,Nombre d'établissements primaire,3,education,nombre
+58,Commune de Mallalienne,Nombre d'établissements qualifiant,0,education,nombre
+73,Commune de Malloussa,Nombre d'établissements collegial,1,education,nombre
+73,Commune de Malloussa,Nombre d'établissements primaire,4,education,nombre
+73,Commune de Malloussa,Nombre d'établissements qualifiant,1,education,nombre
+147,Commune de Mansoura,Nombre d'établissements collegial,1,education,nombre
+147,Commune de Mansoura,Nombre d'établissements primaire,5,education,nombre
+147,Commune de Mansoura,Nombre d'établissements qualifiant,1,education,nombre
+48,Commune de Martil,Nombre d'établissements collegial,6,education,nombre
+48,Commune de Martil,Nombre d'établissements primaire,12,education,nombre
+48,Commune de Martil,Nombre d'établissements qualifiant,2,education,nombre
+165,Commune de Masmouda,Nombre d'établissements collegial,1,education,nombre
+165,Commune de Masmouda,Nombre d'établissements primaire,6,education,nombre
+165,Commune de Masmouda,Nombre d'établissements qualifiant,1,education,nombre
+176,Commune de Moqrissat,Nombre d'établissements collegial,1,education,nombre
+176,Commune de Moqrissat,Nombre d'établissements primaire,5,education,nombre
+176,Commune de Moqrissat,Nombre d'établissements qualifiant,1,education,nombre
+130,Commune de Moulay Ahmed Cherif,Nombre d'établissements collegial,0,education,nombre
+130,Commune de Moulay Ahmed Cherif,Nombre d'établissements primaire,3,education,nombre
+130,Commune de Moulay Ahmed Cherif,Nombre d'établissements qualifiant,1,education,nombre
+164,Commune de Mzefroune,Nombre d'établissements collegial,1,education,nombre
+164,Commune de Mzefroune,Nombre d'établissements primaire,2,education,nombre
+164,Commune de Mzefroune,Nombre d'établissements qualifiant,0,education,nombre
+111,Commune de Nekkour,Nombre d'établissements collegial,1,education,nombre
+111,Commune de Nekkour,Nombre d'établissements primaire,5,education,nombre
+111,Commune de Nekkour,Nombre d'établissements qualifiant,0,education,nombre
+94,Commune de Rissana Chamalia,Nombre d'établissements collegial,1,education,nombre
+94,Commune de Rissana Chamalia,Nombre d'établissements primaire,4,education,nombre
+94,Commune de Rissana Chamalia,Nombre d'établissements qualifiant,1,education,nombre
+95,Commune de Rissana Janoubia,Nombre d'établissements collegial,0,education,nombre
+95,Commune de Rissana Janoubia,Nombre d'établissements primaire,6,education,nombre
+95,Commune de Rissana Janoubia,Nombre d'établissements qualifiant,0,education,nombre
+120,Commune de Rouadi,Nombre d'établissements collegial,1,education,nombre
+120,Commune de Rouadi,Nombre d'établissements primaire,4,education,nombre
+120,Commune de Rouadi,Nombre d'établissements qualifiant,1,education,nombre
+59,Commune de Saddina,Nombre d'établissements collegial,1,education,nombre
+59,Commune de Saddina,Nombre d'établissements primaire,2,education,nombre
+59,Commune de Saddina,Nombre d'établissements qualifiant,1,education,nombre
+93,Commune de Sahel,Nombre d'établissements collegial,1,education,nombre
+93,Commune de Sahel,Nombre d'établissements primaire,6,education,nombre
+93,Commune de Sahel,Nombre d'établissements qualifiant,1,education,nombre
+44,Commune de Sahel Chamali,Nombre d'établissements collegial,1,education,nombre
+44,Commune de Sahel Chamali,Nombre d'établissements primaire,1,education,nombre
+44,Commune de Sahel Chamali,Nombre d'établissements qualifiant,0,education,nombre
+60,Commune de Sahtryine,Nombre d'établissements collegial,1,education,nombre
+60,Commune de Sahtryine,Nombre d'établissements primaire,6,education,nombre
+60,Commune de Sahtryine,Nombre d'établissements qualifiant,0,education,nombre
+41,Commune de Sebt Azzinate,Nombre d'établissements collegial,1,education,nombre
+41,Commune de Sebt Azzinate,Nombre d'établissements primaire,2,education,nombre
+41,Commune de Sebt Azzinate,Nombre d'établissements qualifiant,0,education,nombre
+105,Commune de Senada,Nombre d'établissements collegial,1,education,nombre
+105,Commune de Senada,Nombre d'établissements primaire,2,education,nombre
+105,Commune de Senada,Nombre d'établissements qualifiant,0,education,nombre
+172,Commune de Sidi Ahmed Cherif,Nombre d'établissements collegial,0,education,nombre
+172,Commune de Sidi Ahmed Cherif,Nombre d'établissements primaire,3,education,nombre
+172,Commune de Sidi Ahmed Cherif,Nombre d'établissements qualifiant,1,education,nombre
+173,Commune de Sidi Bousber,Nombre d'établissements collegial,1,education,nombre
+173,Commune de Sidi Bousber,Nombre d'établissements primaire,3,education,nombre
+173,Commune de Sidi Bousber,Nombre d'établissements qualifiant,1,education,nombre
+123,Commune de Sidi Boutmim,Nombre d'établissements collegial,0,education,nombre
+123,Commune de Sidi Boutmim,Nombre d'établissements primaire,4,education,nombre
+123,Commune de Sidi Boutmim,Nombre d'établissements qualifiant,1,education,nombre
+121,Commune de Sidi Bouzineb,Nombre d'établissements collegial,1,education,nombre
+121,Commune de Sidi Bouzineb,Nombre d'établissements primaire,2,education,nombre
+121,Commune de Sidi Bouzineb,Nombre d'établissements qualifiant,0,education,nombre
+45,Commune de Sidi Lyamani,Nombre d'établissements collegial,1,education,nombre
+45,Commune de Sidi Lyamani,Nombre d'établissements primaire,3,education,nombre
+45,Commune de Sidi Lyamani,Nombre d'établissements qualifiant,1,education,nombre
+166,Commune de Sidi Redouane,Nombre d'établissements collegial,2,education,nombre
+166,Commune de Sidi Redouane,Nombre d'établissements primaire,4,education,nombre
+166,Commune de Sidi Redouane,Nombre d'établissements qualifiant,1,education,nombre
+97,Commune de Souaken,Nombre d'établissements collegial,1,education,nombre
+97,Commune de Souaken,Nombre d'établissements primaire,3,education,nombre
+97,Commune de Souaken,Nombre d'établissements qualifiant,0,education,nombre
+54,Commune de Souk Kdim,Nombre d'établissements collegial,1,education,nombre
+54,Commune de Souk Kdim,Nombre d'établissements primaire,4,education,nombre
+54,Commune de Souk Kdim,Nombre d'établissements qualifiant,1,education,nombre
+87,Commune de Souk L'qolla,Nombre d'établissements collegial,1,education,nombre
+87,Commune de Souk L'qolla,Nombre d'établissements primaire,9,education,nombre
+87,Commune de Souk L'qolla,Nombre d'établissements qualifiant,0,education,nombre
+98,Commune de Souk Tolba,Nombre d'établissements collegial,1,education,nombre
+98,Commune de Souk Tolba,Nombre d'établissements primaire,4,education,nombre
+98,Commune de Souk Tolba,Nombre d'établissements qualifiant,0,education,nombre
+159,Commune de Steha,Nombre d'établissements collegial,1,education,nombre
+159,Commune de Steha,Nombre d'établissements primaire,5,education,nombre
+159,Commune de Steha,Nombre d'établissements qualifiant,1,education,nombre
+78,Commune de Taghramt,Nombre d'établissements collegial,0,education,nombre
+78,Commune de Taghramt,Nombre d'établissements primaire,7,education,nombre
+78,Commune de Taghramt,Nombre d'établissements qualifiant,1,education,nombre
+133,Commune de Taghzout,Nombre d'établissements collegial,1,education,nombre
+133,Commune de Taghzout,Nombre d'établissements primaire,2,education,nombre
+133,Commune de Taghzout,Nombre d'établissements qualifiant,0,education,nombre
+162,Commune de Talambote,Nombre d'établissements collegial,0,education,nombre
+162,Commune de Talambote,Nombre d'établissements primaire,3,education,nombre
+162,Commune de Talambote,Nombre d'établissements qualifiant,0,education,nombre
+138,Commune de Tamorot,Nombre d'établissements collegial,1,education,nombre
+138,Commune de Tamorot,Nombre d'établissements primaire,7,education,nombre
+138,Commune de Tamorot,Nombre d'établissements qualifiant,1,education,nombre
+128,Commune de Tamsaout,Nombre d'établissements collegial,1,education,nombre
+128,Commune de Tamsaout,Nombre d'établissements primaire,4,education,nombre
+128,Commune de Tamsaout,Nombre d'établissements qualifiant,0,education,nombre
+154,Commune de Tanaqoub,Nombre d'établissements collegial,0,education,nombre
+154,Commune de Tanaqoub,Nombre d'établissements primaire,6,education,nombre
+154,Commune de Tanaqoub,Nombre d'établissements qualifiant,1,education,nombre
+34,Commune de Tanger,Nombre d'établissements collegial,0,education,nombre
+34,Commune de Tanger,Nombre d'établissements primaire,0,education,nombre
+34,Commune de Tanger,Nombre d'établissements qualifiant,0,education,nombre
+102,Commune de Targuist,Nombre d'établissements collegial,2,education,nombre
+102,Commune de Targuist,Nombre d'établissements primaire,3,education,nombre
+102,Commune de Targuist,Nombre d'établissements qualifiant,2,education,nombre
+161,Commune de Tassift,Nombre d'établissements collegial,1,education,nombre
+161,Commune de Tassift,Nombre d'établissements primaire,3,education,nombre
+161,Commune de Tassift,Nombre d'établissements qualifiant,0,education,nombre
+86,Commune de Tatoft,Nombre d'établissements collegial,1,education,nombre
+86,Commune de Tatoft,Nombre d'établissements primaire,3,education,nombre
+86,Commune de Tatoft,Nombre d'établissements qualifiant,0,education,nombre
+89,Commune de Tazroute,Nombre d'établissements collegial,0,education,nombre
+89,Commune de Tazroute,Nombre d'établissements primaire,2,education,nombre
+89,Commune de Tazroute,Nombre d'établissements qualifiant,0,education,nombre
+168,Commune de Teroual,Nombre d'établissements collegial,1,education,nombre
+168,Commune de Teroual,Nombre d'établissements primaire,3,education,nombre
+168,Commune de Teroual,Nombre d'établissements qualifiant,1,education,nombre
+110,Commune de Tifarouine,Nombre d'établissements collegial,1,education,nombre
+110,Commune de Tifarouine,Nombre d'établissements primaire,3,education,nombre
+110,Commune de Tifarouine,Nombre d'établissements qualifiant,0,education,nombre
+160,Commune de Tizgane,Nombre d'établissements collegial,1,education,nombre
+160,Commune de Tizgane,Nombre d'établissements primaire,3,education,nombre
+160,Commune de Tizgane,Nombre d'établissements qualifiant,1,education,nombre
+51,Commune de Tétouan,Nombre d'établissements collegial,23,education,nombre
+51,Commune de Tétouan,Nombre d'établissements primaire,51,education,nombre
+51,Commune de Tétouan,Nombre d'établissements qualifiant,16,education,nombre
+92,Commune de Zaaroura,Nombre d'établissements collegial,1,education,nombre
+92,Commune de Zaaroura,Nombre d'établissements primaire,5,education,nombre
+92,Commune de Zaaroura,Nombre d'établissements qualifiant,0,education,nombre
+70,Commune de Zaitoune,Nombre d'établissements collegial,1,education,nombre
+70,Commune de Zaitoune,Nombre d'établissements primaire,4,education,nombre
+70,Commune de Zaitoune,Nombre d'établissements qualifiant,1,education,nombre
+115,Commune de Zaouiat Sidi Abdelkader,Nombre d'établissements collegial,1,education,nombre
+115,Commune de Zaouiat Sidi Abdelkader,Nombre d'établissements primaire,3,education,nombre
+115,Commune de Zaouiat Sidi Abdelkader,Nombre d'établissements qualifiant,0,education,nombre
+72,Commune de Zaouiat Sidi Kacem,Nombre d'établissements collegial,1,education,nombre
+72,Commune de Zaouiat Sidi Kacem,Nombre d'établissements primaire,6,education,nombre
+72,Commune de Zaouiat Sidi Kacem,Nombre d'établissements qualifiant,0,education,nombre
+124,Commune de Zarkt,Nombre d'établissements collegial,1,education,nombre
+124,Commune de Zarkt,Nombre d'établissements primaire,2,education,nombre
+124,Commune de Zarkt,Nombre d'établissements qualifiant,0,education,nombre
+169,Commune de Zghira,Nombre d'établissements collegial,1,education,nombre
+169,Commune de Zghira,Nombre d'établissements primaire,3,education,nombre
+169,Commune de Zghira,Nombre d'établissements qualifiant,1,education,nombre
+68,Commune de Zinat,Nombre d'établissements collegial,1,education,nombre
+68,Commune de Zinat,Nombre d'établissements primaire,2,education,nombre
+68,Commune de Zinat,Nombre d'établissements qualifiant,0,education,nombre
+83,Commune de Zouada,Nombre d'établissements collegial,1,education,nombre
+83,Commune de Zouada,Nombre d'établissements primaire,6,education,nombre
+83,Commune de Zouada,Nombre d'établissements qualifiant,0,education,nombre
+179,Commune de Zoumi,Nombre d'établissements collegial,2,education,nombre
+179,Commune de Zoumi,Nombre d'établissements primaire,13,education,nombre
+179,Commune de Zoumi,Nombre d'établissements qualifiant,1,education,nombre

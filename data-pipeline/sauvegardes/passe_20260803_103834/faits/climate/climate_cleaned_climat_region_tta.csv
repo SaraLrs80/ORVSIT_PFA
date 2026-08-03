@@ -1,0 +1,65 @@
+﻿station,fk_territoire,annee,indicateur,valeur,unite,territoire_id
+Al Hoceima,al hoceima,2020-2021,humidite,71.0,%,7
+Al Hoceima,al hoceima,2020-2021,temp_max,23.6,°C,7
+Al Hoceima,al hoceima,2020-2021,temp_min,14.7,°C,7
+Al Hoceima,al hoceima,2020-2021,temp_moyenne,19.2,°C,7
+Al Hoceima,al hoceima,2021-2022,humidite,69.0,%,7
+Al Hoceima,al hoceima,2021-2022,temp_max,23.8,°C,7
+Al Hoceima,al hoceima,2021-2022,temp_min,14.4,°C,7
+Al Hoceima,al hoceima,2021-2022,temp_moyenne,19.1,°C,7
+Al Hoceima,al hoceima,2022-2023,humidite,63.0,%,7
+Al Hoceima,al hoceima,2022-2023,temp_max,24.8,°C,7
+Al Hoceima,al hoceima,2022-2023,temp_min,15.2,°C,7
+Al Hoceima,al hoceima,2022-2023,temp_moyenne,20.1,°C,7
+Al Hoceima,al hoceima,2023-2024,humidite,64.0,%,7
+Al Hoceima,al hoceima,2023-2024,temp_max,24.7,°C,7
+Al Hoceima,al hoceima,2023-2024,temp_min,15.1,°C,7
+Al Hoceima,al hoceima,2023-2024,temp_moyenne,19.9,°C,7
+Larache,larache,2020-2021,humidite,76.0,%,6
+Larache,larache,2020-2021,temp_max,23.0,°C,6
+Larache,larache,2020-2021,temp_min,14.0,°C,6
+Larache,larache,2020-2021,temp_moyenne,18.5,°C,6
+Larache,larache,2021-2022,humidite,74.0,%,6
+Larache,larache,2021-2022,temp_max,23.6,°C,6
+Larache,larache,2021-2022,temp_min,14.1,°C,6
+Larache,larache,2021-2022,temp_moyenne,18.9,°C,6
+Larache,larache,2022-2023,humidite,75.0,%,6
+Larache,larache,2022-2023,temp_max,24.3,°C,6
+Larache,larache,2022-2023,temp_min,14.8,°C,6
+Larache,larache,2022-2023,temp_moyenne,19.6,°C,6
+Larache,larache,2023-2024,humidite,75.0,%,6
+Larache,larache,2023-2024,temp_max,23.7,°C,6
+Larache,larache,2023-2024,temp_min,14.3,°C,6
+Larache,larache,2023-2024,temp_moyenne,19.0,°C,6
+Tanger -Aeroport,tanger assilah,2020-2021,humidite,71.0,%,2
+Tanger -Aeroport,tanger assilah,2020-2021,temp_max,22.9,°C,2
+Tanger -Aeroport,tanger assilah,2020-2021,temp_min,15.2,°C,2
+Tanger -Aeroport,tanger assilah,2020-2021,temp_moyenne,19.8,°C,2
+Tanger -Aeroport,tanger assilah,2021-2022,humidite,74.0,%,2
+Tanger -Aeroport,tanger assilah,2021-2022,temp_max,23.5,°C,2
+Tanger -Aeroport,tanger assilah,2021-2022,temp_min,15.6,°C,2
+Tanger -Aeroport,tanger assilah,2021-2022,temp_moyenne,19.6,°C,2
+Tanger -Aeroport,tanger assilah,2022-2023,humidite,77.0,%,2
+Tanger -Aeroport,tanger assilah,2022-2023,temp_max,24.2,°C,2
+Tanger -Aeroport,tanger assilah,2022-2023,temp_min,16.0,°C,2
+Tanger -Aeroport,tanger assilah,2022-2023,temp_moyenne,20.1,°C,2
+Tanger -Aeroport,tanger assilah,2023-2024,humidite,77.0,%,2
+Tanger -Aeroport,tanger assilah,2023-2024,temp_max,23.7,°C,2
+Tanger -Aeroport,tanger assilah,2023-2024,temp_min,15.6,°C,2
+Tanger -Aeroport,tanger assilah,2023-2024,temp_moyenne,19.7,°C,2
+Tétouan,tetouan,2020-2021,humidite,75.0,%,4
+Tétouan,tetouan,2020-2021,temp_max,23.5,°C,4
+Tétouan,tetouan,2020-2021,temp_min,15.1,°C,4
+Tétouan,tetouan,2020-2021,temp_moyenne,19.3,°C,4
+Tétouan,tetouan,2021-2022,humidite,71.0,%,4
+Tétouan,tetouan,2021-2022,temp_max,23.7,°C,4
+Tétouan,tetouan,2021-2022,temp_min,15.3,°C,4
+Tétouan,tetouan,2021-2022,temp_moyenne,19.5,°C,4
+Tétouan,tetouan,2022-2023,humidite,67.0,%,4
+Tétouan,tetouan,2022-2023,temp_max,25.0,°C,4
+Tétouan,tetouan,2022-2023,temp_min,15.9,°C,4
+Tétouan,tetouan,2022-2023,temp_moyenne,20.5,°C,4
+Tétouan,tetouan,2023-2024,humidite,70.0,%,4
+Tétouan,tetouan,2023-2024,temp_max,24.2,°C,4
+Tétouan,tetouan,2023-2024,temp_min,16.2,°C,4
+Tétouan,tetouan,2023-2024,temp_moyenne,20.2,°C,4
