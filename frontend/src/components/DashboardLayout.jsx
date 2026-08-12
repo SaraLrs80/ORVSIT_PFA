@@ -1,59 +1,61 @@
-// Ossature (« shell ») de l'espace connecté, fidèle à la maquette :
-//   - une barre latérale navy repliable (logo, navigation, utilisateur + déconnexion)
-//   - une barre supérieure (burger pour replier, titre, badge du rôle)
-//   - une zone de contenu (children) où chaque page place son contenu.
+// Ossature de l'espace connecté — barre de navigation supérieure ORVSIT.
 //
-// Props :
-//   - title    : le titre affiché dans la topbar
-//   - active   : la clé de l'entrée de menu active
-//   - children : le contenu de la page
+// Pourquoi une barre supérieure plutôt que la colonne latérale d'origine :
+// l'application a vocation à rejoindre le site de l'observatoire, et le site
+// navigue par le haut. Reprendre sa barre — mêmes tailles, même graisse, même
+// soulignement doré de 3 px sur l'entrée active — évite qu'on sente la couture
+// entre les deux au moment de l'intégration.
+//
+// La signature du composant est inchangée : title, active, children. Les huit
+// écrans existants héritent donc de la nouvelle navigation sans être modifiés.
+// C'est tout l'intérêt d'avoir gardé l'ossature dans un seul fichier.
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useNavigate, useLocation, Link } from "react-router-dom";
-import {
-  Menu, LogOut, ChevronRight,
-  LayoutDashboard, ArrowLeftRight, FileText, LineChart, Map,
-  Inbox, Users, Activity,
-} from "lucide-react";
+import { ChevronDown, LogOut, Menu, X } from "lucide-react";
 import { getMe, logout } from "../api/auth";
 import { getThemes } from "../api/explorer";
+import BoutonAssistant from "./BoutonAssistant";
 
-// Groupe « Consultation » (écrans analystes/décideurs).
-// to = null -> pas encore développé, affiché avec la mention « bientôt ».
+// « Cartographie » a été retirée : la carte n'est pas un écran à part, elle est
+// un moyen de lecture présent dans la fiche, dans Comparer et dans Explorer.
+// Lui garder une entrée de menu promettait une page qui n'aurait rien apporté
+// de plus, et laissait un « bientôt » inutile dans une barre qui doit être tenue.
 //
-// « Explorer » porte des sous-entrées : un thème par ligne. Pourquoi ce choix
-// plutôt qu'une entrée par thème au premier niveau — Santé, Éducation,
-// Démographie… — ou qu'un sélecteur caché dans la page :
-//   - une entrée par thème ferait passer le menu de 5 à 11 lignes et mettrait
-//     sur le même plan « Comparer », qui est une fonction, et « Santé », qui
-//     est un domaine. Ce ne sont pas des choses de même nature ;
-//   - un sélecteur à l'intérieur de la page rendrait les thèmes invisibles
-//     depuis la navigation : personne ne cherche ce qu'il ne voit pas.
-// Le repli garde la hiérarchie lisible et chaque thème garde son adresse.
+// to = null → écran non encore développé, affiché avec la mention « bientôt ».
 const NAV_CONSULT = [
-  { key: "overview", label: "Vue d'ensemble", Icon: LayoutDashboard, to: "/dashboard" },
-  { key: "comparer", label: "Comparer", Icon: ArrowLeftRight, to: "/dashboard/comparer" },
-  { key: "fiche", label: "Fiche territoriale", Icon: FileText, to: "/dashboard/fiche" },
-  { key: "explorer", label: "Explorer", Icon: LineChart, to: "/dashboard/explorer", pliable: true },
-  { key: "carte", label: "Cartographie", Icon: Map, to: null },
+  { key: "overview", label: "Vue d'ensemble", to: "/dashboard" },
+  { key: "comparer", label: "Comparer", to: "/dashboard/comparer" },
+  { key: "fiche", label: "Fiche territoriale", to: "/dashboard/fiche" },
+  { key: "explorer", label: "Explorer", to: "/dashboard/explorer", deroulant: "themes" },
+  { key: "assistant", label: "Assistant", to: "/dashboard/assistant" },
 ];
 
-// Groupe « Administration » (réservé aux administrateurs).
 const NAV_ADMIN = [
-  { key: "demandes", label: "Demandes d'accès", Icon: Inbox, to: "/admin" },
-  { key: "utilisateurs", label: "Utilisateurs", Icon: Users, to: "/admin/utilisateurs" },
-  { key: "supervision", label: "Supervision", Icon: Activity, to: "/admin/supervision" },
+  { key: "demandes", label: "Demandes d'accès", to: "/admin" },
+  { key: "utilisateurs", label: "Utilisateurs", to: "/admin/utilisateurs" },
+  { key: "supervision", label: "Supervision", to: "/admin/supervision" },
 ];
 
-export default function DashboardLayout({ title, active = "overview", children }) {
+const CLES_ADMIN = NAV_ADMIN.map((e) => e.key);
+
+/**
+ * Props :
+ *   - title      surtitre de l'écran
+ *   - active     clé de l'entrée de navigation à souligner
+ *   - territoire nom du territoire consulté, s'il y en a un. Il n'est utilisé
+ *                que par la pastille de l'assistant, pour pré-remplir la
+ *                question. Les écrans qui n'en ont pas ne le passent pas.
+ */
+export default function DashboardLayout({ title, active = "overview",
+                                          territoire = null, children }) {
   const navigate = useNavigate();
   const emplacement = useLocation();
-  const [replie, setReplie] = useState(false);
   const [user, setUser] = useState(null);
   const [themes, setThemes] = useState([]);
-  // Le sous-menu s'ouvre de lui-même quand on est déjà dans Explorer : arriver
-  // sur une page dont l'entrée de menu est repliée est déroutant.
-  const [explorerOuvert, setExplorerOuvert] = useState(active === "explorer");
+  const [ouvert, setOuvert] = useState(null);     // "themes" | "admin" | "user" | null
+  const [menuMobile, setMenuMobile] = useState(false);
+  const barre = useRef(null);
 
   useEffect(() => {
     getMe().then(setUser).catch(() => {});
@@ -62,189 +64,206 @@ export default function DashboardLayout({ title, active = "overview", children }
     getThemes().then(setThemes).catch(() => {});
   }, []);
 
-  useEffect(() => {
-    if (active === "explorer") setExplorerOuvert(true);
-  }, [active]);
+  useEffect(() => { if (title) document.title = `${title} — ORVSIT`; }, [title]);
 
-  function handleLogout() {
-    logout();
-    navigate("/login");
-  }
+  // Un menu déroulant qui survit au changement de page donne l'impression que
+  // le clic n'a pas abouti : on ferme à chaque navigation.
+  useEffect(() => { setOuvert(null); setMenuMobile(false); }, [emplacement.pathname]);
+
+  // Fermeture au clic extérieur et à la touche Échap — sans quoi le seul moyen
+  // de refermer serait de rouvrir, ce qui est un piège classique.
+  useEffect(() => {
+    function dehors(e) { if (barre.current && !barre.current.contains(e.target)) setOuvert(null); }
+    function echap(e) { if (e.key === "Escape") setOuvert(null); }
+    document.addEventListener("mousedown", dehors);
+    document.addEventListener("keydown", echap);
+    return () => {
+      document.removeEventListener("mousedown", dehors);
+      document.removeEventListener("keydown", echap);
+    };
+  }, []);
+
+  function handleLogout() { logout(); navigate("/login"); }
 
   const initiales = user
     ? user.nom_complet.split(" ").map((m) => m[0]).slice(0, 2).join("").toUpperCase()
     : "…";
-
-  // Affiche une entrée de menu (Link si `to`, sinon bloc « bientôt »).
-  function itemJsx({ key, label, Icon, to, pliable }) {
-    const estActif = key === active;
-    const classe = `relative flex items-center gap-3 pl-4 pr-3 py-2.5 rounded-xl text-[13.5px]
-                    font-medium transition-colors ${
-      estActif ? "bg-white/12 text-white" : "text-white/65 hover:bg-white/6 hover:text-white"
-    } ${to ? "" : "opacity-55"}`;
-
-    const contenu = (
-      <>
-        {/* Repère actif : un liseré doré collé au bord, plus net qu'un dégradé
-            qui délavait la couleur du texte par-dessus. */}
-        {estActif && <span className="absolute left-0 top-2 bottom-2 w-[3px] rounded-r-full bg-gold" />}
-        <Icon size={18} className={`shrink-0 ${estActif ? "text-gold" : ""}`} />
-        {!replie && <span className="flex-1 truncate">{label}</span>}
-        {!replie && !to && (
-          <span className="text-[9px] bg-white/10 text-white/55 px-1.5 py-0.5 rounded">bientôt</span>
-        )}
-        {!replie && pliable && to && (
-          <ChevronRight size={14}
-            className={`shrink-0 opacity-55 transition-transform ${explorerOuvert ? "rotate-90" : ""}`}
-            onClick={(e) => { e.preventDefault(); setExplorerOuvert((o) => !o); }} />
-        )}
-      </>
-    );
-
-    const entree = to
-      ? <Link key={key} to={to} className={classe}>{contenu}</Link>
-      : <div key={key} className={classe}>{contenu}</div>;
-
-    if (!pliable || replie || !explorerOuvert || !themes.length) return entree;
-
-    return (
-      <div key={key}>
-        {entree}
-        {/* Sous-entrées : le trait vertical rattache visuellement les thèmes à
-            leur parent, sinon la liste semble flotter au même niveau. */}
-        <div className="ml-[26px] pl-3 border-l border-white/12 flex flex-col gap-0.5 mt-0.5 mb-1">
-          {themes.map((t) => {
-            const cible = `/dashboard/explorer/${t.cle}`;
-            const actifTheme = emplacement.pathname === cible;
-            return (
-              <Link key={t.cle} to={cible}
-                className={`flex items-center gap-2 px-2.5 py-1.5 rounded-lg text-[12.5px]
-                            transition-colors ${
-                  actifTheme ? "text-white font-semibold bg-white/10"
-                             : "text-white/55 hover:text-white hover:bg-white/5"}`}>
-                <span className={`w-1.5 h-1.5 rounded-full shrink-0 ${
-                  actifTheme ? "bg-gold" : "bg-white/25"}`} />
-                <span className="flex-1 truncate">{t.nom}</span>
-                <span className="text-[10px] text-white/35">{t.angles}</span>
-              </Link>
-            );
-          })}
-        </div>
-      </div>
-    );
-  }
-
-  // Affiche un groupe (titre + entrées).
-  function groupeJsx(titre, items) {
-    return (
-      <>
-        {!replie && (
-          <div className="text-[10px] uppercase tracking-[0.12em] text-white/35 font-bold px-4 mt-5 mb-1.5">
-            {titre}
-          </div>
-        )}
-        {items.map(itemJsx)}
-      </>
-    );
-  }
-
   const estAdmin = user?.role === "administrateur";
+  const adminActif = CLES_ADMIN.includes(active);
+
+  /* --------------------------------------------------------------- une entrée */
+  // 13 px, graisse 700, et pour l'entrée active un liseré doré de 3 px posé
+  // sous le texte : ce sont les valeurs exactes de la barre du site.
+  function Entree({ e }) {
+    const actif = e.key === active;
+    const classe = `relative inline-flex items-center gap-1 text-[13px] font-bold py-[26px]
+                    transition-colors border-b-[3px] ${
+      actif ? "text-navy border-gold" : "text-t1 border-transparent hover:text-navy"
+    } ${e.to ? "" : "opacity-45 cursor-default"}`;
+
+    if (e.deroulant) {
+      const deploye = ouvert === e.deroulant;
+      return (
+        <div className="relative">
+          <Link to={e.to} className={classe}
+            onClick={(ev) => { if (themes.length) { ev.preventDefault(); setOuvert(deploye ? null : e.deroulant); } }}>
+            {e.label}
+            <ChevronDown size={13} className={`transition-transform ${deploye ? "rotate-180" : ""}`} />
+          </Link>
+          {deploye && themes.length > 0 && (
+            <div className="absolute left-0 top-full mt-1 w-64 bg-white border border-line rounded-2xl
+                            ombre-orvsit-f p-2 z-50">
+              <Link to="/dashboard/explorer"
+                className="block px-3 py-2 rounded-xl text-[12.5px] font-bold text-navy hover:bg-bg">
+                Tous les thèmes
+              </Link>
+              <div className="h-px bg-line-2 my-1.5" />
+              {themes.map((t) => (
+                <Link key={t.cle} to={`/dashboard/explorer/${t.cle}`}
+                  className="flex items-center gap-2 px-3 py-2 rounded-xl text-[12.5px] text-t2
+                             hover:bg-bg hover:text-navy transition-colors">
+                  <span className="flex-1 truncate">{t.nom}</span>
+                  <span className="text-[10px] text-t3">{t.angles}</span>
+                </Link>
+              ))}
+            </div>
+          )}
+        </div>
+      );
+    }
+
+    return e.to
+      ? <Link to={e.to} className={classe}>{e.label}</Link>
+      : <span className={classe}>
+          {e.label}
+          <span className="text-[9px] bg-bg text-t3 px-1.5 py-0.5 rounded-full ml-1">bientôt</span>
+        </span>;
+  }
 
   return (
     <div className="min-h-screen bg-bg">
-      {/* ---------- BARRE LATÉRALE ---------- */}
-      <aside
-        className={`fixed top-0 bottom-0 left-0 z-30 flex flex-col p-4 text-white bg-gradient-to-b from-navy via-navy-3 to-navy transition-all duration-300 ${
-          replie ? "w-20" : "w-64"
-        }`}
-      >
-        {/* Logo */}
-        <div className="mb-4">
-          {replie ? (
-            <div className="w-12 h-12 rounded-xl bg-white flex items-center justify-center mx-auto">
-              <img src="/logo-orvsit.png" alt="ORVSIT" className="max-w-[80%] max-h-[80%] object-contain" />
-            </div>
-          ) : (
-            <>
-              {/* Le grand aplat blanc écrasait le reste de la colonne : on le
-                  réduit à une carte compacte, le menu redevient le sujet. */}
-              <div className="bg-white rounded-2xl px-3 py-2.5 flex items-center justify-center">
-                <img src="/logo-orvsit.png" alt="ORVSIT" className="h-9 w-auto object-contain" />
-              </div>
-              <div className="text-[10px] text-white/45 text-center mt-2 tracking-wide">
-                Veille territoriale TTA
-              </div>
-            </>
-          )}
-        </div>
+      {/* ═══════════════════════════ BARRE SUPÉRIEURE ═══════════════════════ */}
+      <header ref={barre}
+        className="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-line">
+        <div className="max-w-[1600px] mx-auto px-6 flex items-center gap-8">
 
-        {/* Navigation (défilable si besoin) */}
-        {/* La barre de défilement native apparaissait en plein milieu de la
-            colonne navy et cassait la lecture. On la masque : le contenu reste
-            défilable à la molette et au clavier. */}
-        <nav className="flex flex-col gap-0.5 flex-1 overflow-y-auto pr-0.5
-                        [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-          {groupeJsx("Consultation", NAV_CONSULT)}
-          {estAdmin && groupeJsx("Administration", NAV_ADMIN)}
-        </nav>
+          {/* Marque */}
+          <Link to="/dashboard" className="flex items-center gap-2.5 py-3 shrink-0">
+            <img src="/logo-orvsit.png" alt="" className="h-9 w-auto object-contain" />
+            <span className="leading-none">
+              <span className="block text-[17px] font-extrabold text-navy tracking-[-0.03em]">ORVSIT</span>
+              <span className="block text-[8.5px] font-bold tracking-[0.14em] text-t2 mt-0.5">
+                INTELLIGENCE TERRITORIALE
+              </span>
+            </span>
+          </Link>
 
-        {/* Utilisateur + déconnexion */}
-        <div className="border-t border-white/10 pt-3 mt-3">
-          <div className="flex items-center gap-3 px-1.5">
-            <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-blue to-navy-3 flex items-center justify-center text-xs font-bold shrink-0">
-              {initiales}
-            </div>
-            {!replie && user && (
-              <div className="leading-tight text-sm">
-                <div className="font-semibold">{user.nom_complet}</div>
-                <div className="text-[10px] text-white/50">{user.role}</div>
+          {/* Entrées — masquées sous 1024 px, où elles passent dans le tiroir */}
+          <nav className="hidden lg:flex items-center gap-6 flex-1">
+            {NAV_CONSULT.map((e) => <Entree key={e.key} e={e} />)}
+
+            {estAdmin && (
+              <div className="relative">
+                <button onClick={() => setOuvert(ouvert === "admin" ? null : "admin")}
+                  className={`inline-flex items-center gap-1 text-[13px] font-bold py-[26px]
+                              border-b-[3px] transition-colors ${
+                    adminActif ? "text-navy border-gold" : "text-t1 border-transparent hover:text-navy"}`}>
+                  Administration
+                  <ChevronDown size={13} className={`transition-transform ${ouvert === "admin" ? "rotate-180" : ""}`} />
+                </button>
+                {ouvert === "admin" && (
+                  <div className="absolute left-0 top-full mt-1 w-56 bg-white border border-line
+                                  rounded-2xl ombre-orvsit-f p-2 z-50">
+                    {NAV_ADMIN.map((e) => (
+                      <Link key={e.key} to={e.to}
+                        className={`block px-3 py-2 rounded-xl text-[12.5px] transition-colors ${
+                          e.key === active ? "bg-bg text-navy font-bold"
+                                           : "text-t2 hover:bg-bg hover:text-navy"}`}>
+                        {e.label}
+                      </Link>
+                    ))}
+                  </div>
+                )}
               </div>
             )}
-          </div>
-          <button
-            onClick={handleLogout}
-            className="mt-2 w-full flex items-center gap-3 pl-4 pr-3 py-2.5 rounded-xl text-[13.5px]
-                       font-medium text-white/60 hover:bg-white/8 hover:text-white transition-colors"
-          >
-            <LogOut size={18} className="shrink-0" />
-            {!replie && <span>Déconnexion</span>}
-          </button>
-        </div>
-      </aside>
+          </nav>
 
-      {/* ---------- ZONE PRINCIPALE ---------- */}
-      <div className={`transition-all duration-300 ${replie ? "ml-20" : "ml-64"}`}>
-        <header className="sticky top-0 z-20 h-16 bg-white/80 backdrop-blur-md border-b border-line flex items-center justify-between px-6">
-          <div className="flex items-center gap-3">
-            <button
-              onClick={() => setReplie((r) => !r)}
-              className="w-9 h-9 rounded-xl flex items-center justify-center text-t2 hover:bg-bg hover:text-navy transition-colors"
-              aria-label="Replier / déplier le menu"
-            >
-              <Menu size={20} />
+          {/* Utilisateur */}
+          <div className="ml-auto lg:ml-0 flex items-center gap-2">
+            <div className="relative">
+              <button onClick={() => setOuvert(ouvert === "user" ? null : "user")}
+                className="flex items-center gap-2.5 bg-bg border border-line rounded-full
+                           pl-1.5 pr-3 py-1.5 hover:border-navy-3 transition-colors">
+                <span className="w-7 h-7 rounded-full bg-gradient-to-br from-gold to-gold-2
+                                 grid place-items-center text-navy text-[11px] font-extrabold">
+                  {initiales}
+                </span>
+                {user && (
+                  <span className="hidden sm:block text-left leading-tight">
+                    <span className="block text-[11.5px] font-bold text-navy">{user.nom_complet}</span>
+                    <span className="block text-[9.5px] text-t2">{user.role}</span>
+                  </span>
+                )}
+                <ChevronDown size={12} className="text-t3" />
+              </button>
+              {ouvert === "user" && (
+                <div className="absolute right-0 top-full mt-1 w-52 bg-white border border-line
+                                rounded-2xl ombre-orvsit-f p-2 z-50">
+                  <button onClick={handleLogout}
+                    className="w-full flex items-center gap-2.5 px-3 py-2 rounded-xl text-[12.5px]
+                               text-t2 hover:bg-bg hover:text-navy transition-colors">
+                    <LogOut size={14} /> Déconnexion
+                  </button>
+                </div>
+              )}
+            </div>
+
+            <button onClick={() => setMenuMobile((m) => !m)}
+              className="lg:hidden w-9 h-9 rounded-xl grid place-items-center text-t2 hover:bg-bg"
+              aria-label="Menu">
+              {menuMobile ? <X size={19} /> : <Menu size={19} />}
             </button>
-            <h1 className="font-bold text-navy">{title}</h1>
           </div>
+        </div>
 
-          <div className="flex items-center gap-2.5 bg-surface border border-line rounded-full pl-2 pr-3 py-1.5">
-            <div className="w-7 h-7 rounded-full bg-gradient-to-br from-gold to-gold-2 flex items-center justify-center text-navy text-xs font-bold">
-              {initiales}
-            </div>
-            {user && (
-              <div className="text-xs leading-tight">
-                <div className="font-semibold text-navy">{user.nom_complet}</div>
-                <div className="text-t2 text-[10px]">{user.role}</div>
-              </div>
+        {/* Tiroir des petits écrans */}
+        {menuMobile && (
+          <div className="lg:hidden border-t border-line px-6 py-3 flex flex-col gap-0.5">
+            {[...NAV_CONSULT, ...(estAdmin ? NAV_ADMIN : [])].map((e) =>
+              e.to ? (
+                <Link key={e.key} to={e.to}
+                  className={`px-3 py-2.5 rounded-xl text-[13px] font-bold transition-colors ${
+                    e.key === active ? "bg-bg text-navy" : "text-t2 hover:bg-bg"}`}>
+                  {e.label}
+                </Link>
+              ) : (
+                <span key={e.key} className="px-3 py-2.5 text-[13px] font-bold text-t3 opacity-60">
+                  {e.label} · bientôt
+                </span>
+              )
             )}
           </div>
-        </header>
+        )}
+      </header>
 
-        {/* max-w-6xl bridait la page à 1152 px : sur un écran large, la carte
-            et son panneau se retrouvaient à l'étroit alors qu'il restait de la
-            place. On laisse respirer, avec une borne haute pour éviter les
-            lignes de texte interminables. */}
-        <main className="p-6 max-w-[1600px] mx-auto">{children}</main>
-      </div>
+      {/* ═══════════════════════════════ CONTENU ════════════════════════════ */}
+      {/* Le titre passe en surtitre, comme sur le site où « Le pouls du
+          territoire » annonce le grand titre. Il situe l'écran sans lui voler
+          sa première ligne. */}
+      <main className="max-w-[1600px] mx-auto px-6 py-6">
+        {title && (
+          <div className="text-[10.5px] font-extrabold uppercase tracking-[0.14em] text-t3 mb-3">
+            {title}
+          </div>
+        )}
+        {children}
+      </main>
+
+      {/* La pastille d'accès à l'assistant. Elle vit ici plutôt que dans chaque
+          écran : les dix pages en héritent sans être modifiées, comme elles ont
+          hérité de la barre supérieure. Elle ne s'affiche pas sur la page de
+          l'assistant lui-même, où elle ne mènerait nulle part. */}
+      {active !== "assistant" && <BoutonAssistant territoire={territoire} />}
     </div>
   );
 }

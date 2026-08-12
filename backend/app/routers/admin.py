@@ -19,7 +19,8 @@ from ..emailing import envoyer_email
 
 router = APIRouter(prefix="/admin", tags=["admin"])
 
-
+ROLES_ADMIS   = {"administrateur", "utilisateur"}
+STATUTS_ADMIS = {"actif", "inactif", "suspendu"}
 # --- 1. Lister les demandes d'accès ---
 # `statut` est un paramètre de requête FACULTATIF (ex: /admin/demandes?statut=en_attente).
 # response_model=list[DemandeAccesOut] : on renvoie une LISTE de demandes.
@@ -153,11 +154,17 @@ def mettre_a_jour_utilisateur(
 
     # Mettre à jour les champs si fournis
     if update_data.role is not None:
+        if update_data.role not in ROLES_ADMIS:
+            raise HTTPException(status.HTTP_400_BAD_REQUEST,
+                                f"Rôle inconnu. Valeurs admises : {sorted(ROLES_ADMIS)}")
         utilisateur.role = update_data.role
+    if update_data.statut is not None:
+        if update_data.statut not in STATUTS_ADMIS:
+            raise HTTPException(status.HTTP_400_BAD_REQUEST,
+                                f"Statut inconnu. Valeurs admises : {sorted(STATUTS_ADMIS)}")
+        utilisateur.statut = update_data.statut
     if update_data.organisation is not None:
         utilisateur.organisation = update_data.organisation
-    if update_data.statut is not None:
-        utilisateur.statut = update_data.statut
 
     db.commit()
     db.refresh(utilisateur) #db.refresh(objet) resynchronise l'objet Python avec la ligne réelle en base
@@ -238,15 +245,21 @@ def statistiques(
     maintenant = datetime.now(timezone.utc)
     il_y_a_30j = maintenant - timedelta(days=30)
 
-    # Petit raccourci : compter les événements d'un type d'action (depuis une date)
-    def compter(action, depuis=None):
-        q = db.query(JournalUsage).filter(JournalUsage.action == action)
+    # Les sorties de rapport : téléchargement de fichier ET impression.
+    # Une impression produit un PDF que la personne conserve — c'est un rapport
+    # sorti de la plateforme au même titre qu'un export.
+    SORTIES = ["export", "impression"]
+
+    def compter(actions, depuis=None):
+        if isinstance(actions, str):
+            actions = [actions]
+        q = db.query(JournalUsage).filter(JournalUsage.action.in_(actions))
         if depuis is not None:
             q = q.filter(JournalUsage.date_evenement >= depuis)
         return q.count()
 
     connexions_30j = compter("connexion", il_y_a_30j)
-    rapports_exportes = compter("export", il_y_a_30j)
+    rapports_exportes = compter(SORTIES, il_y_a_30j)
     questions_ia = compter("question_ia", il_y_a_30j)
     utilisateurs_actifs = (
         db.query(Utilisateur).filter(Utilisateur.statut == "actif").count()
@@ -261,10 +274,12 @@ def statistiques(
         fin = debut + timedelta(days=1)
 
         def compter_jour(action):
+            if isinstance(action, str):
+                action = [action]
             return (
                 db.query(JournalUsage)
                 .filter(
-                    JournalUsage.action == action,
+                    JournalUsage.action.in_(action),
                     JournalUsage.date_evenement >= debut,
                     JournalUsage.date_evenement < fin,
                 )
@@ -275,7 +290,7 @@ def statistiques(
             {
                 "jour": JOURS[jour.weekday()],
                 "connexions": compter_jour("connexion"),
-                "exports": compter_jour("export"),
+                "exports": compter_jour(SORTIES),
             }
         )
 

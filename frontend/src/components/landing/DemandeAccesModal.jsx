@@ -12,13 +12,11 @@ import { useState } from "react";
 import { X } from "lucide-react";
 import { creerDemande } from "../../api/demandes";
 
-// Profils proposés (valeur = ce qu'attend l'ENUM du backend ; label = texte affiché)
-const PROFILS = [
-  { value: "analyste", label: "Analyste ORVSIT" },
-  { value: "decideur", label: "Décideur régional" },
-  { value: "partenaire", label: "Partenaire institutionnel" },
-  { value: "chercheur", label: "Chercheur / universitaire" },
-];
+// L'application ne connaît que deux rôles : « administrateur » et « utilisateur ».
+// Le rôle d'administrateur ne se demande pas, il s'attribue ; toute demande
+// d'accès porte donc le seul profil demandable. Plus de liste déroulante à un
+// seul choix : le champ a disparu du formulaire.
+const PROFIL_DEMANDE = "utilisateur";
 
 const champClasses =
   "w-full px-4 py-3 rounded-xl border border-line bg-bg focus:bg-surface focus:border-blue focus:outline-none focus:ring-4 focus:ring-blue-soft transition";
@@ -27,7 +25,6 @@ export default function DemandeAccesModal({ open, onClose }) {
   const [nomComplet, setNomComplet] = useState("");
   const [email, setEmail] = useState("");
   const [organisation, setOrganisation] = useState("");
-  const [profil, setProfil] = useState("analyste");
   const [motif, setMotif] = useState("");
   const [erreur, setErreur] = useState("");
   const [enCours, setEnCours] = useState(false);
@@ -45,7 +42,7 @@ export default function DemandeAccesModal({ open, onClose }) {
         nom_complet: nomComplet,
         email: email,
         organisation: organisation || null, // vide -> null (champ facultatif)
-        profil_souhaite: profil,
+        profil_souhaite: PROFIL_DEMANDE,
         motif: motif || null,
       });
       setSucces(true);
@@ -63,7 +60,6 @@ export default function DemandeAccesModal({ open, onClose }) {
     setNomComplet("");
     setEmail("");
     setOrganisation("");
-    setProfil("analyste");
     setMotif("");
     onClose();
   }
@@ -156,23 +152,6 @@ export default function DemandeAccesModal({ open, onClose }) {
                   placeholder="Conseil régional, commune, université…"
                   className={champClasses}
                 />
-              </div>
-
-              <div>
-                <label className="block text-sm font-medium text-t2 mb-1.5">
-                  Profil souhaité
-                </label>
-                <select
-                  value={profil}
-                  onChange={(e) => setProfil(e.target.value)}
-                  className={champClasses}
-                >
-                  {PROFILS.map((p) => (
-                    <option key={p.value} value={p.value}>
-                      {p.label}
-                    </option>
-                  ))}
-                </select>
               </div>
 
               <div>

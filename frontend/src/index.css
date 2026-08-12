@@ -1,42 +1,62 @@
 /* 1) On importe tout Tailwind (les classes utilitaires : flex, bg-*, p-*, etc.) */
 @import "tailwindcss";
 
-/* 2) On déclare le thème ORVSIT.
-   Chaque variable --color-XXX crée automatiquement les classes
-   bg-XXX, text-XXX, border-XXX, etc. (ex: --color-navy -> bg-navy)
-   Les couleurs sont reprises de ta maquette. */
+/* 2) Thème ORVSIT.
+   Les valeurs ne sont pas approchées à l'œil : elles sont relevées dans la
+   feuille de style du site officiel (orvsit.crtta.ma), variables comprises.
+   L'application doit pouvoir y être intégrée sans rupture visuelle.
+
+       --navy #001f5f   --navy2 #062b72   --gold #e8af20   --ink #14213d
+       --muted #65728a  --paper #f4f6fa   --radius 24px
+       --shadow 0 18px 55px rgba(0,31,95,.12)
+
+   Les NOMS de jetons du projet sont conservés (navy, gold, t1, t2…) : seules
+   leurs valeurs changent, donc aucune page existante n'est à retoucher. */
 @theme {
-  --color-navy: #0a2540;
-  --color-navy-2: #123a66;
-  --color-navy-3: #1b4d85;
+  /* Bleus institutionnels */
+  --color-navy: #001f5f;        /* --navy du site : titres, pastilles actives */
+  --color-navy-2: #062b72;      /* --navy2 : dégradés, survols */
+  --color-navy-3: #0b3f96;      /* palier clair, pour les aplats et les liens */
 
-  --color-gold: #f5a623;
-  --color-gold-2: #e8961a;
-  --color-gold-soft: #fdefd6;
+  /* Or ORVSIT : le repère de l'entrée active, jamais un aplat de fond */
+  --color-gold: #e8af20;
+  --color-gold-2: #cf9812;
+  --color-gold-soft: #fdf3d9;
 
-  --color-blue: #2d6cdf;
-  --color-blue-soft: #e6effd;
+  /* Les quatre dimensions du site officiel, reprises telles quelles.
+     Elles servent de couleurs de secteur : la couleur cesse d'être un
+     ornement, elle dit quel domaine on regarde. */
+  --color-social: #2563eb;      /* Démographie */
+  --color-culture: #a855f7;     /* Éducation */
+  --color-env: #0f9f72;         /* Conditions de vie */
+  --color-eco: #e59a12;         /* Emploi */
+  --color-sante: #d6455c;       /* Santé — cinquième ton, même famille */
 
-  --color-teal: #12a594;
-  --color-teal-soft: #d7f2ee;
-  --color-coral: #f26d5b;
-  --color-coral-soft: #fde5e1;
-  --color-violet: #7a5cf0;
-  --color-violet-soft: #ece6fd;
+  /* Alias conservés pour les écrans déjà écrits */
+  --color-blue: #2563eb;
+  --color-blue-soft: #e8f0fe;
+  --color-teal: #0f9f72;
+  --color-teal-soft: #e4f6ee;
+  --color-coral: #d6455c;
+  --color-coral-soft: #fbe9ec;
+  --color-violet: #a855f7;
+  --color-violet-soft: #f4ecfe;
 
-  --color-bg: #eef2f7;
+  /* Surfaces */
+  --color-bg: #f4f6fa;          /* --paper */
   --color-surface: #ffffff;
-  --color-line: #e9edf3;
+  --color-line: #e8ecf3;        /* la bordure exacte des cartes du site */
+  --color-line-2: #edf0f5;      /* le filet au-dessus des mentions de source */
 
-  --color-t1: #0f1e33;
-  --color-t2: #6b7688;
-  --color-t3: #a3adbd;
+  /* Encres */
+  --color-t1: #14213d;          /* --ink */
+  --color-t2: #65728a;          /* --muted */
+  --color-t3: #7a8499;          /* mentions de source, légendes */
 
-  /* Police par défaut du projet */
-  --font-sans: "Inter", -apple-system, "Segoe UI", sans-serif;
+  --font-sans: "Manrope", -apple-system, "Segoe UI", sans-serif;
 }
 
-/* 3) Réglages de base appliqués à toute la page */
+/* 3) Réglages de base */
 body {
   margin: 0;
   font-family: var(--font-sans);
@@ -45,18 +65,110 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* 4) Animation « flottante » pour les halos décoratifs du hero.
-   La classe .animate-float applique ce mouvement lent de haut en bas. */
-@keyframes float {
-  0%,
-  100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-18px);
-  }
+/* Les titres du site sont serrés : à 48 px il porte -2,16 px d'interlettrage,
+   soit environ -0,045 em. Sans ce resserrement, la même police paraît lâche
+   et l'écran ne ressemble plus au site. */
+h1, h2, h3 {
+  letter-spacing: -0.035em;
 }
 
-.animate-float {
-  animation: float 10s ease-in-out infinite;
+/* 4) Ombres et animations reprises du site.
+   .card-orvsit reproduit l'anatomie exacte d'une carte d'indicateur :
+   bordure claire, grand rayon, ombre basse et large, et surtout la
+   translation de 4 px au survol — c'est elle qui donne au site sa vivacité. */
+.ombre-orvsit { box-shadow: 0 8px 28px rgba(0, 31, 95, 0.06); }
+.ombre-orvsit-f { box-shadow: 0 18px 55px rgba(0, 31, 95, 0.12); }
+
+.card-orvsit {
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid var(--color-line);
+  border-radius: 22px;
+  box-shadow: 0 8px 28px rgba(0, 31, 95, 0.06);
+  transition: transform 0.25s, box-shadow 0.25s;
 }
+.card-orvsit::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 5px;
+  background: var(--accent, var(--color-navy));
+}
+.card-orvsit.survolable:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 55px rgba(0, 31, 95, 0.12);
+}
+
+/* 5) Animation « flottante » des halos décoratifs du hero. */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-18px); }
+}
+.animate-float { animation: float 10s ease-in-out infinite; }
+
+/* 6) Apparition douce des cartes à l'ouverture d'un secteur.
+   Le décalage est porté par une variable inline, ce qui évite d'écrire
+   autant de règles que de cartes. */
+@keyframes monter {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.monter { animation: monter 0.35s ease-out both; animation-delay: var(--retard, 0s); }
+
+/* 7) Impression.
+   Le site officiel produit huit pages dont sept vides : sans règles dédiées,
+   les panneaux à hauteur fixe et les zones défilantes réservent leur place sur
+   le papier tout en n'y montrant rien. Trois familles de corrections suffisent.
+
+   .ecran-seul       — ce qui n'a de sens qu'à l'écran : navigation, catalogue,
+                       réglages, champs de recherche, boutons
+   .impression-seule — ce qui n'apparaît que sur le papier : l'image de la
+                       carte, la mention de provenance */
+.impression-seule { display: none; }
+
+@media print {
+  @page { size: A4 portrait; margin: 13mm; }
+
+  html, body { background: #fff !important; }
+
+  .ecran-seul,
+  header.sticky,
+  .leaflet-container { display: none !important; }
+
+  .impression-seule { display: block !important; }
+
+  /* a) Déplier ce qui défile. Une zone à hauteur bornée n'imprime que sa
+     première page et laisse le reste invisible. */
+  [class*="overflow-y-auto"], [class*="overflow-auto"], [class*="overflow-hidden"],
+  [class*="max-h-["], [class*="h-["], .defil-fin {
+    overflow: visible !important;
+    max-height: none !important;
+    height: auto !important;
+  }
+
+  /* b) Rendre la mise en page linéaire. Les colonnes de l'explorateur et les
+     positions absolues n'ont pas d'équivalent sur une feuille. */
+  [class*="grid-cols-"] { display: block !important; }
+  [class*="absolute"] { position: static !important; }
+
+  /* c) Ne jamais couper une carte d'indicateur en deux pages. */
+  article, section, table, tr { break-inside: avoid; page-break-inside: avoid; }
+  section { box-shadow: none !important; border-color: #d8dde6 !important; }
+
+  /* Les aplats de couleur des tags et des barres disparaissent sans cela :
+     les navigateurs suppriment les fonds à l'impression par défaut. */
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+  /* Le détail par secteur reprend deux colonnes : trois seraient illisibles
+     à cette largeur, une seule gâcherait la moitié de la feuille. */
+  .flux-impression { display: grid !important; grid-template-columns: 1fr 1fr; gap: 10px; }
+}
+
+/* 8) Barres de défilement discrètes dans les panneaux latéraux. */
+.defil-fin { scrollbar-width: thin; scrollbar-color: #cfd8e6 transparent; }
+.defil-fin::-webkit-scrollbar { width: 7px; height: 7px; }
+.defil-fin::-webkit-scrollbar-thumb { background: #cfd8e6; border-radius: 99px; }
+.defil-fin::-webkit-scrollbar-track { background: transparent; }

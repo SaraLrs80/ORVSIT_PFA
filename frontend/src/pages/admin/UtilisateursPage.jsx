@@ -11,8 +11,12 @@ import {
   supprimerUtilisateur,
 } from "../../api/admin";
 
+// Deux rôles seulement. Les libellés hérités (analyste, décideur, partenaire,
+// chercheur) restent listés pour que les comptes créés avant la migration
+// s'affichent lisiblement au lieu d'une valeur brute.
 const ROLE_LABEL = {
   administrateur: "Administrateur",
+  utilisateur: "Utilisateur",
   analyste: "Analyste ORVSIT",
   decideur: "Décideur régional",
   partenaire: "Partenaire institutionnel",
@@ -25,7 +29,9 @@ const STATUT_STYLE = {
   suspendu: "bg-red-50 text-red-600",
 };
 
-const ROLES = ["analyste", "decideur", "partenaire", "chercheur", "administrateur"];
+// Rôles attribuables. La même liste est contrôlée côté serveur : l'interface
+// ne fait que refléter la règle, elle ne la définit pas.
+const ROLES = ["utilisateur", "administrateur"];
 const STATUTS = ["actif", "inactif", "suspendu"];
 
 const champClasses =
@@ -75,7 +81,7 @@ export default function UtilisateursPage() {
   const [creation, setCreation] = useState(false);
   const [nomC, setNomC] = useState("");
   const [emailC, setEmailC] = useState("");
-  const [roleC, setRoleC] = useState("analyste");
+  const [roleC, setRoleC] = useState("utilisateur");
   const [orgC, setOrgC] = useState("");
   const [creEnCours, setCreEnCours] = useState(false);
   const [erreurC, setErreurC] = useState("");
@@ -143,7 +149,7 @@ export default function UtilisateursPage() {
   function ouvrirCreation() {
     setNomC("");
     setEmailC("");
-    setRoleC("analyste");
+    setRoleC("utilisateur");
     setOrgC("");
     setErreurC("");
     setCreation(true);

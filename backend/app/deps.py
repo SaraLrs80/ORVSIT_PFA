@@ -19,7 +19,6 @@ def get_current_user(
     user_id = payload.get("sub")
     if user_id is None:                        # jeton sans identité
         raise HTTPException(status.HTTP_401_UNAUTHORIZED, "Token invalide")
-
     utilisateur = db.query(Utilisateur).filter(
         Utilisateur.utilisateur_id == int(user_id)
     ).first()
@@ -27,7 +26,8 @@ def get_current_user(
         raise HTTPException(status.HTTP_401_UNAUTHORIZED, "type de Token invalide")
     if utilisateur is None:                    # utilisateur supprimé entre-temps
         raise HTTPException(status.HTTP_401_UNAUTHORIZED, "Utilisateur non trouvé")
-
+    if utilisateur.statut != "actif":
+        raise HTTPException(status.HTTP_403_FORBIDDEN, "Compte désactivé. Contactez l'administrateur.")
     return utilisateur
 
 

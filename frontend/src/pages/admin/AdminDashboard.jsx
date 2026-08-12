@@ -19,8 +19,10 @@ const STATUT_LABEL = {
   rejetee: "Rejetée",
 };
 
-// Libellé lisible du profil demandé
+// Libellé lisible du profil demandé. Les valeurs héritées sont conservées pour
+// que les demandes déposées avant la réduction à deux rôles restent lisibles.
 const PROFIL_LABEL = {
+  utilisateur: "Utilisateur",
   analyste: "Analyste ORVSIT",
   decideur: "Décideur régional",
   partenaire: "Partenaire institutionnel",

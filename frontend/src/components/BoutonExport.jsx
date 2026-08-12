@@ -7,6 +7,7 @@
 
 import { Download } from "lucide-react";
 import { telechargerCSV, nomDeFichier } from "../utils/export";
+import { signaler } from "../api/journal";
 
 /**
  * Props :
@@ -20,6 +21,7 @@ export default function BoutonExport({ nom, donnees, libelle = "Exporter", sombr
     const { colonnes, lignes, entete } = donnees() || {};
     if (!colonnes?.length || !lignes?.length) return;
     telechargerCSV(nomDeFichier(nom), colonnes, lignes, entete);
+    signaler("export", `csv · ${nom}`);   // après le succès seulement
   }
 
   const style = sombre

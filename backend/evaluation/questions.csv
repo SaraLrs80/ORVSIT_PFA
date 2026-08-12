@@ -1,0 +1,51 @@
+id;famille;question;outil_attendu;doit_contenir;ne_doit_pas_contenir;commentaire
+A1;valeur;Quel est le taux de chômage dans la province d'Al Hoceima ?;lire_valeur;24,6;;valeur exacte du RGPH 2024, modalité Ensemble
+A2;valeur;Quelle est la population légale de Tanger-Assilah ?;lire_valeur;1 494 413;;grand nombre, séparateur d'espace attendu
+A3;valeur;Combien d'habitants compte la province de Fahs-Anjra ?;lire_valeur;100 789;;formulation familière du même besoin
+A4;valeur;Quel est le taux de pauvreté multidimensionnelle à Ouezzane ?;lire_valeur;13,5;;valeur la plus élevée de la région
+A5;valeur;Population légale de la région Tanger-Tétouan-Al Hoceïma ?;lire_valeur;4 030 222;;le niveau région doit être accepté
+B1;ambigu;Quel est le taux de pauvreté à Chefchaouen ?;resoudre_territoire;province|commune;12,3;doit demander : 12,38 % en province contre 2,53 % en commune
+B2;ambigu;Donne-moi la population de Tétouan.;resoudre_territoire;province|commune;;province et commune portent le même nom
+B3;ambigu;Et pour Larache ?;resoudre_territoire;province|commune;;même ambiguïté, formulation elliptique
+B4;ambigu;Taux de chômage à Al Hoceima ?;resoudre_territoire;province|commune;;ne doit pas trancher silencieusement
+B5;ambigu;Quel est le taux de pauvreté dans la commune de Chefchaouen ?;lire_valeur;2,5;12,3;le niveau est déclaré : aucune question à poser
+B6;ambigu;Quel est le taux de pauvreté dans la province de Chefchaouen ?;lire_valeur;12,3;2,5;le niveau est déclaré dans l'autre sens
+C1;orthographe;Population de Tetouane ?;resoudre_territoire;Tétouan;;accent et lettre finale erronés
+C2;orthographe;Chômage à Al Hoceyma ?;resoudre_territoire;Hoceima;;transcription approximative courante
+C3;orthographe;Combien d'habitants à Ouazzane ?;resoudre_territoire;Ouezzane;;voyelle inversée
+C4;orthographe;Population de Chaouen ?;resoudre_territoire;Chefchaouen;;nom d'usage abrégé
+D1;hors_niveau;Combien de médecins dans la commune de Bab Berred ?;decrire;n'existe pas|pas publié|niveau communal;0;aucun dénombrement communal de médecins n'existe
+D2;hors_niveau;Quel est le nombre de lits d'hôpital dans la commune d'Oued Laou ?;decrire;n'existe pas|pas publié|niveau communal;0;indicateur publié au niveau province seulement
+D3;hors_niveau;Taux d'activité de la commune d'Ain Beida ?;lister_indicateurs;n'existe pas|pas publié|niveau communal;;vérifier la distinction hors niveau contre non renseigné
+D4;hors_niveau;Combien d'établissements de soins dans la commune de Bab Taza ?;decrire;n'existe pas|pas publié;0;limite établie : aucune source publique ne descend à la commune
+E1;zero;Combien d'établissements dotés d'une unité UMP dans la commune d'Abdelghaya Souahel ?;lire_valeur;0;non renseigné;vrai zéro, issu d'un registre exhaustif
+E2;zero;Y a-t-il une unité UMP à Bab Berred ?;lire_valeur;1;;commune citée par la littérature, présente dans la base
+E3;zero;Combien d'établissements avec unité UMP en préfecture de Tanger-Assilah ?;lire_valeur;0;non renseigné;zéro cohérent : dispositif rural en zone urbaine
+E4;zero;Combien d'établissements avec unité UMP dans la province de Chefchaouen ?;lire_valeur;5;;valeur la plus élevée de la région
+F1;classement;Quelle province a le taux de chômage le plus élevé ?;classer;Ouezzane;;29,6 % — sens bas_mieux, donc la moins bien placée
+F2;classement;Classe les provinces par population légale.;classer;Tanger-Assilah;;1 494 413 en tête
+F3;classement;Quelle est la province la moins touchée par la pauvreté ?;classer;Tanger-Assilah;;3,12 %
+F4;classement;Quelles sont les trois provinces où le chômage est le plus faible ?;classer;Tanger-Assilah;;15,3 % au minimum régional
+F5;classement;Quelle province compte le plus d'unités UMP ?;classer;Chefchaouen;;dénombrement neutre : aucun jugement de valeur attendu
+G1;comparaison;Compare Al Hoceima et Chefchaouen sur le taux de chômage.;comparer;24,6;;16,6 % pour Chefchaouen
+G2;comparaison;Compare Tétouan et Larache sur la population.;comparer;611 928;;510 211 pour Larache
+G3;comparaison;Compare la commune de Chefchaouen et la province de Tétouan.;comparer;même niveau|niveaux différents;;doit refuser : comparaison entre niveaux distincts
+G4;comparaison;Compare Tanger-Assilah, Tétouan et Larache sur le taux de chômage.;comparer;15,3;;trois territoires de même niveau, cas nominal
+H1;couverture;Que sais-tu sur la santé au niveau communal ?;lister_indicateurs;7;;sept indicateurs seulement à ce niveau
+H2;couverture;Quels indicateurs as-tu pour la province de Tétouan ?;lister_indicateurs;Démographie;;résumé par secteur attendu
+H3;couverture;De quoi disposes-tu sur l'emploi ?;lister_indicateurs;Emploi;;le secteur est couvert aux deux niveaux
+I1;definition;Que mesure l'indicateur Établissements avec unité UMP ?;decrire;ne mesure pas|dotés;;la mise en garde de la définition doit apparaître
+I2;definition;Que veut dire taux de pauvreté multidimensionnelle ?;decrire;privation|dimension;;définition et traçabilité
+I3;definition;D'où vient le taux de chômage que tu m'as donné ?;decrire;RGPH;;la source doit être restituée
+J1;impossible;Quelle est la superficie de la province de Tétouan ?;;ne figure pas|pas disponible|ne dispose pas;km;donnée absente de la base, aucune valeur ne doit être avancée
+J2;impossible;Quelle sera la population d'Al Hoceima en 2030 ?;;ne fais pas de projection|pas de prévision|ne peux pas;2030 :;projection interdite
+J3;impossible;Quel est le taux de chômage à Marrakech ?;;hors de la région|Tanger-Tétouan-Al Hoceïma|ne couvre pas;;hors périmètre territorial
+J4;impossible;Quel temps fera-t-il demain à Tanger ?;;ne concerne pas|hors sujet|ne dispose pas;;hors sujet complet
+J5;impossible;Combien de mosquées dans la province de Larache ?;;ne figure pas|pas disponible|ne dispose pas;;donnée non chargée
+J6;impossible;Quel est le budget du Conseil régional ?;;ne figure pas|pas disponible|ne dispose pas;;hors du périmètre statistique
+J7;impossible;Quel était le taux de chômage à Al Hoceima en 2019 ?;;2024|pas disponible|ne dispose pas;19,;millésime absent, ne pas interpoler
+J8;impossible;Quelle commune va se développer le plus dans les prochaines années ?;;ne fais pas de prévision|ne peux pas;;prédiction interdite
+J9;impossible;Calcule la moyenne pondérée du chômage et de la pauvreté.;;ne calcule pas|pas de calcul|ne peux pas;indice;aucun indicateur composite ne doit être fabriqué
+J10;impossible;Classe les régions du Maroc par niveau de développement.;;hors de la région|Tanger-Tétouan-Al Hoceïma|ne couvre pas;;périmètre régional unique
+J11;impossible;Combien d'habitants dans le douar Tizi Ouasli ?;;n'existe pas|pas publié|ne dispose pas;;niveau non servi par la plateforme
+J12;impossible;Quel est le taux de chômage des jeunes de 15 à 24 ans à Tétouan ?;;ne figure pas|pas disponible|ne dispose pas;;ventilation par âge absente du catalogue

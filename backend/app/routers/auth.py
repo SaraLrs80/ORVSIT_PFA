@@ -25,7 +25,8 @@ def login(request: LoginRequest, db: Session = Depends(get_db)):
     
     if not verify_password(request.mot_de_passe, utilisateur.mot_de_passe_hash):
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Email ou mot de passe incorrect")
-    
+    if utilisateur.statut != "actif":
+        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Compte désactivé. Contactez l'administrateur.")
     access_token = create_access_token(data={"sub": str(utilisateur.utilisateur_id), "role": utilisateur.role, "type": "access"})
     utilisateur.derniere_connexion = datetime.now(timezone.utc)
     journaliser(db, utilisateur.utilisateur_id, "connexion")   # ← trace la connexion
@@ -63,8 +64,10 @@ def reset_password(data: ResetPasswordRequest, db: Session = Depends(get_db)):
     - **nouveau_mot_de_passe**: Nouveau mot de passe choisi par l'utilisateur
     """
     payload = decode_access_token(data.token)
-    if payload.get("type") not in ("reset", "invitation"):
-        raise HTTPException(status.HTTP_400_BAD_REQUEST, "Lien invalide")
+    # decode_access_token renvoie None si le jeton est illisible OU expiré.
+    # Sans ce test, la ligne suivante plante et l'API répond 500 au lieu de 400.
+    if payload is None or payload.get("type") not in ("reset", "invitation"):
+        raise HTTPException(status.HTTP_400_BAD_REQUEST, "Lien invalide ou expiré")
     user_id = payload.get("sub")
     utilisateur = db.query(Utilisateur).filter(Utilisateur.utilisateur_id == int(user_id)).first()
     if not utilisateur:

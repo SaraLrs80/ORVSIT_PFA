@@ -37,3 +37,9 @@ rapport_construction.csv
 Thumbs.db
 .vscode/
 .idea/
+
+# ===== Travail intermédiaire (ajouté au nettoyage) =====
+data-pipeline/sauvegardes/
+data-pipeline/dim_indicateur_avant_*.csv
+data-pipeline/faits/_archive_sante/
+rapport/_travail/

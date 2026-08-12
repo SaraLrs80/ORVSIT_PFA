@@ -1,235 +1,234 @@
-// Vue d'ensemble régionale : synthèse des disparités de la région TTA.
-// KPIs + classement des territoires (par IDT ou par dimension) + zones prioritaires.
+// Page d'accueil : ce que la plateforme contient.
+//
+// POURQUOI PAS UNE CARTE D'IDENTITÉ RÉGIONALE
+// La monographie interactive publiée sur orvsit.crtta.ma présente déjà la
+// région — population, superficie, urbanisation, PIB, portrait territorial,
+// atouts structurants — et la Fiche territoriale couvre la lecture par
+// territoire. Une troisième présentation des mêmes chiffres n'aurait rien
+// appris à personne.
+//
+// Le diagnostic a confirmé qu'il fallait y renoncer : sur 234 indicateurs
+// publiés, 159 seulement portent une valeur régionale, et la Santé n'en
+// compte qu'un sur vingt-quatre. Une carte régionale aurait été bavarde en
+// démographie et muette en santé.
+//
+// Cette page dit ce que ni le site public ni les autres écrans ne disent :
+// l'état du catalogue. Combien d'indicateurs, dans quels secteurs, à quelles
+// échelles, de quels millésimes et de quelles sources. Rien n'est calculé :
+// on compte des lignes.
+//
+// La part d'indicateurs portant une définition rédigée n'y figure pas. C'est
+// une mesure de complétude interne, utile à qui tient le catalogue et sans
+// intérêt pour qui consulte : un écran d'accueil n'expose pas ce qui reste à
+// faire.
 
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { Users, Gauge, ArrowLeftRight, AlertTriangle } from "lucide-react";
-import { PieChart, Pie, Cell, ResponsiveContainer } from "recharts";
+import {
+  Layers, MapPin, CalendarDays, Landmark,
+  FileText, ArrowLeftRight, Compass, MessageSquare, ArrowRight,
+} from "lucide-react";
 import DashboardLayout from "../../components/DashboardLayout";
 import Reveal from "../../components/Reveal";
 import { getApercu } from "../../api/dashboard";
 
-// Métriques que l'on peut afficher dans le classement.
-const METRIQUES = [
-  { key: "idt", label: "Indice global (IDT)" },
-  { key: "score_education", label: "Éducation" },
-  { key: "score_conditions_vie", label: "Conditions de vie" },
-  { key: "score_sante", label: "Santé" },
-  { key: "score_emploi", label: "Emploi" },
-  { key: "score_numerique", label: "Numérique" },
-  { key: "score_accessibilite", label: "Accessibilité" },
+const nombre = (n) => Number(n).toLocaleString("fr-FR");
+
+// Les quatre écrans de consultation, dans l'ordre où on les découvre :
+// un territoire, puis deux, puis un thème, puis la question libre.
+const ENTREES = [
+  { to: "/dashboard/fiche", Icon: FileText, titre: "Fiche territoriale",
+    texte: "Tous les indicateurs d'une province ou d'une commune, carte comprise." },
+  { to: "/dashboard/comparer", Icon: ArrowLeftRight, titre: "Comparer",
+    texte: "Plusieurs territoires du même niveau, sur les mêmes indicateurs." },
+  { to: "/dashboard/explorer", Icon: Compass, titre: "Explorer",
+    texte: "Un secteur à la fois, sur l'ensemble de la région." },
+  { to: "/dashboard/assistant", Icon: MessageSquare, titre: "Assistant",
+    texte: "Poser la question en français ; la réponse cite sa source." },
 ];
-
-// Couleur de la barre selon le niveau (seuils de la maquette).
-function couleurBarre(v) {
-  if (v >= 60) return "bg-teal";
-  if (v >= 45) return "bg-gold";
-  return "bg-red-500";
-}
-
-const fmtNum = (n) => Number(n).toLocaleString("fr-FR");
-const fmtM = (n) => (n / 1_000_000).toFixed(2).replace(".", ",") + " M";
 
 export default function VueEnsemblePage() {
   const [data, setData] = useState(null);
   const [chargement, setChargement] = useState(true);
   const [erreur, setErreur] = useState("");
-  const [metrique, setMetrique] = useState("idt");
   const navigate = useNavigate();
 
   useEffect(() => {
     getApercu()
       .then(setData)
-      .catch(() => setErreur("Impossible de charger la vue d'ensemble."))
+      .catch(() => setErreur("Impossible de charger l'état du catalogue."))
       .finally(() => setChargement(false));
   }, []);
 
+  const cat = data?.catalogue;
+  const terr = data?.territoires;
+  // L'échelle des barres : le secteur le plus fourni occupe toute la largeur.
+  const maxSecteur = cat ? Math.max(...cat.secteurs.map((s) => s.total)) : 1;
+
   return (
-    <DashboardLayout title="Vue d'ensemble régionale" active="overview">
+    <DashboardLayout title="Vue d'ensemble" active="overview">
       {chargement ? (
         <p className="text-t2">Chargement…</p>
       ) : erreur ? (
-        <p className="text-red-600">{erreur}</p>
+        <p className="text-coral">{erreur}</p>
       ) : (
         <>
-          {/* En-tête */}
-          <div className="mb-6">
-            <h1 className="text-3xl font-extrabold text-navy">Vue d'ensemble régionale</h1>
-            <p className="text-t2 mt-1">
-              Synthèse des disparités territoriales de la région Tanger-Tétouan-Al Hoceïma
+          <div className="mb-7">
+            <h1 className="text-3xl font-extrabold text-navy">
+              Le catalogue de la plateforme
+            </h1>
+            <p className="text-t2 mt-1.5 max-w-3xl leading-relaxed">
+              Chaque écran de cette plateforme lit le même catalogue
+              d'indicateurs officiels. Voici son état : ce qu'il couvre, à
+              quelles échelles, et d'où viennent les chiffres.
             </p>
           </div>
 
-          {/* Cartes KPI */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
-            <KpiCard i={0} Icon={Users} boite="bg-gold-soft text-gold-2"
-              valeur={fmtM(data.population_regionale)} label="Population régionale" />
-            <KpiCard i={1} Icon={Gauge} boite="bg-blue-soft text-blue"
-              valeur={`${data.idt_moyen} /100`} label="IDT moyen région" />
-            <KpiCard i={2} Icon={ArrowLeftRight} boite="bg-coral-soft text-coral"
-              valeur={`${data.ecart_max} pts`} label="Écart territorial max." />
-            <KpiCard i={3} Icon={AlertTriangle} boite="bg-red-50 text-red-600"
-              valeur={data.nb_zones_prioritaires} label="Zones prioritaires" />
+          {/* Quatre décomptes, pas quatre indices. */}
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-7">
+            <Chiffre i={0} Icon={Layers} boite="bg-blue-soft text-blue"
+              valeur={nombre(cat.total)} label="indicateurs servis"
+              note={`${cat.secteurs.length} secteurs`} />
+            <Chiffre i={1} Icon={MapPin} boite="bg-gold-soft text-gold"
+              valeur={nombre(terr.provinces + terr.communes)} label="territoires servis"
+              note={`${terr.provinces} préfectures et provinces · ${terr.communes} communes`} />
+            <Chiffre i={2} Icon={CalendarDays} boite="bg-teal-soft text-teal"
+              valeur={data.millesimes[0]?.annee ?? "—"} label="millésime principal"
+              note={`${nombre(data.millesimes[0]?.n ?? 0)} indicateurs sur ${nombre(cat.total)}`} />
+            <Chiffre i={3} Icon={Landmark} boite="bg-coral-soft text-coral"
+              valeur={data.sources.length} label="organismes producteurs"
+              note="aucune donnée sans source" />
           </div>
 
           <div className="grid lg:grid-cols-3 gap-6">
-            {/* Colonne de gauche : classement + principales disparités */}
-            <div className="lg:col-span-2 space-y-6">
-            {/* Classement des territoires */}
-            <div className="bg-surface border border-line rounded-2xl p-5">
-              <div className="flex items-center justify-between mb-5">
-                <h2 className="font-bold text-navy">Classement des territoires</h2>
-                <select
-                  value={metrique}
-                  onChange={(e) => setMetrique(e.target.value)}
-                  className="text-sm border border-line rounded-xl px-3 py-2 bg-bg text-navy font-semibold focus:outline-none focus:border-blue"
-                >
-                  {METRIQUES.map((m) => (
-                    <option key={m.key} value={m.key}>{m.label}</option>
-                  ))}
-                </select>
-              </div>
-
-              <p className="text-xs text-t3 mb-3">
-                Score = position relative dans la région (100 = le plus fort des 8, 0 = le plus faible).
-                Cliquez sur un territoire pour voir le détail dans sa fiche.
+            {/* La couverture, secteur par secteur */}
+            <div className="lg:col-span-2 card-orvsit p-5">
+              <h2 className="font-bold text-navy">Couverture par secteur</h2>
+              <p className="text-xs text-t3 mt-1 mb-5">
+                Un indicateur peut être publié à l'échelle provinciale, communale,
+                ou aux deux. Les colonnes ne s'additionnent donc pas.
               </p>
-              <div className="space-y-1">
-                {[...data.classement]
-                  .sort((a, b) => b[metrique] - a[metrique])
-                  .map((t, i) => (
-                    <button
-                      key={t.territoire_id}
-                      onClick={() => navigate(`/dashboard/fiche/${t.territoire_id}`)}
-                      className="w-full flex items-center gap-3 rounded-xl px-2 py-2 -mx-2 hover:bg-bg transition-colors text-left cursor-pointer"
-                    >
-                      <div className="w-6 h-6 rounded-full bg-bg text-t2 text-xs font-bold flex items-center justify-center shrink-0">
-                        {i + 1}
-                      </div>
-                      <div className="w-36 shrink-0 font-semibold text-navy text-sm truncate">
-                        {t.nom}
-                      </div>
-                      <div className="flex-1 h-2.5 rounded-full bg-bg overflow-hidden">
-                        <div
-                          className={`h-full rounded-full ${couleurBarre(t[metrique])}`}
-                          style={{ width: `${t[metrique]}%` }}
-                        />
-                      </div>
-                      <div className="w-10 text-right font-bold text-navy text-sm">
-                        {t[metrique]}
-                      </div>
-                    </button>
-                  ))}
+
+              <div className="grid grid-cols-[1fr_auto] gap-x-4 text-[11px] font-bold
+                              text-t3 uppercase tracking-wide mb-2">
+                <span>Secteur</span>
+                <span className="tabular-nums">Total · Prov. · Comm.</span>
               </div>
 
-              {/* Légende des seuils */}
-              <div className="flex gap-4 mt-5 text-xs text-t2">
-                <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded-full bg-teal" /> Élevé (≥ 60)</span>
-                <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded-full bg-gold" /> Moyen (45-59)</span>
-                <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded-full bg-red-500" /> Faible (&lt; 45)</span>
-              </div>
-            </div>
-
-            {/* Principales disparités */}
-            <div className="bg-surface border border-line rounded-2xl p-5">
-              <h2 className="font-bold text-navy mb-1">Principales disparités</h2>
-              <p className="text-xs text-t3 mb-4">écarts clés entre territoires</p>
-              <div className="space-y-3">
-                {data.disparites.map((d) => (
-                  <div
-                    key={d.indicateur}
-                    className="flex items-center justify-between gap-3 border-b border-line last:border-0 pb-3 last:pb-0"
-                  >
-                    <div className="min-w-0">
-                      <div className="font-semibold text-navy text-sm">{d.indicateur}</div>
-                      <div className="text-xs text-t3 truncate">
-                        {d.max_nom} {d.max_val}
-                        {d.unite} · {d.min_nom} {d.min_val}
-                        {d.unite}
-                      </div>
+              <div className="space-y-3.5">
+                {cat.secteurs.map((s) => (
+                  <div key={s.secteur}>
+                    <div className="flex items-baseline justify-between gap-3">
+                      <span className="font-semibold text-navy text-sm">
+                        {s.secteur}
+                      </span>
+                      <span className="text-sm text-t2 tabular-nums shrink-0">
+                        <b className="text-navy">{s.total}</b>
+                        <span className="text-t3"> · </span>{s.province}
+                        <span className="text-t3"> · </span>{s.commune}
+                      </span>
                     </div>
-                    <div className="text-coral font-bold text-sm shrink-0">
-                      {d.ecart}
-                      {d.unite === "%" ? " pts" : ""}
+                    {/* La barre entière = le total servi ; la part foncée =
+                        ce qui descend jusqu'à la commune. */}
+                    <div className="mt-1.5 h-2 rounded-full bg-bg overflow-hidden">
+                      <div className="h-full rounded-full bg-blue-soft"
+                           style={{ width: `${(s.total / maxSecteur) * 100}%` }}>
+                        <div className="h-full rounded-full bg-navy"
+                             style={{ width: `${(s.commune / s.total) * 100}%` }} />
+                      </div>
                     </div>
                   </div>
                 ))}
               </div>
-            </div>
+
+              <div className="flex flex-wrap gap-4 mt-5 text-xs text-t2">
+                <span className="flex items-center gap-1.5">
+                  <span className="w-3 h-3 rounded-full bg-navy" /> disponible au niveau communal
+                </span>
+                <span className="flex items-center gap-1.5">
+                  <span className="w-3 h-3 rounded-full bg-blue-soft" /> niveau provincial seulement
+                </span>
+              </div>
             </div>
 
-            {/* Colonne de droite : répartition urbain/rural + zones prioritaires */}
+            {/* Millésimes et sources */}
             <div className="flex flex-col gap-6">
-            {/* Donut urbain / rural */}
-            <div className="bg-surface border border-line rounded-2xl p-5">
-              <h2 className="font-bold text-navy mb-1">Répartition urbain / rural</h2>
-              <p className="text-xs text-t3 mb-2">population régionale</p>
-              <ResponsiveContainer width="100%" height={180}>
-                <PieChart>
-                  <Pie
-                    data={[
-                      { name: "Urbain", value: data.urbain_rural.urbain },
-                      { name: "Rural", value: data.urbain_rural.rural },
-                    ]}
-                    dataKey="value"
-                    innerRadius={48}
-                    outerRadius={72}
-                    paddingAngle={2}
-                    startAngle={90}
-                    endAngle={-270}
-                  >
-                    <Cell fill="#0a2540" />
-                    <Cell fill="#f5a623" />
-                  </Pie>
-                </PieChart>
-              </ResponsiveContainer>
-              <div className="flex justify-around text-center">
-                <div>
-                  <div className="flex items-center gap-1.5 text-xs text-t2">
-                    <span className="w-2.5 h-2.5 rounded-full bg-navy" /> Urbain
-                  </div>
-                  <div className="text-lg font-extrabold text-navy">{data.urbain_rural.urbain} %</div>
-                </div>
-                <div>
-                  <div className="flex items-center gap-1.5 text-xs text-t2">
-                    <span className="w-2.5 h-2.5 rounded-full bg-gold" /> Rural
-                  </div>
-                  <div className="text-lg font-extrabold text-navy">{data.urbain_rural.rural} %</div>
-                </div>
-              </div>
-            </div>
-
-            {/* Zones prioritaires */}
-            <div className="bg-surface border border-line rounded-2xl p-5 flex-1">
-              <div className="flex items-center gap-2 mb-4">
-                <AlertTriangle size={18} className="text-red-600" />
-                <h2 className="font-bold text-navy">Zones prioritaires</h2>
-              </div>
-              <p className="text-sm text-t2 mb-4">
-                Territoires dont l'IDT est faible (&lt; 45) — à cibler en priorité.
-              </p>
-              {data.zones_prioritaires.length === 0 ? (
-                <p className="text-sm text-t2">Aucune zone sous le seuil.</p>
-              ) : (
+              <div className="card-orvsit p-5">
+                <h2 className="font-bold text-navy">Millésimes</h2>
+                <p className="text-xs text-t3 mt-1 mb-4">
+                  Un millésime peut couvrir une période — évolution intercensitaire
+                  ou année scolaire.
+                </p>
                 <div className="space-y-2">
-                  {data.zones_prioritaires.map((nom) => {
-                    const t = data.classement.find((x) => x.nom === nom);
-                    return (
-                      <div key={nom} className="flex items-center justify-between rounded-xl bg-red-50 border border-red-100 px-4 py-2.5">
-                        <span className="font-semibold text-navy text-sm">{nom}</span>
-                        <span className="text-red-600 font-bold text-sm">{t?.idt}</span>
+                  {data.millesimes.map((m) => (
+                    <div key={m.annee} className="flex items-center gap-3">
+                      <span className="w-24 shrink-0 font-semibold text-navy text-sm
+                                       tabular-nums">
+                        {m.annee}
+                      </span>
+                      <div className="flex-1 h-2 rounded-full bg-bg overflow-hidden">
+                        <div className="h-full rounded-full bg-gold"
+                             style={{ width: `${(m.n / cat.total) * 100}%` }} />
                       </div>
-                    );
-                  })}
+                      <span className="w-8 text-right text-sm text-t2 tabular-nums">
+                        {m.n}
+                      </span>
+                    </div>
+                  ))}
                 </div>
-              )}
-            </div>
+              </div>
+
+              <div className="card-orvsit p-5 flex-1">
+                <h2 className="font-bold text-navy">Sources</h2>
+                <p className="text-xs text-t3 mt-1 mb-4">
+                  Organisme producteur, tel qu'il est cité sur chaque indicateur.
+                </p>
+                <div className="space-y-2.5">
+                  {data.sources.map((s) => (
+                    <div key={s.organisme}
+                         className="flex items-baseline justify-between gap-3">
+                      <span className="text-sm text-t2 leading-snug">{s.organisme}</span>
+                      <span className="text-sm font-bold text-navy tabular-nums shrink-0">
+                        {s.n}
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              </div>
             </div>
           </div>
 
-          <p className="text-xs text-t3 mt-6">
-            Données réelles (RGPH 2024, Ministère de la Santé) — IDT calculé sur 6 dimensions :
-            éducation, conditions de vie, santé, emploi, numérique, accessibilité.
+          {/* Par où commencer */}
+          <h2 className="font-bold text-navy mt-8 mb-3">Par où commencer</h2>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {ENTREES.map(({ to, Icon, titre, texte }, i) => (
+              <Reveal key={to} delay={i * 80} className="h-full">
+                <button
+                  onClick={() => navigate(to)}
+                  className="group h-full w-full text-left card-orvsit survolable p-5
+                             cursor-pointer">
+                  <span className="w-11 h-11 rounded-xl bg-navy text-white
+                                   flex items-center justify-center mb-3">
+                    <Icon size={20} />
+                  </span>
+                  <div className="flex items-center gap-1.5 font-bold text-navy">
+                    {titre}
+                    <ArrowRight size={15}
+                      className="opacity-0 -translate-x-1 transition-all
+                                 group-hover:opacity-100 group-hover:translate-x-0" />
+                  </div>
+                  <p className="text-xs text-t2 mt-1.5 leading-relaxed">{texte}</p>
+                </button>
+              </Reveal>
+            ))}
+          </div>
+
+          <p className="text-xs text-t3 mt-7 leading-relaxed max-w-3xl">
+            Ces nombres sont des décomptes du catalogue, vérifiables ligne à ligne
+            dans <code className="text-t2">referential.dim_indicateur</code>. Aucune
+            valeur n'y est agrégée ni recalculée. Pour le portrait de la région
+            elle-même — superficie, PIB, atouts structurants — se reporter à la
+            monographie interactive de l'ORVSIT.
           </p>
         </>
       )}
@@ -237,16 +236,16 @@ export default function VueEnsemblePage() {
   );
 }
 
-// Petite carte KPI (avec animation d'apparition)
-function KpiCard({ i, Icon, boite, valeur, label }) {
+function Chiffre({ i, Icon, boite, valeur, label, note }) {
   return (
     <Reveal delay={i * 90} className="h-full">
-      <div className="h-full bg-surface border border-line rounded-2xl p-5 shadow-[0_6px_22px_rgba(16,37,66,0.06)] hover:shadow-[0_12px_34px_rgba(16,37,66,0.12)] hover:-translate-y-1 transition-all duration-300">
+      <div className="h-full card-orvsit p-5">
         <div className={`w-11 h-11 rounded-xl flex items-center justify-center mb-3 ${boite}`}>
-          <Icon size={22} />
+          <Icon size={21} />
         </div>
-        <div className="text-2xl font-extrabold text-navy">{valeur}</div>
+        <div className="text-2xl font-extrabold text-navy tabular-nums">{valeur}</div>
         <div className="text-xs text-t2 mt-1">{label}</div>
+        {note && <div className="text-[11px] text-t3 mt-1.5 leading-snug">{note}</div>}
       </div>
     </Reveal>
   );

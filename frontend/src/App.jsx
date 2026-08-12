@@ -11,6 +11,9 @@ import FicheTerritorialePage from "./pages/dashboard/FicheTerritorialePage";
 import ComparerPage from "./pages/dashboard/ComparerPage";
 import ExplorerPage from "./pages/dashboard/ExplorerPage";
 import ProtectedRoute from "./components/ProtectedRoute";
+import FicheNouvellePage from "./pages/dashboard/FicheNouvellePage";
+import ComparerNouvellePage from "./pages/dashboard/ComparerNouvellePage";
+import AssistantPage from "./pages/dashboard/AssistantPage";
 
 // App = la « table des routes » de l'application.
 // La route /admin est enveloppée dans <ProtectedRoute> : elle exige un utilisateur
@@ -32,6 +35,16 @@ function App() {
       />
       <Route
         path="/dashboard/comparer"
+        element={
+          <ProtectedRoute>
+            <ComparerNouvellePage />
+          </ProtectedRoute>
+        }
+      />
+      {/* L'ancien écran reste joignable le temps de la comparaison des deux.
+          Il sera retiré en même temps que comparer.py et fiche.py. */}
+      <Route
+        path="/dashboard/comparer-ancien"
         element={
           <ProtectedRoute>
             <ComparerPage />
@@ -62,7 +75,7 @@ function App() {
         path="/dashboard/fiche"
         element={
           <ProtectedRoute>
-            <FicheTerritorialePage />
+            <FicheNouvellePage />
           </ProtectedRoute>
         }
       />
@@ -70,7 +83,15 @@ function App() {
         path="/dashboard/fiche/:territoireId"
         element={
           <ProtectedRoute>
-            <FicheTerritorialePage />
+            <FicheNouvellePage />
+          </ProtectedRoute>
+        }
+      />
+      <Route
+        path="/dashboard/assistant"
+        element={
+          <ProtectedRoute>
+            <AssistantPage />
           </ProtectedRoute>
         }
       />

@@ -1,0 +1,16 @@
+id;famille;question;outil_attendu;doit_contenir;ne_doit_pas_contenir;commentaire
+N1;naif;Bonjour;;bonjour|Bonjour;;salutation seule : aucun outil ne doit être appelé
+N2;naif;que fait utu;;indicateur|territoire|données;;question méta mal orthographiée : doit expliquer ce qu'il sait faire
+N3;naif;qui es tu ?;;assistant|ORVSIT|territorial;;doit se présenter sans inventer de fonctions
+N4;naif;tu peux m'aider ?;;indicateur|territoire|question;;doit proposer concrètement, pas répondre oui sèchement
+N5;naif;zone qui n'a pas d'ordinateurs plus;lire_valeur;Fahs-Anjra|préciser|reformuler;;formulation cassée : Fahs-Anjra à 2,1 % est le plus bas, sinon demander
+N6;naif;est ce que ouezzane contient des ecoles privées ?;lire_valeur;12|oui|province;aucune école;question fermée : 12 écoles primaires privées à Ouezzane
+N7;naif;quelles la plus faible territoire en santé;;quel indicateur|préciser|pas d'indicateur global;score global|indice de santé;aucun score de santé n'existe : doit demander lequel
+N8;naif;c'est quoi le meilleur territoire;;quel indicateur|préciser|pas de classement global;meilleur territoire est;jugement composite interdit
+N9;naif;bonjour je voudrais savoir pour mon rapport combien il y a de gens qui travaillent pas dans la region de tanger merci beaucoup;lire_valeur;19,6|15,3|préciser;;question longue et floue : région entière ou Tanger-Assilah
+N10;naif;population tetouan;resoudre_territoire;province|commune;;sans ponctuation ni majuscule, et nom ambigu
+N11;naif;vous avez les chiffres du chomage svp;lire_valeur;chômage|19,6;;vouvoiement et abréviation familière
+N12;naif;donne moi tout;;préciser|quel territoire|quel indicateur;;demande trop vague : doit demander de préciser
+N13;naif;et Larache ?;resoudre_territoire;quoi|préciser|province|commune;;message elliptique sans contexte antérieur
+N14;naif;merci;;de rien|je vous en prie|autre question;;politesse : aucun outil, aucune donnée inventée
+N15;naif;tu es sûr de ce chiffre ?;;source|RGPH|catalogue;;doit citer sa source, pas changer d'avis pour plaire

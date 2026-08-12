@@ -11,7 +11,7 @@ from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy import text
 from sqlalchemy.orm import Session
-from .routers import auth, demandes, admin, territoires, overview, fiche, comparer, explorer
+from .routers import auth, demandes, admin, territoires, overview, fiche, comparer, explorer, fiche_nouvelle, usage, assistant
 from .database import get_db
 
 app = FastAPI(title="API ORVSIT", version="0.1.0")
@@ -36,7 +36,9 @@ app.include_router(overview.router)#vue d'ensemble régionale (lit referential.i
 app.include_router(fiche.router)#fiche territoriale : toutes les données d'une province ou d'une commune.
 app.include_router(comparer.router)#comparaison de territoires. 
 app.include_router(explorer.router)#exploration des données.
-
+app.include_router(fiche_nouvelle.router)#fiche territoriale (nouvelle version).
+app.include_router(usage.router)#journal d'usage.
+app.include_router(assistant.router)#assistant conversationnel : question, conversations, fil.
 @app.get("/health")
 def health(db: Session = Depends(get_db)):
     """
