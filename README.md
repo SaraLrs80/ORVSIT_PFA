@@ -157,7 +157,7 @@ PROJET_PFA/
 ├── frontend/            interface React et Vite
 │   └── src/pages/       vue d'ensemble, fiche, comparer, explorer, assistant
 │
-└── rapport/             scripts de production du rapport de stage
+
 ```
 
 ---
